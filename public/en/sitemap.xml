@@ -14,7 +14,7 @@
   
   <url>
     <loc>/en/</loc>
-    <lastmod>2020-12-03T10:33:41+09:00</lastmod>
+    <lastmod>2020-12-03T09:29:25-08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
@@ -25,6 +25,36 @@
                 hreflang="en"
                 href="/en/"
                 />
+  </url>
+  
+  <url>
+    <loc>/en/posts/test-2020-12-03-nuevopost/</loc>
+    <lastmod>2020-12-03T09:29:25-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/posts/</loc>
+    <lastmod>2020-12-03T09:29:25-08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="/ko/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/posts/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/post/2020-12-03-nuevo/</loc>
+    <lastmod>2020-12-03T00:18:42-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/post/</loc>
+    <lastmod>2020-12-03T00:18:42-08:00</lastmod>
   </url>
   
   <url>
@@ -50,21 +80,6 @@
   <url>
     <loc>/en/categories/hugo/</loc>
     <lastmod>2020-12-03T10:33:41+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/en/posts/</loc>
-    <lastmod>2020-12-03T10:33:41+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="/ko/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/posts/"
-                />
   </url>
   
   <url>
