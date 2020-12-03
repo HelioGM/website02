@@ -43,14 +43,7 @@ library(knitr)
 library(doBy)
 library(agricolae)
 
-## added in 30/11/2020:
-#activate the necessary libraries
-library(RWordPress)
-library(knitr)
-library(XMLRPC)
-library(RCurl)
 
-library(RWordPress)
 
 
 options(scipen=999, digits = 0)

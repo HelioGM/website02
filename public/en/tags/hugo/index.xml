@@ -14,13 +14,49 @@
     <managingEditor>helio4gm@gmail.com (Helio)</managingEditor>
     <webMaster>helio4gm@gmail.com (Helio)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Wed, 02 Dec 2020 10:33:41 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 03 Dec 2020 10:33:41 +0900</lastBuildDate>
     
         <atom:link href="/en/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     
     
     
 
+      
+      <item>
+        <title>R Syntax highlighting cap 02</title>
+        <link>/en/posts/test-r-syntax-highligt-cap-02/</link>
+        <pubDate>Thu, 03 Dec 2020 10:33:41 +0900</pubDate>
+        <author>helio4gm@gmail.com (Helio)</author>
+        <atom:modified>Thu, 03 Dec 2020 10:33:41 +0900</atom:modified>
+        <guid>/en/posts/test-r-syntax-highligt-cap-02/</guid>
+        <description>Code Syntax Highlighting Verify the following code blocks render as code blocks and highlight properly.
+More about tuning syntax highlighting is the Hugo documentation.
+R 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19  library(readr) library(mosaic) library(FSA) library(&amp;#34;ggplot2&amp;#34;) library(readxl) library(knitr) library(doBy) library(agricolae) options(scipen=999, digits = 0) mydata &amp;lt;- read_excel(&amp;#34;./data/2016-Solanum-01-11_Isolates(Germplasms).xlsx&amp;#34;) ## getwd() ## Load all the libraries needed and the data   </description>
+        
+        <dc:creator>Helio</dc:creator>
+        <media:content url="/images/feature2/color-palette.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>hugo</category>
+            
+          
+        
+        
+          
+            
+              <category>hugo</category>
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
       
       <item>
         <title>R Syntax highlighting</title>

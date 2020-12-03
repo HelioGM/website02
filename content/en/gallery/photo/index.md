@@ -10,9 +10,9 @@ images:
     caption: beach, women, car
   - image: beautiful.jpg
     caption: beautiful women
-  - image: people.jpg
+  - image: Eh0I2txXgAA2zg3.jpg
     caption: man
-  - image: child.jpg
+  - image: 1593837138308.jpg
     caption: child
 image: images/feature2/gallery.png
 ---

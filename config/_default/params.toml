@@ -58,11 +58,11 @@ typeIcon = "🎯"
 # whoami
 myname = "Helio"
 email = "helio4gm@gmail.com"
-whoami = "Ph.D"
+whoami = "Ph.D."
 bioImageUrl = ""
 useGravatar = false
 location = "Sonora, Mexico"
-organization = "No affiliation"
+organization = "Not affiliated"
 link = "https://helio4gm.wordpress.com/"
 
 # sidebar
@@ -167,7 +167,7 @@ commento = false
   google-plus = ""
   youtube = "https://www.youtube.com/user/reeii"
   medium = ""
-  tumblr = "https://www.tumblr.com/blog/helio420"
+  tumblr = ""
   linkedin = "https://www.linkedin.com/in/heliogm/"
   pinterest = ""
   stack-exchange = ""
