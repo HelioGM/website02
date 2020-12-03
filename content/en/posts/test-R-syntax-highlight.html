@@ -1,0 +1,176 @@
+---
+title: "R Syntax highlighting"
+date: 2020-12-02T10:33:41+09:00
+description: "R Syntax highlighting test"
+draft: false
+hideToc: false
+enableToc: true
+enableTocContent: false
+author: Helio
+authorEmoji: 🎅
+pinned: true
+tags:
+- hugo
+series:
+-
+categories:
+- hugo
+image: images/feature2/color-palette02.png
+---
+
+
+
+<div id="r-markdown" class="section level2">
+<h2>R Markdown</h2>
+<p>This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <a href="http://rmarkdown.rstudio.com" class="uri">http://rmarkdown.rstudio.com</a>.</p>
+<p>When you click the <strong>Knit</strong> button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:</p>
+<pre class="r"><code>####Eggs PER PLANT ####
+
+Sub.Eggs &lt;- subset(mydata,
+                   select=c(Nger, 
+                            Isolate, 
+                            EggsP) ) 
+##Create a subset of the desire variable</code></pre>
+<hr />
+</div>
+<div id="eggs-per-plant-miad" class="section level2">
+<h2>Eggs per plant: MIAd</h2>
+<pre class="r"><code>####Isolate: MIAd####
+
+Sub.Eggs.MIAd &lt;- subset(Sub.Eggs, Isolate == &quot;MIAd&quot;, select=c(Nger, EggsP)) 
+Sub.Eggs.MIAd$Nger = factor (Sub.Eggs.MIAd$Nger, labels=c(&quot;EC&quot;, &quot;TB&quot;, &quot;TE&quot;, &quot;TS&quot;, &quot;TT&quot;)) 
+
+###Descriptive statistics calculation###
+Sub.Eggs.MIAd.EC &lt;- subset(Sub.Eggs.MIAd, Nger == &quot;EC&quot;, select=c(Nger,EggsP))
+Me.EP.MIAd.EC &lt;- mean(Sub.Eggs.MIAd.EC$EggsP, na.mr=FALSE)
+Me.EP.MIAd.EC &lt;- round(Me.EP.MIAd.EC, digits=2)
+Se.EP.MIAd.EC &lt;- se(Sub.Eggs.MIAd.EC$EggsP)
+Se.EP.MIAd.EC &lt;- round(Se.EP.MIAd.EC, digits=2)
+
+Sub.Eggs.MIAd.SB &lt;- subset(Sub.Eggs.MIAd, Nger == &quot;TB&quot;, select=c(Nger,EggsP))
+Me.EP.MIAd.TB &lt;- mean(Sub.Eggs.MIAd.SB$EggsP, na.mr=FALSE)
+Me.EP.MIAd.TB &lt;- round(Me.EP.MIAd.TB, digits=2)
+Se.EP.MIAd.TB &lt;- se(Sub.Eggs.MIAd.SB$EggsP)
+Se.EP.MIAd.TB &lt;- round(Se.EP.MIAd.TB, digits=2)
+
+Sub.Eggs.MIAd.SB &lt;- subset(Sub.Eggs.MIAd, Nger == &quot;TE&quot;, select=c(Nger,EggsP))
+Me.EP.MIAd.TE &lt;- mean(Sub.Eggs.MIAd.SB$EggsP, na.mr=FALSE)
+Me.EP.MIAd.TE &lt;- round(Me.EP.MIAd.TE, digits=2)
+Se.EP.MIAd.TE &lt;- se(Sub.Eggs.MIAd.SB$EggsP)
+Se.EP.MIAd.TE &lt;- round(Se.EP.MIAd.TE, digits=2)
+
+Sub.Eggs.MIAd.SB &lt;- subset(Sub.Eggs.MIAd, Nger == &quot;TS&quot;, select=c(Nger,EggsP))
+Me.EP.MIAd.TS &lt;- mean(Sub.Eggs.MIAd.SB$EggsP, na.mr=FALSE)
+Me.EP.MIAd.TS &lt;- round(Me.EP.MIAd.TS, digits=2)
+Se.EP.MIAd.TS &lt;- se(Sub.Eggs.MIAd.SB$EggsP)
+Se.EP.MIAd.TS &lt;- round(Se.EP.MIAd.TS, digits=2)
+
+Sub.Eggs.MIAd.SB &lt;- subset(Sub.Eggs.MIAd, Nger == &quot;TT&quot;, select=c(Nger,EggsP))
+Me.EP.MIAd.TT &lt;- mean(Sub.Eggs.MIAd.SB$EggsP, na.mr=FALSE)
+Me.EP.MIAd.TT &lt;- round(Me.EP.MIAd.TT, digits=2)
+Se.EP.MIAd.TT &lt;- se(Sub.Eggs.MIAd.SB$EggsP)
+Se.EP.MIAd.TT &lt;- round(Se.EP.MIAd.TT, digits=2)
+
+####Kruskall-Wallis test calculation####
+KTMIAd = kruskal.test(Sub.Eggs.MIAd$EggsP ~ Sub.Eggs.MIAd$Nger)
+
+####Dunn test calculation####
+DTMIAd = dunnTest(Sub.Eggs.MIAd$EggsP ~ Sub.Eggs.MIAd$Nger, method=&quot;bonferroni&quot;)
+
+DTMIAd.Comparison &lt;- DTMIAd$res$Comparison
+DTMIAd.Padj &lt;- round (DTMIAd$res$P.adj, digits=5)
+KrusData = data.frame(DTMIAd.Comparison, DTMIAd.Padj)
+RND = nrow(DTMIAd$res)
+  
+  
+
+  krustable=kable(KrusData[1:RND,])</code></pre>
+</div>
+<div id="descriptive-statistics" class="section level2">
+<h2>Descriptive statistics</h2>
+<table>
+<thead>
+<tr class="header">
+<th>Germplasm</th>
+<th>Mean ± SE</th>
+<th>Dif</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>EC:</td>
+<td>31517 ± 7491</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>TB:</td>
+<td>65 ± 25</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>TE:</td>
+<td>360 ± 106</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>TS:</td>
+<td>1328 ± 538</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>TT:</td>
+<td>220 ± 45</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="non-parametic-test" class="section level2">
+<h2>Non parametic test</h2>
+<p><strong>Dunn (1964) Kruskal-Wallis multiple comparison p-values adjusted with the Bonferroni method</strong>:</p>
+<pre class="r"><code>if (KTMIAd$p.value&gt;0.05) {
+dif=&quot;There is no significative differences (P&lt;0.05) between treatments (P&lt;0.05)&quot;
+krustable=&quot;0&quot;
+} else {
+dif=&quot;There is significative differences between treatments (P&lt;0.05).&quot;
+krustable=kable(KrusData[1:RND,])
+}</code></pre>
+<p>There is significative differences between treatments (P&lt;0.05).</p>
+<hr />
+</div>
+<div id="including-plots" class="section level2">
+<h2>Including Plots</h2>
+<p>You can also embed plots, for example:</p>
+<p><img src="/en/posts/test-R-syntax-highlight_files/figure-html/pressure-1.png" width="672" /></p>
+<p>Note that the <code>echo = FALSE</code> parameter was added to the code chunk to prevent printing of the R code that generated the plot.</p>
+<div id="dunn-1964-kruskal-wallis-multiple-comparison-p-values-adjusted-with-the-bonferroni-method." class="section level3">
+<h3>Dunn (1964) Kruskal-Wallis multiple comparison p-values adjusted with the Bonferroni method.</h3>
+<pre class="r"><code>DTMIAd$dtres</code></pre>
+<pre><code>##  [1] &quot;  Kruskal-Wallis rank sum test&quot;                                                 
+##  [2] &quot;&quot;                                                                               
+##  [3] &quot;data: x and g&quot;                                                                  
+##  [4] &quot;Kruskal-Wallis chi-squared = 29.3877, df = 4, p-value = 0&quot;                      
+##  [5] &quot;&quot;                                                                               
+##  [6] &quot;&quot;                                                                               
+##  [7] &quot;                             Comparison of x by g                              &quot;
+##  [8] &quot;                                 (Bonferroni)                                  &quot;
+##  [9] &quot;Col Mean-|&quot;                                                                     
+## [10] &quot;Row Mean |         EC         TB         TE         TS&quot;                         
+## [11] &quot;---------+--------------------------------------------&quot;                         
+## [12] &quot;      TB |   5.264338&quot;                                                          
+## [13] &quot;         |    0.0000*&quot;                                                          
+## [14] &quot;         |&quot;                                                                     
+## [15] &quot;      TE |   3.020269  -2.244068&quot;                                               
+## [16] &quot;         |    0.0253*     0.2483&quot;                                               
+## [17] &quot;         |&quot;                                                                     
+## [18] &quot;      TS |   3.496750  -1.767587   0.476480&quot;                                    
+## [19] &quot;         |    0.0047*     0.7713     1.0000&quot;                                    
+## [20] &quot;         |&quot;                                                                     
+## [21] &quot;      TT |   3.588972  -1.675365   0.568702   0.092221&quot;                         
+## [22] &quot;         |    0.0033*     0.9386     1.0000     1.0000&quot;                         
+## [23] &quot;&quot;                                                                               
+## [24] &quot;alpha = 0&quot;                                                                      
+## [25] &quot;Reject Ho if p &lt;= alpha&quot;</code></pre>
+<hr />
+</div>
+</div>

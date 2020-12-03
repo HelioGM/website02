@@ -6,13 +6,13 @@
   xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <title>Hugo on Hugo Zzo Theme</title>
+    <title>Hugo on Por fin!!</title>
     <link>/en/showcase/hugo/</link>
-    <description>Recent content in Hugo on Hugo Zzo Theme</description>
+    <description>Recent content in Hugo on Por fin!!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>zzossig@gmail.com (zzossig)</managingEditor>
-    <webMaster>zzossig@gmail.com (zzossig)</webMaster>
+    <managingEditor>helio4gm@gmail.com (Helio)</managingEditor>
+    <webMaster>helio4gm@gmail.com (Helio)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Sun, 19 Jan 2020 21:04:11 +0900</lastBuildDate>
     
@@ -26,12 +26,12 @@
         <title>Hugo Zzo Theme</title>
         <link>/en/showcase/hugo/hugo-theme-zzo/</link>
         <pubDate>Sun, 19 Jan 2020 21:13:42 +0900</pubDate>
-        <author>zzossig@gmail.com (zzossig)</author>
+        <author>helio4gm@gmail.com (Helio)</author>
         <atom:modified>Sun, 19 Jan 2020 21:13:42 +0900</atom:modified>
         <guid>/en/showcase/hugo/hugo-theme-zzo/</guid>
         <description></description>
         
-        <dc:creator>zzossig</dc:creator>
+        <dc:creator>Helio</dc:creator>
         
         
         
@@ -44,12 +44,12 @@
         <title>Hugo zDoc Theme</title>
         <link>/en/showcase/hugo/hugo-theme-zdoc/</link>
         <pubDate>Sun, 19 Jan 2020 21:13:42 +0900</pubDate>
-        <author>zzossig@gmail.com (zzossig)</author>
+        <author>helio4gm@gmail.com (Helio)</author>
         <atom:modified>Sun, 19 Jan 2020 21:13:42 +0900</atom:modified>
         <guid>/en/showcase/hugo/hugo-theme-zdoc/</guid>
         <description></description>
         
-        <dc:creator>zzossig</dc:creator>
+        <dc:creator>Helio</dc:creator>
         
         
         

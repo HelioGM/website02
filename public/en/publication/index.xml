@@ -6,13 +6,13 @@
   xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <title>Publications on Hugo Zzo Theme</title>
+    <title>Publications on Por fin!!</title>
     <link>/en/publication/</link>
-    <description>Recent content in Publications on Hugo Zzo Theme</description>
+    <description>Recent content in Publications on Por fin!!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>zzossig@gmail.com (zzossig)</managingEditor>
-    <webMaster>zzossig@gmail.com (zzossig)</webMaster>
+    <managingEditor>helio4gm@gmail.com (Helio)</managingEditor>
+    <webMaster>helio4gm@gmail.com (Helio)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Thu, 05 Mar 2020 14:08:48 +0000</lastBuildDate>
     
@@ -26,12 +26,12 @@
         <title>article</title>
         <link>/en/publication/article/</link>
         <pubDate>Thu, 05 Mar 2020 14:08:48 +0000</pubDate>
-        <author>zzossig@gmail.com (zzossig)</author>
+        <author>helio4gm@gmail.com (Helio)</author>
         <atom:modified>Thu, 05 Mar 2020 14:08:48 +0000</atom:modified>
         <guid>/en/publication/article/</guid>
         <description></description>
         
-        <dc:creator>zzossig</dc:creator>
+        <dc:creator>Helio</dc:creator>
         
         
         
@@ -44,12 +44,12 @@
         <title>book</title>
         <link>/en/publication/book/</link>
         <pubDate>Thu, 05 Mar 2020 14:08:48 +0000</pubDate>
-        <author>zzossig@gmail.com (zzossig)</author>
+        <author>helio4gm@gmail.com (Helio)</author>
         <atom:modified>Thu, 05 Mar 2020 14:08:48 +0000</atom:modified>
         <guid>/en/publication/book/</guid>
         <description></description>
         
-        <dc:creator>zzossig</dc:creator>
+        <dc:creator>Helio</dc:creator>
         
         
         
@@ -62,12 +62,12 @@
         <title>misc</title>
         <link>/en/publication/misc/</link>
         <pubDate>Thu, 05 Mar 2020 14:08:48 +0000</pubDate>
-        <author>zzossig@gmail.com (zzossig)</author>
+        <author>helio4gm@gmail.com (Helio)</author>
         <atom:modified>Thu, 05 Mar 2020 14:08:48 +0000</atom:modified>
         <guid>/en/publication/misc/</guid>
         <description></description>
         
-        <dc:creator>zzossig</dc:creator>
+        <dc:creator>Helio</dc:creator>
         
         
         

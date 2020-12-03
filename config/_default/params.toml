@@ -1,6 +1,6 @@
-logoText = "Zzo"
+logoText = "Helio"
 logoType = "short" # long, short
-description = "The Zzo theme for Hugo example site."
+description = "The Zzo theme Descripcion de la pagina for Hugo example site."
 custom_css = []
 custom_js = []
 useFaviconGenerator = true # https://www.favicon-generator.org/
@@ -56,14 +56,14 @@ publicationIcon = "📚"
 typeIcon = "🎯"
 
 # whoami
-myname = "zzossig"
-email = "zzossig@gmail.com"
-whoami = "Web Developer"
+myname = "Helio"
+email = "helio4gm@gmail.com"
+whoami = "Ph.D"
 bioImageUrl = ""
 useGravatar = false
-location = "Seoul, Korea"
-organization = "Hugo"
-link = "https://zzossig.io/ko"
+location = "Sonora, Mexico"
+organization = "No affiliation"
+link = "https://helio4gm.wordpress.com/"
 
 # sidebar
 enableBio = true
@@ -92,7 +92,7 @@ enableLangChange = true
 enableThemeChange = true
 
 # service
-googleTagManager = "" # GTM-XXXXXX
+googleTagManager = "GMT-7" # GTM-XXXXXX
 baiduAnalytics = ""
 enableBusuanzi = false
 busuanziSiteUV = true
@@ -157,18 +157,18 @@ commento = false
   dataAttrs = "" # "data-isso='https://isso.example.com' data-isso-require-author='true'"
 
 [socialOptions]
-  email = "mailto:your@email.com"
+  email = "mailto:helio4gm@gmail.com"
   phone = ""
-  facebook = "http://example.org/"
-  twitter = "http://example.org/"
-  github = "https://github.com/zzossig/hugo-theme-zzo"
+  facebook = "https://www.facebook.com/helio.irie/"
+  twitter = "https://twitter.com/Helio0401"
+  github = "https://github.com/HelioGM"
   stack-overflow = ""
-  instagram = ""
+  instagram = "https://www.instagram.com/helio4gm/"
   google-plus = ""
-  youtube = ""
+  youtube = "https://www.youtube.com/user/reeii"
   medium = ""
-  tumblr = ""
-  linkedin = ""
+  tumblr = "https://www.tumblr.com/blog/helio420"
+  linkedin = "https://www.linkedin.com/in/heliogm/"
   pinterest = ""
   stack-exchange = ""
   telegram = ""

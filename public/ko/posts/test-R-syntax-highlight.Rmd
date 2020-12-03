@@ -1,0 +1,190 @@
+---
+title: "R Syntax highlighting"
+date: 2020-12-02T10:33:41+09:00
+description: "R Syntax highlighting test"
+draft: false
+hideToc: false
+enableToc: true
+enableTocContent: false
+author: Helio
+authorEmoji: 🎅
+pinned: true
+tags:
+- hugo
+series:
+-
+categories:
+- hugo
+image: images/feature2/color-palette02.png
+---
+
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+
+When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+
+
+
+```{r LoadPackages, include=FALSE}   
+
+library(readr)
+library(mosaic)
+library(FSA)
+library("ggplot2")
+library(readxl)
+library(knitr)
+library(doBy)
+library(agricolae)
+
+## added in 30/11/2020:
+#activate the necessary libraries
+library(RWordPress)
+library(knitr)
+library(XMLRPC)
+library(RCurl)
+
+library(RWordPress)
+
+
+options(scipen=999, digits = 0)
+
+mydata <- read_excel("./data/2016-Solanum-01-11_Isolates(Germplasms).xlsx")
+
+## getwd()
+
+
+## Load all the libraries needed and the data
+```
+
+```{r EggsSubset}
+
+
+####Eggs PER PLANT ####
+
+Sub.Eggs <- subset(mydata,
+                   select=c(Nger, 
+                            Isolate, 
+                            EggsP) ) 
+##Create a subset of the desire variable
+```
+
+
+***
+
+## Eggs per plant: MIAd
+
+
+```{r MIAd}
+
+####Isolate: MIAd####
+
+Sub.Eggs.MIAd <- subset(Sub.Eggs, Isolate == "MIAd", select=c(Nger, EggsP)) 
+Sub.Eggs.MIAd$Nger = factor (Sub.Eggs.MIAd$Nger, labels=c("EC", "TB", "TE", "TS", "TT")) 
+
+###Descriptive statistics calculation###
+Sub.Eggs.MIAd.EC <- subset(Sub.Eggs.MIAd, Nger == "EC", select=c(Nger,EggsP))
+Me.EP.MIAd.EC <- mean(Sub.Eggs.MIAd.EC$EggsP, na.mr=FALSE)
+Me.EP.MIAd.EC <- round(Me.EP.MIAd.EC, digits=2)
+Se.EP.MIAd.EC <- se(Sub.Eggs.MIAd.EC$EggsP)
+Se.EP.MIAd.EC <- round(Se.EP.MIAd.EC, digits=2)
+
+Sub.Eggs.MIAd.SB <- subset(Sub.Eggs.MIAd, Nger == "TB", select=c(Nger,EggsP))
+Me.EP.MIAd.TB <- mean(Sub.Eggs.MIAd.SB$EggsP, na.mr=FALSE)
+Me.EP.MIAd.TB <- round(Me.EP.MIAd.TB, digits=2)
+Se.EP.MIAd.TB <- se(Sub.Eggs.MIAd.SB$EggsP)
+Se.EP.MIAd.TB <- round(Se.EP.MIAd.TB, digits=2)
+
+Sub.Eggs.MIAd.SB <- subset(Sub.Eggs.MIAd, Nger == "TE", select=c(Nger,EggsP))
+Me.EP.MIAd.TE <- mean(Sub.Eggs.MIAd.SB$EggsP, na.mr=FALSE)
+Me.EP.MIAd.TE <- round(Me.EP.MIAd.TE, digits=2)
+Se.EP.MIAd.TE <- se(Sub.Eggs.MIAd.SB$EggsP)
+Se.EP.MIAd.TE <- round(Se.EP.MIAd.TE, digits=2)
+
+Sub.Eggs.MIAd.SB <- subset(Sub.Eggs.MIAd, Nger == "TS", select=c(Nger,EggsP))
+Me.EP.MIAd.TS <- mean(Sub.Eggs.MIAd.SB$EggsP, na.mr=FALSE)
+Me.EP.MIAd.TS <- round(Me.EP.MIAd.TS, digits=2)
+Se.EP.MIAd.TS <- se(Sub.Eggs.MIAd.SB$EggsP)
+Se.EP.MIAd.TS <- round(Se.EP.MIAd.TS, digits=2)
+
+Sub.Eggs.MIAd.SB <- subset(Sub.Eggs.MIAd, Nger == "TT", select=c(Nger,EggsP))
+Me.EP.MIAd.TT <- mean(Sub.Eggs.MIAd.SB$EggsP, na.mr=FALSE)
+Me.EP.MIAd.TT <- round(Me.EP.MIAd.TT, digits=2)
+Se.EP.MIAd.TT <- se(Sub.Eggs.MIAd.SB$EggsP)
+Se.EP.MIAd.TT <- round(Se.EP.MIAd.TT, digits=2)
+
+####Kruskall-Wallis test calculation####
+KTMIAd = kruskal.test(Sub.Eggs.MIAd$EggsP ~ Sub.Eggs.MIAd$Nger)
+
+####Dunn test calculation####
+DTMIAd = dunnTest(Sub.Eggs.MIAd$EggsP ~ Sub.Eggs.MIAd$Nger, method="bonferroni")
+
+DTMIAd.Comparison <- DTMIAd$res$Comparison
+DTMIAd.Padj <- round (DTMIAd$res$P.adj, digits=5)
+KrusData = data.frame(DTMIAd.Comparison, DTMIAd.Padj)
+RND = nrow(DTMIAd$res)
+  
+  
+
+  krustable=kable(KrusData[1:RND,])
+
+```
+
+## Descriptive statistics
+
+Germplasm|Mean ± SE|Dif|
+|---|----|-----|
+EC:|`r Me.EP.MIAd.EC` ± `r Se.EP.MIAd.EC` | |
+TB:|`r Me.EP.MIAd.TB` ± `r Se.EP.MIAd.TB` | |
+TE:|`r Me.EP.MIAd.TE` ± `r Se.EP.MIAd.TE` | |
+TS:|`r Me.EP.MIAd.TS` ± `r Se.EP.MIAd.TS` | |
+TT:|`r Me.EP.MIAd.TT` ± `r Se.EP.MIAd.TT` | |
+
+## Non parametic test
+
+**Dunn (1964) Kruskal-Wallis multiple comparison   p-values adjusted with the Bonferroni method**:
+```{r echo=TRUE}
+
+if (KTMIAd$p.value>0.05) {
+dif="There is no significative differences (P<0.05) between treatments (P<0.05)"
+krustable="0"
+} else {
+dif="There is significative differences between treatments (P<0.05)."
+krustable=kable(KrusData[1:RND,])
+}
+```
+
+`r dif` 
+
+ 
+
+---
+
+
+
+## Including Plots
+
+You can also embed plots, for example:
+
+```{r pressure, echo=FALSE}
+boxplot(Sub.Eggs.MIAd$EggsP ~ Sub.Eggs.MIAd$Nger, main = "MIAd", xlab = "Germplasm", ylab = "Eggs per plant")
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+
+###  Dunn (1964) Kruskal-Wallis multiple comparison   p-values adjusted with the Bonferroni method.
+
+```{r echo=TRUE}
+
+DTMIAd$dtres
+
+```
+
+
+***
