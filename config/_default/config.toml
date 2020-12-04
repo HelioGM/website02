@@ -1,5 +1,5 @@
-baseURL = "/"
-title = "por fin!!"
+baseURL = "https://helio5.netlify.app/"
+title = "Homepage"
 theme = "zzo"
 
 defaultContentLanguage = "en"

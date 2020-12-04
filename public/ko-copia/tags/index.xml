@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Tags on Homepage</title>
+    <link>/ko-copia/tags/</link>
+    <description>Recent content in Tags on Homepage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko - copia</language>
+    <managingEditor>helio4gm@gmail.com (Helio)</managingEditor>
+    <webMaster>helio4gm@gmail.com (Helio)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Thu, 23 Jul 2015 21:13:14 -0500</lastBuildDate>
+    
+        <atom:link href="/ko-copia/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>plot</title>
+        <link>/ko-copia/tags/plot/</link>
+        <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+        <author>helio4gm@gmail.com (Helio)</author>
+        
+        <guid>/ko-copia/tags/plot/</guid>
+        <description></description>
+        
+        <dc:creator>Helio</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>R Markdown</title>
+        <link>/ko-copia/tags/r-markdown/</link>
+        <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+        <author>helio4gm@gmail.com (Helio)</author>
+        
+        <guid>/ko-copia/tags/r-markdown/</guid>
+        <description></description>
+        
+        <dc:creator>Helio</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>regression</title>
+        <link>/ko-copia/tags/regression/</link>
+        <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+        <author>helio4gm@gmail.com (Helio)</author>
+        
+        <guid>/ko-copia/tags/regression/</guid>
+        <description></description>
+        
+        <dc:creator>Helio</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

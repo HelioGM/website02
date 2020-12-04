@@ -1,13 +1,15 @@
 [en]
-  title = "Por fin!!"
+  title = "Helio's Website"
   languageName = "English"
   weight = 1
   languagedir = "ltr"
   contentdir = "content/en"
 
-[ko]
-  title = "Hugo Zzo Theme"
-  languageName = "한국어"
+[es]
+  title = "Version español"
+  languageName = "Español"
   weight = 2
   languagedir = "ltr"
-  contentdir = "content/ko"
+  contentdir = "content/es"
+  
+
