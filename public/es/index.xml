@@ -52,7 +52,7 @@
         <guid>/es/posts/post_de_prueba_01/</guid>
         <description>Code Syntax Highlighting Verify the following code blocks render as code blocks and highlight properly.
 More about tuning syntax highlighting is the Hugo documentation.
-Markdown 1 2 3  **bold** *italics* [link](www.example.com)   JavaScript 1  document.write(&amp;#39;Hello, world!&amp;#39;);   CSS 1 2 3  body { background-color: red; }   Python 1  print &amp;#34;Hello, world!&amp;#34;   XML 1 2 3 4 5  &amp;lt;employees&amp;gt; &amp;lt;employee&amp;gt; &amp;lt;firstName&amp;gt;John&amp;lt;/firstName&amp;gt; &amp;lt;lastName&amp;gt;Doe&amp;lt;/lastName&amp;gt; &amp;lt;/employee&amp;gt; &amp;lt;/employees&amp;gt;   PHP 1  &amp;lt;?</description>
+Markdown 1 2 3  **bold** *italics* [link](www.example.com)   R 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66  ## Load all the libraries needed and the data library(readr) library(mosaic) library(FSA) library(&amp;#34;ggplot2&amp;#34;) library(readxl) library(knitr) library(doBy) library(agricolae) options(scipen=999, digits = 0) mydata &amp;lt;- read_excel(&amp;#34;.</description>
         
         <dc:creator>Helio</dc:creator>
         <media:content url="/images/feature2/color-palette.png" medium="image"><media:title type="html">featured image</media:title></media:content>
