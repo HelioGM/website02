@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Categories on Helio&#39;s Website</title>
-    <link>/en/categories/</link>
+    <link>https://helio5.netlify.app/en/categories/</link>
     <description>Recent content in Categories on Helio&#39;s Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -16,7 +16,7 @@
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Thu, 03 Dec 2020 10:33:41 +0900</lastBuildDate>
     
-        <atom:link href="/en/categories/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://helio5.netlify.app/en/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -24,11 +24,11 @@
       
       <item>
         <title>hugo</title>
-        <link>/en/categories/hugo/</link>
+        <link>https://helio5.netlify.app/en/categories/hugo/</link>
         <pubDate>Thu, 03 Dec 2020 10:33:41 +0900</pubDate>
         <author>helio4gm@gmail.com (Helio)</author>
         
-        <guid>/en/categories/hugo/</guid>
+        <guid>https://helio5.netlify.app/en/categories/hugo/</guid>
         <description></description>
         
         <dc:creator>Helio</dc:creator>
@@ -42,11 +42,11 @@
       
       <item>
         <title>syntax</title>
-        <link>/en/categories/syntax/</link>
+        <link>https://helio5.netlify.app/en/categories/syntax/</link>
         <pubDate>Fri, 20 Dec 2019 12:00:06 +0900</pubDate>
         <author>helio4gm@gmail.com (Helio)</author>
         
-        <guid>/en/categories/syntax/</guid>
+        <guid>https://helio5.netlify.app/en/categories/syntax/</guid>
         <description></description>
         
         <dc:creator>Helio</dc:creator>
@@ -60,11 +60,11 @@
       
       <item>
         <title>themes</title>
-        <link>/en/categories/themes/</link>
+        <link>https://helio5.netlify.app/en/categories/themes/</link>
         <pubDate>Fri, 20 Dec 2019 12:00:06 +0900</pubDate>
         <author>helio4gm@gmail.com (Helio)</author>
         
-        <guid>/en/categories/themes/</guid>
+        <guid>https://helio5.netlify.app/en/categories/themes/</guid>
         <description></description>
         
         <dc:creator>Helio</dc:creator>
@@ -78,11 +78,11 @@
       
       <item>
         <title>diagram</title>
-        <link>/en/categories/diagram/</link>
+        <link>https://helio5.netlify.app/en/categories/diagram/</link>
         <pubDate>Mon, 18 Nov 2019 21:00:06 +0900</pubDate>
         <author>helio4gm@gmail.com (Helio)</author>
         
-        <guid>/en/categories/diagram/</guid>
+        <guid>https://helio5.netlify.app/en/categories/diagram/</guid>
         <description></description>
         
         <dc:creator>Helio</dc:creator>
@@ -96,11 +96,11 @@
       
       <item>
         <title>math</title>
-        <link>/en/categories/math/</link>
+        <link>https://helio5.netlify.app/en/categories/math/</link>
         <pubDate>Sat, 16 Nov 2019 12:00:06 +0900</pubDate>
         <author>helio4gm@gmail.com (Helio)</author>
         
-        <guid>/en/categories/math/</guid>
+        <guid>https://helio5.netlify.app/en/categories/math/</guid>
         <description></description>
         
         <dc:creator>Helio</dc:creator>

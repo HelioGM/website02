@@ -3,441 +3,441 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/en/showcase/hugo/hugo-theme-zzo/</loc>
+    <loc>https://helio5.netlify.app/en/showcase/hugo/hugo-theme-zzo/</loc>
     <lastmod>2020-01-19T21:13:42+09:00</lastmod>
   </url>
   
   <url>
-    <loc>/en/showcase/hugo/hugo-theme-zdoc/</loc>
+    <loc>https://helio5.netlify.app/en/showcase/hugo/hugo-theme-zdoc/</loc>
     <lastmod>2020-01-19T21:13:42+09:00</lastmod>
   </url>
   
   <url>
-    <loc>/en/</loc>
+    <loc>https://helio5.netlify.app/en/</loc>
     <lastmod>2020-12-03T09:29:25-08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/"
+                href="https://helio5.netlify.app/es/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/"
+                href="https://helio5.netlify.app/en/"
                 />
   </url>
   
   <url>
-    <loc>/en/posts/test-2020-12-03-nuevopost/</loc>
+    <loc>https://helio5.netlify.app/en/posts/test-2020-12-03-nuevopost/</loc>
     <lastmod>2020-12-03T09:29:25-08:00</lastmod>
   </url>
   
   <url>
-    <loc>/en/posts/</loc>
+    <loc>https://helio5.netlify.app/en/posts/</loc>
     <lastmod>2020-12-03T09:29:25-08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/posts/"
+                href="https://helio5.netlify.app/es/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/posts/"
+                href="https://helio5.netlify.app/en/posts/"
                 />
   </url>
   
   <url>
-    <loc>/en/post/2020-12-03-nuevo/</loc>
+    <loc>https://helio5.netlify.app/en/post/2020-12-03-nuevo/</loc>
     <lastmod>2020-12-03T00:18:42-08:00</lastmod>
   </url>
   
   <url>
-    <loc>/en/post/</loc>
+    <loc>https://helio5.netlify.app/en/post/</loc>
     <lastmod>2020-12-03T00:18:42-08:00</lastmod>
   </url>
   
   <url>
-    <loc>/en/categories/</loc>
+    <loc>https://helio5.netlify.app/en/categories/</loc>
     <lastmod>2020-12-03T10:33:41+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/categories/"
+                href="https://helio5.netlify.app/es/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/categories/"
+                href="https://helio5.netlify.app/en/categories/"
                 />
   </url>
   
   <url>
-    <loc>/en/tags/hugo/</loc>
+    <loc>https://helio5.netlify.app/en/tags/hugo/</loc>
     <lastmod>2020-12-03T10:33:41+09:00</lastmod>
   </url>
   
   <url>
-    <loc>/en/categories/hugo/</loc>
+    <loc>https://helio5.netlify.app/en/categories/hugo/</loc>
     <lastmod>2020-12-03T10:33:41+09:00</lastmod>
   </url>
   
   <url>
-    <loc>/en/posts/test-r-syntax-highligt-cap-02/</loc>
+    <loc>https://helio5.netlify.app/en/posts/test-r-syntax-highligt-cap-02/</loc>
     <lastmod>2020-12-03T10:33:41+09:00</lastmod>
   </url>
   
   <url>
-    <loc>/en/tags/</loc>
+    <loc>https://helio5.netlify.app/en/tags/</loc>
     <lastmod>2020-12-03T10:33:41+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/tags/"
+                href="https://helio5.netlify.app/es/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/"
+                href="https://helio5.netlify.app/en/tags/"
                 />
   </url>
   
   <url>
-    <loc>/en/posts/test-r-syntax-highlight/</loc>
+    <loc>https://helio5.netlify.app/en/posts/test-r-syntax-highlight/</loc>
     <lastmod>2020-12-02T10:33:41+09:00</lastmod>
   </url>
   
   <url>
-    <loc>/en/publication/article/</loc>
+    <loc>https://helio5.netlify.app/en/publication/article/</loc>
     <lastmod>2020-03-05T14:08:48+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/en/publication/book/</loc>
+    <loc>https://helio5.netlify.app/en/publication/book/</loc>
     <lastmod>2020-03-05T14:08:48+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/en/publication/misc/</loc>
+    <loc>https://helio5.netlify.app/en/publication/misc/</loc>
     <lastmod>2020-03-05T14:08:48+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/en/publication/</loc>
+    <loc>https://helio5.netlify.app/en/publication/</loc>
     <lastmod>2020-03-05T14:08:48+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/en/tags/shortcode/</loc>
+    <loc>https://helio5.netlify.app/en/tags/shortcode/</loc>
     <lastmod>2020-01-25T06:40:51+09:00</lastmod>
   </url>
   
   <url>
-    <loc>/en/posts/shortcodes/</loc>
+    <loc>https://helio5.netlify.app/en/posts/shortcodes/</loc>
     <lastmod>2020-01-25T06:40:51+09:00</lastmod>
   </url>
   
   <url>
-    <loc>/en/showcase/hugo/</loc>
+    <loc>https://helio5.netlify.app/en/showcase/hugo/</loc>
     <lastmod>2020-01-19T21:04:11+09:00</lastmod>
   </url>
   
   <url>
-    <loc>/en/showcase/</loc>
+    <loc>https://helio5.netlify.app/en/showcase/</loc>
     <lastmod>2020-01-19T15:43:38+09:00</lastmod>
   </url>
   
   <url>
-    <loc>/en/tags/css/</loc>
+    <loc>https://helio5.netlify.app/en/tags/css/</loc>
     <lastmod>2019-12-20T12:00:06+09:00</lastmod>
   </url>
   
   <url>
-    <loc>/en/tags/html/</loc>
+    <loc>https://helio5.netlify.app/en/tags/html/</loc>
     <lastmod>2019-12-20T12:00:06+09:00</lastmod>
   </url>
   
   <url>
-    <loc>/en/tags/markdown/</loc>
+    <loc>https://helio5.netlify.app/en/tags/markdown/</loc>
     <lastmod>2019-12-20T12:00:06+09:00</lastmod>
   </url>
   
   <url>
-    <loc>/en/posts/markdown-syntax/</loc>
+    <loc>https://helio5.netlify.app/en/posts/markdown-syntax/</loc>
     <lastmod>2019-12-20T12:00:06+09:00</lastmod>
   </url>
   
   <url>
-    <loc>/en/series/</loc>
+    <loc>https://helio5.netlify.app/en/series/</loc>
     <lastmod>2019-12-20T12:00:06+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/series/"
+                href="https://helio5.netlify.app/es/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/series/"
+                href="https://helio5.netlify.app/en/series/"
                 />
   </url>
   
   <url>
-    <loc>/en/categories/syntax/</loc>
+    <loc>https://helio5.netlify.app/en/categories/syntax/</loc>
     <lastmod>2019-12-20T12:00:06+09:00</lastmod>
   </url>
   
   <url>
-    <loc>/en/tags/themes/</loc>
+    <loc>https://helio5.netlify.app/en/tags/themes/</loc>
     <lastmod>2019-12-20T12:00:06+09:00</lastmod>
   </url>
   
   <url>
-    <loc>/en/categories/themes/</loc>
+    <loc>https://helio5.netlify.app/en/categories/themes/</loc>
     <lastmod>2019-12-20T12:00:06+09:00</lastmod>
   </url>
   
   <url>
-    <loc>/en/series/themes-guide/</loc>
+    <loc>https://helio5.netlify.app/en/series/themes-guide/</loc>
     <lastmod>2019-12-20T12:00:06+09:00</lastmod>
   </url>
   
   <url>
-    <loc>/en/tags/privacy/</loc>
+    <loc>https://helio5.netlify.app/en/tags/privacy/</loc>
     <lastmod>2019-12-19T12:00:06+09:00</lastmod>
   </url>
   
   <url>
-    <loc>/en/posts/rich-content/</loc>
+    <loc>https://helio5.netlify.app/en/posts/rich-content/</loc>
     <lastmod>2019-12-19T12:00:06+09:00</lastmod>
   </url>
   
   <url>
-    <loc>/en/tags/shortcodes/</loc>
+    <loc>https://helio5.netlify.app/en/tags/shortcodes/</loc>
     <lastmod>2019-12-19T12:00:06+09:00</lastmod>
   </url>
   
   <url>
-    <loc>/en/posts/syntax-highlight/</loc>
+    <loc>https://helio5.netlify.app/en/posts/syntax-highlight/</loc>
     <lastmod>2019-12-18T10:33:41+09:00</lastmod>
   </url>
   
   <url>
-    <loc>/en/posts/math-typesetting/</loc>
+    <loc>https://helio5.netlify.app/en/posts/math-typesetting/</loc>
     <lastmod>2019-12-17T12:00:06+09:00</lastmod>
   </url>
   
   <url>
-    <loc>/en/tags/amoji/</loc>
+    <loc>https://helio5.netlify.app/en/tags/amoji/</loc>
     <lastmod>2019-12-16T12:00:06+09:00</lastmod>
   </url>
   
   <url>
-    <loc>/en/tags/bamoji/</loc>
+    <loc>https://helio5.netlify.app/en/tags/bamoji/</loc>
     <lastmod>2019-12-16T12:00:06+09:00</lastmod>
   </url>
   
   <url>
-    <loc>/en/tags/emoji/</loc>
+    <loc>https://helio5.netlify.app/en/tags/emoji/</loc>
     <lastmod>2019-12-16T12:00:06+09:00</lastmod>
   </url>
   
   <url>
-    <loc>/en/posts/emoji-support/</loc>
+    <loc>https://helio5.netlify.app/en/posts/emoji-support/</loc>
     <lastmod>2019-12-16T12:00:06+09:00</lastmod>
   </url>
   
   <url>
-    <loc>/en/tags/gamoji/</loc>
+    <loc>https://helio5.netlify.app/en/tags/gamoji/</loc>
     <lastmod>2019-12-16T12:00:06+09:00</lastmod>
   </url>
   
   <url>
-    <loc>/en/tags/namoji/</loc>
+    <loc>https://helio5.netlify.app/en/tags/namoji/</loc>
     <lastmod>2019-12-16T12:00:06+09:00</lastmod>
   </url>
   
   <url>
-    <loc>/en/categories/diagram/</loc>
+    <loc>https://helio5.netlify.app/en/categories/diagram/</loc>
     <lastmod>2019-11-18T21:00:06+09:00</lastmod>
   </url>
   
   <url>
-    <loc>/en/posts/test-viz/</loc>
+    <loc>https://helio5.netlify.app/en/posts/test-viz/</loc>
     <lastmod>2019-11-18T21:00:06+09:00</lastmod>
   </url>
   
   <url>
-    <loc>/en/posts/test-wavedrom/</loc>
+    <loc>https://helio5.netlify.app/en/posts/test-wavedrom/</loc>
     <lastmod>2019-11-18T18:00:06+09:00</lastmod>
   </url>
   
   <url>
-    <loc>/en/posts/test-chartjs/</loc>
+    <loc>https://helio5.netlify.app/en/posts/test-chartjs/</loc>
     <lastmod>2019-11-18T12:00:06+09:00</lastmod>
   </url>
   
   <url>
-    <loc>/en/posts/test-js-sequence-diagrams/</loc>
+    <loc>https://helio5.netlify.app/en/posts/test-js-sequence-diagrams/</loc>
     <lastmod>2019-11-18T12:00:06+09:00</lastmod>
   </url>
   
   <url>
-    <loc>/en/tags/diagram/</loc>
+    <loc>https://helio5.netlify.app/en/tags/diagram/</loc>
     <lastmod>2019-11-17T12:00:06+09:00</lastmod>
   </url>
   
   <url>
-    <loc>/en/posts/test-mermaid/</loc>
+    <loc>https://helio5.netlify.app/en/posts/test-mermaid/</loc>
     <lastmod>2019-11-17T12:00:06+09:00</lastmod>
   </url>
   
   <url>
-    <loc>/en/categories/math/</loc>
+    <loc>https://helio5.netlify.app/en/categories/math/</loc>
     <lastmod>2019-11-16T12:00:06+09:00</lastmod>
   </url>
   
   <url>
-    <loc>/en/posts/test-mathjax/</loc>
+    <loc>https://helio5.netlify.app/en/posts/test-mathjax/</loc>
     <lastmod>2019-11-16T12:00:06+09:00</lastmod>
   </url>
   
   <url>
-    <loc>/en/posts/test-katex/</loc>
+    <loc>https://helio5.netlify.app/en/posts/test-katex/</loc>
     <lastmod>2019-11-15T12:00:06+09:00</lastmod>
   </url>
   
   <url>
-    <loc>/en/posts/test-flowchart/</loc>
+    <loc>https://helio5.netlify.app/en/posts/test-flowchart/</loc>
     <lastmod>2019-11-14T12:00:06+09:00</lastmod>
   </url>
   
   <url>
-    <loc>/en/gallery/cartoon/</loc>
+    <loc>https://helio5.netlify.app/en/gallery/cartoon/</loc>
     <lastmod>2019-10-31T10:20:16+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/gallery/cartoon/"
+                href="https://helio5.netlify.app/es/gallery/cartoon/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/gallery/cartoon/"
+                href="https://helio5.netlify.app/en/gallery/cartoon/"
                 />
   </url>
   
   <url>
-    <loc>/en/gallery/</loc>
+    <loc>https://helio5.netlify.app/en/gallery/</loc>
     <lastmod>2019-10-31T10:20:16+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/gallery/"
+                href="https://helio5.netlify.app/es/gallery/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/gallery/"
+                href="https://helio5.netlify.app/en/gallery/"
                 />
   </url>
   
   <url>
-    <loc>/en/gallery/photo/</loc>
+    <loc>https://helio5.netlify.app/en/gallery/photo/</loc>
     <lastmod>2019-10-31T10:20:16+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/gallery/photo/"
+                href="https://helio5.netlify.app/es/gallery/photo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/gallery/photo/"
+                href="https://helio5.netlify.app/en/gallery/photo/"
                 />
   </url>
   
   <url>
-    <loc>/en/presentation/dir/fourth/</loc>
+    <loc>https://helio5.netlify.app/en/presentation/dir/fourth/</loc>
     <lastmod>2019-10-30T20:48:10+09:00</lastmod>
   </url>
   
   <url>
-    <loc>/en/presentation/</loc>
+    <loc>https://helio5.netlify.app/en/presentation/</loc>
     <lastmod>2019-10-30T20:48:10+09:00</lastmod>
   </url>
   
   <url>
-    <loc>/en/presentation/third/</loc>
+    <loc>https://helio5.netlify.app/en/presentation/third/</loc>
     <lastmod>2019-10-30T20:46:30+09:00</lastmod>
   </url>
   
   <url>
-    <loc>/en/presentation/second/</loc>
+    <loc>https://helio5.netlify.app/en/presentation/second/</loc>
     <lastmod>2019-10-30T20:45:24+09:00</lastmod>
   </url>
   
   <url>
-    <loc>/en/presentation/first/</loc>
+    <loc>https://helio5.netlify.app/en/presentation/first/</loc>
     <lastmod>2019-10-30T19:45:20+09:00</lastmod>
   </url>
   
   <url>
-    <loc>/en/archive/</loc>
+    <loc>https://helio5.netlify.app/en/archive/</loc>
     <lastmod>2019-10-19T11:44:14+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/archive/"
+                href="https://helio5.netlify.app/es/archive/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/archive/"
+                href="https://helio5.netlify.app/en/archive/"
                 />
   </url>
   
   <url>
-    <loc>/en/about/</loc>
+    <loc>https://helio5.netlify.app/en/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/about/"
+                href="https://helio5.netlify.app/es/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/about/"
+                href="https://helio5.netlify.app/en/about/"
                 />
   </url>
   
   <url>
-    <loc>/en/publication/article/article_any_folder_name_1/</loc>
+    <loc>https://helio5.netlify.app/en/publication/article/article_any_folder_name_1/</loc>
     <lastmod>2018-06-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/en/publication/book/book_any_folder_name_1/</loc>
+    <loc>https://helio5.netlify.app/en/publication/book/book_any_folder_name_1/</loc>
     <lastmod>2017-06-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/en/publication/misc/misc_any_folder_name_1/</loc>
+    <loc>https://helio5.netlify.app/en/publication/misc/misc_any_folder_name_1/</loc>
     <lastmod>2016-11-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/en/tags/index/</loc>
+    <loc>https://helio5.netlify.app/en/tags/index/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/tags/index/"
+                href="https://helio5.netlify.app/es/tags/index/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/index/"
+                href="https://helio5.netlify.app/en/tags/index/"
                 />
   </url>
   

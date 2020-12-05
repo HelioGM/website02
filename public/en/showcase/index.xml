@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Showcase overview on Helio&#39;s Website</title>
-    <link>/en/showcase/</link>
+    <link>https://helio5.netlify.app/en/showcase/</link>
     <description>Recent content in Showcase overview on Helio&#39;s Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -16,7 +16,7 @@
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Sun, 19 Jan 2020 15:43:38 +0900</lastBuildDate>
     
-        <atom:link href="/en/showcase/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://helio5.netlify.app/en/showcase/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -24,11 +24,11 @@
       
       <item>
         <title>Hugo</title>
-        <link>/en/showcase/hugo/</link>
+        <link>https://helio5.netlify.app/en/showcase/hugo/</link>
         <pubDate>Sun, 19 Jan 2020 21:04:11 +0900</pubDate>
         <author>helio4gm@gmail.com (Helio)</author>
         <atom:modified>Sun, 19 Jan 2020 21:04:11 +0900</atom:modified>
-        <guid>/en/showcase/hugo/</guid>
+        <guid>https://helio5.netlify.app/en/showcase/hugo/</guid>
         <description></description>
         
         <dc:creator>Helio</dc:creator>

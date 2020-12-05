@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Categories on Version español</title>
-    <link>/es/categories/</link>
+    <link>https://helio5.netlify.app/es/categories/</link>
     <description>Recent content in Categories on Version español</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
@@ -15,7 +15,7 @@
     <webMaster>helio4gm@gmail.com (Helio)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     
-        <atom:link href="/es/categories/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://helio5.netlify.app/es/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     
