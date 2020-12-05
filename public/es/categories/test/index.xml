@@ -6,41 +6,20 @@
   xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <title>Version español</title>
-    <link>/es/</link>
-    <description>Recent content on Version español</description>
+    <title>Test on Version español</title>
+    <link>/es/categories/test/</link>
+    <description>Recent content in Test on Version español</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <managingEditor>helio4gm@gmail.com (Helio)</managingEditor>
     <webMaster>helio4gm@gmail.com (Helio)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Sat, 19 Oct 2019 11:44:14 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 05 Dec 2010 00:00:00 +0000</lastBuildDate>
     
-        <atom:link href="/es/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="/es/categories/test/index.xml" rel="self" type="application/rss+xml" />
     
     
     
-      
-      
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
 
       
       <item>

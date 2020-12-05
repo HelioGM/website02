@@ -14,12 +14,49 @@
     <managingEditor>helio4gm@gmail.com (Helio)</managingEditor>
     <webMaster>helio4gm@gmail.com (Helio)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Sun, 05 Dec 2010 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/es/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     
 
+      
+      <item>
+        <title>Post de prueba</title>
+        <link>/es/posts/post_de_prueba_01/</link>
+        <pubDate>Sun, 05 Dec 2010 00:00:00 +0000</pubDate>
+        <author>helio4gm@gmail.com (Helio)</author>
+        <atom:modified>Sun, 05 Dec 2010 00:00:00 +0000</atom:modified>
+        <guid>/es/posts/post_de_prueba_01/</guid>
+        <description>Code Syntax Highlighting Verify the following code blocks render as code blocks and highlight properly.
+More about tuning syntax highlighting is the Hugo documentation.
+Markdown 1 2 3  **bold** *italics* [link](www.example.com)   JavaScript 1  document.write(&amp;#39;Hello, world!&amp;#39;);   CSS 1 2 3  body { background-color: red; }   Python 1  print &amp;#34;Hello, world!&amp;#34;   XML 1 2 3 4 5  &amp;lt;employees&amp;gt; &amp;lt;employee&amp;gt; &amp;lt;firstName&amp;gt;John&amp;lt;/firstName&amp;gt; &amp;lt;lastName&amp;gt;Doe&amp;lt;/lastName&amp;gt; &amp;lt;/employee&amp;gt; &amp;lt;/employees&amp;gt;   PHP 1  &amp;lt;?</description>
+        
+        <dc:creator>Helio</dc:creator>
+        <media:content url="/images/feature2/color-palette.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>Test</category>
+            
+          
+        
+        
+          
+            
+              <category>Test</category>
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
       
 
     

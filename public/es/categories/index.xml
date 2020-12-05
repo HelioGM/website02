@@ -14,12 +14,31 @@
     <managingEditor>helio4gm@gmail.com (Helio)</managingEditor>
     <webMaster>helio4gm@gmail.com (Helio)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Sun, 05 Dec 2010 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/es/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     
 
+      
+      <item>
+        <title>Test</title>
+        <link>/es/categories/test/</link>
+        <pubDate>Sun, 05 Dec 2010 00:00:00 +0000</pubDate>
+        <author>helio4gm@gmail.com (Helio)</author>
+        
+        <guid>/es/categories/test/</guid>
+        <description></description>
+        
+        <dc:creator>Helio</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
       
 
     
