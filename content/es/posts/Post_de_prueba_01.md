@@ -554,7 +554,7 @@ DTMIAd$dtres
 rssfeed_url = new Array(); 
 rssfeed_url[0]="https://www.eluniversal.com.mx/seccion/1671/rss.xml"; rssfeed_url[1]="https://www.debate.com.mx/rss/feed.xml"; rssfeed_url[2]="https://www.excelsior.com.mx/rss.xml"; rssfeed_url[3]="https://www.reforma.com/rss/portada.xml";  
 rssfeed_frame_width="100%"; 
-rssfeed_frame_height="240"; 
+rssfeed_frame_height="430"; 
 rssfeed_scroll="on"; 
 rssfeed_scroll_step="6"; 
 rssfeed_scroll_bar="off"; 
@@ -599,7 +599,7 @@ rssfeed_cache = "e19d6743d060133ccd3575c80069961f";
 
 ### Formulario de google
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSefaYY_1_0tdWMdHUIqO0CAdnc_BtGUlsZWK5q0LLJ-UvWzJA/viewform?embedded=true" width="100%" height="3669" frameborder="0" marginheight="0" marginwidth="0">Cargando…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSefaYY_1_0tdWMdHUIqO0CAdnc_BtGUlsZWK5q0LLJ-UvWzJA/viewform?embedded=true" width="100%" height="380" frameborder="0" marginheight="0" marginwidth="0">Cargando…</iframe>
 
 
 ### Chat de Disqus
