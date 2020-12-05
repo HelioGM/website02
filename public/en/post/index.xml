@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Posts on Helio&#39;s Website</title>
-    <link>https://helio5.netlify.app/en/post/</link>
+    <link>/en/post/</link>
     <description>Recent content in Posts on Helio&#39;s Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -16,7 +16,7 @@
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Thu, 03 Dec 2020 00:18:42 -0800</lastBuildDate>
     
-        <atom:link href="https://helio5.netlify.app/en/post/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="/en/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -24,11 +24,11 @@
       
       <item>
         <title>Nuevo</title>
-        <link>https://helio5.netlify.app/en/post/2020-12-03-nuevo/</link>
+        <link>/en/post/2020-12-03-nuevo/</link>
         <pubDate>Thu, 03 Dec 2020 00:18:42 -0800</pubDate>
         <author>helio4gm@gmail.com (Helio)</author>
         <atom:modified>Thu, 03 Dec 2020 00:18:42 -0800</atom:modified>
-        <guid>https://helio5.netlify.app/en/post/2020-12-03-nuevo/</guid>
+        <guid>/en/post/2020-12-03-nuevo/</guid>
         <description></description>
         
         <dc:creator>Helio</dc:creator>

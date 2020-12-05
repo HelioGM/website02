@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Galleries on Version español</title>
-    <link>https://helio5.netlify.app/es/gallery/</link>
+    <link>/es/gallery/</link>
     <description>Recent content in Galleries on Version español</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
@@ -16,7 +16,7 @@
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Fri, 12 Oct 2018 10:20:16 +0900</lastBuildDate>
     
-        <atom:link href="https://helio5.netlify.app/es/gallery/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="/es/gallery/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -24,11 +24,11 @@
       
       <item>
         <title>Photo</title>
-        <link>https://helio5.netlify.app/es/gallery/photo/</link>
+        <link>/es/gallery/photo/</link>
         <pubDate>Fri, 12 Oct 2018 10:20:16 +0900</pubDate>
         <author>helio4gm@gmail.com (Helio)</author>
         <atom:modified>Fri, 12 Oct 2018 10:20:16 +0900</atom:modified>
-        <guid>https://helio5.netlify.app/es/gallery/photo/</guid>
+        <guid>/es/gallery/photo/</guid>
         <description></description>
         
         <dc:creator>Helio</dc:creator>
@@ -42,11 +42,11 @@
       
       <item>
         <title>Cartoon</title>
-        <link>https://helio5.netlify.app/es/gallery/cartoon/</link>
+        <link>/es/gallery/cartoon/</link>
         <pubDate>Thu, 11 Oct 2018 10:20:16 +0900</pubDate>
         <author>helio4gm@gmail.com (Helio)</author>
         <atom:modified>Thu, 11 Oct 2018 10:20:16 +0900</atom:modified>
-        <guid>https://helio5.netlify.app/es/gallery/cartoon/</guid>
+        <guid>/es/gallery/cartoon/</guid>
         <description></description>
         
         <dc:creator>Helio</dc:creator>

@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Galleries on Helio&#39;s Website</title>
-    <link>https://helio5.netlify.app/en/gallery/</link>
+    <link>/en/gallery/</link>
     <description>Recent content in Galleries on Helio&#39;s Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -16,7 +16,7 @@
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Thu, 31 Oct 2019 10:20:16 +0900</lastBuildDate>
     
-        <atom:link href="https://helio5.netlify.app/en/gallery/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="/en/gallery/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -24,15 +24,15 @@
       
       <item>
         <title>Cartoon</title>
-        <link>https://helio5.netlify.app/en/gallery/cartoon/</link>
+        <link>/en/gallery/cartoon/</link>
         <pubDate>Thu, 31 Oct 2019 10:20:16 +0900</pubDate>
         <author>helio4gm@gmail.com (Helio)</author>
         <atom:modified>Thu, 31 Oct 2019 10:20:16 +0900</atom:modified>
-        <guid>https://helio5.netlify.app/en/gallery/cartoon/</guid>
+        <guid>/en/gallery/cartoon/</guid>
         <description>Sample images from Pixabay</description>
         
         <dc:creator>Helio</dc:creator>
-        <media:content url="https://helio5.netlify.app/images/feature2/bam.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="/images/feature2/bam.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -42,15 +42,15 @@
       
       <item>
         <title>Photo</title>
-        <link>https://helio5.netlify.app/en/gallery/photo/</link>
+        <link>/en/gallery/photo/</link>
         <pubDate>Thu, 31 Oct 2019 10:20:16 +0900</pubDate>
         <author>helio4gm@gmail.com (Helio)</author>
         <atom:modified>Thu, 31 Oct 2019 10:20:16 +0900</atom:modified>
-        <guid>https://helio5.netlify.app/en/gallery/photo/</guid>
+        <guid>/en/gallery/photo/</guid>
         <description>Sample images from Pixabay</description>
         
         <dc:creator>Helio</dc:creator>
-        <media:content url="https://helio5.netlify.app/images/feature2/gallery.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="/images/feature2/gallery.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         

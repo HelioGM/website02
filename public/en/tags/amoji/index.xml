@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>amoji on Helio&#39;s Website</title>
-    <link>https://helio5.netlify.app/en/tags/amoji/</link>
+    <link>/en/tags/amoji/</link>
     <description>Recent content in amoji on Helio&#39;s Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -16,7 +16,7 @@
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Mon, 16 Dec 2019 12:00:06 +0900</lastBuildDate>
     
-        <atom:link href="https://helio5.netlify.app/en/tags/amoji/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="/en/tags/amoji/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -24,11 +24,11 @@
       
       <item>
         <title>Emoji Support</title>
-        <link>https://helio5.netlify.app/en/posts/emoji-support/</link>
+        <link>/en/posts/emoji-support/</link>
         <pubDate>Mon, 16 Dec 2019 12:00:06 +0900</pubDate>
         <author>helio4gm@gmail.com (Helio)</author>
         <atom:modified>Mon, 16 Dec 2019 12:00:06 +0900</atom:modified>
-        <guid>https://helio5.netlify.app/en/posts/emoji-support/</guid>
+        <guid>/en/posts/emoji-support/</guid>
         <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
         
         <dc:creator>Kim</dc:creator>

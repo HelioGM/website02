@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Posts on Version español</title>
-    <link>https://helio5.netlify.app/es/posts/</link>
+    <link>/es/posts/</link>
     <description>Recent content in Posts on Version español</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
@@ -15,7 +15,7 @@
     <webMaster>helio4gm@gmail.com (Helio)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     
-        <atom:link href="https://helio5.netlify.app/es/posts/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="/es/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     

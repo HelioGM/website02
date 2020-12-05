@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>hugo on Helio&#39;s Website</title>
-    <link>https://helio5.netlify.app/en/tags/hugo/</link>
+    <link>/en/tags/hugo/</link>
     <description>Recent content in hugo on Helio&#39;s Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -16,7 +16,7 @@
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Thu, 03 Dec 2020 10:33:41 +0900</lastBuildDate>
     
-        <atom:link href="https://helio5.netlify.app/en/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="/en/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -24,17 +24,17 @@
       
       <item>
         <title>R Syntax highlighting cap 02</title>
-        <link>https://helio5.netlify.app/en/posts/test-r-syntax-highligt-cap-02/</link>
+        <link>/en/posts/test-r-syntax-highligt-cap-02/</link>
         <pubDate>Thu, 03 Dec 2020 10:33:41 +0900</pubDate>
         <author>helio4gm@gmail.com (Helio)</author>
         <atom:modified>Thu, 03 Dec 2020 10:33:41 +0900</atom:modified>
-        <guid>https://helio5.netlify.app/en/posts/test-r-syntax-highligt-cap-02/</guid>
+        <guid>/en/posts/test-r-syntax-highligt-cap-02/</guid>
         <description>Code Syntax Highlighting Verify the following code blocks render as code blocks and highlight properly.
 More about tuning syntax highlighting is the Hugo documentation.
 R 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19  library(readr) library(mosaic) library(FSA) library(&amp;#34;ggplot2&amp;#34;) library(readxl) library(knitr) library(doBy) library(agricolae) options(scipen=999, digits = 0) mydata &amp;lt;- read_excel(&amp;#34;./data/2016-Solanum-01-11_Isolates(Germplasms).xlsx&amp;#34;) ## getwd() ## Load all the libraries needed and the data   </description>
         
         <dc:creator>Helio</dc:creator>
-        <media:content url="https://helio5.netlify.app/images/feature2/color-palette.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="/images/feature2/color-palette.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -60,16 +60,16 @@ R 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19  library(readr) library(mosaic
       
       <item>
         <title>R Syntax highlighting</title>
-        <link>https://helio5.netlify.app/en/posts/test-r-syntax-highlight/</link>
+        <link>/en/posts/test-r-syntax-highlight/</link>
         <pubDate>Wed, 02 Dec 2020 10:33:41 +0900</pubDate>
         <author>helio4gm@gmail.com (Helio)</author>
         <atom:modified>Wed, 02 Dec 2020 10:33:41 +0900</atom:modified>
-        <guid>https://helio5.netlify.app/en/posts/test-r-syntax-highlight/</guid>
+        <guid>/en/posts/test-r-syntax-highlight/</guid>
         <description>R MarkdownThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
 When you click the Knit button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:</description>
         
         <dc:creator>Helio</dc:creator>
-        <media:content url="https://helio5.netlify.app/images/feature2/color-palette02.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="/images/feature2/color-palette02.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -95,15 +95,15 @@ When you click the Knit button a document will be generated that includes both c
       
       <item>
         <title>Syntax highlighting</title>
-        <link>https://helio5.netlify.app/en/posts/syntax-highlight/</link>
+        <link>/en/posts/syntax-highlight/</link>
         <pubDate>Wed, 18 Dec 2019 10:33:41 +0900</pubDate>
         <author>helio4gm@gmail.com (Helio)</author>
         <atom:modified>Wed, 18 Dec 2019 10:33:41 +0900</atom:modified>
-        <guid>https://helio5.netlify.app/en/posts/syntax-highlight/</guid>
+        <guid>/en/posts/syntax-highlight/</guid>
         <description>Code Syntax Highlighting Verify the following code blocks render as code blocks and highlight properly. More about tuning syntax highlighting is the Hugo documentation. Diff 1 2 3 4 5 6 7 8 9 10 *** /path/to/original &amp;#39;&amp;#39;timestamp&amp;#39;&amp;#39; --- /path/to/new &amp;#39;&amp;#39;timestamp&amp;#39;&amp;#39; *************** *** 1 **** ! This is a line. --- 1 --- ! This is a replacement line. It is important to spell -removed line +new line *** /path/to/original</description>
         
         <dc:creator>Jeus</dc:creator>
-        <media:content url="https://helio5.netlify.app/images/feature2/color-palette.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="/images/feature2/color-palette.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         

@@ -3,162 +3,162 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://helio5.netlify.app/es/about/</loc>
+    <loc>/es/about/</loc>
     <lastmod>2020-12-04T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://helio5.netlify.app/en/about/"
+                href="/en/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://helio5.netlify.app/es/about/"
+                href="/es/about/"
                 />
   </url>
   
   <url>
-    <loc>https://helio5.netlify.app/es/</loc>
+    <loc>/es/</loc>
     <lastmod>2019-10-19T11:44:14+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://helio5.netlify.app/en/"
+                href="/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://helio5.netlify.app/es/"
+                href="/es/"
                 />
   </url>
   
   <url>
-    <loc>https://helio5.netlify.app/es/archive/</loc>
+    <loc>/es/archive/</loc>
     <lastmod>2019-10-19T11:44:14+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://helio5.netlify.app/en/archive/"
+                href="/en/archive/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://helio5.netlify.app/es/archive/"
+                href="/es/archive/"
                 />
   </url>
   
   <url>
-    <loc>https://helio5.netlify.app/es/gallery/</loc>
+    <loc>/es/gallery/</loc>
     <lastmod>2018-10-12T10:20:16+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://helio5.netlify.app/en/gallery/"
+                href="/en/gallery/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://helio5.netlify.app/es/gallery/"
+                href="/es/gallery/"
                 />
   </url>
   
   <url>
-    <loc>https://helio5.netlify.app/es/gallery/photo/</loc>
+    <loc>/es/gallery/photo/</loc>
     <lastmod>2018-10-12T10:20:16+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://helio5.netlify.app/en/gallery/photo/"
+                href="/en/gallery/photo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://helio5.netlify.app/es/gallery/photo/"
+                href="/es/gallery/photo/"
                 />
   </url>
   
   <url>
-    <loc>https://helio5.netlify.app/es/gallery/cartoon/</loc>
+    <loc>/es/gallery/cartoon/</loc>
     <lastmod>2018-10-11T10:20:16+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://helio5.netlify.app/en/gallery/cartoon/"
+                href="/en/gallery/cartoon/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://helio5.netlify.app/es/gallery/cartoon/"
+                href="/es/gallery/cartoon/"
                 />
   </url>
   
   <url>
-    <loc>https://helio5.netlify.app/es/categories/</loc>
+    <loc>/es/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://helio5.netlify.app/en/categories/"
+                href="/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://helio5.netlify.app/es/categories/"
+                href="/es/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://helio5.netlify.app/es/tags/index/</loc>
+    <loc>/es/tags/index/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://helio5.netlify.app/en/tags/index/"
+                href="/en/tags/index/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://helio5.netlify.app/es/tags/index/"
+                href="/es/tags/index/"
                 />
   </url>
   
   <url>
-    <loc>https://helio5.netlify.app/es/posts/</loc>
+    <loc>/es/posts/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://helio5.netlify.app/en/posts/"
+                href="/en/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://helio5.netlify.app/es/posts/"
+                href="/es/posts/"
                 />
   </url>
   
   <url>
-    <loc>https://helio5.netlify.app/es/series/</loc>
+    <loc>/es/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://helio5.netlify.app/en/series/"
+                href="/en/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://helio5.netlify.app/es/series/"
+                href="/es/series/"
                 />
   </url>
   
   <url>
-    <loc>https://helio5.netlify.app/es/tags/</loc>
+    <loc>/es/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://helio5.netlify.app/en/tags/"
+                href="/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://helio5.netlify.app/es/tags/"
+                href="/es/tags/"
                 />
   </url>
   

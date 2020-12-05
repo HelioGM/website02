@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Presentations on Helio&#39;s Website</title>
-    <link>https://helio5.netlify.app/en/presentation/</link>
+    <link>/en/presentation/</link>
     <description>Recent content in Presentations on Helio&#39;s Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -16,7 +16,7 @@
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Wed, 30 Oct 2019 20:48:10 +0900</lastBuildDate>
     
-        <atom:link href="https://helio5.netlify.app/en/presentation/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="/en/presentation/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -24,15 +24,15 @@
       
       <item>
         <title>Fourth</title>
-        <link>https://helio5.netlify.app/en/presentation/dir/fourth/</link>
+        <link>/en/presentation/dir/fourth/</link>
         <pubDate>Wed, 30 Oct 2019 20:48:10 +0900</pubDate>
         <author>helio4gm@gmail.com (Helio)</author>
         <atom:modified>Wed, 30 Oct 2019 20:48:10 +0900</atom:modified>
-        <guid>https://helio5.netlify.app/en/presentation/dir/fourth/</guid>
+        <guid>/en/presentation/dir/fourth/</guid>
         <description></description>
         
         <dc:creator>Helio</dc:creator>
-        <media:content url="https://helio5.netlify.app/images/feature1/number-four.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="/images/feature1/number-four.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -54,15 +54,15 @@
       
       <item>
         <title>Third</title>
-        <link>https://helio5.netlify.app/en/presentation/third/</link>
+        <link>/en/presentation/third/</link>
         <pubDate>Wed, 30 Oct 2019 20:46:30 +0900</pubDate>
         <author>helio4gm@gmail.com (Helio)</author>
         <atom:modified>Wed, 30 Oct 2019 20:46:30 +0900</atom:modified>
-        <guid>https://helio5.netlify.app/en/presentation/third/</guid>
+        <guid>/en/presentation/third/</guid>
         <description></description>
         
         <dc:creator>Helio</dc:creator>
-        <media:content url="https://helio5.netlify.app/images/feature1/number-three.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="/images/feature1/number-three.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -84,15 +84,15 @@
       
       <item>
         <title>Second</title>
-        <link>https://helio5.netlify.app/en/presentation/second/</link>
+        <link>/en/presentation/second/</link>
         <pubDate>Wed, 30 Oct 2019 20:45:24 +0900</pubDate>
         <author>helio4gm@gmail.com (Helio)</author>
         <atom:modified>Wed, 30 Oct 2019 20:45:24 +0900</atom:modified>
-        <guid>https://helio5.netlify.app/en/presentation/second/</guid>
+        <guid>/en/presentation/second/</guid>
         <description></description>
         
         <dc:creator>Helio</dc:creator>
-        <media:content url="https://helio5.netlify.app/images/feature1/number-two.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="/images/feature1/number-two.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -114,15 +114,15 @@
       
       <item>
         <title>First</title>
-        <link>https://helio5.netlify.app/en/presentation/first/</link>
+        <link>/en/presentation/first/</link>
         <pubDate>Wed, 30 Oct 2019 19:45:20 +0900</pubDate>
         <author>helio4gm@gmail.com (Helio)</author>
         <atom:modified>Wed, 30 Oct 2019 19:45:20 +0900</atom:modified>
-        <guid>https://helio5.netlify.app/en/presentation/first/</guid>
+        <guid>/en/presentation/first/</guid>
         <description></description>
         
         <dc:creator>Helio</dc:creator>
-        <media:content url="https://helio5.netlify.app/images/feature1/number-one.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="/images/feature1/number-one.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         

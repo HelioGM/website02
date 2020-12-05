@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Tags on Version español</title>
-    <link>https://helio5.netlify.app/es/tags/</link>
+    <link>/es/tags/</link>
     <description>Recent content in Tags on Version español</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
@@ -15,7 +15,7 @@
     <webMaster>helio4gm@gmail.com (Helio)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     
-        <atom:link href="https://helio5.netlify.app/es/tags/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="/es/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -23,11 +23,11 @@
       
       <item>
         <title>index</title>
-        <link>https://helio5.netlify.app/es/tags/index/</link>
+        <link>/es/tags/index/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         <author>helio4gm@gmail.com (Helio)</author>
         
-        <guid>https://helio5.netlify.app/es/tags/index/</guid>
+        <guid>/es/tags/index/</guid>
         <description></description>
         
         <dc:creator>Helio</dc:creator>
