@@ -123,7 +123,7 @@
   \postauthor{\par}
       \predate{\centering\large\emph}
   \postdate{\par}
-    \date{2020-12-02T10:33:41+09:00}
+    \date{2020-12-06T10:33:41+09:00}
 
 
 \begin{document}
@@ -535,15 +535,15 @@ TS - TT & 1\tabularnewline
 \subsubsection{Resultados}\label{resultados}}
 
 El siguiente codigo da una respuesta u otra dependiendo si el valor de P
-calculado por la prueba de Kruskal-Wallis es mayor o menor a 0.5.
+calculado por la prueba de Kruskal-Wallis es mayor o menor a 0.05.
 
 \begin{Shaded}
 \begin{Highlighting}[]
 \ControlFlowTok{if}\NormalTok{ (KTMIAd}\OperatorTok{$}\NormalTok{p.value}\OperatorTok{>}\FloatTok{0.05}\NormalTok{) \{}
-\NormalTok{dif=}\StringTok{"Existe diferencia significativa entre los tratamientos (P<0.05)"}
+\NormalTok{dif=}\StringTok{"No existe diferencia significativa entre los tratamientos (P<0.05)"}
 \NormalTok{krustable=}\StringTok{"0"}
 \NormalTok{\} }\ControlFlowTok{else}\NormalTok{ \{}
-\NormalTok{dif=}\StringTok{"No existe diferencia significativa entre los tratamientos (P<0.05)."}
+\NormalTok{dif=}\StringTok{"Existe diferencia significativa entre los tratamientos (P<0.05)."}
 \NormalTok{krustable=}\KeywordTok{kable}\NormalTok{(KrusData[}\DecValTok{1}\OperatorTok{:}\NormalTok{RND,])}
 \NormalTok{\}}
 \NormalTok{dif}
@@ -551,11 +551,14 @@ calculado por la prueba de Kruskal-Wallis es mayor o menor a 0.5.
 \end{Shaded}
 
 \begin{verbatim}
-## [1] "No existe diferencia significativa entre los tratamientos (P<0.05)."
+## [1] "Existe diferencia significativa entre los tratamientos (P<0.05)."
 \end{verbatim}
 
-No existe diferencia significativa entre los tratamientos
-(P\textless{}0.05).
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{krustable}
+\end{Highlighting}
+\end{Shaded}
 
 \begin{longtable}[]{@{}lr@{}}
 \toprule
@@ -574,6 +577,9 @@ TE - TT & 1\tabularnewline
 TS - TT & 1\tabularnewline
 \bottomrule
 \end{longtable}
+
+Existe diferencia significativa entre los tratamientos
+(P\textless{}0.05).
 
 \hypertarget{reporte-de-resultados}{%
 \subsubsection{Reporte de resultados}\label{reporte-de-resultados}}
@@ -596,9 +602,9 @@ TT: & 220 ± 45 & b\tabularnewline
 
 \begin{center}\rule{0.5\linewidth}{\linethickness}\end{center}
 
-\hypertarget{graficos-generador-por-r}{%
-\subsubsection{Graficos generador por
-R}\label{graficos-generador-por-r}}
+\hypertarget{graficos-generados-por-r}{%
+\subsubsection{Graficos generados por
+R}\label{graficos-generados-por-r}}
 
 También se pueden incluir graficos. Por ejemplo, la función
 \textbf{boxplot}.

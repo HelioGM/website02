@@ -1,7 +1,7 @@
 ---
 title: "R Markdown"
-date: 2020-12-02T10:33:41+09:00
-description: "Este es un documento en formato R Markdown."
+date: 2020-12-06T10:33:41+09:00
+description: "Este es un documento en formato R Markdown"
 #output: pdf_document
 draft: false
 hideToc: false
@@ -265,17 +265,17 @@ krustable</code></pre>
 </div>
 <div id="resultados" class="section level3">
 <h3>Resultados</h3>
-<p>El siguiente codigo da una respuesta u otra dependiendo si el valor de P calculado por la prueba de Kruskal-Wallis es mayor o menor a 0.5.</p>
+<p>El siguiente codigo da una respuesta u otra dependiendo si el valor de P calculado por la prueba de Kruskal-Wallis es mayor o menor a 0.05.</p>
 <pre class="r"><code>if (KTMIAd$p.value&gt;0.05) {
-dif=&quot;Existe diferencia significativa entre los tratamientos (P&lt;0.05)&quot;
+dif=&quot;No existe diferencia significativa entre los tratamientos (P&lt;0.05)&quot;
 krustable=&quot;0&quot;
 } else {
-dif=&quot;No existe diferencia significativa entre los tratamientos (P&lt;0.05).&quot;
+dif=&quot;Existe diferencia significativa entre los tratamientos (P&lt;0.05).&quot;
 krustable=kable(KrusData[1:RND,])
 }
 dif</code></pre>
-<pre><code>## [1] &quot;No existe diferencia significativa entre los tratamientos (P&lt;0.05).&quot;</code></pre>
-<p>No existe diferencia significativa entre los tratamientos (P&lt;0.05).</p>
+<pre><code>## [1] &quot;Existe diferencia significativa entre los tratamientos (P&lt;0.05).&quot;</code></pre>
+<pre class="r"><code>krustable</code></pre>
 <table>
 <thead>
 <tr class="header">
@@ -326,6 +326,7 @@ dif</code></pre>
 </tr>
 </tbody>
 </table>
+<p>Existe diferencia significativa entre los tratamientos (P&lt;0.05).</p>
 </div>
 <div id="reporte-de-resultados" class="section level3">
 <h3>Reporte de resultados</h3>
@@ -368,8 +369,8 @@ dif</code></pre>
 </table>
 <hr />
 </div>
-<div id="graficos-generador-por-r" class="section level3">
-<h3>Graficos generador por R</h3>
+<div id="graficos-generados-por-r" class="section level3">
+<h3>Graficos generados por R</h3>
 <p>También se pueden incluir graficos. Por ejemplo, la función <strong>boxplot</strong>.</p>
 <pre class="r"><code>boxplot(Sub.Eggs.MIAd$EggsP ~ Sub.Eggs.MIAd$Nger, main = &quot;MIAd&quot;, xlab = &quot;Germplasm&quot;, ylab = &quot;Eggs per plant&quot;)</code></pre>
 <p><img src="/es/posts/Post-en-archivo-RMD_files/figure-html/pressure-1.png" width="672" /></p>

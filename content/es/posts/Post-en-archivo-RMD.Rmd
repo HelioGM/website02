@@ -1,7 +1,7 @@
 ---
 title: "R Markdown"
-date: 2020-12-02T10:33:41+09:00
-description: "Este es un documento en formato R Markdown."
+date: 2020-12-06T10:33:41+09:00
+description: "Este es un documento en formato R Markdown"
 #output: pdf_document
 draft: false
 hideToc: false
@@ -201,23 +201,24 @@ DTMIAd$dtres
 
 ### Resultados
 
-El siguiente codigo da una respuesta u otra dependiendo si el valor de P calculado por la prueba de Kruskal-Wallis es mayor o menor a 0.5.
+El siguiente codigo da una respuesta u otra dependiendo si el valor de P calculado por la prueba de Kruskal-Wallis es mayor o menor a 0.05.
 
 ```{r echo=TRUE}
 
 if (KTMIAd$p.value>0.05) {
-dif="Existe diferencia significativa entre los tratamientos (P<0.05)"
+dif="No existe diferencia significativa entre los tratamientos (P<0.05)"
 krustable="0"
 } else {
-dif="No existe diferencia significativa entre los tratamientos (P<0.05)."
+dif="Existe diferencia significativa entre los tratamientos (P<0.05)."
 krustable=kable(KrusData[1:RND,])
 }
 dif
+krustable
 
 ```
 
 `r dif` 
-`r krustable` 
+
 
 ### Reporte de resultados
 
@@ -235,7 +236,7 @@ TT: |`r Me.EP.MIAd.TT` ± `r Se.EP.MIAd.TT` | b|
 
 
 
-### Graficos generador por R
+### Graficos generados por R
 
 También se pueden incluir graficos. Por ejemplo, la función **boxplot**.
 

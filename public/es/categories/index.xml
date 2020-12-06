@@ -14,7 +14,7 @@
     <managingEditor>helio4gm@gmail.com (Helio)</managingEditor>
     <webMaster>helio4gm@gmail.com (Helio)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Wed, 02 Dec 2020 10:33:41 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 06 Dec 2020 10:33:41 +0900</lastBuildDate>
     
         <atom:link href="/es/categories/index.xml" rel="self" type="application/rss+xml" />
     
@@ -25,7 +25,7 @@
       <item>
         <title>Test</title>
         <link>/es/categories/test/</link>
-        <pubDate>Wed, 02 Dec 2020 10:33:41 +0900</pubDate>
+        <pubDate>Sun, 06 Dec 2020 10:33:41 +0900</pubDate>
         <author>helio4gm@gmail.com (Helio)</author>
         
         <guid>/es/categories/test/</guid>
