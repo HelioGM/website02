@@ -14,7 +14,7 @@
     <managingEditor>helio4gm@gmail.com (Helio)</managingEditor>
     <webMaster>helio4gm@gmail.com (Helio)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Wed, 18 Dec 2019 10:33:41 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 02 Dec 2020 10:33:41 +0900</lastBuildDate>
     
         <atom:link href="/es/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     
@@ -23,16 +23,17 @@
 
       
       <item>
-        <title>Syntax highlighting</title>
-        <link>/es/posts/syntax-highlight/</link>
-        <pubDate>Wed, 18 Dec 2019 10:33:41 +0900</pubDate>
+        <title>R Syntax highlighting</title>
+        <link>/es/posts/post-en-archivo-rmd/</link>
+        <pubDate>Wed, 02 Dec 2020 10:33:41 +0900</pubDate>
         <author>helio4gm@gmail.com (Helio)</author>
-        <atom:modified>Wed, 18 Dec 2019 10:33:41 +0900</atom:modified>
-        <guid>/es/posts/syntax-highlight/</guid>
-        <description>Code Syntax Highlighting Verify the following code blocks render as code blocks and highlight properly. More about tuning syntax highlighting is the Hugo documentation. Diff 1 2 3 4 5 6 7 8 9 10 *** /path/to/original &amp;#39;&amp;#39;timestamp&amp;#39;&amp;#39; --- /path/to/new &amp;#39;&amp;#39;timestamp&amp;#39;&amp;#39; *************** *** 1 **** ! This is a line. --- 1 --- ! This is a replacement line. It is important to spell -removed line +new line *** /path/to/original</description>
+        <atom:modified>Wed, 02 Dec 2020 10:33:41 +0900</atom:modified>
+        <guid>/es/posts/post-en-archivo-rmd/</guid>
+        <description>body {text-align: justify}R MarkdownEste es un documento en formato R Markdown. Markdown es un sintaxis de formato simple para crear documentos HTML, PDF, y MS Word. Para más detalles de como utilizar R Markdown visita http://rmarkdown.rstudio.com.
+Cuando presoinas el botón Knit, se genera un documento que incluye tanto el contenido como el como el resultado de cualquier trozo de codigo R incrustado dentro del documento.</description>
         
-        <dc:creator>Jeus</dc:creator>
-        <media:content url="/images/feature2/color-palette.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <dc:creator>Helio</dc:creator>
+        <media:content url="/images/feature2/color-palette02.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
