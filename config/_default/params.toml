@@ -107,7 +107,7 @@ fullContents = false
 # comment
 enableComment = true
 disqus_shortname = "helio5"
-commento = false
+commento = true
 
 [telegram]
   enable = false
