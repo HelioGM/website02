@@ -2,14 +2,14 @@
 header:
   - type: typewriter
     methods:
-      - typeString: Hello world!
-      - pauseFor: 2500
+      - typeString: HOM
+      - pauseFor: 100
       - deleteAll: true
-      - typeString: Strings can be removed
-      - pauseFor: 2500
-      - deleteChars: 7
-      - typeString: <strong>altered!</strong>
-      - pauseFor: 2500
+      - typeString: Hom 
+      - pauseFor: 100
+      - deleteChars: 3
+      - typeString: <strong>Homepage</strong>
+      - pauseFor: 10000
     options:
       loop: true
       autoStart: false
@@ -25,9 +25,9 @@ header:
     paddingY: 0
     align: center
     title:
-      - Home
+      - Homepage
     subtitle:
-      - The world’s fastest framework for building websites
+      - 
     titleColor: 
     titleShadow: true
     titleFontSize: 44
@@ -46,7 +46,7 @@ header:
     paddingY: 0
     align: center
     title:
-      -
+      - Homepage
     subtitle:
       -
     titleColor:

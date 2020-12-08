@@ -14,7 +14,7 @@
     <managingEditor>helio4gm@gmail.com (Helio)</managingEditor>
     <webMaster>helio4gm@gmail.com (Helio)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Thu, 03 Dec 2020 09:29:25 -0800</lastBuildDate>
+    <lastBuildDate>Mon, 07 Dec 2020 20:39:49 -0800</lastBuildDate>
     
         <atom:link href="/en/index.xml" rel="self" type="application/rss+xml" />
     
@@ -44,16 +44,16 @@
 
       
       <item>
-        <title>2020 12 03 Nuevopost</title>
-        <link>/en/posts/test-2020-12-03-nuevopost/</link>
-        <pubDate>Thu, 03 Dec 2020 09:29:25 -0800</pubDate>
+        <title>Meme02</title>
+        <link>/en/posts/2020-12-08-meme02/</link>
+        <pubDate>Mon, 07 Dec 2020 20:39:49 -0800</pubDate>
         <author>helio4gm@gmail.com (Helio)</author>
-        <atom:modified>Thu, 03 Dec 2020 09:29:25 -0800</atom:modified>
-        <guid>/en/posts/test-2020-12-03-nuevopost/</guid>
-        <description></description>
+        <atom:modified>Mon, 07 Dec 2020 20:39:49 -0800</atom:modified>
+        <guid>/en/posts/2020-12-08-meme02/</guid>
+        <description>Sample Image: Image with title, caption, alt, ...   </description>
         
         <dc:creator>Helio</dc:creator>
-        
+        <media:content url="/images/nuevas/Ej57kOZXgAAXLGN.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -74,16 +74,50 @@
       </item>
       
       <item>
+        <title>meme</title>
+        <link>/en/posts/test-2020-12-03-nuevopost/</link>
+        <pubDate>Mon, 07 Dec 2020 20:36:49 -0800</pubDate>
+        <author>helio4gm@gmail.com (Helio)</author>
+        <atom:modified>Mon, 07 Dec 2020 20:36:49 -0800</atom:modified>
+        <guid>/en/posts/test-2020-12-03-nuevopost/</guid>
+        <description>Sample Image: Image with title, caption, alt, ...   </description>
+        
+        <dc:creator>Helio</dc:creator>
+        <media:content url="/images/nuevas/20201205_Prueba_RMD01.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>hugo</category>
+            
+          
+        
+        
+          
+            
+              <category>hugo</category>
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+      <item>
         <title>Nuevo</title>
-        <link>/en/post/2020-12-03-nuevo/</link>
+        <link>/en/posts/2020-12-03-nuevo/</link>
         <pubDate>Thu, 03 Dec 2020 00:18:42 -0800</pubDate>
         <author>helio4gm@gmail.com (Helio)</author>
         <atom:modified>Thu, 03 Dec 2020 00:18:42 -0800</atom:modified>
-        <guid>/en/post/2020-12-03-nuevo/</guid>
-        <description></description>
+        <guid>/en/posts/2020-12-03-nuevo/</guid>
+        <description>  </description>
         
         <dc:creator>Helio</dc:creator>
-        
+        <media:content url="/images/nuevas/98331050_153125359583231_3517623115012112384_o.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         

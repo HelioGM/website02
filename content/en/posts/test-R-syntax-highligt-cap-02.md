@@ -1,5 +1,6 @@
 ---
 title: "R Syntax highlighting cap 02"
+subtitle: "Subtitulo"
 date: 2020-12-03T10:33:41+09:00
 description: "Syntax highlighting test"
 draft: false
@@ -8,7 +9,7 @@ enableToc: true
 enableTocContent: false
 author: Helio
 authorEmoji: 🎅
-pinned: true
+pinned: false
 tags:
 - hugo
 series:
