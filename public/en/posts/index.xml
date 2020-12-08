@@ -14,13 +14,43 @@
     <managingEditor>helio4gm@gmail.com (Helio)</managingEditor>
     <webMaster>helio4gm@gmail.com (Helio)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Mon, 07 Dec 2020 20:39:49 -0800</lastBuildDate>
+    <lastBuildDate>Mon, 07 Dec 2020 21:37:44 -0800</lastBuildDate>
     
         <atom:link href="/en/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     
 
+      
+      <item>
+        <title>2020 12 07 Shiny</title>
+        <link>/en/posts/2020-12-07-shiny/</link>
+        <pubDate>Mon, 07 Dec 2020 21:37:44 -0800</pubDate>
+        <author>helio4gm@gmail.com (Helio)</author>
+        <atom:modified>Mon, 07 Dec 2020 21:37:44 -0800</atom:modified>
+        <guid>/en/posts/2020-12-07-shiny/</guid>
+        <description>library(DT)datatable(iris, options = list(pageLength = 5))</description>
+        
+        <dc:creator>Helio</dc:creator>
+        
+        
+        
+        
+          
+            
+          
+        
+        
+          
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
       
       <item>
         <title>Meme02</title>

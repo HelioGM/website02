@@ -14,7 +14,7 @@
   
   <url>
     <loc>/en/</loc>
-    <lastmod>2020-12-07T20:39:49-08:00</lastmod>
+    <lastmod>2020-12-07T21:37:44-08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -28,13 +28,13 @@
   </url>
   
   <url>
-    <loc>/en/posts/2020-12-08-meme02/</loc>
-    <lastmod>2020-12-07T20:39:49-08:00</lastmod>
+    <loc>/en/posts/2020-12-07-shiny/</loc>
+    <lastmod>2020-12-07T21:37:44-08:00</lastmod>
   </url>
   
   <url>
     <loc>/en/posts/</loc>
-    <lastmod>2020-12-07T20:39:49-08:00</lastmod>
+    <lastmod>2020-12-07T21:37:44-08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -45,6 +45,11 @@
                 hreflang="en"
                 href="/en/posts/"
                 />
+  </url>
+  
+  <url>
+    <loc>/en/posts/2020-12-08-meme02/</loc>
+    <lastmod>2020-12-07T20:39:49-08:00</lastmod>
   </url>
   
   <url>

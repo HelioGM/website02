@@ -105,9 +105,9 @@ updateFrequency = ""
 fullContents = false
 
 # comment
-enableComment = true
-disqus_shortname = "helio5"
-commento = true
+enableComment = false
+disqus_shortname = ""
+commento = false
 
 [telegram]
   enable = false
