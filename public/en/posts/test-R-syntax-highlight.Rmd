@@ -9,6 +9,8 @@ enableTocContent: false
 author: Helio
 authorEmoji: 🎅
 pinned: false
+output: html_document
+runtime: shiny
 tags:
 - hugo
 series:
@@ -22,6 +24,12 @@ image: images/feature2/color-palette02.png
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+```{r eruptions, echo=FALSE}
+library(DT)
+datatable(iris, options = list(pageLength = 5))
 ```
 
 ## R Markdown
