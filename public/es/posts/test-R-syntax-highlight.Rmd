@@ -9,8 +9,6 @@ enableTocContent: false
 author: Helio
 authorEmoji: 🎅
 pinned: false
-output: html_document
-runtime: shiny
 tags:
 - hugo
 series:
@@ -27,10 +25,6 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 
-```{r eruptions, echo=FALSE}
-library(DT)
-datatable(iris, options = list(pageLength = 5))
-```
 
 ## R Markdown
 
