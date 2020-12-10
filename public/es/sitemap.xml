@@ -128,21 +128,6 @@
   </url>
   
   <url>
-    <loc>/es/gallery/</loc>
-    <lastmod>2018-10-12T10:20:16+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/gallery/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/gallery/"
-                />
-  </url>
-  
-  <url>
     <loc>/es/gallery/photo/</loc>
     <lastmod>2018-10-12T10:20:16+09:00</lastmod>
     <xhtml:link
@@ -154,6 +139,21 @@
                 rel="alternate"
                 hreflang="es"
                 href="/es/gallery/photo/"
+                />
+  </url>
+  
+  <url>
+    <loc>/es/gallery/</loc>
+    <lastmod>2018-10-12T10:20:16+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/gallery/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/gallery/"
                 />
   </url>
   

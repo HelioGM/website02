@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Carpintería, Cocinas on Helio&#39;s Website</title>
+    <link>/en/tags/carpinter%C3%ADa-cocinas/</link>
+    <description>Recent content in Carpintería, Cocinas on Helio&#39;s Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>helio4gm@gmail.com (Helio)</managingEditor>
+    <webMaster>helio4gm@gmail.com (Helio)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Mon, 07 Dec 2020 21:37:44 -0800</lastBuildDate>
+    
+        <atom:link href="/en/tags/carpinter%C3%ADa-cocinas/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>Carpintería</title>
+        <link>/en/posts/2020-12-07-shiny/</link>
+        <pubDate>Mon, 07 Dec 2020 21:37:44 -0800</pubDate>
+        <author>helio4gm@gmail.com (Helio)</author>
+        <atom:modified>Mon, 07 Dec 2020 21:37:44 -0800</atom:modified>
+        <guid>/en/posts/2020-12-07-shiny/</guid>
+        <description>Sample Image: Image with title, caption, alt, ...   Sample Image: Image with title, caption, alt, ...   Sample Image: Image with title, caption, alt, ...   Sample Image: Image with title, caption, alt, ...      </description>
+        
+        <dc:creator>Helio</dc:creator>
+        <media:content url="/images/nuevas/cocina_01.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>Carpintería, Cocinas</category>
+            
+          
+        
+        
+          
+            
+          
+        
+        
+          
+            
+              <category>Carpintería</category>
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
