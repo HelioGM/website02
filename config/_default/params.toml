@@ -4,7 +4,7 @@ description = "The Zzo theme Descripcion de la pagina for Hugo example site."
 custom_css = []
 custom_js = []
 useFaviconGenerator = true # https://www.favicon-generator.org/
-meta_image = "images/nuevas/android-icon-512x512.png"
+meta_image = "images/nuevas/Logo.png"
 themecolor = ""
 
 themeOptions = ["dark", "light", "hacker", "solarized", "kimbie"]
