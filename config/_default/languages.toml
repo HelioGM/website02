@@ -6,7 +6,7 @@
   contentdir = "content/en"
 
 [es]
-  title = "Version español"
+  title = "Helio"
   languageName = "Español"
   weight = 2
   languagedir = "ltr"
