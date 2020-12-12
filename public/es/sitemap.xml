@@ -43,12 +43,12 @@
   </url>
   
   <url>
-    <loc>/es/tags/cocinas/</loc>
+    <loc>/es/carpinteria/carpinteria_01_cocinas/</loc>
     <lastmod>2020-12-12T20:11:00-08:00</lastmod>
   </url>
   
   <url>
-    <loc>/es/carpinteria/carpinteria_01_cocinas/</loc>
+    <loc>/es/tags/cocinas/</loc>
     <lastmod>2020-12-12T20:11:00-08:00</lastmod>
   </url>
   
@@ -378,6 +378,21 @@
   </url>
   
   <url>
+    <loc>/es/publication/book/book_any_folder_name_1/</loc>
+    <lastmod>2019-10-29T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/publication/book/book_any_folder_name_1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/publication/book/book_any_folder_name_1/"
+                />
+  </url>
+  
+  <url>
     <loc>/es/archive/</loc>
     <lastmod>2019-10-19T11:44:14+09:00</lastmod>
     <xhtml:link
@@ -404,21 +419,6 @@
                 rel="alternate"
                 hreflang="es"
                 href="/es/publication/article/article_any_folder_name_1/"
-                />
-  </url>
-  
-  <url>
-    <loc>/es/publication/book/book_any_folder_name_1/</loc>
-    <lastmod>2017-06-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/publication/book/book_any_folder_name_1/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/publication/book/book_any_folder_name_1/"
                 />
   </url>
   

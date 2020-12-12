@@ -1,5 +1,5 @@
 ---
-title: "Cocinas"
+title: "Carpintería: Cocinas"
 subtitle: ""
 date: 2020-12-12T20:11:00-08:00
 description: Algunas fotos de cocinas

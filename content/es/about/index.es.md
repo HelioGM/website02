@@ -32,7 +32,7 @@ Este es un sitio web orientado, principalmente, a contener herramientas informat
 	title="StatGraphicsLogo" width="30%" height="30%" />
 
 * **SPSS.** https://www.ibm.com/analytics/spss-statistics-software/
-<img src="http://2.bp.blogspot.com/-WeySY27se28/VWQOnzMdO1I/AAAAAAAAMQs/1M1FYNVqM4U/s1600/IBM_SPSS_Logo.png" alt="SPSSLogo"
+<img src="images/nuevas/spss-logo.png" alt="SPSSLogo"
 	title="SPSSLogo" width="10%" height="10%" />
 
 

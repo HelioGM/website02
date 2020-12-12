@@ -2,7 +2,7 @@ baseURL = "https://helio5.netlify.app/"
 title = "Homepage"
 theme = "zzo"
 
-defaultContentLanguage = "en"
+defaultContentLanguage = "es"
 defaultContentLanguageInSubdir = true
 hasCJKLanguage = true
 
@@ -12,7 +12,7 @@ buildFuture = true
 copyright = "&copy;{year}, All Rights Reserved"
 timeout = 10000
 enableEmoji = true
-paginate = 13
+paginate = 9
 rssLimit = 100
 
 enableGitInfo = false
