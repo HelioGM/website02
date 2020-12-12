@@ -15,7 +15,7 @@ series:
 - Demo
 categories:
 - Música
-image: images/nuevas/think.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Antu_soundcloud.svg/1200px-Antu_soundcloud.svg.png
 ---
 
 ### Lista de reproducción de SoundCloud:
