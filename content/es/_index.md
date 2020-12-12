@@ -25,9 +25,9 @@ header:
     paddingY: 0
     align: center
     title:
-      - Inicio
+      - Página de inicio
     subtitle:
-      - The world’s fastest framework for building websites
+      - 
     titleColor: 
     titleShadow: true
     titleFontSize: 44

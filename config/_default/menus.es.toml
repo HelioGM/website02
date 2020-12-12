@@ -1,28 +1,57 @@
 [[main]]
-  identifier = "about"
-  name = "Acerca de"
-  url = "about"
+  identifier = "posts"
+  name = "📆Posts"
+  url = "posts"
   weight = 1
-
+  
 [[main]]
-  identifier = "archive"
-  name = "Archivo"
-  url = "archive"
+  identifier = "publication"
+  name = "📰Publicaciones"
+  url = "publication"
   weight = 2
 
 [[main]]
-  identifier = "gallery"
-  name = "Galeria"
-  url = "gallery"
+  identifier = "programacion"
+  name = "💻Programación"
+  url = "programacion"
   weight = 3
+  
+[[main]]
+  identifier = "musica"
+  name = "🎧Música"
+  url = "musica"
+  weight = 4  
+
+[[main]]
+  identifier = "carpinteria"
+  name = "📏Carpintería"
+  url = "carpinteria"
+  weight = 5
+
+[[main]]
+  identifier = "archive"
+  name = "📅Archivo"
+  url = "archive"
+  weight = 6
+  
+[[main]]
+  identifier = "gallery"
+  name = "📷Galeria"
+  url = "gallery"
+  weight = 7
     
 [[main]]
   parent = "gallery"
   name = "Fotos"
-  url = "gallery/mine"
-
+  url = "gallery/photo"
+  
 [[main]]
-  identifier = "posts"
-  name = "posts"
-  url = "posts"
-  weight = 4
+  parent = "gallery"
+  name = "Cartoon"
+  url = "gallery/cartoon"
+  
+[[main]]
+  identifier = "about"
+  name = "Acerca de"
+  url = "about"
+  weight = 8

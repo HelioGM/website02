@@ -14,7 +14,7 @@
     <managingEditor>helio4gm@gmail.com (Helio)</managingEditor>
     <webMaster>helio4gm@gmail.com (Helio)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Sun, 06 Dec 2020 10:33:41 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 12 Dec 2020 20:11:00 -0800</lastBuildDate>
     
         <atom:link href="/es/series/index.xml" rel="self" type="application/rss+xml" />
     
@@ -23,12 +23,84 @@
 
       
       <item>
-        <title>RMD</title>
-        <link>/es/series/rmd/</link>
-        <pubDate>Sun, 06 Dec 2020 10:33:41 +0900</pubDate>
+        <title>Carpintería</title>
+        <link>/es/series/carpinter%C3%ADa/</link>
+        <pubDate>Sat, 12 Dec 2020 20:11:00 -0800</pubDate>
         <author>helio4gm@gmail.com (Helio)</author>
         
-        <guid>/es/series/rmd/</guid>
+        <guid>/es/series/carpinter%C3%ADa/</guid>
+        <description></description>
+        
+        <dc:creator>Helio</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Markdown</title>
+        <link>/es/series/markdown/</link>
+        <pubDate>Fri, 11 Dec 2020 23:45:00 -0800</pubDate>
+        <author>helio4gm@gmail.com (Helio)</author>
+        
+        <guid>/es/series/markdown/</guid>
+        <description></description>
+        
+        <dc:creator>Helio</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Pruebas</title>
+        <link>/es/series/pruebas/</link>
+        <pubDate>Fri, 11 Dec 2020 23:45:00 -0800</pubDate>
+        <author>helio4gm@gmail.com (Helio)</author>
+        
+        <guid>/es/series/pruebas/</guid>
+        <description></description>
+        
+        <dc:creator>Helio</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Demo</title>
+        <link>/es/series/demo/</link>
+        <pubDate>Fri, 11 Dec 2020 23:44:00 -0800</pubDate>
+        <author>helio4gm@gmail.com (Helio)</author>
+        
+        <guid>/es/series/demo/</guid>
+        <description></description>
+        
+        <dc:creator>Helio</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>RMarkdown</title>
+        <link>/es/series/rmarkdown/</link>
+        <pubDate>Fri, 11 Dec 2020 23:46:00 +0900</pubDate>
+        <author>helio4gm@gmail.com (Helio)</author>
+        
+        <guid>/es/series/rmarkdown/</guid>
         <description></description>
         
         <dc:creator>Helio</dc:creator>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Música on Version español</title>
+    <link>/es/tags/m%C3%BAsica/</link>
+    <description>Recent content in Música on Version español</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <managingEditor>helio4gm@gmail.com (Helio)</managingEditor>
+    <webMaster>helio4gm@gmail.com (Helio)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    
+        <atom:link href="/es/tags/m%C3%BAsica/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>Música</title>
+        <link>/es/musica/</link>
+        <pubDate>Fri, 11 Dec 2020 23:44:00 -0800</pubDate>
+        <author>helio4gm@gmail.com (Helio)</author>
+        
+        <guid>/es/musica/</guid>
+        <description></description>
+        
+        <dc:creator>Helio</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>Música</category>
+            
+          
+        
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

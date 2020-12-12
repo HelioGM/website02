@@ -30,16 +30,46 @@
   <url>
     <loc>/en/publication/misc/misc_any_folder_name_1/</loc>
     <lastmod>2020-12-10T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/publication/misc/misc_any_folder_name_1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/publication/misc/misc_any_folder_name_1/"
+                />
   </url>
   
   <url>
     <loc>/en/publication/</loc>
     <lastmod>2020-12-10T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/publication/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/publication/"
+                />
   </url>
   
   <url>
     <loc>/en/series/carpinter%C3%ADa/</loc>
     <lastmod>2020-12-07T21:37:44-08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/series/carpinter%C3%ADa/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/series/carpinter%C3%ADa/"
+                />
   </url>
   
   <url>
@@ -150,16 +180,46 @@
   <url>
     <loc>/en/publication/article/</loc>
     <lastmod>2020-03-05T14:08:48+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/publication/article/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/publication/article/"
+                />
   </url>
   
   <url>
     <loc>/en/publication/book/</loc>
     <lastmod>2020-03-05T14:08:48+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/publication/book/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/publication/book/"
+                />
   </url>
   
   <url>
     <loc>/en/publication/misc/</loc>
     <lastmod>2020-03-05T14:08:48+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/publication/misc/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/publication/misc/"
+                />
   </url>
   
   <url>
@@ -195,6 +255,16 @@
   <url>
     <loc>/en/tags/markdown/</loc>
     <lastmod>2019-12-20T12:00:06+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/tags/markdown/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tags/markdown/"
+                />
   </url>
   
   <url>
@@ -435,11 +505,31 @@
   <url>
     <loc>/en/publication/article/article_any_folder_name_1/</loc>
     <lastmod>2018-06-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/publication/article/article_any_folder_name_1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/publication/article/article_any_folder_name_1/"
+                />
   </url>
   
   <url>
     <loc>/en/publication/book/book_any_folder_name_1/</loc>
     <lastmod>2017-06-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/publication/book/book_any_folder_name_1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/publication/book/book_any_folder_name_1/"
+                />
   </url>
   
   <url>

@@ -14,7 +14,7 @@
     <managingEditor>helio4gm@gmail.com (Helio)</managingEditor>
     <webMaster>helio4gm@gmail.com (Helio)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Fri, 12 Oct 2018 10:20:16 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 11 Dec 2020 23:40:00 -0800</lastBuildDate>
     
         <atom:link href="/es/gallery/index.xml" rel="self" type="application/rss+xml" />
     
@@ -23,16 +23,16 @@
 
       
       <item>
-        <title>Cocinas</title>
-        <link>/es/gallery/photo/</link>
-        <pubDate>Fri, 12 Oct 2018 10:20:16 +0900</pubDate>
+        <title>Cartoon</title>
+        <link>/es/gallery/cartoon/</link>
+        <pubDate>Fri, 11 Dec 2020 23:40:00 -0800</pubDate>
         <author>helio4gm@gmail.com (Helio)</author>
-        <atom:modified>Fri, 12 Oct 2018 10:20:16 +0900</atom:modified>
-        <guid>/es/gallery/photo/</guid>
-        <description>   </description>
+        <atom:modified>Fri, 11 Dec 2020 23:40:00 -0800</atom:modified>
+        <guid>/es/gallery/cartoon/</guid>
+        <description></description>
         
         <dc:creator>Helio</dc:creator>
-        <media:content url="/images/nuevas/cocina_01.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="/images/nuevas/Ej57kOZXgAAXLGN.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -41,16 +41,16 @@
       </item>
       
       <item>
-        <title>Cartoon</title>
-        <link>/es/gallery/cartoon/</link>
-        <pubDate>Thu, 11 Oct 2018 10:20:16 +0900</pubDate>
+        <title>Cocinas</title>
+        <link>/es/gallery/photo/</link>
+        <pubDate>Fri, 11 Dec 2020 23:40:00 -0800</pubDate>
         <author>helio4gm@gmail.com (Helio)</author>
-        <atom:modified>Thu, 11 Oct 2018 10:20:16 +0900</atom:modified>
-        <guid>/es/gallery/cartoon/</guid>
+        <atom:modified>Fri, 11 Dec 2020 23:40:00 -0800</atom:modified>
+        <guid>/es/gallery/photo/</guid>
         <description></description>
         
         <dc:creator>Helio</dc:creator>
-        
+        <media:content url="/images/nuevas/cocina_01.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         

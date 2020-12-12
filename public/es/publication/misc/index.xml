@@ -23,16 +23,16 @@
 
       
       <item>
-        <title>Book Review: Duis vulputate</title>
+        <title>Carpintería</title>
         <link>/es/publication/misc/misc_any_folder_name_1/</link>
-        <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
+        <pubDate>Thu, 10 Dec 2020 00:00:00 +0000</pubDate>
         <author>helio4gm@gmail.com (Helio)</author>
-        <atom:modified>Tue, 01 Nov 2016 00:00:00 +0000</atom:modified>
+        <atom:modified>Thu, 10 Dec 2020 00:00:00 +0000</atom:modified>
         <guid>/es/publication/misc/misc_any_folder_name_1/</guid>
-        <description></description>
+        <description>Sample Image: Image with title, caption, alt, ...   Sample Image: Image with title, caption, alt, ...   Sample Image: Image with title, caption, alt, ...   Sample Image: Image with title, caption, alt, ...      </description>
         
         <dc:creator>Helio</dc:creator>
-        
+        <media:content url="/images/nuevas/cocina_01.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
