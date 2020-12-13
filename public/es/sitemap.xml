@@ -268,6 +268,36 @@
   </url>
   
   <url>
+    <loc>/es/publication/misc/misc_any_folder_name_1/</loc>
+    <lastmod>2020-12-12T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/publication/misc/misc_any_folder_name_1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/publication/misc/misc_any_folder_name_1/"
+                />
+  </url>
+  
+  <url>
+    <loc>/es/publication/</loc>
+    <lastmod>2020-12-12T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/publication/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/publication/"
+                />
+  </url>
+  
+  <url>
     <loc>/es/tags/estad%C3%ADstica/</loc>
     <lastmod>2020-12-11T23:46:00+09:00</lastmod>
   </url>
@@ -285,36 +315,6 @@
   <url>
     <loc>/es/programacion/post-en-archivo-rmd/</loc>
     <lastmod>2020-12-11T23:46:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/es/publication/misc/misc_any_folder_name_1/</loc>
-    <lastmod>2020-12-10T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/publication/misc/misc_any_folder_name_1/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/publication/misc/misc_any_folder_name_1/"
-                />
-  </url>
-  
-  <url>
-    <loc>/es/publication/</loc>
-    <lastmod>2020-12-10T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/publication/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/publication/"
-                />
   </url>
   
   <url>
