@@ -15,10 +15,13 @@ ENTRYTYPE: "misc"
 output:
   blogdown::html_page:
     toc: true
-enableToc: true
+enableToc: false
 enableWhoami: True
 pinned: true
 publishDate: "2020-12-12"
+libraries:
+- katex
+math: true
 image:  images/nuevas/Logo.png
 
 ---
@@ -247,7 +250,7 @@ influence the fruit quality. (iv) The maximum multiplication rate, the
 maximum population density and the equilibrium density values of both
 *Meloidogyne* species were lower in grafted than ungrafted watermelon.
 (v) In the plastic greenhouse experiment, the nematode densities in soil
-at transplantation ranged from 1 to 53 J2 per 100 cm$^{3}$ of soil in
+at transplantation ranged from 1 to 53 J2 per 100 cm^3^ of soil in
 2017 and did not differ between grafted and ungrafted watermelons. At
 the end of the crop, the galling index and the number of eggs per plant
 was higher in ungrafted than in grafted watermelon both years. The *C.
@@ -291,13 +294,13 @@ resistant to the *M. incognita* isolates and from highly resistant to
 susceptible against *M. javanica* isolates. (ii) The maximum
 multiplication rate of *M. javanica* on the ungrafted or grafted
 eggplant were 270 and 49, respectively, and the equilibrium density were
-1318 and 2056 eggs and J2 per 100 cm$^{3}$ soil, respectively. The
-tolerance of the ungrafted eggplant was 10.9 J2 per 100 cm$^{3}$ soil,
+1318 and 2056 eggs and J2 per 100 cm^3^ soil, respectively. The
+tolerance of the ungrafted eggplant was 10.9 J2 per 100 cm^3^ soil,
 and the minimum relative dry shoot biomass was 0.76. (iii) The
 population growth rate of *M. incognita* on eggplant cv. Cristal
 differed from that of the *S. torvum* cultivars in both cropping
 seasons. (iv) Nematode population densities at transplantation in 2017
-ranged from 2 to 378 J2 per 100 cm$^{3}$ of soil and did not differ
+ranged from 2 to 378 J2 per 100 cm^3^ of soil and did not differ
 between ungrafted and grafted eggplant. At the end of each crop, higher
 galling index and number of nematodes in soil and in roots were
 registered in ungrafted than grafted eggplant. The grafted eggplant
@@ -314,10 +317,12 @@ the two *Meloidogyne* species irrespective of the (a)virulence status,
 and revealed that the infective and reproductive fitness of the nematode
 decrease without having been selected for virulence.
 
+------------------------------------------------------------------------
+
 General introduction {#general-introduction .unnumbered}
 ====================
 
-![](introduction.png){#fig:introduction width="100%"}
+![](https://lh3.googleusercontent.com/pw/ACtC-3chWku17BouslTi3TwtIApAxojdtSzOiwJZGg3cy2s_2bxOENN2y7XXghkCUig-QLU08ClMFoQ8nR0pGoipswLW4mKYhxkWF8OsUNmiEeoXY5C8Czwt3htg1Xvm9FY0frujYYERbLFkiKugtyKLIgw=w1058-h868-no?authuser=3){#fig:introduction width="100%"}
 
 ------------------------------------------------------------------------
 
@@ -373,8 +378,8 @@ juveniles develop into males. Interestingly, some studies have found to
 increase stimulation towards maleness by cropping several cucurbit
 species [@Fassuliotis1970; @Walters2006; @ExpositoA.2019c].
 
-```{r LifeCycle03, fig.cap="Diagram of the life cycle of the root-knot nematode, *Meloidogyne*. J2: second-stage juvenile; J3: third-stage juvenile; J4: fourth-stage juvenile (adapted from @moens2009meloidogyne).", echo=FALSE, out.width = "50%"}
-knitr::include_graphics("LifeCycle03.png")
+```{r LifeCycle03, fig.cap="Diagram of the life cycle of the root-knot nematode, *Meloidogyne*. J2: second-stage juvenile; J3: third-stage juvenile; J4: fourth-stage juvenile (adapted from @moens2009meloidogyne).", echo=FALSE, out.width = "80%"}
+knitr::include_graphics("https://lh3.googleusercontent.com/pw/ACtC-3dve0uFhqMp2Zcg-M2EdMtEzDU4FdVgBLG5MfuKV8pY278VbFKGqAKzhFrxdjdBhwy8XdHhvC9tQIfoaa6vHlazBY9if2bUCmgDWw9Cg7t98smLcxFb8vU5YBpf90xetlcO4v0rTxzYKy5-g1Y7AbQ=w999-h868-no?authuser=3")
 ```
 
 
@@ -442,8 +447,8 @@ reference="fig:FigPivsPf"}).
 
 
 
-```{r FigPivsPf, fig.cap="Relation between initial and final densities in experiments with a nematode on a good host, intermediate hosts, poor hosts, and a nonhost. *Pi* and *Pf*: initial and final densities on logarithmic scales. Equilibrium density: *Pf = Pi* (adapted from @Seinhorst1970a).", echo=FALSE, out.width = "50%"}
-knitr::include_graphics("FigPivsPf.png")
+```{r FigPivsPf, fig.cap="Relation between initial and final densities in experiments with a nematode on a good host, intermediate hosts, poor hosts, and a nonhost. *Pi* and *Pf*: initial and final densities on logarithmic scales. Equilibrium density: *Pf = Pi* (adapted from @Seinhorst1970a).", echo=FALSE, out.width = "80%"}
+knitr::include_graphics("https://lh3.googleusercontent.com/pw/ACtC-3cKaA_VJetctp0Kutrgp-OyKQg0C6ATybWPWwwfxcrOyZugBBrCgK7yKpWCy6X8s48188sRhSFlBedhofbLC2nMI3p3mYwd6-lAMqh1D_QNo9mIV3kTGJE9UioV69khhOGWSBp8oGu6n-jvicXkoiA=w852-h868-no?authuser=3")
 ```
 
 Population density fluctuations are affected by denso-independent and
@@ -485,8 +490,8 @@ control methods [@Talavera2009b; @Gine2017b; @Exposito2018c]; Fig
 reference="fig:LogPivsLogPfPi3"}).
 
 
-```{r LogPivsLogPfPi3, fig.cap="Relation between initial population density (*Pi*) and multiplication rate (*Pf/Pi*) of RKN on two hypothetical germplasms (adapted from @Ferris1985).", echo=FALSE, out.width = "50%"}
-knitr::include_graphics("LogPivsLogPfPi3.png")
+```{r LogPivsLogPfPi3, fig.cap="Relation between initial population density (*Pi*) and multiplication rate (*Pf/Pi*) of RKN on two hypothetical germplasms (adapted from @Ferris1985).", echo=FALSE, out.width = "80%"}
+knitr::include_graphics("https://lh3.googleusercontent.com/pw/ACtC-3fJzp2yIYOvKBgotoDzZ8fzIE6DZh8M_ZO6HKWyIeAstNe-z5QyVtbxTMs8Gt9773vi9G1LUI4tOEl-LNW-FwFGNBu5G7s-Fl-pyqkEjk6aJ7Nws0AF1yybBA-xsaeUE_Zjtg-FctOLeidpTFwOBx0=w1095-h868-no?authuser=3")
 ```
 
 
@@ -496,12 +501,10 @@ calculated by estimating the relationship between increasing levels of
 *Pi* and the relative crop biomass or yield according to the Seinhort's
 damage model [@fdi:010017629]: 
 
-$$
-\begin{aligned}
-&y = m + (1 - m) 0.95 ^{\frac{Pi}{T-1}} &	for Pi &> T \\
-&y = 1						            &	for Pi &\leq T \\
-&y = m								    &	for Pi &\longrightarrow \infty\end{aligned}
-$$
+<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mtable><mtr><mtd columnalign="right"></mtd><mtd columnalign="left"><mi>y</mi><mo>=</mo><mi>m</mi><mo>+</mo><mo stretchy="false" form="prefix">(</mo><mn>1</mn><mo>−</mo><mi>m</mi><mo stretchy="false" form="postfix">)</mo><msup><mn>0.95</mn><mfrac><mrow><mi>P</mi><mi>i</mi></mrow><mrow><mi>T</mi><mo>−</mo><mn>1</mn></mrow></mfrac></msup></mtd><mtd columnalign="right"><mi>f</mi><mi>o</mi><mi>r</mi><mi>P</mi><mi>i</mi></mtd><mtd columnalign="left"><mo>&gt;</mo><mi>T</mi></mtd></mtr><mtr><mtd columnalign="right"></mtd><mtd columnalign="left"><mi>y</mi><mo>=</mo><mn>1</mn></mtd><mtd columnalign="right"><mi>f</mi><mi>o</mi><mi>r</mi><mi>P</mi><mi>i</mi></mtd><mtd columnalign="left"><mo>≤</mo><mi>T</mi></mtd></mtr><mtr><mtd columnalign="right"></mtd><mtd columnalign="left"><mi>y</mi><mo>=</mo><mi>m</mi></mtd><mtd columnalign="right"><mi>f</mi><mi>o</mi><mi>r</mi><mi>P</mi><mi>i</mi></mtd><mtd columnalign="left"><mo>→</mo><mi>∞</mi></mtd></mtr></mtable><annotation encoding="application/x-tex">\begin{aligned}
+&amp;y = m + (1 - m) 0.95 ^{\frac{Pi}{T-1}} &amp;&#9;for Pi &amp;&gt; T \\
+&amp;y = 1&#9;&#9;&#9;&#9;&#9;&#9;            &amp;&#9;for Pi &amp;\leq T \\
+&amp;y = m&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;    &amp;&#9;for Pi &amp;\longrightarrow \infty\end{aligned}</annotation></semantics></math>
 
 The nematode population density above which yield loss start to occur is
 defined as the nematode damage threshold level or the tolerance limit of
@@ -509,12 +512,15 @@ the crop (*T*). This value, along with the the minimum relative yield
 (*m*) are important parameters to characterize the response of a crop
 plant to a nematode population. The parameter *T* manifests itself at
 small nematode densities and *m* at larger ones [@Greco2009a]; Fig
-[\[fig:Figure107\]](#fig:Figure107){reference-type="ref"
-reference="fig:Figure107"}).
+[4](#fig:Seinhorst){reference-type="ref"
+reference="fig:Seinhorst"}).
 
-width=0.9 ![image](Seinhorst)
 
-[\[fig:Figure107\]]{#fig:Figure107 label="fig:Figure107"}
+```{r Seinhorst, fig.cap="Relationship between relative yield and the initial nematode population density of three hypothetical germplasms with different values of *T* and *m* (adapted from @Schomaker2013).", echo=FALSE, out.width = "80%"}
+knitr::include_graphics("https://lh3.googleusercontent.com/pw/ACtC-3fMQUmhgPS8bRvYnfXuEBlR8qTZ-tAWMePvAN8Ms6zzAUf997PmpHNqlZD0ukxo5QLV1Enp4djBJmjWC5jqz1JhGxX1thlT6B3SW-jEeigwTByHZcEYc-16xCBT4WmJacmmdV96e_kZ2uRf0Oxhrwo=w1470-h868-no?authuser=3")
+```
+
+
 
 Plant resistance {#plant-resistance .unnumbered}
 ----------------
@@ -528,44 +534,48 @@ friendlier management strategies. A promising alternative strategy
 involves the use of resistant plants, those whose have the ability to
 suppress infection development, and/or reproduction of plant-parasitic
 nematodes [@Roberts2009]. Plant resistance has proven to be effective
-and economically profitable [@Sorribas2005a]), and also reduce yield
-losses of the follwing crop [@OrnatC1997a]; [@Talavera2009b];
-[@Westphal2011]; [@Thies2015]; [@Gine2017b]; [@ExpositoA.2019c].
+and economically profitable [@Sorribas2005a], and also reduce yield
+losses of the follwing crop [@OrnatC1997a; @Talavera2009b;
+@Westphal2011; @Thies2015; @Gine2017b; @ExpositoA.2019c].
 
 The resistance levels of a determined plant germplasm can be categorized
 in relation to a susceptible standard [@Hadisoeganda1982c]. Expressed
 as the percentage of RKN reproduction compared to that in a susceptible
 standard, this parameter is called the reproduction index (RI; Fig
-[\[fig:Figure104\]](#fig:Figure104){reference-type="ref"
-reference="fig:Figure104"}).
+[5](#fig:RI3){reference-type="ref"
+reference="fig:RI3"}).
 
-width=0.9 ![image](RI3)
 
-[\[fig:Figure104\]]{#fig:Figure104 label="fig:Figure104"}
+
+```{r RI3, fig.cap="A diagrammatic representation of the continuum of susceptibility and resistance to nematode reproduction within a crop germplasm pool (adapted from @starr2009a).", echo=FALSE, out.width = "90%"}
+knitr::include_graphics("https://lh3.googleusercontent.com/pw/ACtC-3cYrBnPs8S7Jdi67WTTjJ5I9bY8UFGFmlfte8m4WEE4VPEXnEFopas2RhNMmpBmDHKD1HvVeOpsoT25m3pbszB5aeAbkhUVD3zIC6nSMBZ0FoQFUgAxheCsfFY2zrGf9FjifMueIbuTJXUTLvv7OUYx=w1367-h373-no?authuser=3")
+```
+
+
 
 Despite its advantages, the expression of plant resistance can be
 affected by several factors, such the genetic background of the plant
 cultivar and/or the nematode species or population [@Cortada2008]. The
 selection of virulent nematode populations due to repeated cultivation
-of the same resistance gene [@Verdejo-Lucas2009a]; [@Gine2017b];
-[@ExpositoA.2019c]. Moreover, there are only a few resistance genes
+of the same resistance gene [@Verdejo-Lucas2009a; @Gine2017b;
+@ExpositoA.2019c]. Moreover, there are only a few resistance genes
 introgressed into commercial solanaceous cultivars at present, and none
 in cucurbits. That are, the *Me1, Me3* and *N* gene in pepper, and the
 *Mi1.2* gene in tomato. Soil temeprature can also affect the expression
 of plant resistance. It is known that the *Mi1.2* gene is affected at
-soil temperatures above 30 C, while the resistance of the *N* gene is
-reported to be partially lost at 32 C [@araujo1982effects];
-[@Thies1998]. Thus,plant resistance is a valuable management tool but
+soil temperatures above 30 °C, while the resistance of the *N* gene is
+reported to be partially lost at 32 °C [@araujo1982effects;
+@Thies1998]. Thus,plant resistance is a valuable management tool but
 it should be used in a proper manner to maximize its effectiveness.
 Moreover, more research are needed to identify new resistance sources
 for increasing the *R*-genes that could be used in rotation schemes .
 
 Grafting vegetables onto resistant rootstocks is an effective method to
 control soilborne pathogens when no commercial cultivars are available
-[@Miguel2004a]; [@Cohen2007]; [@Thies2016]; [@Kumar2018]. This control
+[@Miguel2004a; @Cohen2007; @Thies2016; @Kumar2018]. This control
 method was essentially rediscovered in the past two decades and quickly
-expanded to become a common practice at the present [@Thies2015c];
-[@Kyriacou2017]. Grafting has expanded mainly in the Cucurbitaceae and
+expanded to become a common practice at the present [@Thies2015c;
+@Kyriacou2017]. Grafting has expanded mainly in the Cucurbitaceae and
 the Solanaceae families [@Moncada2013]. The use of anatomical and
 physiological compatible graft combinations improve the plant
 performance under biotic or abiotic stress conditions when compared with
@@ -581,8 +591,8 @@ quality is also another important factor to take into account
 Some strategies proposed to avoid the selection for RKN virulence or to
 reduce the level of virulence and crop yield losses consider to include
 resistant and susceptible crops in rotation sequences
-[@Talavera2009b]), the use of crops of two different resistant plant
-species [@ExpositoA.2019c]), or to pyramid different *R*-genes
+[@Talavera2009b], the use of crops of two different resistant plant
+species [@ExpositoA.2019c], or to pyramid different *R*-genes
 [@Djian2014]. However, as literature reviewed points out, most of the
 research done have been focusing on tomato and pepper. Thus, the aim of
 this thesis was to increase the diversity of resistance sources against
@@ -592,13 +602,6 @@ watermelon (*Citrullus lanatus* var. *lanatus*), and the solanaseous
 eggplant (*Solanum melongena*). A brief description of these two crops
 and their potential rootstocks is presented in the next two sections.
 
-width=
-
-![image](WorldWatermelon02)
-
-. [\[fig:Figure108\]]{#fig:Figure108 label="fig:Figure108"}
-
-2
 
 Watermelon {#watermelon .unnumbered}
 ----------
@@ -609,8 +612,8 @@ Watermelon is the most cultivated cucurbit crop worldwide. The global
 production in 2017 was ca. 118 million t in ca. 3.4 million ha, 38% of
 the arable land destined to cultivate for this botanical family, with an
 estimated value of 48.9B [@FAOSTAT2017c]; Fig
-[\[fig:Figure108\]](#fig:Figure108){reference-type="ref"
-reference="fig:Figure108"}). In spite of its origin theorized in the
+[6](#fig:WorldWatermelon02){reference-type="ref"
+reference="fig:WorldWatermelon02"}). In spite of its origin theorized in the
 African continent, most of the watermelon are produced in Asia, with 67%
 of total world production in China. Within the European Union (EU),
 Spain was the main watermelon producer during 2017, with 20,026 ha
@@ -619,9 +622,15 @@ value of 331M, 68% of which were exported [@MAPA2019]. The watermelon
 fruit composition is 93% water, with small amounts of protein, fat,
 minerals, and vitamins. The major nutritional fruit components are
 carbohydrates (6.4 g/100 g), vitamin A (590 IU), and lycopene (4,100
-$\mu$g/100g, range 2300--7200), an anticarcinogenic compound found in
+μg/100g, range 2300--7200), an anticarcinogenic compound found in
 red flesh watermelon, even in higher amounts than in tomato, pink
 grapefruit, or guava [@Wehner2008].
+
+
+```{r WorldWatermelon02, fig.cap="Origin and production quantities of watermelons in 2017 by country [FAOSTAT, 2019; @Renner2019].", echo=FALSE, out.width = "100%"}
+knitr::include_graphics("https://lh3.googleusercontent.com/pw/ACtC-3dtr0vFepGytI3IyvDSVPYt0w3r3nl2UJBKqLpMEAlGoRXoaVOkm-QIAAar49tVVCx5GM9lnNBMfMHjHEAyscxQ_QHbJFwDb2YXBJE1xtQA86slfYulB_QSHmR_rd5Dnmv0znTMlkiX2FlgztOd2ipQ=w1112-h557-no?authuser=3")
+```
+
 
 ### Origin {#origin .unnumbered}
 
@@ -631,32 +640,32 @@ major misapplication of names until recent years, including that of
 watermelon, *C. lanatus*, itself [@Chomicki2015]; [@Renner2014]. The
 Southern African region is reported to be the center of diversity and
 probably the center of origin of most of the *Citrullus* species
-[@Dane2004]; [@Rubatsky2001]; [@Robinson1997]. However, four
+[@Dane2004; @Rubatsky2001; @Robinson1997]. However, four
 hypotheses have been proposed for the origin of watermelon: i) that it
 descends from the northern African colocynth (*C. colocynthis*,
-[@Singh1978]; [@Sain2002]; [@McCreight2013]. ii) That it derives from
+[@Singh1978; @Sain2002; @McCreight2013]. ii) That it derives from
 the South African citron melon, *C. amarus*, previously referred as *C.
-lanatus* var. *citroides* [@Robinson1997]; [@Maynard2000];
-[@Rubatsky2001]; [@Chomicki2015]. iii) That it stems from the West
-African *C. mucosospermus* [@Guo2013]; [@Chomicki2015]), and iv) Recent
+lanatus* var. *citroides* [@Robinson1997; @Maynard2000;
+@Rubatsky2001; @Chomicki2015]. iii) That it stems from the West
+African *C. mucosospermus* [@Guo2013; @Chomicki2015], and iv) Recent
 research with polygenomic analyses of nuclear gene sequences suggest
 that the white-fleshed Sudanese Kordophan melon (*Citrullus vulgaris*)
 is the closest relative of domesticated watermelon that was originated
 and domesticated in north-eastern Africa [@Renner2019]; Fig
-[\[fig:Figure108\]](#fig:Figure108){reference-type="ref"
-reference="fig:Figure108"}).
+[6](#fig:WorldWatermelon02){reference-type="ref"
+reference="fig:WorldWatermelon02"}).
 
 ### Cultivation challenges {#cultivation-challenges .unnumbered}
 
 The modern cultivated watermelon has a narrow genetic base
-[@Szamosi2009]; [@Solmaz2010]; [@Nimmakayala2014]) attributed to many
+[@Szamosi2009; @Solmaz2010; @Nimmakayala2014] attributed to many
 years of domestication and selection of its desirable horticultural
-traits such as red-scarlet flesh color and sweetness [@Levi2001b];
-[@Hwang2011]; [@Lambel2014]; [@Nimmakayala2014]. The continued use of
+traits such as red-scarlet flesh color and sweetness [@Levi2001b;
+@Hwang2011; @Lambel2014; @Nimmakayala2014]. The continued use of
 cultivars with narrow genetic base for breeding resulted in reduced gene
-diversity among American watermelon accessions [@Wang2015];
-[@Zhang2016]. This has derived in susceptibility of crops to random and
-emerging biotic and abiotic stresses [@Levi2001a]; [@Mo2016]. In spite
+diversity among American watermelon accessions [@Wang2015;
+@Zhang2016]. This has derived in susceptibility of crops to random and
+emerging biotic and abiotic stresses [@Levi2001a; @Mo2016]. In spite
 of being consider a less suitable host for RKN than other cucurbit
 crops, watermelon maximum yield losses of 37% have been recently
 reported in Spain [@Lopez-Gomez2014a]. Moreover, as the next section
@@ -668,7 +677,7 @@ rootstocks are not resistant to *Meloidogyne*
 ### Grafting {#grafting .unnumbered}
 
 A detailed history of cucurbit grafting have been done by Davis
-([-@Davis2008]. The primary motive for grafting cucurbits is to avoid
+[-@Davis2008]. The primary motive for grafting cucurbits is to avoid
 damage caused by soilborne pests and pathogens when genetic or chemical
 approaches for disease management are not available [@Oda2002].
 Research on cucurbit grafting began in the 1920s with the use of
@@ -681,7 +690,7 @@ gourd rootstocks, there are reports of plants affected by Fusarium wilt,
 probably the most common and damaging soilborne disease of cucurbit
 crops worldwide, caused by *Fusarium oxysporum* Schltdl. Moreover both
 rootstocks are susceptible to *Meloidogyne* infection
-[@Kokalis-Burelle2011]; [@Lopez-Gomez2016]; [@Gine2017c]. Hence, an
+[@Kokalis-Burelle2011; @Lopez-Gomez2016; @Gine2017c]. Hence, an
 alternative genetic source of resistance to both pathogens must be found
 and properly characterized in order to be able to design an effective
 and widely applicable RKN management strategy.
@@ -691,12 +700,12 @@ citron or preserving melon, *C. amarus*. The flesh of the citron is
 white or green, and may vary from bland to bitter tasting. Its rind is
 used to make pickles, and the fruit are feeding to livestock
 [@Wehner2008]. Conversely to watermelon, citron melon exhibits wider
-genetic variation [@Levi2001b]) suggesting its genetic worthiness as a
+genetic variation [@Levi2001b] suggesting its genetic worthiness as a
 source of valuable genes for breeding [@Ngwepe2019]. This rootstock
 have show to be resistant to several soil pathogens such as fusarium
 wilt, gummy stem blight, powdery mildew, potyviruses, and some species
-and populations of *Meloidogyne* [@Gusmini2005]; [@Huitron2007a];
-[@Guner2008]; [@Tetteh2010]; [@Thies2016]. In spite of it, there is
+and populations of *Meloidogyne* [@Gusmini2005; @Huitron2007a;
+@Guner2008; @Tetteh2010; @Thies2016]. In spite of it, there is
 little information about it use to control RKN in the EU, thus, research
 on its response to local population must be done before include it in a
 management strategy.
@@ -713,22 +722,27 @@ land destined to cultivate for this family, with an estimated value of
 36.2B. Most of eggplants production is made in China and India, with ca.
 87% of global production done there in 2017. Italy, Spain and Romania
 were the top three eggplant producer countries in the EU, with 286,473,
-225,912 and 124,429 t produced, respectively [@FAOSTAT2017c]; Fig
-[\[fig:Figure111\]](#fig:Figure111){reference-type="ref"
-reference="fig:Figure111"}). Eggplant is not high in the majority of
+225,912 and 124,429 t produced, respectively (@FAOSTAT2017c; Fig
+[7](#fig:WorldEggplant02){reference-type="ref"
+reference="fig:WorldEggplant02"}). Eggplant is not high in the majority of
 health-related micronutrients, but it is very low in fat an calorie and
 a rich source of nutritionally and pharmaceutically useful compounds,
 such a number phytonutrients, especially hydroxycinnamic acid (HCA)
 conjugates, potentially involved in consumer health, fruit taste and
-texture [@Meyer2015]; [@Chapman2019].
+texture [@Meyer2015; @Chapman2019].
+
+```{r WorldEggplant02, fig.cap="Production quantities of eggplants in 2017 by country (FAOSTAT, 2019).", echo=FALSE, out.width = "100%"}
+knitr::include_graphics("https://lh3.googleusercontent.com/pw/ACtC-3dH17FJYfXBlWaHO8-vPvaeZ-senTHpd_k5QdRv03odteBUus3FzOD_CdM4F1WiI5TuIbo_lP6_86iep9bG-tsI8TjysruOCHL_JV87zy5pNphGDALXASQG_IkzssO-1ds7IL2jJnhF8e8Z11RphF18=w1112-h557-no?authuser=3")
+```
+
 
 ### Origin {#origin-1 .unnumbered}
 
 The Asian eggplant is a widely grown species from the *Solanaceae*
 family. Eggplant is especially popular in the Southeast Asia and the
 Mediterranean region . Several non-exclusive theories have been proposed
-regarding eggplant's origin. The general consensus [@Weese2010];
-[@Knapp2013]) is that the African/Middle Eastern species *S. incanum*
+regarding eggplant's origin. The general consensus [@Weese2010;
+@Knapp2013] is that the African/Middle Eastern species *S. incanum*
 was transported into Indo-China where the true wild progenitor, *S.
 insanum*, evolved, from which *S. melongena* is derived
 [@Chapman2019].
@@ -738,7 +752,7 @@ insanum*, evolved, from which *S. melongena* is derived
 The commercial eggplant cultivars also have a narrow genetic diversity
 that, is even poorer than for other solanaceous crops such as tomato and
 pepper. A list of eggplant diseases and pests, and resistances described
-has been well summarized by Daunay ([-@Daunay2008]. Among the most
+has been well summarized by Daunay [-@Daunay2008]. Among the most
 common soil borne diseases affecting eggplants are bacterial, fusarium
 and verticillium wilt, caused by *Ralstonia solanacearum*, *Fusarium
 oxysporum* f. sp. *melongenae*, *Verticillium dahliae* and *V.
@@ -747,29 +761,29 @@ albo-atrum*. Moreover, it is also susceptible to RKN.
 ### Grafting {#grafting-1 .unnumbered}
 
 Eggplant grafting is mostly used in intensive production conditions. As
-Daunay ([-@Daunay2008]) well summarize, there are currently three types
+Daunay [-@Daunay2008] well summarize, there are currently three types
 of eggplant rootstock: i) *S. melongena* lines and hybrids that resist
 to Fusarium and bacterial wilt, and Phomopsis blight, ii) rootstocks
 based on the use of *S. integrifolium*, which also resists to Fusarium
 and bacterial wilts, and is used directly as a rootstock or as parent
 crossed with *S. melongena* varieties for producing interspecific hybrid
-rootstocks (*S. integrifolium $\times$ S. melongena*), and iii) the
+rootstocks (*S. integrifolium × S. melongena*), and iii) the
 third type of rootstocks is composed by *Solanum* species such *S.
 torvum* and *S. sanitswongsei*. However, within Europe eggplant is
 grafted mostly onto tomato or tomato interspecific hybrids (*L.
-esculentum $\times$ L. hirsutum*).
+esculentum × L. hirsutum*).
 
 *Solanum torvum* is a wild relative of eggplant that is resistant to *V.
 dahliae*, *R. solanacearum*, *F. oxysporum* f. sp. *Melongenae*, and
-some RKN populations [@Singh1997]; [@Bletsos2003]; [@Daunay2008];
-[@Gisbert2011]. Although resistance of *S. torvum* rootstocks to *M.
+some RKN populations [@Singh1997; @Bletsos2003; @Daunay2008;
+@Gisbert2011]. Although resistance of *S. torvum* rootstocks to *M.
 incognita* have been consistently described against several populations
-from France [@Daunay1985]), India [@Shetty1985]; [@Dhivya2014b]),
-Japan [@Hara1983]; [@Ali1992]), Pakistan [@Rahman2002a]) and Turkey
-[@Curuk2009]); several studies found discrepancies on the levels of
-resistance to *M. arenaria* [@Daunay1985]; Gonzalez et al; 2010; Ryu et
-al., 2011; [@Uehara2017b]; [@Ocal2018a]) and *M. javanica*
-[@Daunay1985]; [@Boiteux1996]; [@Tzortzakakis2006a]; [@Ocal2018a]. As
+from France [@Daunay1985], India [@Shetty1985; @Dhivya2014b],
+Japan [@Hara1983; @Ali1992], Pakistan [@Rahman2002a] and Turkey
+[@Curuk2009]; several studies found discrepancies on the levels of
+resistance to *M. arenaria* [@Daunay1985; Gonzalez et al 2010; Ryu et
+al. 2011; @Uehara2017b; @Ocal2018a] and *M. javanica*
+[@Daunay1985; @Boiteux1996; @Tzortzakakis2006a; @Ocal2018a]. As
 far as literature reviewed pointed out, there are no enough studies that
 widely characterize the response of *S. torvum* against *Meloidogyne*
 populations occurring in Spain.
@@ -777,21 +791,15 @@ populations occurring in Spain.
 Most of grafting application have expanded mainly in the *Cucurbitaceae*
 and *Solanaceae* family, both major vegetable crops that are commonly
 rotated to maximize land use and boost productivity
-[@Lopez-Gomez2015a]; [@Kyriacou2017]. The proper screening of *C.
+[@Lopez-Gomez2015a; @Kyriacou2017]. The proper screening of *C.
 amarus* and *S. torvum* rootstocks could give crucial information about
 potential tools already available to design effective and
 environmentally friendlier strategies to managing RKN. In particular,
 this work will focus on *Meloidogyne* populations ocurrying in Spain,
 some of them previously described as virulents to the Mi1.2 gene in
-tomato [@Ornat2007]; [@Verdejo-Lucas2012].
+tomato [@Ornat2007; @Verdejo-Lucas2012].
 
-width=
-
-![image](WorldEggplant02)
-
-[\[fig:Figure111\]]{#fig:Figure111 label="fig:Figure111"}
-
-2
+------------------------------------------------------------------------
 
 Objectives {#objectives .unnumbered}
 ----------
@@ -833,11 +841,14 @@ objective was divided into specific objectives to determine:
 6.  The durability of resistance of *S. torvum* 'Brutus' after two
     consecutive years in the same plots, the selection for virulence and
     the fitness cost for the nematode (Chapter 4).
+    
+------------------------------------------------------------------------
 
 Response of two *Citrullus amarus* accessions to isolates of three species of *Meloidogyne* and their graft compatibility with watermelon
 =========================================================================================================================================
 
-![](Watermelonfield){#fig:Waterfield width="100%"}
+![](https://lh3.googleusercontent.com/pw/ACtC-3fdw0DERIdjiQAwUmysAv2ZoJugqtDcJ31BQTAZIk5HAkrQSK2cwskYKFFkjFiDFScvGMa3HIO21Z-qZo9oqotLg7CTJWG3LTgmnyJvSQWk4Z1tOWqqC6RbO4_M7yCUY5fVEvdUzrx5Q5JVchdNNJrt=w678-h557-no?authuser=3){#fig:Waterfield width="100%"}
+
 
 **Response of two *Citrullus amarus* accessions to isolates of three
 species of *Meloidogyne* and their graft compatibility with watermelon**
@@ -855,7 +866,7 @@ BGV0005167, was assessed against different *Meloidogyne arenaria*,
 *Meloidogyne incognita*, and *Meloidogyne javanica* isolates in pot
 experiments and against *M. incognita* in plastic greenhouse. In the pot
 experiments, plants were inoculated with a second-stage juvenile per
-cm^3^ of sterile sand and maintained in a growth chamber at 25 C for 50
+cm^3^ of sterile sand and maintained in a growth chamber at 25 °C for 50
 days. The watermelon cv. Sugar Baby was included as a susceptible
 control for comparison. At the end of the experiments, the number of egg
 masses and eggs per plant was determined, and the reproduction index was
@@ -886,8 +897,6 @@ quality.
 
 ------------------------------------------------------------------------
 
-2
-
 Introduction
 ------------
 
@@ -899,8 +908,8 @@ increased in recent years [@Thies2015c]. The root-knot nematode (RKN)
 *Meloidogyne* spp. is currently one of the main pathogens in cucurbit
 crops. Maximum yield losses of 88% in cucumber, 53% in zucchini, and 35%
 in watermelon cultivated under plastic greenhouses have been estimated
-in Spain [@Gine2014a]; [@Vela2014]; [@Lopez-Gomez2014a],
-[-@Lopez-Gomez2015a]. The control of RKN has widely been done using
+in Spain [@Gine2014a; @Vela2014; @Lopez-Gomez2014a;
+-@Lopez-Gomez2015a]. The control of RKN has widely been done using
 fumigant and non fumigant nematicides [@Nyczepir2009a]. Nonetheless,
 the interest in nonchemical control alternatives has increased according
 to recent regulations such as the European Directive 2009/128/EC and the
@@ -910,29 +919,29 @@ economically profitable control method [@Sorribas2005a]. Cropping
 resistant cultivars reduces the growth rate and the equilibrium density
 of the RKN population, as well as crop yield losses [@Talavera2009b].
 Moreover, it reduces crop yield losses of the following crop in the
-rotation scheme [@OrnatC1997a]; [@Thies2004]; [@Westphal2011].
+rotation scheme [@OrnatC1997a; @Thies2004; @Westphal2011].
 Grafting onto resistant rootstocks is an alternative method to control
 soilborne pathogens when no commercial resistant cultivars are available
-[@Yetsr2003]; [@Miguel2004a]; [@Cohen2007]; [@Oda2002]; [@Thies2016].
+[@Yetsr2003; @Miguel2004a; @Cohen2007; @Oda2002; @Thies2016].
 Regarding watermelon, it has been commonly grafted onto commercial
-rootstocks such as *Cucurbita maxima* $\times$ *Cucurbita moschata* and
+rootstocks such as *Cucurbita maxima* × *Cucurbita moschata* and
 *Lagenaria siceraria* owing to their resistance to fusarium wilt.
 However, both rootstocks are susceptible to infection by *Meloidogyne*
-[@Davis2008]; [@Hassell2008]; [@Thies2010], [-@Thies2015]a;
-[@Kokalis-Burelle2011]; [@Lopez-Gomez2016]; [@Gine2017c]. In the last
+[@Davis2008; @Hassell2008; @Thies2010; -@Thies2015;
+@Kokalis-Burelle2011; @Lopez-Gomez2016; @Gine2017c]. In the last
 few years, some accessions of citron melon, *Citrullus lanatus* var.
 *citroides*, most recently referred as *Citrullus amarus*
-[@Chomicki2015]), have been proven to be useful as watermelon
+[@Chomicki2015], have been proven to be useful as watermelon
 rootstock. Indeed, these accessions provide resistance to fusarium wilt
-[@Huitron2007a]; [@Levi2017a]) and some RKN species in both greenhouse
-[@Thies2003], [-@Thies2007]) and open field cultivation
-[@Huitron2007a]; [@Thies2010], [-@Thies2015]a, [-@Thies2016]. In
+[@Huitron2007a; @Levi2017a] and some RKN species in both greenhouse
+[@Thies2003; -@Thies2007] and open field cultivation
+[@Huitron2007a; @Thies2010; -@Thies2015; -@Thies2016]. In
 addition, watermelon grafted onto *C. amarus* yielded more than those
-grafted onto *L. siceraria*, *C. maxima* $\times$ *C. moschata* or
+grafted onto *L. siceraria*, *C. maxima* × *C. moschata* or
 *Praecitrullus fistulosus*, without affecting the quality and the size
-of the fruits [@Kyriacou2016]; [@Thies2015]a; [@Fredes2017a]. However,
+of the fruits [@Kyriacou2016; @Thies2015; @Fredes2017a]. However,
 not all *C. amarus* accessions responded equally to RKN isolates
-[@Thies2003], [-@Thies2007]; [@Thies2016]; [@Levi2017a]), the screening
+[@Thies2003; -@Thies2007; @Thies2016; @Levi2017a], the screening
 of new accessions against local RKN populations being necessary to
 assure their efficacy. Furthermore, the compatibility with the scion and
 the effect on the quality of fruits is also required to be considered as
@@ -957,32 +966,34 @@ susceptible tomato cv. Durinta (Seminis Seeds, St. Louis, Missouri).
 Second-stage juveniles (J2) were used as the inoculum. The J2 were
 obtained from eggs by maceration of the infected roots in a 5%
 commercial bleach solution (40 g/L NaOCl) for 10 min according to the
-Hussey and Barker ([-@HusseyR.S.Barker1973c]) method. After maceration,
-the egg suspension was filtered through a 74 $\mu$m sieve, and then, the
-eggs were collected on a 25 $\mu$m sieve and placed on Baermann trays
+Hussey and Barker [-@HusseyR.S.Barker1973c] method. After maceration,
+the egg suspension was filtered through a 74 μm sieve, and then, the
+eggs were collected on a 25 μm sieve and placed on Baermann trays
 [@Whitehead1965a]. The J2 emerged during the first 24 h were
 discarded. After that, the J2 emerged were recovered every two days and
 maintained at 9 C until the pot experiments were carried out. The
 identification of the *Meloidogyne* species was confirmed using SCAR-PCR
 markers [@Zijlstra2000].
 
+
 ::: {#tab:table201}
   *Meloidogyne* spp.   Isolate     Geographic origin   (a)virulence   Reference
   -------------------- ----------- ------------------- -------------- ------------------
-  *M. arenaria*        MA68        Barcelona           Avirulent      [@Exposito2018c]
-  *M. incognita*       Agropolis   Barcelona           Avirulent      [@Gine2017c]
-                       Garriga     Barcelona           Avirulent      [@Exposito2018c]
-  *M. javanica*        MJ05        Barcelona           Avirulent      [@Ornat2007]
-                       Tugues      Barcelona           Avirulent      [@Exposito2018c]
-                       Bay         Murcia              Avirulent      [@Exposito2018c]
-                       MJLg        Almería             Virulent       [@Exposito2018c]
+  *M. arenaria*        MA68        Barcelona           Avirulent      @Exposito2018c
+  *M. incognita*       Agropolis   Barcelona           Avirulent      @Gine2017c
+                       Garriga     Barcelona           Avirulent      @Exposito2018c
+  *M. javanica*        MJ05        Barcelona           Avirulent      @Ornat2007
+                       Tugues      Barcelona           Avirulent      @Exposito2018c
+                       Bay         Murcia              Avirulent      @Exposito2018c
+                       MJLg        Almería             Virulent       @Exposito2018c
 
-  : *Meloidogyne* species and isolates used in pot experiments,
+  : Table 1. *Meloidogyne* species and isolates used in pot experiments,
   geographic origin, and (a)virulence status against the *Mi1.2* gene of
   tomato.
 :::
 
-2
+
+
 
 ### Response of *C. amarus* accessions to RKN isolates
 
@@ -1002,7 +1013,7 @@ watermelon cv. Sugar Baby (SB) (Intersemillas S. A., Loriguilla,
 Valencia, Spain) was included as susceptible control for comparison in
 all experiments. The watermelon rootstock cv. Robusta (RO) (*C.
 lanatus*, Intersemillas S. A., Loriguilla, Valencia, Spain) was also
-included for comparison as resistant control [@Lopez-Gomez2016]) in the
+included for comparison as resistant control [@Lopez-Gomez2016] in the
 third experiment. Experiment 1 and 3 were carried out once, and each
 plant-RKN isolate combination was replicated 10 times. Experiment 2 was
 repeated once, and each plant-RKN isolate combination was replicated
@@ -1013,10 +1024,10 @@ respectively.
 
 All experiments were carried out following the same procedure. Briefly,
 seeds were germinated according to the method given in Exposito et al.
-([-@Exposito2018c]. Seedlings were transplanted to 200 cm$^{3}$ pots
-containing sterile sand and maintained in a growth chamber at 25 $\pm$
+[-@Exposito2018c]. Seedlings were transplanted to 200 cm^3^ pots
+containing sterile sand and maintained in a growth chamber at 25 ±
 2C with a 16:8 h (light:dark) photoperiod for a week and then inoculated
-with 1 J2 per cm$^{3}$ soil. Plants were maintained in the growth
+with 1 J2 per cm^3^ soil. Plants were maintained in the growth
 chamber for 50 days. Plants were watered as needed throughout the
 experiment and fertilized with a slow-release fertilizer (15% N, 9%
 P$_{2}$O$_{5}$, 12% K$_{2}$O, 2% MgO$_{2}$, microelements; Osmocote
@@ -1030,8 +1041,8 @@ submerged in 15 mg/L erioglaucine solution (Acros Organics) for 20 min
 to stain the egg masses before counting them [@Omwega1988]. In all
 experiments, eggs were extracted from roots by maceration in a 10%
 commercial bleach solution (40 g/L NaOCl) for 10 min
-[@HusseyR.S.Barker1973c]), passed through a 74 $\mu$m aperture screen
-and collected in a 25 $\mu$m sieve for final counting. Reproduction
+[@HusseyR.S.Barker1973c], passed through a 74 μm aperture screen
+and collected in a 25 μm sieve for final counting. Reproduction
 index (RI) was calculated as the percentage of eggs per plant produced
 in the experimental germplasm with regard to that in the susceptible
 one. The response of the accessions was categorized according to the RI
@@ -1063,9 +1074,9 @@ samples were taken from each experimental plot and consisted of eight
 cores taken from the first 30 cm of soil with an auger of diameter 2.5
 cm. Soil subsamples were mixed and passed through a 4 mm pore sieve to
 remove stones. The J2 were extracted from 500 cm^3^ of soil using
-Baermann trays [@Whitehead1965a]) and incubated at 27 $\pm$ 2 C for one
-week. Afterwards, the J2 were collected using a 25 $\mu$m aperture
-screen, counted, and expressed as J2 per 250 cm$^{3}$ of soil. At the
+Baermann trays [@Whitehead1965a]) and incubated at 27 ± 2 C for one
+week. Afterwards, the J2 were collected using a 25 μm aperture
+screen, counted, and expressed as J2 per 250 cm^3^ of soil. At the
 end of the experiment, roots were carefully removed from the soil,
 washed, and weighed, and the galling index (GI) was evaluated on a scale
 from 0 to 10, where 0 complete and healthy root system and 10 plants and
@@ -1077,7 +1088,7 @@ accessions and RO was categorized as described previously.
 ### Grafting compatibility and fruit quality
 
 The watermelon cultivar SB was self-grafted (SB-SB) and grafted onto
-CI64, CI67, RO, and the commercial hybrid *C. maxima* $\times$ *C.
+CI64, CI67, RO, and the commercial hybrid *C. maxima* × *C.
 moschata* rootstock cv. Cobalt (CO) (Rijk Zwaan, BV, The Netherlands)
 according to the cleft procedure (Lee et al., 2010). Ten plants of each
 grafted combination were grown under a hydroponic system in a commercial
@@ -1132,7 +1143,7 @@ reference="tab:table202"}).
 
 The minimum and maximum soil temperatures during the experiment were
 18.4 C and 30.5 C, respectively. The initial nematode densities at
-transplantation ranged from 46 to 1392 J2 per 250 cm$^{3}$ of soil. The
+transplantation ranged from 46 to 1392 J2 per 250 cm^3^ of soil. The
 number of eggs per plant and the galling index were significantly lower
 (*P* $<$ 0.05) in both *C. amarus* accessions than those in the
 watermelon SB and the rootstock RO. Both CI accession and the rootstock
@@ -1148,9 +1159,9 @@ plants grafted onto specific rootstocks (Table
 [\[tab:table204\]](#tab:table204){reference-type="ref"
 reference="tab:table204"}). The weight of watermelon fruits produced by
 SB onto the Cucurbita hybrid rootstock CO was greater (*P* $<$ 0.05)
-than the weight of those produced by the ungrafted plants (5.5 $\pm$ 0.2
-*vs.* 4.7 $\pm$ 0.5 kg) but with a significant decrease (*P* $<$ 0.05)
-of soluble solids (9.45 $\pm$ 0.27 *vs.* 10.67 $\pm$ 0.32 Bx). The
+than the weight of those produced by the ungrafted plants (5.5 ± 0.2
+*vs.* 4.7 ± 0.5 kg) but with a significant decrease (*P* $<$ 0.05)
+of soluble solids (9.45 ± 0.27 *vs.* 10.67 ± 0.32 Bx). The
 watermelon rootstocks RO and CI67 did not influence the fruit traits
 compared to those produced by the ungrafted and self-grafted SB, but the
 rootstock CI64 produced fruits with thicker rinds, firmer flesh, and
@@ -1158,7 +1169,7 @@ less soluble solids (*P* $<$ 0.05) (Table
 [\[tab:table204\]](#tab:table204){reference-type="ref"
 reference="tab:table204"}).
 
-Data are the mean $\pm$ standard error of 10 replicates in experiments 1
+Data are the mean ± standard error of 10 replicates in experiments 1
 and 3 and of 15 replicates in experiment 2. Data within the same row
 followed by the same lower case letter did not show significant
 difference (*P* $<$ 0.05) between germplasm per RKN isolate according to
@@ -1166,36 +1177,36 @@ the Kruskal--Wallis test. Different capital letters in the same column
 and experiment indicate significant differences (*P* $<$ 0.05) between
 nematode isolates according to the Mann--Whitney *U* test (experiment 1)
 or Kruskal--Wallis test (experiment 2); na: not assessed.
-^a^Reproduction index = 100 $\times$ (number of eggs per plant produced
+^a^Reproduction index = 100 × (number of eggs per plant produced
 in the CI accessions or RO / mean number of eggs per plant produced in
 the susceptible cv. Sugar Baby).
 
 ::: {#tab:table203}
-  Plant host   Galling index^a^   Eggs per plant ($\times$10$^{2}$)   Reproduction index (%)^b^
+  Plant host   Galling index^a^   Eggs per plant (×10$^{2}$)   Reproduction index (%)^b^
   ------------ ------------------ ----------------------------------- ---------------------------
-  Sugar Baby   5.0 $\pm$ 0.6 a    1031 $\pm$ 484 a                    
-  Robusta      2.8 $\pm$ 0.4 b    51 $\pm$ 11 b                       4.4 $\pm$ 0.9
-  BGV0005164   2.5 $\pm$ 0.5 b    16 $\pm$ 10 b                       1.4 $\pm$ 0.9
-  BGV0005167   1.5 $\pm$ 0.5 b    15 $\pm$ 12 b                       1.3 $\pm$ 1.0
+  Sugar Baby   5.0 ± 0.6 a    1031 ± 484 a                    
+  Robusta      2.8 ± 0.4 b    51 ± 11 b                       4.4 ± 0.9
+  BGV0005164   2.5 ± 0.5 b    16 ± 10 b                       1.4 ± 0.9
+  BGV0005167   1.5 ± 0.5 b    15 ± 12 b                       1.3 ± 1.0
 
   : Galling index, eggs per plant and reproduction index (RI) of *M.
   incognita* in the watermelon cv. Sugar Baby, the commercial watermelon
   rootstock cv. Robusta, and the *C. amarus* accessions BGV0005164 and
   BGV0005167 cultivated from May to August 2016 in plastic greenhouse at
-  initial population densities from 46 to 1392 J2 per 250 cm$^{3}$ of
+  initial population densities from 46 to 1392 J2 per 250 cm^3^ of
   soil.
 :::
 
-Data are the mean $\pm$ standard error of 10 replicates. Different
+Data are the mean ± standard error of 10 replicates. Different
 letters in the same column indicate significant differences (*P* $<$
 0.05) between germplasm according to the Kruskal--Wallis test.
 ^a^Galling index on a scale from 0 to 10, where 0 = complete and healthy
 root system and 10 = plant and roots dead [@Zeck1971a].
-^b^Reproduction index = 100 $\times$ (number of eggs per plant produced
+^b^Reproduction index = 100 × (number of eggs per plant produced
 in the CI accessions or Robusta / mean number of eggs per plant produced
 in the susceptible cv. Sugar Baby).
 
-^a^Data are the mean $\pm$ standard error of 10 replicates. Data in the
+^a^Data are the mean ± standard error of 10 replicates. Data in the
 same column followed by \* indicate significant differences (*P* $<$
 0.05) with regard to the ungrafted watermelon cv. Sugar Baby (SB)
 according to Student's t-test. ^b^Color: parameters measured in fruit
@@ -1224,7 +1235,7 @@ RKN resistant under field and plastic greenhouse conditions
 [-@Thies2015c]b, [-@Thies2015b]c). The resistance of *C. amarus* to RKN
 has been associated with the relatively high root fibrosity compared to
 that of *C. lanatus* var. *lanatus*, *Citrullus colocynthis*, *L.
-siceraria*, and *C. maxima* $\times$ *C. moschata* [@Thies2003],
+siceraria*, and *C. maxima* × *C. moschata* [@Thies2003],
 [-@Thies2007]; [@Thies2015b], [-@Thies2016].
 
 ##### 
@@ -1323,7 +1334,7 @@ watermelon was assessed in pot experiments. The maximum multiplication
 rate, the maximum population density and the equilibrium density values
 of both *Meloidogyne* species were lower in grafted than ungrafted
 watermelon. In the plastic greenhouse experiment, the nematode densities
-in soil at transplantation ranged from 1 to 53 J2 per 100 cm$^{3}$ of
+in soil at transplantation ranged from 1 to 53 J2 per 100 cm^3^ of
 soil in 2017 and did not differ between grafted and ungrafted
 watermelons. At the end of the crop, the galling index and the number of
 eggs per plant was higher in ungrafted than in grafted watermelon both
@@ -1349,7 +1360,7 @@ Grafting vegetables onto resistant rootstocks for managing soilborne
 plant pathogens has become a common environmentally friendly alternative
 to soil fumigants [@Thies2015c]. Watermelon, the most cultivated
 cucurbit crop worldwide [@FAOSTAT2017c]), is commonly grafted onto
-*Cucurbita maxima* $\times$ *Cucurbita moschata* and *Lagenaria
+*Cucurbita maxima* × *Cucurbita moschata* and *Lagenaria
 siceraria* rootstocks to control fusarium wilt [@Miguel2004a]), but
 these rootstocks are susceptible to root-knot nematodes (RKN),
 *Meloidogyne* spp. [@Huitron2007a]; [@Lopez-Gomez2016]; [@Levi2017a].
@@ -1410,8 +1421,8 @@ nematode inoculum consisted in second-stage juveniles (J2) obtained from
 eggs by blender maceration of infected roots in a 5% commercial bleach
 solution (40 g/L NaOCl) for 10 min according to the Hussey and Barker
 ([-@HusseyR.S.Barker1973c]) method. Afterwards, the egg suspension was
-firstly filtered through a 74 $\mu$m sieve and finally collected on a 25
-$\mu$m sieve and placed on Baermann trays [@Whitehead1965a]. The J2
+firstly filtered through a 74 μm sieve and finally collected on a 25
+μm sieve and placed on Baermann trays [@Whitehead1965a]. The J2
 emerged during the first 24 h were discarded. After that, the J2 emerged
 were recovered every two days and maintained at 9 C for 8 days until the
 pot experiments were carried out. The identification of the
@@ -1432,7 +1443,7 @@ The watermelon SB ungrafted and grafted onto the *C. amarus* accessions
 were transplanted into 3 L pots filled with sterile sand, and inoculated
 with the *M. incognita* isolate Agropolis or *M. javanica* isolate MJ05
 at initial population densities (*Pi*) of 0, 0.1, 0.2, 0.4, 0.8, 1.5, 3,
-6 and 12 J2 per cm$^{3}$ of sand to assess the relationship between *Pi*
+6 and 12 J2 per cm^3^ of sand to assess the relationship between *Pi*
 and the nematode densities at the end of the experiment (*Pf*), and the
 effect on relative dry shoot biomass. Each treatment was replicated four
 times. Plants were maintained from May to July (73 d) in a greenhouse.
@@ -1487,10 +1498,10 @@ at the end of the crop (*Pf*). Soil samples were taken from each
 experimental plot and consisted of eight cores taken from the first 30
 cm of soil with an auger of diameter 2.5 cm. Soil subsamples were mixed
 and passed through a 4 mm pore sieve to remove stones. The J2 were
-extracted from 500 cm$^{3}$ of soil using Baermann trays
-[@Whitehead1965a]) and incubated at 27 $\pm$ 2 C for one week. J2 were
-collected using a 25 $\mu$m aperture screen, counted, and expressed as
-J2 per 100 cm$^{3}$ of soil. At the end of the crop, roots were
+extracted from 500 cm^3^ of soil using Baermann trays
+[@Whitehead1965a]) and incubated at 27 ± 2 C for one week. J2 were
+collected using a 25 μm aperture screen, counted, and expressed as
+J2 per 100 cm^3^ of soil. At the end of the crop, roots were
 carefully uprooted and washed, and the galling index (GI) was evaluated
 on a scale from 0 to 10, where 0 = complete and healthy root system and
 10 = plants and roots dead [@Zeck1971a]. After that, the number of
@@ -1498,7 +1509,7 @@ eggs per plant were determined extracting them from roots by blender
 maceration in a 5% commercial bleach solution (40 g/L NaOCl)
 [@HusseyR.S.Barker1973c]), as previously stated. The eggs extracted
 from roots of SB, CI67, and RO at the end of the crop in 2018 were
-incubated in Baermann trays at 27 $\pm$ 2 C to allow J2 emergence to
+incubated in Baermann trays at 27 ± 2 C to allow J2 emergence to
 determine the putative selection for virulence. Reproduction index (RI)
 was calculated as the percentage of eggs produced in the rootstock with
 regard to that in the watermelon cultivar. The response of the rootstock
@@ -1511,13 +1522,13 @@ $\geq$ 50%) [@Hadisoeganda1982c].
 
 The nematode inoculum consisted of J2 obtained as previously described.
 The J2 emerged in the first 24 h were discarded. Afterwards, nematodes
-were collected daily for 10 days using a 25 $\mu$m sieve and stored at 9
+were collected daily for 10 days using a 25 μm sieve and stored at 9
 C until inoculation. Seeds of SB, CI67, and RO were germinated according
 to the method given in Expósito et al. ([-@Exposito2018c]. Seedlings
-were transplanted to 200 cm$^{3}$ pots containing sterile sand and
-maintained in a growth chamber at 25 $\pm$ 2 C with a 16:8 h
+were transplanted to 200 cm^3^ pots containing sterile sand and
+maintained in a growth chamber at 25 ± 2 C with a 16:8 h
 (light:dark) photoperiod for a week, and then inoculated with 1 J2 per
-cm$^{3}$ sand. Each treatment was replicated 7 times. Plants were
+cm^3^ sand. Each treatment was replicated 7 times. Plants were
 maintained in the growth chamber for 50 days. Plants were watered as
 needed throughout the experiment and fertilized with a slow-release
 fertilizer (15% N, 9% P$_{2}$O$_{5}$, 12% K$_{2}$O, 2% MgO$_{2}$,
@@ -1568,7 +1579,7 @@ shown).
 The minimum and maximum soil temperatures during the cropping season in
 2017 ranged from 13.1 C to 29.8 C, and from 13.5 C to 29.3 C in 2018.
 The nematode densities in soil at transplantation ranged from 1 to 53 J2
-per 100 cm$^{3}$ of soil in 2017 and did not differ (*P* $<$ 0.05)
+per 100 cm^3^ of soil in 2017 and did not differ (*P* $<$ 0.05)
 between grafted and ungrafted watermelons, but the galling index (fig.
 [2.2](#fig:Figure302){reference-type="ref" reference="fig:Figure302"})
 and the number of eggs per plant differed (*P* $<$ 0.05) between grafted
@@ -1622,14 +1633,14 @@ width=0.6
 
 width=0.6
 
-Data are the mean $\pm$ standard error of 10 replicates. Different
+Data are the mean ± standard error of 10 replicates. Different
 letters in the same column indicate significant differences (*P* $<$
 0.05) between germplasm according to the Kruskal--Wallis test.
 
 ^a^Galling index on a scale from 0 to 10, where 0 = complete and healthy
 root system and 10 = plant and roots dead [@Zeck1971a].
 
-^b^Reproduction index = 100 $\times$ (number of eggs per plant produced
+^b^Reproduction index = 100 × (number of eggs per plant produced
 in the CI accessions or Robusta / mean number of eggs per plant produced
 in the susceptible cv. Sugar Baby).
 
@@ -1638,7 +1649,7 @@ rootstock cv. Robusta (B), the *C. amarus* accessions BGV0005164 (C) and
 BGV0005167 (D), cultivated in plastic greenhouse infested with *M.
 incognita*.](Figure302){#fig:Figure302 width="100%"}
 
-Data are mean $\pm$ standard error of 7 replicates. Values followed by
+Data are mean ± standard error of 7 replicates. Values followed by
 \* in the same column show significant differences (*P* $<$ 0.05)
 between each germplasm and the watermelon SB, and values in the same row
 and parameter followed by + indicate significant differences (*P* $<$
@@ -1646,7 +1657,7 @@ and parameter followed by + indicate significant differences (*P* $<$
 non-parametric Mann--Whitney *U* test; Na: Not assessed. ^a^Galling
 index on a scale from 0 to 10, where 0 = complete and healthy root
 system and 10 = plant and roots dead [@Zeck1971a]. ^b^Reproduction
-index = 100 $\times$ (number of eggs per plant in a given rootstock /
+index = 100 × (number of eggs per plant in a given rootstock /
 number of eggs per plant on the watermelon cv. Sugar Baby).
 
 2
@@ -1679,10 +1690,10 @@ would tolerate better *M. incognita* than *M. javanica* according to the
 *E* values. In our experiments, the *C. amarus* accessions along with
 the watermelon cultivar tolerates both *M. incognita* and *M. javanica*
 since no differences in dry top weight biomass were found when submitted
-to *Pi* levels from 0 to 1200 J2 per 100 cm$^{3}$ of soil. Lopez-Gomez
+to *Pi* levels from 0 to 1200 J2 per 100 cm^3^ of soil. Lopez-Gomez
 et al. ([-@Lopez-Gomez2016]) also did not find any differences at *Pi*
-levels from 0 to 1000 J2 per 100 cm$^{3}$ of soil in pot experiments,
-but they did at *Pi* levels from 0 to 51200 J2 per 100 cm$^{3}$ of soil
+levels from 0 to 1000 J2 per 100 cm^3^ of soil in pot experiments,
+but they did at *Pi* levels from 0 to 51200 J2 per 100 cm^3^ of soil
 [@Lopez-Gomez2014a].
 
 The resistance level of both *C. amarus* accessions was maintained after
@@ -1781,8 +1792,8 @@ the *M. incognita* isolates and from highly resistant to susceptible
 against *M. javanica* isolates. The maximum multiplication rates of *M.
 javanica* on the ungrafted or grafted eggplant were 270 and 49,
 respectively, and the equilibrium densities were 1318 and 2056 eggs and
-J2 per 100 cm$^{3}$ soil, respectively. The tolerance of the ungrafted
-eggplant was 10.9 J2 per 100 cm$^{3}$ soil, and the minimum relative dry
+J2 per 100 cm^3^ soil, respectively. The tolerance of the ungrafted
+eggplant was 10.9 J2 per 100 cm^3^ soil, and the minimum relative dry
 shoot biomass was 0.76. The population growth rate of *M. incognita* on
 eggplant cv. Cristal differed from that of the *S. torvum* cultivars in
 both cropping seasons. These results suggest that *S. torvum* is a
@@ -1835,11 +1846,11 @@ estimated worldwide production of *c.* 52 million tonnes in 1.8 million
 ha [@FAOSTAT2017c]. This plant species is affected by some soilborne
 pathogens including RKN. To control them, eggplant has been mostly
 grafted onto resistant tomato or tomato interspecific hybrids (*S.
-lycopersicum* $\times$ *S. habrochaites*) [@Daunay2008]. However, the
+lycopersicum* × *S. habrochaites*) [@Daunay2008]. However, the
 continuous use of tomato rootstocks induces the selection for virulence
 [@Verdejo-Lucas2009a]; [@ExpositoA.2019c]. Consequently, other
 resistant germplasms have been assessed, including *S. melongena* lines,
-interspecific hybrids of *S. integrifolium* $\times$ *S. melongena*,and
+interspecific hybrids of *S. integrifolium* × *S. melongena*,and
 wild related species such as *S. integrifolium*, *S. sisymbriifolium*
 and *S. torvum* [@Daunay2008]. Among these wild species, only *S.
 torvum* is currently commercially available to be employed as a
@@ -1907,7 +1918,7 @@ presented in Table [3.1](#tab:table401){reference-type="ref"
 reference="tab:table401"}. Seeds of the *S. torvum* cultivars were
 pretreated with a KNO$_{3}$ solution to improve germination
 [@Ranil2015a]. Afterwards, seeds were transferred to
-vermiculite-filled trays and incubated in a growth chamber at 25 $\pm$ 2
+vermiculite-filled trays and incubated in a growth chamber at 25 ± 2
 C and a 16:8 h light:dark photoperiod for 4 weeks. Seedlings were
 transplanted singly to pots containing sterilized river sand.
 
@@ -1925,8 +1936,8 @@ of the MJLg isolate to the *Mi1.2* gene in tomato, and of the MILgN
 isolate to the *N* gene in pepper was confirmed 55 days after
 cultivation of the resistant tomato cv. Monika and the susceptible cv.
 Durinta, and the resistant pepper cv. Solfeo and the susceptible cv.
-Compás in 200 cm$^{3}$ pots inoculated with 1 second-juvenile
-(J2)/cm$^{3}$ of sand and maintained in a growth chamber at 25 $\pm$ 2
+Compás in 200 cm^3^ pots inoculated with 1 second-juvenile
+(J2)/cm^3^ of sand and maintained in a growth chamber at 25 ± 2
 C. The number of eggs produced by the MJLg and MILgN isolates in the
 resistant tomato and pepper were a 98.3% and 89.3% of those produced in
 the susceptible tomato and pepper cultivars, respectively (Table
@@ -1950,11 +1961,11 @@ against five avirulent isolates of *M. incognita* and six of *M.
 javanica*. Plants were transplanted to 1 L pots and maintained in a
 greenhouse for 40 days. In the second experiment, the *S. torvum*
 rootstocks were assessed against the *M. javanica* *Mi1.2*-virulent
-isolate MJLg in 200 cm$^{3}$ pots and maintained in a growth chamber at
-25 $\pm$ 2 C with a 16:8h (light:dark) photoperiod for 55 days. In the
+isolate MJLg in 200 cm^3^ pots and maintained in a growth chamber at
+25 ± 2 C with a 16:8h (light:dark) photoperiod for 55 days. In the
 third experiment, the response of the selected *S. torvum* rootstock TB
 was assessed against the *M. javanica* *Mi1.2*-virulent isolate MJ27 and
-the *N*-virulent *M. incognita* isolate MILgN in 500 cm$^{3}$ pots and
+the *N*-virulent *M. incognita* isolate MILgN in 500 cm^3^ pots and
 maintained for 49 days in a greenhouse. The rootstock cv. Brutus was
 selected because showed the most stable response against the most RKN
 isolates assessed. The eggplant MC was included in all experiment as
@@ -1963,7 +1974,7 @@ was replicated seven times and the experiments conducted twice, with two
 weeks apart between each repetition.
 
 All experiments were conducted following the same procedure. Plants were
-inoculated with 1 J2/cm$^{3}$ of sand. Plants were watered as needed
+inoculated with 1 J2/cm^3^ of sand. Plants were watered as needed
 throughout the experiment and fertilized with a slow release fertilizer
 (15% N, 9% P$_{2}$O$_{5}$, 12% K$_{2}$O, 2% MgO$_{2}$, microelements;
 Osmocote Plus). Soil temperatures were recorded daily at 30 min
@@ -1984,9 +1995,9 @@ slightly resistant (25% $\leq$ RI $<$ 50%) or susceptible (RI $\geq$
 ### Population dynamics of *M. javanica* on ungrafted and grafted eggplant 
 
 The eggplant MC ungrafted and grafted onto the *S. torvum* rootstock cv.
-TB were transplanted into 500 cm$^{3}$ pots filled with sterile sand,
+TB were transplanted into 500 cm^3^ pots filled with sterile sand,
 and inoculated with the *M. javanica* isolate MJ27 at 0, 0.1, 0.2, 0.4,
-0.8, 1.5, 3, 6 and 12 J2/cm$^{3}$ of sand (initial population density,
+0.8, 1.5, 3, 6 and 12 J2/cm^3^ of sand (initial population density,
 *Pi*) to assess the relationship between *Pi* and *Pf*, and the effect
 on relative dry shoot biomass. Each treatment was replicated four times.
 Plants were maintained in a greenhouse for 55 days, from June to August,
@@ -2027,9 +2038,9 @@ Nematode population density was determined at transplantation (*Pi*).
 Soil samples consisted of eight cores taken from the first 30 cm of soil
 with an auger of diameter 2.5 cm. Soil subsamples were mixed and sieved
 (4 mm) to remove stones. For each experimental plot, J2 were extracted
-from 500 cm$^{3}$ of soil using Baermann trays [@Whitehead1965a]) and
-incubated at 27 $\pm$ 2 C for a week. J2 were counted and expressed as
-J2 per 250 cm$^{3}$ of soil. At the end of the experiments, roots were
+from 500 cm^3^ of soil using Baermann trays [@Whitehead1965a]) and
+incubated at 27 ± 2 C for a week. J2 were counted and expressed as
+J2 per 250 cm^3^ of soil. At the end of the experiments, roots were
 carefully removed from the soil, washed, and weighed, and the galling
 index (GI) was estimated in a scale from 0 to 10, where 0 = complete and
 healthy root system and 10 = plants and roots dead [@Zeck1971a]. The
@@ -2093,25 +2104,25 @@ The minimum, maximum and mean sand temperatures recorded were 23.9, 27.8
 and 26.2 C, respectively. The maximum multiplication rate (*a*), maximum
 density (*M*) and equilibrium density (*E*) of the *M. javanica* isolate
 MJ27 on the ungrafted eggplant MC were 270, 30 906 eggs+J2 per 100
-cm$^{3}$, and 1318 eggs+J2 per 100 cm$^{3}$, respectively. In the
+cm^3^, and 1318 eggs+J2 per 100 cm^3^, respectively. In the
 grafted MC onto TB the values of *a*, *M* and *E* were 49, 4223 eggs+J2
-per 100 cm$^{3}$, and 2056 eggs+J2 per cm$^{3}$, respectively (fig.
+per 100 cm^3^, and 2056 eggs+J2 per cm^3^, respectively (fig.
 [\[fig:Figure401\]](#fig:Figure401){reference-type="ref"
 reference="fig:Figure401"}). The relationship between *Pi* and dry shoot
 weight biomass for the ungrafted eggplant fitted to the Seinhorst damage
 model (*P* $<$ 0.0001, R$^{2}$ = 0.998), but that of the grafted
 eggplant did not. The tolerance (*T*) of the ungrafted eggplant was 10.9
-J2 per 100 cm$^{3}$ soil, and the minimum dry shoot biomass (*m*) was
+J2 per 100 cm^3^ soil, and the minimum dry shoot biomass (*m*) was
 0.76 (fig. [\[fig:Figure402\]](#fig:Figure402){reference-type="ref"
 reference="fig:Figure402"}).
 
 ### Effect of increasing *Pi* and seasonal cultivation on *M. incognita*
 
 The *Pi* in the 10 experimental plots cultivated in spring--summer
-ranged from 10 to 547 J2 per 250 cm$^{3}$ of soil, and the minimum,
+ranged from 10 to 547 J2 per 250 cm^3^ of soil, and the minimum,
 maximum and mean soil temperatures were 17.5, 28.2 and 23.5 C,
 respectively. The *Pi* in the 15 experimental plots cultivated in
-autumn--winter ranged from 42 to 842 per 250 cm$^{3}$ of soil, and the
+autumn--winter ranged from 42 to 842 per 250 cm^3^ of soil, and the
 minimum, maximum and mean soil temperatures were 6.8, 25.5 and 16.4 C,
 respectively. The *S. torvum* rootstocks showed a lower (*P* $<$ 0.05)
 galling index than the susceptible MC eggplant, with fewer (*P* $<$
@@ -2184,44 +2195,44 @@ alboatrum* Vd: *Verticillium dahliae*.
 ::: {#tab:table403}
   *Meloidogyne* spp.   Isolate   Crop     Cultivar   Eggs per plant ($\times 10^2$)   RI (%)$^{a}$
   -------------------- --------- -------- ---------- -------------------------------- -----------------
-  *M. javanica*        MJLg      Tomato   Durinta    477.4 $\pm$ 93.8                 
-                                          Monika     469.3 $\pm$ 51.5                 98.3 $\pm$ 10.8
-  *M. incognita*       MILgN     Tomato   Durinta    387.9 $\pm$ 50.1\*               
-                                          Monika     10.2 $\pm$ 2.5                   2.6 $\pm$ 0.6
-                                 Pepper   Compas     63.9 $\pm$ 11.0                  
-                                          Solfeo     57.0 $\pm$ 15.5                  89.3 $\pm$ 24.2
+  *M. javanica*        MJLg      Tomato   Durinta    477.4 ± 93.8                 
+                                          Monika     469.3 ± 51.5                 98.3 ± 10.8
+  *M. incognita*       MILgN     Tomato   Durinta    387.9 ± 50.1\*               
+                                          Monika     10.2 ± 2.5                   2.6 ± 0.6
+                                 Pepper   Compas     63.9 ± 11.0                  
+                                          Solfeo     57.0 ± 15.5                  89.3 ± 24.2
 
   : Number of eggs per plant and reproduction index (RI) of MJLg isolate
   of *Meloidogyne javanica* on the susceptible tomato, *Solanum
   lycopersicum*, cv. Durinta and the resistant cv. Monika, the
   susceptible pepper, *Capsicum annuum*, cv. Compás and the resistant
   cv. Solfeo 55 days after inoculation with a rate of 1 second-stage
-  juvenile/cm$^{3}$.
+  juvenile/cm^3^.
 :::
 
-Data are mean $\pm$ standard error of 14 replicates. Values per each
+Data are mean ± standard error of 14 replicates. Values per each
 *Meloidogyne* species followed by \* show significant differences (*P*
 $<$ 0.05) between cultivars of the same crop according to the
 Mann--Whitney *U* non parametric test. ^a^Reproduction index = 100
-$\times$ (number of eggs per plant in the resistant cultivar / mean
+× (number of eggs per plant in the resistant cultivar / mean
 number of eggs per plant on the susceptible cultivar).
 
-Data are mean $\pm$ standard error of 14 replicates. Data within the
+Data are mean ± standard error of 14 replicates. Data within the
 same row followed by the same lowercase letter did not show significant
 differences (*P* $<$ 0.05) between germplasm according to the Dunn test.
 Different uppercase letters in the same column indicate significant
 differences (*P* $<$ 0.05) between nematode isolates according to the
-Dunn test. ^a^Reproduction index = 100 $\times$ (number of eggs per
+Dunn test. ^a^Reproduction index = 100 × (number of eggs per
 plant in the *S. torvum* cultivar / number of eggs per plant on the
 eggplant cv. Cristal).
 
-Data are mean $\pm$ standard error of 10 and 15 replicates in the
+Data are mean ± standard error of 10 and 15 replicates in the
 spring--summer and autumn--winter experiments, respectively. Data in the
 same column followed by different letters indicate significant
 differences (*P* $<$ 0.05) between plant cultivars according to the Dunn
 test. ^a^Galling index on a scale from 0 to 10, where 0 = complete and
 healthy root system and 10 = plant and roots dead (Zeck 1971).
-^b^Reproduction index = 100 $\times$ (number of eggs per plant in a
+^b^Reproduction index = 100 × (number of eggs per plant in a
 given *S. torvum* rootstock / that on the susceptible eggplant).
 
 width=0.8,
@@ -2281,9 +2292,9 @@ Cultivar Brutus confers tolerance to *M. javanica* because the dry shoot
 weight of the grafted eggplant was not reduced when submitted to
 increasing *Pi* but that of the ungrafted did according to the
 Seinhorst's damage model. The estimated tolerance limit of eggplant to
-*M. javanica* was 10.9 J2 per 100 cm$^{3}$ of sandy soil. Di Vito et al.
+*M. javanica* was 10.9 J2 per 100 cm^3^ of sandy soil. Di Vito et al.
 ([-@DiVito1986]) reported a tolerance limit of 0.054 eggs and J2 of *M.
-incognita* per cm$^{3}$ of sandy loam soil. Watanabe et al.
+incognita* per cm^3^ of sandy loam soil. Watanabe et al.
 ([-@Watanabe2014]) reported eggplant yield losses at *Pi* higher than 2
 J2 of a mixed population of *M. incognita* and *M. hapla* per 20 g of
 clay loam soil. It is known that the tolerance limit can be influenced
@@ -2365,7 +2376,7 @@ the second crop, the putative selection for virulence of the nematode
 subpopulations coming from infected ungrafted and grafted eggplant was
 assessed in the eggplant and in *S. torvum* in a pot experiment.
 Nematode population densities at transplantation in 2017 ranged from 2
-to 378 J2 per 100 cm$^{3}$ of soil and did not differ between ungrafted
+to 378 J2 per 100 cm^3^ of soil and did not differ between ungrafted
 and grafted eggplant. At the end of each crop, higher galling index and
 number of nematodes in soil and in roots were registered in ungrafted
 than grafted eggplant. The grafted eggplant performed as resistant in
@@ -2403,7 +2414,7 @@ Grafting onto resistant rootstocks has become a common method to control
 soilborne pathogens when no commercial resistant cultivars are available
 [@Oda2002]; [@Thies2015c]. That is the case of eggplant, which has
 been usually grafted onto resistant tomato or interspecific hybrids such
-as *S. lycopersicum* $\times$ *S. habrochaites* [@Daunay2008].
+as *S. lycopersicum* × *S. habrochaites* [@Daunay2008].
 However, the expression of resistance can be limited by several factors
 like constant soil temperatures above 30 C [@araujo1982effects]), and
 the genetic background of the rootstock along with that of the nematode
@@ -2412,7 +2423,7 @@ species carrying the same resistance gene can select virulent nematode
 populations capable to overcome the plant defense mechanisms
 [@Verdejo-Lucas2009a]; [@Gine2017b]; [@ExpositoA.2019c]. Thus, other
 resistance sources have been assessed, including *S. melongena* lines,
-interspecific hybrid of *S. integrifolium* $\times$ *S. melongena*, and
+interspecific hybrid of *S. integrifolium* × *S. melongena*, and
 the wild related species *S. integrifolium*, *S. sisymbriifolium* and
 *S. torvum* [@Daunay2008]. Nonetheless, *S. torvum* is currently the
 only wild species commercially available to be used as rootstock for
@@ -2474,9 +2485,9 @@ of the crops. Soil samples were taken from each experimental plot and
 consisted of eight cores taken from the first 30 cm of soil with an
 auger of diameter 2.5 cm that were mixed and passed through a 4 mm pore
 sieve to remove stones. The second-stage juveniles (J2) were extracted
-from 500 cm$^{3}$ of soil and incubated at 27 $\pm$ 2 C for one week,
+from 500 cm^3^ of soil and incubated at 27 ± 2 C for one week,
 using Baermann trays [@Whitehead1965a]. J2 were collected using a 25
-$\mu$m aperture screen, counted, and expressed as J2/100 cm$^{3}$ of
+μm aperture screen, counted, and expressed as J2/100 cm^3^ of
 soil. At the end of the crop, roots were carefully uprooted, washed, and
 the galling index (GI) evaluated on a scale from 0 to 10, where 0 =
 complete and healthy root system and 10 = plants and roots dead
@@ -2496,17 +2507,17 @@ At the end of the plastic greenhouse experiment in 2018, two nematode
 subpopulations were considered according to the plant species in which
 they were produced, that is, eggplant or *S. torvum*. The eggs extracted
 from roots of the ungrafted eggplant were inoculated in Baermann trays
-at 27 $\pm$ 2 C to allow J2 emergence to determine the putative
+at 27 ± 2 C to allow J2 emergence to determine the putative
 selection for virulence in a pot experiment. J2 emerged in the first 24
 h were discarded. Nematodes were collected daily for 10 days using a 25
-$\mu$m sieve, and stored at 9 C until inoculation. Seeds of the *S.
+μm sieve, and stored at 9 C until inoculation. Seeds of the *S.
 torvum* cv. Brutus were pre-treated with a KNO$_{3}$ solution to improve
 germination [@Ranil2015a]), transferred to vermiculite filled trays and
-incubated in a growth chamber at 25 $\pm$ 2 C and 16:8h (light:dark)
+incubated in a growth chamber at 25 ± 2 C and 16:8h (light:dark)
 photoperiod for four weeks. Afterwards, the seedlings were transplanted
-to 200 cm$^{3}$ pots containing sterile sand and maintained in a growth
-chamber at 25 $\pm$ 2 C with a 16:8 h (light:dark) photoperiod for a
-week, and inoculated with 1 J2/cm$^{3}$ sand. Each treatment was
+to 200 cm^3^ pots containing sterile sand and maintained in a growth
+chamber at 25 ± 2 C with a 16:8 h (light:dark) photoperiod for a
+week, and inoculated with 1 J2/cm^3^ sand. Each treatment was
 replicated 10 times. Plants were maintained in the growth chamber for 55
 days. Plants were watered as needed throughout the experiment and
 fertilized with a slow-release fertilizer (15% N, 9% P$_{2}$O$_{5}$, 12%
@@ -2537,7 +2548,7 @@ Results
 The minimum and maximum soil temperatures during the cropping season in
 2017 ranged from 21.1 C to 29.9 C, and from 14.6 C to 31.3 C in 2018.
 The nematode population densities in soil at transplantation in 2017
-ranged from 2 to 378 J2/100 cm$^{3}$ of soil and did not differ (*P* $<$
+ranged from 2 to 378 J2/100 cm^3^ of soil and did not differ (*P* $<$
 0.05) between treatments. At the end of the crop, higher (*P* $<$ 0.05)
 GI, and number of J2 in soil and eggs per plant were registered in the
 ungrafted than the grafted eggplant, but fruit yield did not differ
@@ -2573,21 +2584,21 @@ parameters did not differ between subpopulations when inoculated in *S.
 torvum* (Table [\[tab:Table502\]](#tab:Table502){reference-type="ref"
 reference="tab:Table502"}).
 
-Data on nematode population densities in soil are the mean $\pm$
+Data on nematode population densities in soil are the mean ±
 standard error of 10 replicates. Data on GI, eggs/plant, RI and yield
-are the mean $\pm$ standard error of 40 replicates. Data followed by \*
+are the mean ± standard error of 40 replicates. Data followed by \*
 in the same column and year indicate significant differences (*P* $<$
 0.05) between plant species according to the non-parametric
 Mann--Whitney *U* test. ^a^Galling index on a scale from 0 to 10, where
 0 = complete and healthy root system and 10 = plant and roots dead
-(Zeck, 1971). ^b^Reproduction index) = 100 $\times$ (number of eggs per
+(Zeck, 1971). ^b^Reproduction index) = 100 × (number of eggs per
 plant in the rootstock / number of eggs per plant on the eggplant cv.
 Cristal).
 
 The nematode inoculum was obtained after cultivation the ungrafted and
 grafted eggplant cv. Cristal onto the rootstock cv. Brutus during two
 consecutive cropping seasons in the same plots in plastic greenhouse.
-Data are mean $\pm$ standard error of 10 replicates. Values followed by
+Data are mean ± standard error of 10 replicates. Values followed by
 \* in the same column show significant differences (*P* $<$ 0.05)
 between plant species according to the non-parametric Mann--Whitney *U*
 test. Values of each parameter followed by + show significant
@@ -2595,7 +2606,7 @@ differences (*P* $<$ 0.05) between nematode subpopulations per each
 plant specie according to the non-parametric Mann--Whitney *U* test.
 ^a^Galling index on a scale from 0 to 10, where 0 = complete and healthy
 root system and 10 = plant and roots dead (Zeck, 1971). ^b^Reproduction
-index = 100 $\times$ (number of eggs per plant in the *S. torvum*
+index = 100 × (number of eggs per plant in the *S. torvum*
 cultivar / number of eggs per plant on the eggplant cv. Cristal).
 
 2
