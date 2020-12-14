@@ -12,7 +12,7 @@ pinned: false
 tags:
 - SoundCloud
 series:
-- Demo
+- Tracks
 categories:
 - Música
 image: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Antu_soundcloud.svg/1200px-Antu_soundcloud.svg.png

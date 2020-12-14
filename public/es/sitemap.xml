@@ -4,7 +4,7 @@
   
   <url>
     <loc>/es/</loc>
-    <lastmod>2020-12-13T20:12:00-08:00</lastmod>
+    <lastmod>2020-12-13T22:02:14-08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -15,6 +15,76 @@
                 hreflang="es"
                 href="/es/"
                 />
+  </url>
+  
+  <url>
+    <loc>/es/musica/2020-12-14-51wolves/</loc>
+    <lastmod>2020-12-13T22:02:14-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/es/categories/</loc>
+    <lastmod>2020-12-13T22:02:14-08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>/es/categories/musica/</loc>
+    <lastmod>2020-12-13T22:02:14-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/es/musica/</loc>
+    <lastmod>2020-12-13T22:02:14-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/es/tags/samples/</loc>
+    <lastmod>2020-12-13T22:02:14-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/es/series/</loc>
+    <lastmod>2020-12-13T22:02:14-08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/series/"
+                />
+  </url>
+  
+  <url>
+    <loc>/es/tags/</loc>
+    <lastmod>2020-12-13T22:02:14-08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>/es/series/tracks/</loc>
+    <lastmod>2020-12-13T22:02:14-08:00</lastmod>
   </url>
   
   <url>
@@ -48,38 +118,8 @@
   </url>
   
   <url>
-    <loc>/es/categories/</loc>
-    <lastmod>2020-12-13T20:12:00-08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/categories/"
-                />
-  </url>
-  
-  <url>
     <loc>/es/tags/persianas/</loc>
     <lastmod>2020-12-13T20:12:00-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/es/tags/</loc>
-    <lastmod>2020-12-13T20:12:00-08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/tags/"
-                />
   </url>
   
   <url>
@@ -188,32 +228,7 @@
   </url>
   
   <url>
-    <loc>/es/series/</loc>
-    <lastmod>2020-12-11T23:45:00-08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/series/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/series/"
-                />
-  </url>
-  
-  <url>
-    <loc>/es/series/demo/</loc>
-    <lastmod>2020-12-11T23:44:00-08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/es/categories/m%C3%BAsica/</loc>
-    <lastmod>2020-12-11T23:44:00-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/es/musica/</loc>
     <lastmod>2020-12-11T23:44:00-08:00</lastmod>
   </url>
   

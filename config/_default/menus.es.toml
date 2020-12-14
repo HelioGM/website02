@@ -35,23 +35,7 @@
   weight = 6
   
 [[main]]
-  identifier = "gallery"
-  name = "📷Galeria"
-  url = "gallery"
-  weight = 7
-    
-[[main]]
-  parent = "gallery"
-  name = "Fotos"
-  url = "gallery/photo"
-  
-[[main]]
-  parent = "gallery"
-  name = "Cartoon"
-  url = "gallery/cartoon"
-  
-[[main]]
   identifier = "about"
   name = "Acerca de"
   url = "about"
-  weight = 8
+  weight = 7
