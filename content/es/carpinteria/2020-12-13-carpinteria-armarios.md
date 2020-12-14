@@ -25,9 +25,9 @@ image:  https://lh3.googleusercontent.com/fXAMwwo-U1SyPRjpMNDnBcT8dhSdNTb7NW5kK8
 
 Algunas fotos de armarios entregados.
 
-{{< img src="https://lh3.googleusercontent.com/FcBIsLKHWjpDhQ2aJIMLj1xJct71GWu5IIj9V5q0wmErv2O1RM9AMIc8cq97DGCc6SeCuM9baY0MDc0GyWmDynIl6wZtxAdKtuQo8jwRIELN79o9SjTX3b-IZeRRggP7EiaAP8Dr-w=w1920-h1080" title="Sample Image" caption="Image with title, caption, alt, ..." alt="image alt" width="700px" position="center" >}}
+{{< img src="https://lh3.googleusercontent.com/FcBIsLKHWjpDhQ2aJIMLj1xJct71GWu5IIj9V5q0wmErv2O1RM9AMIc8cq97DGCc6SeCuM9baY0MDc0GyWmDynIl6wZtxAdKtuQo8jwRIELN79o9SjTX3b-IZeRRggP7EiaAP8Dr-w=w1920-h1080" title="Sample Image" caption="Image with title, caption, alt, .." alt="image alt" width="700px" position="center" >}}
 
-{{< img src="https://lh3.googleusercontent.com/z1pXr4YZATgiPDyjrj_sfre2nbDdhRAHYNPakwB2WZTeVMdZv9SVhR7vnKw4_MFHNT_YBRmAB69Shie8MRdzU5yL3MwH7zwQtAwpMvgWi2RNLPXiQ_ppjWx5T_HsM-DMcLFOTAiQqA=w1920-h1080" title="Sample Image" caption="Image with title, caption, lt, ..." alt="image alt" width="700px" position="center" >}}
+{{< img src="https://lh3.googleusercontent.com/z1pXr4YZATgiPDyjrj_sfre2nbDdhRAHYNPakwB2WZTeVMdZv9SVhR7vnKw4_MFHNT_YBRmAB69Shie8MRdzU5yL3MwH7zwQtAwpMvgWi2RNLPXiQ_ppjWx5T_HsM-DMcLFOTAiQqA=w1920-h1080" title="Sample Image" caption="Image with title, caption, lt, .." alt="image alt" width="700px" position="center" >}}
 
 {{< img src="https://lh3.googleusercontent.com/BLwHCZvx4C_dZCDHElhVrvmjMO6hyKDD7Dpkm1dxChjlxFeOj7xYjpBxTCmlR-duuRvymybh-0gfrPuUdOTFW22PUtNlPWPL6bX8XIToO_lSMc1Zb8MoC2u7RUNURKSpQ9SmXmbTWg=w1920-h1080" title="Sample Image" caption="Image with title, caption, alt, ..." alt="image alt" width="700px" position="center" >}}
 
