@@ -1,7 +1,7 @@
 +++
 aliases = ["carpinteria"]
 title = "Carpintería"
-author = "Hugo Authors"
-tags = ["index"]
+author = "Helio"
+tags = [""]
 description = "Proyectos de carpintería"
 +++

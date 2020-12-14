@@ -14,7 +14,7 @@
     <managingEditor>helio4gm@gmail.com (Helio)</managingEditor>
     <webMaster>helio4gm@gmail.com (Helio)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Sun, 13 Dec 2020 20:12:00 -0800</lastBuildDate>
+    <lastBuildDate>Mon, 14 Dec 2020 19:15:48 -0800</lastBuildDate>
     
         <atom:link href="/es/carpinteria/index.xml" rel="self" type="application/rss+xml" />
     
@@ -23,156 +23,16 @@
 
       
       <item>
-        <title>Carpintería: Armarios</title>
-        <link>/es/carpinteria/2020-12-13-carpinteria-armarios/</link>
-        <pubDate>Sun, 13 Dec 2020 20:12:00 -0800</pubDate>
-        <author>helio4gm@gmail.com (Helio)</author>
-        <atom:modified>Sun, 13 Dec 2020 20:12:00 -0800</atom:modified>
-        <guid>/es/carpinteria/2020-12-13-carpinteria-armarios/</guid>
-        <description>Algunas fotos de armarios entregadas.
-Sample Image: Image with title, caption, alt, ...   Sample Image: Image with title, caption, lt, ...   Sample Image: Image with title, caption, alt, ...   Sample Image: Image with title, caption, alt, ...   Sample Image: Image with title, caption, alt, ...   Sample Image: Image with title, caption, alt, ...   Sample Image: Image with title, caption, alt, .</description>
-        
-        <dc:creator>Helio</dc:creator>
-        <media:content url="/images/nuevas/Logo.png" medium="image"><media:title type="html">featured image</media:title></media:content>
-        
-        
-        
-          
-            
-              <category>Armarios</category>
-            
-          
-        
-        
-          
-            
-              <category>Carpintería</category>
-            
-          
-        
-        
-          
-            
-          
-        
-      </item>
-      
-      <item>
-        <title>Carpintería: otros trabajos</title>
-        <link>/es/carpinteria/2020-12-13-carpinteria-otros/</link>
-        <pubDate>Sun, 13 Dec 2020 20:12:00 -0800</pubDate>
-        <author>helio4gm@gmail.com (Helio)</author>
-        <atom:modified>Sun, 13 Dec 2020 20:12:00 -0800</atom:modified>
-        <guid>/es/carpinteria/2020-12-13-carpinteria-otros/</guid>
-        <description>Algunas fotos de otros trabajos entregados.
-Sample Image: Image with title, caption, alt, ...   Sample Image: Image with title, caption, alt, ...   Sample Image: Image with title, caption, alt, ...   Sample Image: Image with title, caption, alt, ...   Sample Image: Image with title, caption, alt, ...   Sample Image: Image with title, caption, alt, ...   Sample Image: Image with title, caption, alt, .</description>
-        
-        <dc:creator>Helio</dc:creator>
-        <media:content url="/images/nuevas/Logo.png" medium="image"><media:title type="html">featured image</media:title></media:content>
-        
-        
-        
-          
-            
-              <category>Armarios</category>
-            
-          
-        
-        
-          
-            
-              <category>Carpintería</category>
-            
-          
-        
-        
-          
-            
-          
-        
-      </item>
-      
-      <item>
-        <title>Carpintería: Persianas</title>
-        <link>/es/carpinteria/2020-12-13-carpinteria-persianas/</link>
-        <pubDate>Sun, 13 Dec 2020 20:12:00 -0800</pubDate>
-        <author>helio4gm@gmail.com (Helio)</author>
-        <atom:modified>Sun, 13 Dec 2020 20:12:00 -0800</atom:modified>
-        <guid>/es/carpinteria/2020-12-13-carpinteria-persianas/</guid>
-        <description>Algunas fotos de persianas entregadas.
-Sample Image: Image with title, caption, alt, ...   Sample Image: Image with title, caption, alt, ...   Sample Image: Image with title, caption, alt, ...   Sample Image: Image with title, caption, alt, ...   </description>
-        
-        <dc:creator>Helio</dc:creator>
-        <media:content url="/images/nuevas/Logo.png" medium="image"><media:title type="html">featured image</media:title></media:content>
-        
-        
-        
-          
-            
-              <category>Persianas</category>
-            
-          
-        
-        
-          
-            
-              <category>Carpintería</category>
-            
-          
-        
-        
-          
-            
-          
-        
-      </item>
-      
-      <item>
-        <title>Carpintería: Puertas</title>
-        <link>/es/carpinteria/2020-12-13-carpinteria-puertas/</link>
-        <pubDate>Sun, 13 Dec 2020 20:11:00 -0800</pubDate>
-        <author>helio4gm@gmail.com (Helio)</author>
-        <atom:modified>Sun, 13 Dec 2020 20:11:00 -0800</atom:modified>
-        <guid>/es/carpinteria/2020-12-13-carpinteria-puertas/</guid>
-        <description>Algunas fotos de puertas entregadas.
-Sample Image: Image with title, caption, alt, ...   Sample Image: Image with title, caption, alt, ...   Sample Image: Image with title, caption, alt, ...   Sample Image: Image with title, caption, alt, ...   Sample Image: Image with title, caption, alt, ...   Sample Image: Image with title, caption, alt, ...   Sample Image: Image with title, caption, alt, .</description>
-        
-        <dc:creator>Helio</dc:creator>
-        <media:content url="/images/nuevas/Logo.png" medium="image"><media:title type="html">featured image</media:title></media:content>
-        
-        
-        
-          
-            
-              <category>Puertas</category>
-            
-          
-        
-        
-          
-            
-              <category>Carpintería</category>
-            
-          
-        
-        
-          
-            
-          
-        
-      </item>
-      
-      <item>
-        <title>Carpintería: Libros (Molduras)</title>
+        <title>Libros (Molduras)</title>
         <link>/es/carpinteria/2020-12-14-carpinteria-libros01/</link>
-        <pubDate>Sun, 13 Dec 2020 19:15:48 -0800</pubDate>
+        <pubDate>Mon, 14 Dec 2020 19:15:48 -0800</pubDate>
         <author>helio4gm@gmail.com (Helio)</author>
-        <atom:modified>Sun, 13 Dec 2020 19:15:48 -0800</atom:modified>
+        <atom:modified>Mon, 14 Dec 2020 19:15:48 -0800</atom:modified>
         <guid>/es/carpinteria/2020-12-14-carpinteria-libros01/</guid>
         <description>Tague lumber moulding and millwork guide:  Woodmaster tools, inc. sample book:  Architectural Millwork Mfg. Co. Catalog:  </description>
         
         <dc:creator>Helio</dc:creator>
-        <media:content url="/images/nuevas/Logo.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="/images/nuevas/Molduras_01.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -201,7 +61,147 @@ Sample Image: Image with title, caption, alt, ...   Sample Image: Image with tit
       </item>
       
       <item>
-        <title>Carpintería: Cocinas</title>
+        <title>Otros trabajos</title>
+        <link>/es/carpinteria/2020-12-13-carpinteria-otros/</link>
+        <pubDate>Sun, 13 Dec 2020 23:12:00 -0800</pubDate>
+        <author>helio4gm@gmail.com (Helio)</author>
+        <atom:modified>Sun, 13 Dec 2020 23:12:00 -0800</atom:modified>
+        <guid>/es/carpinteria/2020-12-13-carpinteria-otros/</guid>
+        <description>Algunas fotos de otros trabajos entregados.
+Sample Image: Image with title, caption, alt, ...   Sample Image: Image with title, caption, alt, ...   Sample Image: Image with title, caption, alt, ...   Sample Image: Image with title, caption, alt, ...   Sample Image: Image with title, caption, alt, ...   Sample Image: Image with title, caption, alt, ...   Sample Image: Image with title, caption, alt, .</description>
+        
+        <dc:creator>Helio</dc:creator>
+        <media:content url="/https://lh3.googleusercontent.com/uzeyKWaC9bMwF90SR2A2sGNnKlRNWFRq4Eah38qA6uQkTyw69RhzhRfmuCnw2rwV2_nFO9gmh5NcVHns146aqTsrPK1jUdVSKP_rX7zR0P54kb5BEPn91JAW-ZmNJgjrFEP8wvFAOA=w1920-h1080" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>Otros trabajos</category>
+            
+          
+        
+        
+          
+            
+              <category>Carpintería</category>
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Armarios</title>
+        <link>/es/carpinteria/2020-12-13-carpinteria-armarios/</link>
+        <pubDate>Sun, 13 Dec 2020 20:12:00 -0800</pubDate>
+        <author>helio4gm@gmail.com (Helio)</author>
+        <atom:modified>Sun, 13 Dec 2020 20:12:00 -0800</atom:modified>
+        <guid>/es/carpinteria/2020-12-13-carpinteria-armarios/</guid>
+        <description>Algunas fotos de armarios entregados.
+Sample Image: Image with title, caption, alt, ...   Sample Image: Image with title, caption, lt, ...   Sample Image: Image with title, caption, alt, ...   Sample Image: Image with title, caption, alt, ...   Sample Image: Image with title, caption, alt, ...   Sample Image: Image with title, caption, alt, ...   Sample Image: Image with title, caption, alt, .</description>
+        
+        <dc:creator>Helio</dc:creator>
+        <media:content url="/https://lh3.googleusercontent.com/fXAMwwo-U1SyPRjpMNDnBcT8dhSdNTb7NW5kK8Etoq_nCfo3OSV4KVA7bQKNbf5dqf9sYEW-mZ2HUK3caF0trvR3b5mUarfQDWNTNmaPuVaF-V7g0waMESvlzOCvpAjMs5QwC-Yubw=w1920-h1080" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>Armarios</category>
+            
+          
+        
+        
+          
+            
+              <category>Carpintería</category>
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Persianas</title>
+        <link>/es/carpinteria/2020-12-13-carpinteria-persianas/</link>
+        <pubDate>Sun, 13 Dec 2020 20:12:00 -0800</pubDate>
+        <author>helio4gm@gmail.com (Helio)</author>
+        <atom:modified>Sun, 13 Dec 2020 20:12:00 -0800</atom:modified>
+        <guid>/es/carpinteria/2020-12-13-carpinteria-persianas/</guid>
+        <description>Algunas fotos de persianas entregadas.
+Sample Image: Image with title, caption, alt, ...   Sample Image: Image with title, caption, alt, ...   Sample Image: Image with title, caption, alt, ...   Sample Image: Image with title, caption, alt, ...   </description>
+        
+        <dc:creator>Helio</dc:creator>
+        <media:content url="/https://lh3.googleusercontent.com/RY3gIFrDAqtVxAtcipTECW61gDTtJGYjUOPXzMrK1dh8AlC53qwEtiQrBoalyb5ikUXmi4oDXu_s3qm4puRcimxzQV9Q8TPrbEbTPdIzoE-e18Jq0AfgEJtNh-WcZqPlhPe9XfxoAA=w1920-h1080" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>Persianas</category>
+            
+          
+        
+        
+          
+            
+              <category>Carpintería</category>
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Puertas</title>
+        <link>/es/carpinteria/2020-12-13-carpinteria-puertas/</link>
+        <pubDate>Sun, 13 Dec 2020 20:11:00 -0800</pubDate>
+        <author>helio4gm@gmail.com (Helio)</author>
+        <atom:modified>Sun, 13 Dec 2020 20:11:00 -0800</atom:modified>
+        <guid>/es/carpinteria/2020-12-13-carpinteria-puertas/</guid>
+        <description>Algunas fotos de puertas entregadas.
+Sample Image: Image with title, caption, alt, ...   Sample Image: Image with title, caption, alt, ...   Sample Image: Image with title, caption, alt, ...   Sample Image: Image with title, caption, alt, ...   Sample Image: Image with title, caption, alt, ...   Sample Image: Image with title, caption, alt, ...   Sample Image: Image with title, caption, alt, .</description>
+        
+        <dc:creator>Helio</dc:creator>
+        <media:content url="/https://lh3.googleusercontent.com/yXznqL0gnHRHGhHXXQNt4pBvI5aEvey3ftlr1CA5csGsJK8kgaPedvC7EvUkBaJubWgY3jhBaqpIiRBx2bjbaSkQNXIw190QTjNKFJAKkh1tuPe5UoXjFWMnxwhWWvCkUEGhE16dCg=w1920-h1080" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>Puertas</category>
+            
+          
+        
+        
+          
+            
+              <category>Carpintería</category>
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Cocinas</title>
         <link>/es/carpinteria/carpinteria_01_cocinas/</link>
         <pubDate>Sat, 12 Dec 2020 20:11:00 -0800</pubDate>
         <author>helio4gm@gmail.com (Helio)</author>
@@ -211,7 +211,7 @@ Sample Image: Image with title, caption, alt, ...   Sample Image: Image with tit
 Sample Image: Image with title, caption, alt, ...   Sample Image: Image with title, caption, alt, ...   Sample Image: Image with title, caption, alt, ...   Sample Image: Image with title, caption, alt, ...   Sample Image: Image with title, caption, alt, ...   Sample Image: Image with title, caption, alt, ...   Sample Image: Image with title, caption, alt, .</description>
         
         <dc:creator>Helio</dc:creator>
-        <media:content url="/images/nuevas/Logo.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="//images/nuevas/cocina_06.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         

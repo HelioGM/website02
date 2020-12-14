@@ -1,5 +1,5 @@
 ---
-title: "Carpintería: Cocinas"
+title: "Cocinas"
 subtitle: ""
 date: 2020-12-12T20:11:00-08:00
 description: Algunas fotos de cocinas
@@ -19,7 +19,7 @@ series:
 - 
 categories:
 - Carpintería
-image:  images/nuevas/Logo.png
+image:  /images/nuevas/cocina_06.jpg
 ---
 
 Algunas fotos de cocinas entregadas.

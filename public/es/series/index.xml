@@ -41,30 +41,12 @@
       </item>
       
       <item>
-        <title>Markdown</title>
-        <link>/es/series/markdown/</link>
+        <title>MD</title>
+        <link>/es/series/md/</link>
         <pubDate>Fri, 11 Dec 2020 23:45:00 -0800</pubDate>
         <author>helio4gm@gmail.com (Helio)</author>
         
-        <guid>/es/series/markdown/</guid>
-        <description></description>
-        
-        <dc:creator>Helio</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>Pruebas</title>
-        <link>/es/series/pruebas/</link>
-        <pubDate>Fri, 11 Dec 2020 23:45:00 -0800</pubDate>
-        <author>helio4gm@gmail.com (Helio)</author>
-        
-        <guid>/es/series/pruebas/</guid>
+        <guid>/es/series/md/</guid>
         <description></description>
         
         <dc:creator>Helio</dc:creator>

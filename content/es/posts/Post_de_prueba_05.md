@@ -14,7 +14,7 @@ tags:
 series:
 -
 categories:
-- Test
+- 
 image: https://www.breko.co/blog/wp-content/uploads/2019/05/google-maps-1.jpg
 ---
 

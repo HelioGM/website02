@@ -8,8 +8,8 @@ meta_image = "images/nuevas/Logo.png"
 themecolor = ""
 
 themeOptions = ["dark", "light", "hacker", "solarized", "kimbie"]
-notAllowedTypesInHome = ["contact", "talks", "about", "showcase", "publication", "presentation", "resume"]
-notAllowedTypesInHomeSidebar = ["about", "archive", "showcase", "publication", "presentation", "resume"]
+notAllowedTypesInHome = ["contact", "talks", "about", "showcase", "publication", "presentation", "resume", "gallery"]
+notAllowedTypesInHomeSidebar = ["about", "archive", "showcase", "publication", "presentation", "resume", "gallery"]
 notAllowedTypesInArchive = ["about", "talks", "showcase", "publication", "presentation", "resume"]
 notAllowedTypesInHomeFeed = ["about", "archive", "contact", "talks", "showcase", "publication", "presentation", "resume", "gallery"]
 
@@ -63,7 +63,7 @@ bioImageUrl = ""
 useGravatar = false
 location = "Sonora, Mexico"
 organization = "Not affiliated"
-link = "https://helio4gm.wordpress.com/"
+link = ""
 
 # sidebar
 enableBio = true

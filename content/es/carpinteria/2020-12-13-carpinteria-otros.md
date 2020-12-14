@@ -1,7 +1,7 @@
 ---
-title: "Carpintería: otros trabajos"
+title: "Otros trabajos"
 subtitle: ""
-date: 2020-12-13T20:12:00-08:00
+date: 2020-12-13T23:12:00-08:00
 description: Algunas fotos de otros trabajos.
 draft: false
 hideToc: false
@@ -14,12 +14,13 @@ tocLevels: ["h2", "h3", "h4"]
 enableWhoami: False
 
 tags:
-- Armarios
+- Otros trabajos
 series:
 - 
 categories:
 - Carpintería
-image:  images/nuevas/Logo.png
+image:  https://lh3.googleusercontent.com/uzeyKWaC9bMwF90SR2A2sGNnKlRNWFRq4Eah38qA6uQkTyw69RhzhRfmuCnw2rwV2_nFO9gmh5NcVHns146aqTsrPK1jUdVSKP_rX7zR0P54kb5BEPn91JAW-ZmNJgjrFEP8wvFAOA=w1920-h1080
+
 ---
 
 Algunas fotos de otros trabajos entregados.

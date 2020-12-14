@@ -14,7 +14,7 @@
     <managingEditor>helio4gm@gmail.com (Helio)</managingEditor>
     <webMaster>helio4gm@gmail.com (Helio)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Sun, 13 Dec 2020 22:02:14 -0800</lastBuildDate>
+    <lastBuildDate>Mon, 14 Dec 2020 19:15:48 -0800</lastBuildDate>
     
         <atom:link href="/es/categories/index.xml" rel="self" type="application/rss+xml" />
     
@@ -23,12 +23,12 @@
 
       
       <item>
-        <title>Musica</title>
-        <link>/es/categories/musica/</link>
-        <pubDate>Sun, 13 Dec 2020 22:02:14 -0800</pubDate>
+        <title>Carpintería</title>
+        <link>/es/categories/carpinter%C3%ADa/</link>
+        <pubDate>Mon, 14 Dec 2020 19:15:48 -0800</pubDate>
         <author>helio4gm@gmail.com (Helio)</author>
         
-        <guid>/es/categories/musica/</guid>
+        <guid>/es/categories/carpinter%C3%ADa/</guid>
         <description></description>
         
         <dc:creator>Helio</dc:creator>
@@ -41,12 +41,12 @@
       </item>
       
       <item>
-        <title>Carpintería</title>
-        <link>/es/categories/carpinter%C3%ADa/</link>
-        <pubDate>Sun, 13 Dec 2020 20:12:00 -0800</pubDate>
+        <title>Música</title>
+        <link>/es/categories/m%C3%BAsica/</link>
+        <pubDate>Sun, 13 Dec 2020 22:02:14 -0800</pubDate>
         <author>helio4gm@gmail.com (Helio)</author>
         
-        <guid>/es/categories/carpinter%C3%ADa/</guid>
+        <guid>/es/categories/m%C3%BAsica/</guid>
         <description></description>
         
         <dc:creator>Helio</dc:creator>
@@ -65,42 +65,6 @@
         <author>helio4gm@gmail.com (Helio)</author>
         
         <guid>/es/categories/programaci%C3%B3n/</guid>
-        <description></description>
-        
-        <dc:creator>Helio</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>Música</title>
-        <link>/es/categories/m%C3%BAsica/</link>
-        <pubDate>Fri, 11 Dec 2020 23:44:00 -0800</pubDate>
-        <author>helio4gm@gmail.com (Helio)</author>
-        
-        <guid>/es/categories/m%C3%BAsica/</guid>
-        <description></description>
-        
-        <dc:creator>Helio</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>Test</title>
-        <link>/es/categories/test/</link>
-        <pubDate>Fri, 11 Dec 2020 23:38:00 -0800</pubDate>
-        <author>helio4gm@gmail.com (Helio)</author>
-        
-        <guid>/es/categories/test/</guid>
         <description></description>
         
         <dc:creator>Helio</dc:creator>

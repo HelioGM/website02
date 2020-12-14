@@ -54,200 +54,6 @@
         
       </item>
       
-      <item>
-        <title>Feed RSS</title>
-        <link>/es/posts/post_de_prueba_06/</link>
-        <pubDate>Fri, 11 Dec 2020 23:37:00 -0800</pubDate>
-        <author>helio4gm@gmail.com (Helio)</author>
-        <atom:modified>Fri, 11 Dec 2020 23:37:00 -0800</atom:modified>
-        <guid>/es/posts/post_de_prueba_06/</guid>
-        <description>Feed RSS de noticias   powered by Surfing Waves </description>
-        
-        <dc:creator>Helio</dc:creator>
-        <media:content url="/https://modoturismo.com/wp-content/uploads/2020/05/rss-40674.png" medium="image"><media:title type="html">featured image</media:title></media:content>
-        
-        
-        
-          
-            
-          
-        
-        
-          
-            
-              <category>Test</category>
-            
-          
-        
-        
-          
-            
-          
-        
-      </item>
-      
-      <item>
-        <title>Meme de 9gag (.webp)</title>
-        <link>/es/posts/post_de_prueba_01/</link>
-        <pubDate>Fri, 11 Dec 2020 23:36:00 -0800</pubDate>
-        <author>helio4gm@gmail.com (Helio)</author>
-        <atom:modified>Fri, 11 Dec 2020 23:36:00 -0800</atom:modified>
-        <guid>/es/posts/post_de_prueba_01/</guid>
-        <description>  </description>
-        
-        <dc:creator>Helio</dc:creator>
-        <media:content url="/https://img-9gag-fun.9cache.com/photo/an5pAbE_700bwp.webp" medium="image"><media:title type="html">featured image</media:title></media:content>
-        
-        
-        
-          
-            
-          
-        
-        
-          
-            
-              <category>Test</category>
-            
-          
-        
-        
-          
-            
-          
-        
-      </item>
-      
-      <item>
-        <title>Un mapa de Google Maps</title>
-        <link>/es/posts/post_de_prueba_05/</link>
-        <pubDate>Fri, 11 Dec 2020 23:35:00 -0800</pubDate>
-        <author>helio4gm@gmail.com (Helio)</author>
-        <atom:modified>Fri, 11 Dec 2020 23:35:00 -0800</atom:modified>
-        <guid>/es/posts/post_de_prueba_05/</guid>
-        <description>Un mapa del Agropolis </description>
-        
-        <dc:creator>Helio</dc:creator>
-        <media:content url="/https://www.breko.co/blog/wp-content/uploads/2019/05/google-maps-1.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
-        
-        
-        
-          
-            
-              <category>Test</category>
-            
-          
-        
-        
-          
-            
-              <category>Test</category>
-            
-          
-        
-        
-          
-            
-          
-        
-      </item>
-      
-      <item>
-        <title>Publicaciones de Facebook</title>
-        <link>/es/posts/post_de_prueba_04/</link>
-        <pubDate>Fri, 11 Dec 2020 23:34:00 -0800</pubDate>
-        <author>helio4gm@gmail.com (Helio)</author>
-        <atom:modified>Fri, 11 Dec 2020 23:34:00 -0800</atom:modified>
-        <guid>/es/posts/post_de_prueba_04/</guid>
-        <description>Video de Facebook: Video de Facebook con funciones: Otro video Video de Facebook, porque gracioso: </description>
-        
-        <dc:creator>Helio</dc:creator>
-        <media:content url="/https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Facebook_New_Logo_%282015%29.svg/1200px-Facebook_New_Logo_%282015%29.svg.png" medium="image"><media:title type="html">featured image</media:title></media:content>
-        
-        
-        
-          
-            
-          
-        
-        
-          
-            
-              <category>Test</category>
-            
-          
-        
-        
-          
-            
-          
-        
-      </item>
-      
-      <item>
-        <title>Galeria Google Photos</title>
-        <link>/es/posts/post_de_prueba_03/</link>
-        <pubDate>Fri, 11 Dec 2020 23:33:00 -0800</pubDate>
-        <author>helio4gm@gmail.com (Helio)</author>
-        <atom:modified>Fri, 11 Dec 2020 23:33:00 -0800</atom:modified>
-        <guid>/es/posts/post_de_prueba_03/</guid>
-        <description>Album de fotografías de Google Photos: Fotografía de Google Photos: </description>
-        
-        <dc:creator>Helio</dc:creator>
-        <media:content url="/https://www.businessinsider.in/thumb/msid-73554652,width-1200,height-900/Google-Photos.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
-        
-        
-        
-          
-            
-          
-        
-        
-          
-            
-              <category>Test</category>
-            
-          
-        
-        
-          
-            
-          
-        
-      </item>
-      
-      <item>
-        <title>Objeto incrustado: PDF</title>
-        <link>/es/posts/post_de_prueba_02/</link>
-        <pubDate>Fri, 11 Dec 2020 23:32:00 -0800</pubDate>
-        <author>helio4gm@gmail.com (Helio)</author>
-        <atom:modified>Fri, 11 Dec 2020 23:32:00 -0800</atom:modified>
-        <guid>/es/posts/post_de_prueba_02/</guid>
-        <description>Documento PDF de Google Drive:  </description>
-        
-        <dc:creator>Helio</dc:creator>
-        <media:content url="/https://d33v4339jhl8k0.cloudfront.net/docs/assets/59dda47e2c7d3a40f0ed5ae7/images/5b70d1ac0428631d7a89e47e/file-7e4xmENjHr.png" medium="image"><media:title type="html">featured image</media:title></media:content>
-        
-        
-        
-          
-            
-          
-        
-        
-          
-            
-              <category>Test</category>
-            
-          
-        
-        
-          
-            
-          
-        
-      </item>
-      
 
     
   </channel>

@@ -1,5 +1,5 @@
 ---
-title: "Carpintería: Persianas"
+title: "Persianas"
 subtitle: ""
 date: 2020-12-13T20:12:00-08:00
 description: Algunas fotos de persianas.
@@ -19,7 +19,7 @@ series:
 - 
 categories:
 - Carpintería
-image:  images/nuevas/Logo.png
+image:  https://lh3.googleusercontent.com/RY3gIFrDAqtVxAtcipTECW61gDTtJGYjUOPXzMrK1dh8AlC53qwEtiQrBoalyb5ikUXmi4oDXu_s3qm4puRcimxzQV9Q8TPrbEbTPdIzoE-e18Jq0AfgEJtNh-WcZqPlhPe9XfxoAA=w1920-h1080
 ---
 
 Algunas fotos de persianas entregadas.

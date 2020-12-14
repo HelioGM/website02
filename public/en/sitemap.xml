@@ -245,16 +245,6 @@
   <url>
     <loc>/en/tags/markdown/</loc>
     <lastmod>2019-12-20T12:00:06+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/tags/markdown/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/tags/markdown/"
-                />
   </url>
   
   <url>
@@ -524,16 +514,6 @@
   
   <url>
     <loc>/en/tags/index/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/tags/index/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/tags/index/"
-                />
   </url>
   
 </urlset>

@@ -1,5 +1,5 @@
 ---
-title: "Carpintería: Puertas"
+title: "Puertas"
 subtitle: ""
 date: 2020-12-13T20:11:00-08:00
 description: Algunas fotos de puertas
@@ -19,7 +19,7 @@ series:
 - 
 categories:
 - Carpintería
-image:  images/nuevas/Logo.png
+image:  https://lh3.googleusercontent.com/yXznqL0gnHRHGhHXXQNt4pBvI5aEvey3ftlr1CA5csGsJK8kgaPedvC7EvUkBaJubWgY3jhBaqpIiRBx2bjbaSkQNXIw190QTjNKFJAKkh1tuPe5UoXjFWMnxwhWWvCkUEGhE16dCg=w1920-h1080
 ---
 
 Algunas fotos de puertas entregadas.

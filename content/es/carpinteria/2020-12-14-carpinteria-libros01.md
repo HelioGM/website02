@@ -1,6 +1,6 @@
 ---
-title: "Carpintería: Libros (Molduras)"
-date: 2020-12-13T19:15:48-08:00
+title: "Libros (Molduras)"
+date: 2020-12-14T19:15:48-08:00
 description: Algunos libros sobre molduras
 draft: false
 hideToc: false
@@ -17,7 +17,7 @@ series:
 -
 categories:
 - Carpintería
-image:  images/nuevas/Logo.png
+image:  images/nuevas/Molduras_01.png
 
 ---
 

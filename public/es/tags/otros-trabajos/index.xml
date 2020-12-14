@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Otros trabajos on Helio</title>
+    <link>/es/tags/otros-trabajos/</link>
+    <description>Recent content in Otros trabajos on Helio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <managingEditor>helio4gm@gmail.com (Helio)</managingEditor>
+    <webMaster>helio4gm@gmail.com (Helio)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Sun, 13 Dec 2020 23:12:00 -0800</lastBuildDate>
+    
+        <atom:link href="/es/tags/otros-trabajos/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>Otros trabajos</title>
+        <link>/es/carpinteria/2020-12-13-carpinteria-otros/</link>
+        <pubDate>Sun, 13 Dec 2020 23:12:00 -0800</pubDate>
+        <author>helio4gm@gmail.com (Helio)</author>
+        <atom:modified>Sun, 13 Dec 2020 23:12:00 -0800</atom:modified>
+        <guid>/es/carpinteria/2020-12-13-carpinteria-otros/</guid>
+        <description>Algunas fotos de otros trabajos entregados.
+Sample Image: Image with title, caption, alt, ...   Sample Image: Image with title, caption, alt, ...   Sample Image: Image with title, caption, alt, ...   Sample Image: Image with title, caption, alt, ...   Sample Image: Image with title, caption, alt, ...   Sample Image: Image with title, caption, alt, ...   Sample Image: Image with title, caption, alt, .</description>
+        
+        <dc:creator>Helio</dc:creator>
+        <media:content url="/https://lh3.googleusercontent.com/uzeyKWaC9bMwF90SR2A2sGNnKlRNWFRq4Eah38qA6uQkTyw69RhzhRfmuCnw2rwV2_nFO9gmh5NcVHns146aqTsrPK1jUdVSKP_rX7zR0P54kb5BEPn91JAW-ZmNJgjrFEP8wvFAOA=w1920-h1080" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>Otros trabajos</category>
+            
+          
+        
+        
+          
+            
+              <category>Carpintería</category>
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

@@ -14,13 +14,67 @@
     <managingEditor>helio4gm@gmail.com (Helio)</managingEditor>
     <webMaster>helio4gm@gmail.com (Helio)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Sun, 13 Dec 2020 22:02:14 -0800</lastBuildDate>
+    <lastBuildDate>Mon, 14 Dec 2020 19:15:48 -0800</lastBuildDate>
     
         <atom:link href="/es/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     
 
+      
+      <item>
+        <title>Libros</title>
+        <link>/es/tags/libros/</link>
+        <pubDate>Mon, 14 Dec 2020 19:15:48 -0800</pubDate>
+        <author>helio4gm@gmail.com (Helio)</author>
+        
+        <guid>/es/tags/libros/</guid>
+        <description></description>
+        
+        <dc:creator>Helio</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Molduras</title>
+        <link>/es/tags/molduras/</link>
+        <pubDate>Mon, 14 Dec 2020 19:15:48 -0800</pubDate>
+        <author>helio4gm@gmail.com (Helio)</author>
+        
+        <guid>/es/tags/molduras/</guid>
+        <description></description>
+        
+        <dc:creator>Helio</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Otros trabajos</title>
+        <link>/es/tags/otros-trabajos/</link>
+        <pubDate>Sun, 13 Dec 2020 23:12:00 -0800</pubDate>
+        <author>helio4gm@gmail.com (Helio)</author>
+        
+        <guid>/es/tags/otros-trabajos/</guid>
+        <description></description>
+        
+        <dc:creator>Helio</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
       
       <item>
         <title>Samples</title>
@@ -95,42 +149,6 @@
       </item>
       
       <item>
-        <title>Libros</title>
-        <link>/es/tags/libros/</link>
-        <pubDate>Sun, 13 Dec 2020 19:15:48 -0800</pubDate>
-        <author>helio4gm@gmail.com (Helio)</author>
-        
-        <guid>/es/tags/libros/</guid>
-        <description></description>
-        
-        <dc:creator>Helio</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>Molduras</title>
-        <link>/es/tags/molduras/</link>
-        <pubDate>Sun, 13 Dec 2020 19:15:48 -0800</pubDate>
-        <author>helio4gm@gmail.com (Helio)</author>
-        
-        <guid>/es/tags/molduras/</guid>
-        <description></description>
-        
-        <dc:creator>Helio</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
         <title>Cocinas</title>
         <link>/es/tags/cocinas/</link>
         <pubDate>Sat, 12 Dec 2020 20:11:00 -0800</pubDate>
@@ -149,12 +167,12 @@
       </item>
       
       <item>
-        <title>Markdown</title>
-        <link>/es/tags/markdown/</link>
+        <title>Test</title>
+        <link>/es/tags/test/</link>
         <pubDate>Fri, 11 Dec 2020 23:45:00 -0800</pubDate>
         <author>helio4gm@gmail.com (Helio)</author>
         
-        <guid>/es/tags/markdown/</guid>
+        <guid>/es/tags/test/</guid>
         <description></description>
         
         <dc:creator>Helio</dc:creator>
@@ -173,24 +191,6 @@
         <author>helio4gm@gmail.com (Helio)</author>
         
         <guid>/es/tags/soundcloud/</guid>
-        <description></description>
-        
-        <dc:creator>Helio</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>Test</title>
-        <link>/es/tags/test/</link>
-        <pubDate>Fri, 11 Dec 2020 23:35:00 -0800</pubDate>
-        <author>helio4gm@gmail.com (Helio)</author>
-        
-        <guid>/es/tags/test/</guid>
         <description></description>
         
         <dc:creator>Helio</dc:creator>
@@ -227,42 +227,6 @@
         <author>helio4gm@gmail.com (Helio)</author>
         
         <guid>/es/tags/r/</guid>
-        <description></description>
-        
-        <dc:creator>Helio</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>index</title>
-        <link>/es/tags/index/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        <author>helio4gm@gmail.com (Helio)</author>
-        
-        <guid>/es/tags/index/</guid>
-        <description></description>
-        
-        <dc:creator>Helio</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>Música</title>
-        <link>/es/tags/m%C3%BAsica/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        <author>helio4gm@gmail.com (Helio)</author>
-        
-        <guid>/es/tags/m%C3%BAsica/</guid>
         <description></description>
         
         <dc:creator>Helio</dc:creator>
