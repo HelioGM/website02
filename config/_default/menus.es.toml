@@ -5,33 +5,33 @@
   weight = 1
   
 [[main]]
-  identifier = "publication"
-  name = "📰Publicaciones"
-  url = "publication"
-  weight = 2
-
-[[main]]
   identifier = "programacion"
   name = "💻Programación"
   url = "programacion"
-  weight = 3
+  weight = 2
   
 [[main]]
   identifier = "musica"
   name = "🎧Música"
   url = "musica"
-  weight = 4  
+  weight = 3  
 
 [[main]]
   identifier = "carpinteria"
   name = "📏Carpintería"
   url = "carpinteria"
-  weight = 5
+  weight = 4
 
 [[main]]
   identifier = "archive"
   name = "📅Archivo"
   url = "archive"
+  weight = 5
+
+[[main]]
+  identifier = "publication"
+  name = "📰Publicaciones"
+  url = "publication"
   weight = 6
   
 [[main]]
