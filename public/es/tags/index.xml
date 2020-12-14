@@ -14,7 +14,7 @@
     <managingEditor>helio4gm@gmail.com (Helio)</managingEditor>
     <webMaster>helio4gm@gmail.com (Helio)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Sat, 12 Dec 2020 20:11:00 -0800</lastBuildDate>
+    <lastBuildDate>Sun, 13 Dec 2020 20:12:00 -0800</lastBuildDate>
     
         <atom:link href="/es/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -23,12 +23,84 @@
 
       
       <item>
-        <title>Carpintería</title>
-        <link>/es/tags/carpinter%C3%ADa/</link>
-        <pubDate>Sat, 12 Dec 2020 20:11:00 -0800</pubDate>
+        <title>Armarios</title>
+        <link>/es/tags/armarios/</link>
+        <pubDate>Sun, 13 Dec 2020 20:12:00 -0800</pubDate>
         <author>helio4gm@gmail.com (Helio)</author>
         
-        <guid>/es/tags/carpinter%C3%ADa/</guid>
+        <guid>/es/tags/armarios/</guid>
+        <description></description>
+        
+        <dc:creator>Helio</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Persianas</title>
+        <link>/es/tags/persianas/</link>
+        <pubDate>Sun, 13 Dec 2020 20:12:00 -0800</pubDate>
+        <author>helio4gm@gmail.com (Helio)</author>
+        
+        <guid>/es/tags/persianas/</guid>
+        <description></description>
+        
+        <dc:creator>Helio</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Puertas</title>
+        <link>/es/tags/puertas/</link>
+        <pubDate>Sun, 13 Dec 2020 20:11:00 -0800</pubDate>
+        <author>helio4gm@gmail.com (Helio)</author>
+        
+        <guid>/es/tags/puertas/</guid>
+        <description></description>
+        
+        <dc:creator>Helio</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Libros</title>
+        <link>/es/tags/libros/</link>
+        <pubDate>Sun, 13 Dec 2020 19:15:48 -0800</pubDate>
+        <author>helio4gm@gmail.com (Helio)</author>
+        
+        <guid>/es/tags/libros/</guid>
+        <description></description>
+        
+        <dc:creator>Helio</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Molduras</title>
+        <link>/es/tags/molduras/</link>
+        <pubDate>Sun, 13 Dec 2020 19:15:48 -0800</pubDate>
+        <author>helio4gm@gmail.com (Helio)</author>
+        
+        <guid>/es/tags/molduras/</guid>
         <description></description>
         
         <dc:creator>Helio</dc:creator>

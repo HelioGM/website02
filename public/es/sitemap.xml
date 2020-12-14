@@ -4,7 +4,7 @@
   
   <url>
     <loc>/es/</loc>
-    <lastmod>2020-12-12T20:11:00-08:00</lastmod>
+    <lastmod>2020-12-13T20:12:00-08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -18,58 +18,58 @@
   </url>
   
   <url>
-    <loc>/es/tags/carpinter%C3%ADa/</loc>
-    <lastmod>2020-12-12T20:11:00-08:00</lastmod>
+    <loc>/es/tags/armarios/</loc>
+    <lastmod>2020-12-13T20:12:00-08:00</lastmod>
   </url>
   
   <url>
-    <loc>/es/series/carpinter%C3%ADa/</loc>
-    <lastmod>2020-12-12T20:11:00-08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/series/carpinter%C3%ADa/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/series/carpinter%C3%ADa/"
-                />
+    <loc>/es/categories/carpinter%C3%ADa/</loc>
+    <lastmod>2020-12-13T20:12:00-08:00</lastmod>
   </url>
   
   <url>
     <loc>/es/carpinteria/</loc>
-    <lastmod>2020-12-12T20:11:00-08:00</lastmod>
+    <lastmod>2020-12-13T20:12:00-08:00</lastmod>
   </url>
   
   <url>
-    <loc>/es/carpinteria/carpinteria_01_cocinas/</loc>
-    <lastmod>2020-12-12T20:11:00-08:00</lastmod>
+    <loc>/es/carpinteria/2020-12-13-carpinteria-armarios/</loc>
+    <lastmod>2020-12-13T20:12:00-08:00</lastmod>
   </url>
   
   <url>
-    <loc>/es/tags/cocinas/</loc>
-    <lastmod>2020-12-12T20:11:00-08:00</lastmod>
+    <loc>/es/carpinteria/2020-12-13-carpinteria-otros/</loc>
+    <lastmod>2020-12-13T20:12:00-08:00</lastmod>
   </url>
   
   <url>
-    <loc>/es/series/</loc>
-    <lastmod>2020-12-12T20:11:00-08:00</lastmod>
+    <loc>/es/carpinteria/2020-12-13-carpinteria-persianas/</loc>
+    <lastmod>2020-12-13T20:12:00-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/es/categories/</loc>
+    <lastmod>2020-12-13T20:12:00-08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/series/"
+                href="/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/series/"
+                href="/es/categories/"
                 />
   </url>
   
   <url>
+    <loc>/es/tags/persianas/</loc>
+    <lastmod>2020-12-13T20:12:00-08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/es/tags/</loc>
-    <lastmod>2020-12-12T20:11:00-08:00</lastmod>
+    <lastmod>2020-12-13T20:12:00-08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -83,17 +83,67 @@
   </url>
   
   <url>
-    <loc>/es/categories/</loc>
-    <lastmod>2020-12-11T23:45:00-08:00</lastmod>
+    <loc>/es/carpinteria/2020-12-13-carpinteria-puertas/</loc>
+    <lastmod>2020-12-13T20:11:00-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/es/tags/puertas/</loc>
+    <lastmod>2020-12-13T20:11:00-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/es/carpinteria/2020-12-14-carpinteria-libros01/</loc>
+    <lastmod>2020-12-13T19:15:48-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/es/tags/libros/</loc>
+    <lastmod>2020-12-13T19:15:48-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/es/tags/molduras/</loc>
+    <lastmod>2020-12-13T19:15:48-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/es/carpinteria/carpinteria_01_cocinas/</loc>
+    <lastmod>2020-12-12T20:11:00-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/es/tags/cocinas/</loc>
+    <lastmod>2020-12-12T20:11:00-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/es/publication/book/book_any_folder_name_1/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/categories/"
+                href="/en/publication/book/book_any_folder_name_1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/categories/"
+                href="/es/publication/book/book_any_folder_name_1/"
+                />
+  </url>
+  
+  <url>
+    <loc>/es/publication/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/publication/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/publication/"
                 />
   </url>
   
@@ -135,6 +185,21 @@
   <url>
     <loc>/es/programacion/post_de_prueba_01/</loc>
     <lastmod>2020-12-11T23:45:00-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/es/series/</loc>
+    <lastmod>2020-12-11T23:45:00-08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/series/"
+                />
   </url>
   
   <url>
@@ -283,21 +348,6 @@
   </url>
   
   <url>
-    <loc>/es/publication/</loc>
-    <lastmod>2020-12-12T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/publication/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/publication/"
-                />
-  </url>
-  
-  <url>
     <loc>/es/tags/estad%C3%ADstica/</loc>
     <lastmod>2020-12-11T23:46:00+09:00</lastmod>
   </url>
@@ -374,21 +424,6 @@
                 rel="alternate"
                 hreflang="es"
                 href="/es/publication/misc/"
-                />
-  </url>
-  
-  <url>
-    <loc>/es/publication/book/book_any_folder_name_1/</loc>
-    <lastmod>2019-10-29T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/publication/book/book_any_folder_name_1/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/publication/book/book_any_folder_name_1/"
                 />
   </url>
   

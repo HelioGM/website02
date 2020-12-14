@@ -14,12 +14,11 @@ tocLevels: ["h2", "h3", "h4"]
 enableWhoami: False
 
 tags:
-- Carpintería
 - Cocinas
 series:
-- Carpintería
+- 
 categories:
--
+- Carpintería
 image:  images/nuevas/Logo.png
 ---
 

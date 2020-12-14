@@ -1,6 +1,6 @@
 logoText = "Helio"
 logoType = "short" # long, short
-description = "The Zzo theme Descripcion de la pagina for Hugo example site."
+description = " Descripcion."
 custom_css = []
 custom_js = []
 useFaviconGenerator = true # https://www.favicon-generator.org/
