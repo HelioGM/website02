@@ -4,7 +4,7 @@
   
   <url>
     <loc>/es/</loc>
-    <lastmod>2020-12-14T19:15:48-08:00</lastmod>
+    <lastmod>2020-12-19T19:12:10-08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -14,6 +14,26 @@
                 rel="alternate"
                 hreflang="es"
                 href="/es/"
+                />
+  </url>
+  
+  <url>
+    <loc>/es/posts/2020-12-20-google-sheets/</loc>
+    <lastmod>2020-12-19T19:12:10-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/es/posts/</loc>
+    <lastmod>2020-12-19T19:12:10-08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/posts/"
                 />
   </url>
   
@@ -275,21 +295,6 @@
   <url>
     <loc>/es/posts/post_de_prueba_07/</loc>
     <lastmod>2020-12-11T23:38:00-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/es/posts/</loc>
-    <lastmod>2020-12-11T23:38:00-08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/posts/"
-                />
   </url>
   
   <url>

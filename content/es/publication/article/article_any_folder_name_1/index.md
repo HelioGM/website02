@@ -11,6 +11,6 @@ title: "Good Title"
 ENTRYTYPE: "article"
 enableToc: False
 enableWhoami: True
-pinned: true
+pinned: false
 publishDate: "2018-06-01"
 ---

@@ -8,7 +8,7 @@ title: "Nueva visita a un mundo feliz"
 ENTRYTYPE: "book"
 enableToc: True
 enableWhoami: True
-pinned: true
+pinned: false
 publishDate: "2020-12-13"
 ---
 <style>

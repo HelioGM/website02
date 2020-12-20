@@ -14,7 +14,7 @@
     <managingEditor>helio4gm@gmail.com (Helio)</managingEditor>
     <webMaster>helio4gm@gmail.com (Helio)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Mon, 14 Dec 2020 19:15:48 -0800</lastBuildDate>
+    <lastBuildDate>Sat, 19 Dec 2020 19:12:10 -0800</lastBuildDate>
     
         <atom:link href="/es/index.xml" rel="self" type="application/rss+xml" />
     
@@ -42,6 +42,36 @@
         
       
 
+      
+      <item>
+        <title>Google Sheets</title>
+        <link>/es/posts/2020-12-20-google-sheets/</link>
+        <pubDate>Sat, 19 Dec 2020 19:12:10 -0800</pubDate>
+        <author>helio4gm@gmail.com (Helio)</author>
+        <atom:modified>Sat, 19 Dec 2020 19:12:10 -0800</atom:modified>
+        <guid>/es/posts/2020-12-20-google-sheets/</guid>
+        <description>.</description>
+        
+        <dc:creator>Helio</dc:creator>
+        <media:content url="/https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Google_Sheets_logo.svg/1200px-Google_Sheets_logo.svg.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+          
+        
+        
+          
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
       
       <item>
         <title>Libros (Molduras)</title>
