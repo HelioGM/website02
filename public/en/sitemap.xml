@@ -14,7 +14,7 @@
   
   <url>
     <loc>/en/</loc>
-    <lastmod>2020-12-10T00:00:00+00:00</lastmod>
+    <lastmod>2020-12-20T12:06:14-08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -24,6 +24,26 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/posts/2020-12-20-cocinas-2017-es/</loc>
+    <lastmod>2020-12-20T12:06:14-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/posts/</loc>
+    <lastmod>2020-12-20T12:06:14-08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/posts/"
                 />
   </url>
   
@@ -70,21 +90,6 @@
   <url>
     <loc>/en/tags/carpinter%C3%ADa-cocinas/</loc>
     <lastmod>2020-12-07T21:37:44-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/en/posts/</loc>
-    <lastmod>2020-12-07T21:37:44-08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/posts/"
-                />
   </url>
   
   <url>

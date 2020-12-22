@@ -11,8 +11,8 @@
     <description>Recent content in Galleries on Helio&#39;s Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>helio4gm@gmail.com (Helio)</managingEditor>
-    <webMaster>helio4gm@gmail.com (Helio)</webMaster>
+    <managingEditor>helio4gm@gmail.com (García-Mendívil, Helio A.)</managingEditor>
+    <webMaster>helio4gm@gmail.com (García-Mendívil, Helio A.)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Thu, 31 Oct 2019 10:20:16 +0900</lastBuildDate>
     
@@ -26,12 +26,12 @@
         <title>Cartoon</title>
         <link>/en/gallery/cartoon/</link>
         <pubDate>Thu, 31 Oct 2019 10:20:16 +0900</pubDate>
-        <author>helio4gm@gmail.com (Helio)</author>
+        <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
         <atom:modified>Thu, 31 Oct 2019 10:20:16 +0900</atom:modified>
         <guid>/en/gallery/cartoon/</guid>
         <description>Sample images from Pixabay</description>
         
-        <dc:creator>Helio</dc:creator>
+        <dc:creator>García-Mendívil, Helio A.</dc:creator>
         <media:content url="/images/feature2/bam.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
@@ -44,12 +44,12 @@
         <title>Photo</title>
         <link>/en/gallery/photo/</link>
         <pubDate>Thu, 31 Oct 2019 10:20:16 +0900</pubDate>
-        <author>helio4gm@gmail.com (Helio)</author>
+        <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
         <atom:modified>Thu, 31 Oct 2019 10:20:16 +0900</atom:modified>
         <guid>/en/gallery/photo/</guid>
         <description>Sample images from Pixabay</description>
         
-        <dc:creator>Helio</dc:creator>
+        <dc:creator>García-Mendívil, Helio A.</dc:creator>
         <media:content url="/images/feature2/gallery.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         

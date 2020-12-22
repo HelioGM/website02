@@ -56,14 +56,14 @@ publicationIcon = "📚"
 typeIcon = "🎯"
 
 # whoami
-myname = "Helio"
+myname = "García-Mendívil, Helio A."
 email = "helio4gm@gmail.com"
-whoami = "Ph.D."
+whoami = "Doctor en Tecnología Agroalimentaria y Biotecnología."
 bioImageUrl = ""
 useGravatar = false
-location = "Sonora, Mexico"
-organization = "Not affiliated"
-link = ""
+location = "Sonora, Mexico."
+organization = "Not affiliated."
+link = "https://orcid.org/0000-0002-5126-9259"
 
 # sidebar
 enableBio = true

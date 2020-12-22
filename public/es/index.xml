@@ -11,10 +11,10 @@
     <description>Recent content on Helio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <managingEditor>helio4gm@gmail.com (Helio)</managingEditor>
-    <webMaster>helio4gm@gmail.com (Helio)</webMaster>
+    <managingEditor>helio4gm@gmail.com (García-Mendívil, Helio A.)</managingEditor>
+    <webMaster>helio4gm@gmail.com (García-Mendívil, Helio A.)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Sat, 19 Dec 2020 19:12:10 -0800</lastBuildDate>
+    <lastBuildDate>Mon, 21 Dec 2020 17:08:35 -0800</lastBuildDate>
     
         <atom:link href="/es/index.xml" rel="self" type="application/rss+xml" />
     
@@ -44,16 +44,84 @@
 
       
       <item>
+        <title>Cocina (Dic., 2020)</title>
+        <link>/es/carpinteria/2020-12-21-cocina-dic-2020/</link>
+        <pubDate>Mon, 21 Dec 2020 17:08:35 -0800</pubDate>
+        <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
+        <atom:modified>Mon, 21 Dec 2020 17:08:35 -0800</atom:modified>
+        <guid>/es/carpinteria/2020-12-21-cocina-dic-2020/</guid>
+        <description>Version 1 Fotografías Video Modelo    Version 2 Fotografías Video Modelo    Version 3 Fotografías Video Modelo    </description>
+        
+        <dc:creator>García-Mendívil, Helio A.</dc:creator>
+        <media:content url="/https://lh3.googleusercontent.com/QGnExOeLEiFINZzznih5eRh3PBN8N1xF8kO7bHF6ApUBB1Ne3u4sPt0ecEDbCPlqq-GWuE9Tk9YD7hFcsPpbkKvDARRqqpTEL5b8O_6Mu59MsnaLbPs1QWoUYFf7p4dPnBIee5Fapw=w1920-h1080" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>Cocinas</category>
+            
+          
+        
+        
+          
+            
+              <category>Carpintería</category>
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Cocinas (2017 - 2020)</title>
+        <link>/es/carpinteria/2020-12-20-cocinas-2017/</link>
+        <pubDate>Sun, 20 Dec 2020 12:19:35 -0800</pubDate>
+        <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
+        <atom:modified>Sun, 20 Dec 2020 12:19:35 -0800</atom:modified>
+        <guid>/es/carpinteria/2020-12-20-cocinas-2017/</guid>
+        <description>Cocina entregada durante Mayo de 2017 Mayo, 2017: Cocina y persiana fabricadas en madera de cedro, color nogal clasico, acabado en poliuretano semi mate, jaladeras de acero inoxidable.   Mayo, 2017: Cocina y persiana fabricadas en madera de cedro, color nogal clasico, acabado en poliuretano semi mate, jaladeras de acero inoxidable.   Mayo, 2017: Cocina y persiana fabricadas en madera de cedro, color nogal clasico, acabado en poliuretano semi mate, jaladeras de acero inoxidable.</description>
+        
+        <dc:creator>García-Mendívil, Helio A.</dc:creator>
+        <media:content url="/https://lh3.googleusercontent.com/QGnExOeLEiFINZzznih5eRh3PBN8N1xF8kO7bHF6ApUBB1Ne3u4sPt0ecEDbCPlqq-GWuE9Tk9YD7hFcsPpbkKvDARRqqpTEL5b8O_6Mu59MsnaLbPs1QWoUYFf7p4dPnBIee5Fapw=w1920-h1080" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>Cocinas</category>
+            
+          
+        
+        
+          
+            
+              <category>Carpintería</category>
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+      <item>
         <title>Google Sheets</title>
         <link>/es/posts/2020-12-20-google-sheets/</link>
         <pubDate>Sat, 19 Dec 2020 19:12:10 -0800</pubDate>
-        <author>helio4gm@gmail.com (Helio)</author>
+        <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
         <atom:modified>Sat, 19 Dec 2020 19:12:10 -0800</atom:modified>
         <guid>/es/posts/2020-12-20-google-sheets/</guid>
-        <description>Datos
-.</description>
+        <description>library(readr)library(mosaic)library(FSA)library(&amp;quot;ggplot2&amp;quot;)library(readxl)library(knitr)library(doBy)library(agricolae)options(scipen=999, digits = 0)## Load all the libraries needed and the dataDatos
+mydata &amp;lt;- read_excel(&amp;quot;https://docs.google.com/spreadsheets/d/e/2PACX-1vTADEwnTfsuU0PipEXHK1FVtoJjljwQCvOzkUbdo5PiAJ5w9kBWGSxg389vSE5xhzifbBOGecjByTAn/pub?output=xlsx&amp;quot;).</description>
         
-        <dc:creator>Helio</dc:creator>
+        <dc:creator>García-Mendívil, Helio A.</dc:creator>
         <media:content url="/https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Google_Sheets_logo.svg/1200px-Google_Sheets_logo.svg.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
@@ -78,7 +146,7 @@
         <title>Libros (Molduras)</title>
         <link>/es/carpinteria/2020-12-14-carpinteria-libros01/</link>
         <pubDate>Mon, 14 Dec 2020 19:15:48 -0800</pubDate>
-        <author>helio4gm@gmail.com (Helio)</author>
+        <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
         <atom:modified>Mon, 14 Dec 2020 19:15:48 -0800</atom:modified>
         <guid>/es/carpinteria/2020-12-14-carpinteria-libros01/</guid>
         <description>Tague lumber moulding and millwork guide:  Woodmaster tools, inc. sample book:  Architectural Millwork Mfg. Co. Catalog:  </description>
@@ -116,7 +184,7 @@
         <title>Otros trabajos</title>
         <link>/es/carpinteria/2020-12-13-carpinteria-otros/</link>
         <pubDate>Sun, 13 Dec 2020 23:12:00 -0800</pubDate>
-        <author>helio4gm@gmail.com (Helio)</author>
+        <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
         <atom:modified>Sun, 13 Dec 2020 23:12:00 -0800</atom:modified>
         <guid>/es/carpinteria/2020-12-13-carpinteria-otros/</guid>
         <description>Algunas fotos de otros trabajos entregados.
@@ -151,7 +219,7 @@ Sample Image: Image with title, caption, alt, ...   Sample Image: Image with tit
         <title>51 Wolves</title>
         <link>/es/musica/2020-12-14-51wolves/</link>
         <pubDate>Sun, 13 Dec 2020 22:02:14 -0800</pubDate>
-        <author>helio4gm@gmail.com (Helio)</author>
+        <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
         <atom:modified>Sun, 13 Dec 2020 22:02:14 -0800</atom:modified>
         <guid>/es/musica/2020-12-14-51wolves/</guid>
         <description>Drums: Beat Machine - Chillin&#39; Drums: Beat Machine - Chillin&#39; (Glitch) Bass: Bass Engine - DubStyle Guitar 1: Kontakt - Jazz Guitar Guitar 2: Kontakt - WarmJazz Melodica 1: Kontakt - MSLP Melodica 1 Melodica 1: Kontakt - MSLP Melodica 2 Kalimba: Kontakt - Kalimba Trombone: Kontakt - MSLP Trombone Samples Finished track </description>
@@ -187,7 +255,7 @@ Sample Image: Image with title, caption, alt, ...   Sample Image: Image with tit
         <title>Armarios</title>
         <link>/es/carpinteria/2020-12-13-carpinteria-armarios/</link>
         <pubDate>Sun, 13 Dec 2020 20:12:00 -0800</pubDate>
-        <author>helio4gm@gmail.com (Helio)</author>
+        <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
         <atom:modified>Sun, 13 Dec 2020 20:12:00 -0800</atom:modified>
         <guid>/es/carpinteria/2020-12-13-carpinteria-armarios/</guid>
         <description>Algunas fotos de armarios entregados.
@@ -222,7 +290,7 @@ Sample Image: Image with title, caption, alt, ..   Sample Image: Image with titl
         <title>Persianas</title>
         <link>/es/carpinteria/2020-12-13-carpinteria-persianas/</link>
         <pubDate>Sun, 13 Dec 2020 20:12:00 -0800</pubDate>
-        <author>helio4gm@gmail.com (Helio)</author>
+        <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
         <atom:modified>Sun, 13 Dec 2020 20:12:00 -0800</atom:modified>
         <guid>/es/carpinteria/2020-12-13-carpinteria-persianas/</guid>
         <description>Algunas fotos de persianas entregadas.
@@ -257,7 +325,7 @@ Sample Image: Image with title, caption, alt, ...   Sample Image: Image with tit
         <title>Puertas</title>
         <link>/es/carpinteria/2020-12-13-carpinteria-puertas/</link>
         <pubDate>Sun, 13 Dec 2020 20:11:00 -0800</pubDate>
-        <author>helio4gm@gmail.com (Helio)</author>
+        <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
         <atom:modified>Sun, 13 Dec 2020 20:11:00 -0800</atom:modified>
         <guid>/es/carpinteria/2020-12-13-carpinteria-puertas/</guid>
         <description>Algunas fotos de puertas entregadas.
@@ -292,7 +360,7 @@ Sample Image: Image with title, caption, alt, ...   Sample Image: Image with tit
         <title>Cocinas</title>
         <link>/es/carpinteria/carpinteria_01_cocinas/</link>
         <pubDate>Sat, 12 Dec 2020 20:11:00 -0800</pubDate>
-        <author>helio4gm@gmail.com (Helio)</author>
+        <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
         <atom:modified>Sat, 12 Dec 2020 20:11:00 -0800</atom:modified>
         <guid>/es/carpinteria/carpinteria_01_cocinas/</guid>
         <description>Algunas fotos de cocinas entregadas.
@@ -327,7 +395,7 @@ Sample Image: Image with title, caption, alt, ...   Sample Image: Image with tit
         <title>Resaltador de sintaxis</title>
         <link>/es/programacion/post_de_prueba_01/</link>
         <pubDate>Fri, 11 Dec 2020 23:45:00 -0800</pubDate>
-        <author>helio4gm@gmail.com (Helio)</author>
+        <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
         <atom:modified>Fri, 11 Dec 2020 23:45:00 -0800</atom:modified>
         <guid>/es/programacion/post_de_prueba_01/</guid>
         <description>Resaltador de sintaxis de codigo Markdown 1 2 3  **bold** *italics* [link](www.example.com)   R 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66  ## Load all the libraries needed and the data library(readr) library(mosaic) library(FSA) library(&amp;#34;ggplot2&amp;#34;) library(readxl) library(knitr) library(doBy) library(agricolae) options(scipen=999, digits = 0) mydata &amp;lt;- read_excel(&amp;#34;.</description>
@@ -363,7 +431,7 @@ Sample Image: Image with title, caption, alt, ...   Sample Image: Image with tit
         <title>SoundCloud: EP01</title>
         <link>/es/musica/post_de_prueba_01/</link>
         <pubDate>Fri, 11 Dec 2020 23:44:00 -0800</pubDate>
-        <author>helio4gm@gmail.com (Helio)</author>
+        <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
         <atom:modified>Fri, 11 Dec 2020 23:44:00 -0800</atom:modified>
         <guid>/es/musica/post_de_prueba_01/</guid>
         <description>Lista de reproducción de SoundCloud: Helio · [03]</description>
@@ -399,7 +467,7 @@ Sample Image: Image with title, caption, alt, ...   Sample Image: Image with tit
         <title>Formulario de Google Forms</title>
         <link>/es/posts/post_de_prueba_07/</link>
         <pubDate>Fri, 11 Dec 2020 23:38:00 -0800</pubDate>
-        <author>helio4gm@gmail.com (Helio)</author>
+        <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
         <atom:modified>Fri, 11 Dec 2020 23:38:00 -0800</atom:modified>
         <guid>/es/posts/post_de_prueba_07/</guid>
         <description>Formulario de google Cargando…</description>
@@ -431,7 +499,7 @@ Sample Image: Image with title, caption, alt, ...   Sample Image: Image with tit
         <title>Feed RSS</title>
         <link>/es/posts/post_de_prueba_06/</link>
         <pubDate>Fri, 11 Dec 2020 23:37:00 -0800</pubDate>
-        <author>helio4gm@gmail.com (Helio)</author>
+        <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
         <atom:modified>Fri, 11 Dec 2020 23:37:00 -0800</atom:modified>
         <guid>/es/posts/post_de_prueba_06/</guid>
         <description>Feed RSS de noticias   powered by Surfing Waves </description>
@@ -463,7 +531,7 @@ Sample Image: Image with title, caption, alt, ...   Sample Image: Image with tit
         <title>Meme de 9gag (.webp)</title>
         <link>/es/posts/post_de_prueba_01/</link>
         <pubDate>Fri, 11 Dec 2020 23:36:00 -0800</pubDate>
-        <author>helio4gm@gmail.com (Helio)</author>
+        <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
         <atom:modified>Fri, 11 Dec 2020 23:36:00 -0800</atom:modified>
         <guid>/es/posts/post_de_prueba_01/</guid>
         <description>  </description>
@@ -495,7 +563,7 @@ Sample Image: Image with title, caption, alt, ...   Sample Image: Image with tit
         <title>Un mapa de Google Maps</title>
         <link>/es/posts/post_de_prueba_05/</link>
         <pubDate>Fri, 11 Dec 2020 23:35:00 -0800</pubDate>
-        <author>helio4gm@gmail.com (Helio)</author>
+        <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
         <atom:modified>Fri, 11 Dec 2020 23:35:00 -0800</atom:modified>
         <guid>/es/posts/post_de_prueba_05/</guid>
         <description>Un mapa del Agropolis </description>
@@ -527,7 +595,7 @@ Sample Image: Image with title, caption, alt, ...   Sample Image: Image with tit
         <title>Publicaciones de Facebook</title>
         <link>/es/posts/post_de_prueba_04/</link>
         <pubDate>Fri, 11 Dec 2020 23:34:00 -0800</pubDate>
-        <author>helio4gm@gmail.com (Helio)</author>
+        <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
         <atom:modified>Fri, 11 Dec 2020 23:34:00 -0800</atom:modified>
         <guid>/es/posts/post_de_prueba_04/</guid>
         <description>Video de Facebook: Video de Facebook con funciones: Otro video Video de Facebook, porque gracioso: </description>
@@ -559,7 +627,7 @@ Sample Image: Image with title, caption, alt, ...   Sample Image: Image with tit
         <title>Galeria Google Photos</title>
         <link>/es/posts/post_de_prueba_03/</link>
         <pubDate>Fri, 11 Dec 2020 23:33:00 -0800</pubDate>
-        <author>helio4gm@gmail.com (Helio)</author>
+        <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
         <atom:modified>Fri, 11 Dec 2020 23:33:00 -0800</atom:modified>
         <guid>/es/posts/post_de_prueba_03/</guid>
         <description>Album de fotografías de Google Photos: Fotografía de Google Photos: </description>
@@ -591,7 +659,7 @@ Sample Image: Image with title, caption, alt, ...   Sample Image: Image with tit
         <title>Objeto incrustado: PDF</title>
         <link>/es/posts/post_de_prueba_02/</link>
         <pubDate>Fri, 11 Dec 2020 23:32:00 -0800</pubDate>
-        <author>helio4gm@gmail.com (Helio)</author>
+        <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
         <atom:modified>Fri, 11 Dec 2020 23:32:00 -0800</atom:modified>
         <guid>/es/posts/post_de_prueba_02/</guid>
         <description>Documento PDF de Google Drive:  </description>
@@ -623,7 +691,7 @@ Sample Image: Image with title, caption, alt, ...   Sample Image: Image with tit
         <title>RMarkdown</title>
         <link>/es/programacion/post-en-archivo-rmd/</link>
         <pubDate>Fri, 11 Dec 2020 23:46:00 +0900</pubDate>
-        <author>helio4gm@gmail.com (Helio)</author>
+        <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
         <atom:modified>Fri, 11 Dec 2020 23:46:00 +0900</atom:modified>
         <guid>/es/programacion/post-en-archivo-rmd/</guid>
         <description>body {text-align: justify}R MarkdownEste es un documento en formato R Markdown. Markdown es un sintaxis de formato simple para crear documentos HTML, PDF, y MS Word. Para más detalles de como utilizar R Markdown visita http://rmarkdown.rstudio.com.

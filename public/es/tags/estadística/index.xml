@@ -11,8 +11,8 @@
     <description>Recent content in Estadística on Helio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <managingEditor>helio4gm@gmail.com (Helio)</managingEditor>
-    <webMaster>helio4gm@gmail.com (Helio)</webMaster>
+    <managingEditor>helio4gm@gmail.com (García-Mendívil, Helio A.)</managingEditor>
+    <webMaster>helio4gm@gmail.com (García-Mendívil, Helio A.)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Fri, 11 Dec 2020 23:46:00 +0900</lastBuildDate>
     
@@ -26,7 +26,7 @@
         <title>RMarkdown</title>
         <link>/es/programacion/post-en-archivo-rmd/</link>
         <pubDate>Fri, 11 Dec 2020 23:46:00 +0900</pubDate>
-        <author>helio4gm@gmail.com (Helio)</author>
+        <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
         <atom:modified>Fri, 11 Dec 2020 23:46:00 +0900</atom:modified>
         <guid>/es/programacion/post-en-archivo-rmd/</guid>
         <description>body {text-align: justify}R MarkdownEste es un documento en formato R Markdown. Markdown es un sintaxis de formato simple para crear documentos HTML, PDF, y MS Word. Para más detalles de como utilizar R Markdown visita http://rmarkdown.rstudio.com.

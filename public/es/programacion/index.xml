@@ -11,8 +11,8 @@
     <description>Recent content in Programación on Helio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <managingEditor>helio4gm@gmail.com (Helio)</managingEditor>
-    <webMaster>helio4gm@gmail.com (Helio)</webMaster>
+    <managingEditor>helio4gm@gmail.com (García-Mendívil, Helio A.)</managingEditor>
+    <webMaster>helio4gm@gmail.com (García-Mendívil, Helio A.)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Fri, 11 Dec 2020 23:45:00 -0800</lastBuildDate>
     
@@ -26,7 +26,7 @@
         <title>Resaltador de sintaxis</title>
         <link>/es/programacion/post_de_prueba_01/</link>
         <pubDate>Fri, 11 Dec 2020 23:45:00 -0800</pubDate>
-        <author>helio4gm@gmail.com (Helio)</author>
+        <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
         <atom:modified>Fri, 11 Dec 2020 23:45:00 -0800</atom:modified>
         <guid>/es/programacion/post_de_prueba_01/</guid>
         <description>Resaltador de sintaxis de codigo Markdown 1 2 3  **bold** *italics* [link](www.example.com)   R 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66  ## Load all the libraries needed and the data library(readr) library(mosaic) library(FSA) library(&amp;#34;ggplot2&amp;#34;) library(readxl) library(knitr) library(doBy) library(agricolae) options(scipen=999, digits = 0) mydata &amp;lt;- read_excel(&amp;#34;.</description>
@@ -62,7 +62,7 @@
         <title>RMarkdown</title>
         <link>/es/programacion/post-en-archivo-rmd/</link>
         <pubDate>Fri, 11 Dec 2020 23:46:00 +0900</pubDate>
-        <author>helio4gm@gmail.com (Helio)</author>
+        <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
         <atom:modified>Fri, 11 Dec 2020 23:46:00 +0900</atom:modified>
         <guid>/es/programacion/post-en-archivo-rmd/</guid>
         <description>body {text-align: justify}R MarkdownEste es un documento en formato R Markdown. Markdown es un sintaxis de formato simple para crear documentos HTML, PDF, y MS Word. Para más detalles de como utilizar R Markdown visita http://rmarkdown.rstudio.com.
