@@ -1,36 +1,36 @@
 [[main]]
   identifier = "posts"
-  name = "📆Posts"
+  name = "Blog"
   url = "posts"
   weight = 1
   
 [[main]]
   identifier = "programacion"
-  name = "💻Programación"
+  name = "Programación"
   url = "programacion"
   weight = 2
   
 [[main]]
   identifier = "musica"
-  name = "🎧Música"
+  name = "Música"
   url = "musica"
   weight = 3  
 
 [[main]]
   identifier = "carpinteria"
-  name = "📏Carpintería"
+  name = "Carpintería"
   url = "carpinteria"
   weight = 4
 
 [[main]]
   identifier = "archive"
-  name = "📅Archivo"
+  name = "Archivo"
   url = "archive"
   weight = 5
 
 [[main]]
   identifier = "publication"
-  name = "📰Publicaciones"
+  name = "Publicaciones"
   url = "publication"
   weight = 6
   
