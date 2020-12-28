@@ -1,7 +1,7 @@
 ---
 authors: ['Huxley, A.']
 publisher: ""
-abstract: ""
+abstract: "Nueva visita a un mundo feliz es una recopilación de ensayos (publicados en la revista Newsday) sobre la novela Un mundo feliz (1932), de Aldous Huxley, en donde el mismo autor analiza veintiséis años después (1958) los contenidos tratados en su novela, verificando así sus aciertos y equívocos a la hora de contemplar la evolución de la civilización occidental durante dicho lapso. En dicha obra, hace muchas referencias a otra distopía, la novela 1984, de George Orwell."
 isbn: ""
 copyright: "All rights reserved"
 title: "Nueva visita a un mundo feliz"
