@@ -19,30 +19,79 @@ series:
 - 
 categories:
 - Carpintería
-image:  https://lh3.googleusercontent.com/fXAMwwo-U1SyPRjpMNDnBcT8dhSdNTb7NW5kK8Etoq_nCfo3OSV4KVA7bQKNbf5dqf9sYEW-mZ2HUK3caF0trvR3b5mUarfQDWNTNmaPuVaF-V7g0waMESvlzOCvpAjMs5QwC-Yubw=w1920-h1080
+image:  https://lh3.googleusercontent.com/bcI68xNxV54AaKkBmYUb5aBSAhX2w9ARpIDCNXAW3PJtCl0Y95sXC6ggwiam-QkLd1dk7fZtSdKp6P03NNRsdblWcD6RWjIKaTdQq5or30TeF8Z4KdJwn_a-ODle8Pt-BpllUUaXDA=w1920-h1080
 
 ---
 
-Algunas fotos de armarios entregados.
+  [Armario01]: https://lh3.googleusercontent.com/XaNCQ94Yxg_NJtkgwEwNZN2Iwy76J0baoS3ympFEUBOpG-OzZphRF7TVKNSWLvjVMTbkFnbcbv-teBil_x33IgSXeFa7jB971-delCWjtd-tBbp-bV6mFEhRNPoD73ME3Y9yv7cn_g=w1920-h1080 "atribute"
+  [Armario02]: "https://lh3.googleusercontent.com/TUvFH5VKShGreOeBeY_vBAn_B5yBBmsmgFY_N5wVLcMtj5BDftLfy-r2HEba5C5wuM5JQisfAYQvqs37jtJ6dINylLTSjR3d99RvL5d0jCw6RZbaQF3YqIOh1S2TyxScPlJyLzCnFQ=w1920-h1080"
+  [Armario03]: "https://lh3.googleusercontent.com/_58rwliLL5kZf18JCg48_qPNsZ9xlH9j21nc4IE5zqnNR_p_1RQEgL22YyCYf-sBTDqXHl6EJidgKtewIKpBLWMQnaQ--uiV7e-sxG3uqw-b9P2os5CKmArP_s6dyMfdSzsMTlWOWQ=w1920-h1080"
+  [Armario04]: "https://lh3.googleusercontent.com/ucwLS62cE9htWG64LFgy8zBoJyRor-kMpL9sAkJ-rynpm6sA9jKQe0Jcy1zSyTP8F-C8Yfk8vluo7VcZpJZluPQh29NIFpWuZaAlnApalaWQYpNqEcNCsleEAUQsVl08CDjBk08ECQ=w1920-h1080"
+  [Armario05]: "https://lh3.googleusercontent.com/x7f-RCY9qR4VMBotFzwueile_7RuSHELN3Y_fiRZrE7BDf7eXkzucCYyEi1zbzhWLUJsuZA_r0CgGyR-rF0YOpkWAJUqYH2aJ1qWMF65_YkxsIhd3q-DzvSTZyTIzGMHtyGIOkJdDw=w1920-h1080"
+  [Armario06]: "https://lh3.googleusercontent.com/bcI68xNxV54AaKkBmYUb5aBSAhX2w9ARpIDCNXAW3PJtCl0Y95sXC6ggwiam-QkLd1dk7fZtSdKp6P03NNRsdblWcD6RWjIKaTdQq5or30TeF8Z4KdJwn_a-ODle8Pt-BpllUUaXDA=w1920-h1080"
+  [Armario07]: "https://lh3.googleusercontent.com/e8ajGFCPXBtVCQ0xWCyXS8UnwwqBejbtaryR20Cbrln6-5rJ2QPmgWSA2h9yz7rs2Ohu0jMjGVyTwGnRnwV1YABlryXHgeSJD79xnEdGHz3LvnKHi1RUW1L6ho3Q3ngrl7KwY5u7cg=w1920-h1080"
+  [Armario08]: "https://lh3.googleusercontent.com/WXjSVdhjzGigZwFznoWOV4CefOyMDjdoWDj53XKBsJ1CzUwFS_TRE7cEdiwl9ANJoW3_u_a8YQDsDID9oCz_QIIPM1BjfaHITqusYK9-TM_cvJtYxhv6eLUw2xTveJ3riYt2MSGTkw=w1920-h1080"
+  [Armario09]: "https://lh3.googleusercontent.com/t1aHZJBvT_Nkf8s46x9kYAhDRLE1sgzvDMZ2hjMBB7xhefTqoYM_2A9ldTOhv9-e_2uzXkKOVBQ7Ijo4_LXZYvg6zKVLdRqBFOwzyu_ZPI00KKuIwkTRSBFn03gxXCD67mRG6qFhvQ=w1920-h1080"
+  [Armario10]: "https://lh3.googleusercontent.com/bxb_zTjybFdErqarTcCiAg4kfiAsElOjTH4agMAI8hIWUc2YdytOLBlrfJ3mFapomse9vsNXhXsI7-DxmPi8LaC_bYIrVNpKECZ3vvXcLu2s3l_AtwqGSXv06W_n_zH4FQYD_eu4oQ=w1920-h1080"
+  [Armario11]: "https://lh3.googleusercontent.com/rUFEFKrhJclo9Gaw2ZZ7821goGECTKjrOOQ_fCPWcbv4EBWx2j8KAfOEgbphPRzNXJp-SJFw1gxuaN7z2oF_VX1OvCntIfxJXG0FgzwWmAGiQwjkY3kEnmEeea76WvTDsXnp-aKotA=w1920-h1080"
 
-{{< img src="https://lh3.googleusercontent.com/FcBIsLKHWjpDhQ2aJIMLj1xJct71GWu5IIj9V5q0wmErv2O1RM9AMIc8cq97DGCc6SeCuM9baY0MDc0GyWmDynIl6wZtxAdKtuQo8jwRIELN79o9SjTX3b-IZeRRggP7EiaAP8Dr-w=w1920-h1080" title="Sample Image" caption="Image with title, caption, alt, .." alt="image alt" width="700px" position="center" >}}
 
-{{< img src="https://lh3.googleusercontent.com/z1pXr4YZATgiPDyjrj_sfre2nbDdhRAHYNPakwB2WZTeVMdZv9SVhR7vnKw4_MFHNT_YBRmAB69Shie8MRdzU5yL3MwH7zwQtAwpMvgWi2RNLPXiQ_ppjWx5T_HsM-DMcLFOTAiQqA=w1920-h1080" title="Sample Image" caption="Image with title, caption, lt, .." alt="image alt" width="700px" position="center" >}}
 
-{{< img src="https://lh3.googleusercontent.com/BLwHCZvx4C_dZCDHElhVrvmjMO6hyKDD7Dpkm1dxChjlxFeOj7xYjpBxTCmlR-duuRvymybh-0gfrPuUdOTFW22PUtNlPWPL6bX8XIToO_lSMc1Zb8MoC2u7RUNURKSpQ9SmXmbTWg=w1920-h1080" title="Sample Image" caption="Image with title, caption, alt, .." alt="image alt" width="700px" position="center" >}}
 
-{{< img src="https://lh3.googleusercontent.com/fXAMwwo-U1SyPRjpMNDnBcT8dhSdNTb7NW5kK8Etoq_nCfo3OSV4KVA7bQKNbf5dqf9sYEW-mZ2HUK3caF0trvR3b5mUarfQDWNTNmaPuVaF-V7g0waMESvlzOCvpAjMs5QwC-Yubw=w1920-h1080" title="Sample Image" caption="Image with title, caption, alt, ..." alt="image alt" width="700px" position="center" >}}
+{{< tabs "Marzo, 2018" "Enero, 2019" "Marzo, 2019"  >}}
 
-{{< img src="https://lh3.googleusercontent.com/3IXrC5-saBCZbohhsjxy8rlexFJY2oGM7Q-H3r1g8N56YJhx4PLxNwswfH-yzF_hlTYl9DeRMOrJtL1-_fNj3Ok_HI8PB1y6G3q4HJsdsdrt4H8BCVFBUUNhJiprOOA7dKWAc3Osww=w1920-h1080" title="Sample Image" caption="Image with title, caption, alt, ..." alt="image alt" width="700px" position="center" >}}
+{{< tab >}}
+{{< expand "Mostrar la imagen">}}
+Armario fabricado en...
+![Armario01](https://lh3.googleusercontent.com/XaNCQ94Yxg_NJtkgwEwNZN2Iwy76J0baoS3ympFEUBOpG-OzZphRF7TVKNSWLvjVMTbkFnbcbv-teBil_x33IgSXeFa7jB971-delCWjtd-tBbp-bV6mFEhRNPoD73ME3Y9yv7cn_g=w1920-h1080 "Armario fabricado en...")
+{{< /expand >}}
+{{< expand "Mostrar la imagen">}}
+![Armario02](https://lh3.googleusercontent.com/pw/ACtC-3dJiT7mlzoE-3ZjvFiBeltqFFw2PpVzJwi4yolR1ZcVrfSHiwVMRepB1sM3XtkMJkMk8KTUA7mu73ACWbLfHal4IFHEnhtmMo0HrklQarjTp5GpjlcjrMVvWQqTgE-T2balDkORZ1asgKj2hp6aFFxI=w489-h868-no?authuser=3 "title here")
+{{< /expand >}}
+{{< expand "Mostrar la imagen">}}
+![Armario03](https://lh3.googleusercontent.com/pw/ACtC-3dCT9ZxxsDWVAH1feyhljwFmA4UH_NTGACrGE69I5cgos-3bhRbEuz3xvi7O3Vr0zNRNlGAQO30otVRDGytPVIYgjKTT5xMeGbj_EvMqEwvCk48KEYYz_EQeCr-u1RNZzMQJbTcm2IflGu4NMSbSLtr=w637-h868-no?authuser=3 "title here")
+{{< /expand >}}
+{{< expand "Mostrar la imagen">}}
+![Armario04](https://lh3.googleusercontent.com/pw/ACtC-3evGG4Qkr0R80Wam99tjlfm5KC2bnjZdtuN0rSze1acCRNFw0eBHZZA4lxjicysbSLp24R5LMZOTnSBBC1ROORaRYzHCPMs2VFGQEqege8dUs6G740BHUc291BYz7Fv41XB9PiyxKmmyYbC3zrUSxbv=w653-h869-no?authuser=3 "title here")
+{{< /expand >}}
+{{< expand "Mostrar la imagen">}}
+![Armario05](https://lh3.googleusercontent.com/pw/ACtC-3e5pA_HYCyd9WTSdPR9ZpT2iZffb7XkmWCgeDFGRDlgXe5eLJ1oTVsRWf2dFHBIMTfgtL4JkMjNuVg8mPDlAx4qTU-1Ezl9cpX10qifkybh-cQjdl6b6BW13eDm4bm2LNoAyFHs9mg0_f-F1e59xTeF=w489-h868-no?authuser=3 "title here")
+{{< /expand >}}
 
-{{< img src="https://lh3.googleusercontent.com/oFryon4KX5xAUcjHxyMJ-dDWmbMdZX-vFkVL88xHs6m-d5Z2NaBAX21tjufK4y8nTBv7VQShv53TTeYqNn-Jtr7kjCLkZ8ZTdWEx7ANjcey-uryOlasIUNpqKFm2DltuVf9mxZsbeg=w1920-h1080" title="Sample Image" caption="Image with title, caption, alt, ..." alt="image alt" width="700px" position="center" >}}
+{{< /tab >}}
 
-{{< img src="https://lh3.googleusercontent.com/EOlfhoj-5qhtVqxVfd1qlyMEGvvWE9AgaFj8EBbseL4fl1gOpa7SNAVAb-zzNhPVJW4MqbuCzNNXTJDR3HjHsyP-5-3kGrs5iHYPZGNVam_pbgEZRhjMlKhRXvIhsVb3vd3OPEPX3A=w1920-h1080" title="Sample Image" caption="Image with title, caption, alt, ..." alt="image alt" width="700px" position="center" >}}
+{{< tab >}}
 
-{{< img src="https://lh3.googleusercontent.com/_8bUynkWQ5B1A-sS__VbMvd-UaDe4MQliiVRgF3OjJlc0adssdmwrv3joE3Bq0gGktnXhqxK1xvUFsOYaejUKYoaWIprJ-ClnK4h_JTARYBoKPIqhodAAcAs5MH7JfT3gZCU8f2rtw=w1920-h1080" title="Sample Image" caption="Image with title, caption, alt, ..." alt="image alt" width="700px" position="center" >}}
 
-{{< img src="https://lh3.googleusercontent.com/1pLL4Eyx-b-L0MBLPpLt0e6bbEwb-lZd6_o_KDTb0gZxkH43hmikIzFg7kj08sRZyIbSpaWCVEN4oIRZgML2CkiC2L3HBDT3PygfH1j-sZQwWynqWWBCtYAQNmQr6eEm5CO82Lo5cQ=w1920-h1080" title="Sample Image" caption="Image with title, caption, alt, ..." alt="image alt" width="700px" position="center" >}}
+{{< expand "Mostrar la imagen">}}
+![Armario06](https://lh3.googleusercontent.com/bcI68xNxV54AaKkBmYUb5aBSAhX2w9ARpIDCNXAW3PJtCl0Y95sXC6ggwiam-QkLd1dk7fZtSdKp6P03NNRsdblWcD6RWjIKaTdQq5or30TeF8Z4KdJwn_a-ODle8Pt-BpllUUaXDA=w1920-h1080 "title here")
+{{< /expand >}}
+{{< expand "Mostrar la imagen">}}
+![Armario07](https://lh3.googleusercontent.com/e8ajGFCPXBtVCQ0xWCyXS8UnwwqBejbtaryR20Cbrln6-5rJ2QPmgWSA2h9yz7rs2Ohu0jMjGVyTwGnRnwV1YABlryXHgeSJD79xnEdGHz3LvnKHi1RUW1L6ho3Q3ngrl7KwY5u7cg=w1920-h1080 "title here")
+{{< /expand >}}
 
-{{< img src="https://lh3.googleusercontent.com/YX8KCKYtqgC9SKjvfAlpRZmzgCFqQKQtFwStZIQhztnFItLJL_adr17_i1OBqzSl_K0vcQeJ9EBayI9ZwUSKJz_5IcRfwWcXwcvYqFt8deWsDeIhoSUYnFqM2UAF3lNs-32p1mlRlw=w1920-h1080" title="Sample Image" caption="Image with title, caption, alt, ..." alt="image alt" width="700px" position="center" >}}
+
+{{< /tab >}}
+
+{{< tab >}}
+
+{{< expand "Mostrar la imagen">}}
+![Armario08](https://lh3.googleusercontent.com/WXjSVdhjzGigZwFznoWOV4CefOyMDjdoWDj53XKBsJ1CzUwFS_TRE7cEdiwl9ANJoW3_u_a8YQDsDID9oCz_QIIPM1BjfaHITqusYK9-TM_cvJtYxhv6eLUw2xTveJ3riYt2MSGTkw=w1920-h1080 "title here")
+{{< /expand >}}
+{{< expand "Mostrar la imagen">}}
+![Armario09](https://lh3.googleusercontent.com/t1aHZJBvT_Nkf8s46x9kYAhDRLE1sgzvDMZ2hjMBB7xhefTqoYM_2A9ldTOhv9-e_2uzXkKOVBQ7Ijo4_LXZYvg6zKVLdRqBFOwzyu_ZPI00KKuIwkTRSBFn03gxXCD67mRG6qFhvQ=w1920-h1080 "title here")
+{{< /expand >}}
+{{< expand "Mostrar la imagen">}}
+![Armario10](https://lh3.googleusercontent.com/bxb_zTjybFdErqarTcCiAg4kfiAsElOjTH4agMAI8hIWUc2YdytOLBlrfJ3mFapomse9vsNXhXsI7-DxmPi8LaC_bYIrVNpKECZ3vvXcLu2s3l_AtwqGSXv06W_n_zH4FQYD_eu4oQ=w1920-h1080 "title here")
+{{< /expand >}}
+{{< expand "Mostrar la imagen">}}
+![Armario11](https://lh3.googleusercontent.com/rUFEFKrhJclo9Gaw2ZZ7821goGECTKjrOOQ_fCPWcbv4EBWx2j8KAfOEgbphPRzNXJp-SJFw1gxuaN7z2oF_VX1OvCntIfxJXG0FgzwWmAGiQwjkY3kEnmEeea76WvTDsXnp-aKotA=w1920-h1080 "title here")
+{{< /expand >}}
+
+{{< /tab >}}
+
+
+
+{{< /tabs >}}
 
 

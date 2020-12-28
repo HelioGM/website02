@@ -24,11 +24,11 @@
       
       <item>
         <title>SoundCloud: EP01</title>
-        <link>/es/musica/post_de_prueba_01/</link>
+        <link>/es/posts/post_de_prueba_01/</link>
         <pubDate>Fri, 11 Dec 2020 23:44:00 -0800</pubDate>
         <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
         <atom:modified>Fri, 11 Dec 2020 23:44:00 -0800</atom:modified>
-        <guid>/es/musica/post_de_prueba_01/</guid>
+        <guid>/es/posts/post_de_prueba_01/</guid>
         <description>Lista de reproducción de SoundCloud: Helio · [03]</description>
         
         <dc:creator>Helio</dc:creator>

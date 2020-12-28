@@ -54,6 +54,78 @@ mydata &amp;lt;- read_excel(&amp;quot;https://docs.google.com/spreadsheets/d/e/2
       </item>
       
       <item>
+        <title>51 Wolves</title>
+        <link>/es/posts/2020-12-14-51wolves/</link>
+        <pubDate>Sun, 13 Dec 2020 22:02:14 -0800</pubDate>
+        <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
+        <atom:modified>Sun, 13 Dec 2020 22:02:14 -0800</atom:modified>
+        <guid>/es/posts/2020-12-14-51wolves/</guid>
+        <description>Drums: Beat Machine - Chillin&#39; Drums: Beat Machine - Chillin&#39; (Glitch) Bass: Bass Engine - DubStyle Guitar 1: Kontakt - Jazz Guitar Guitar 2: Kontakt - WarmJazz Melodica 1: Kontakt - MSLP Melodica 1 Melodica 1: Kontakt - MSLP Melodica 2 Kalimba: Kontakt - Kalimba Trombone: Kontakt - MSLP Trombone Samples Finished track </description>
+        
+        <dc:creator>Helio</dc:creator>
+        <media:content url="/https://lh3.googleusercontent.com/GX0Lj86Hf9PhjlhdpERmElp8W1ikiufXLDdstsi_2dt_uhG1W_zHj6VF37M2kyvYjJ60xVd-IY-p_LkRbSAbSvm4aiU5nWlwMGInZ6XtikXePKlkUze1weEgDoBT03f8TGvBVV2SEi3TJMlyuTB3cx7Gj4dcZtlVfaFhiXeqCDruY_G8BM8NTZHGu4iRQQpIZaqjArA5YtslRV9Bt_Kc7uLqyj6VXHBdlNvIsTAd1tIoyS5sMxHLWVjr3jB9wue8xylsS5QbPoAV8WXU3hekyb7T_LeRj7cbNbbkvyrl94mn-DURSLRHYawc5ZJXzpqTYHRhdHUcZaYdGoS2dEHobb0djYQLkSGbmjR9vUiJ7VxRQknSHk78eCjZo61AQeZRtQmISGhvOGFihpFHXplEQBDIpxslKs2SzqY2Xrn4a4SejDg_SA3dVwvj_D6-FXvOWhkQg1YqGKkmb0KFDTXA-r7YZNXrEtluu35uSN9iAl_OFHYFCEDK7riX9w3pQoLkOuH3dWtoIO257gpHRqKthaulJKaAtRyXq1L_zMEbknkFr3puuB01mxqAN7HXf4rF80bKLXR2cL8qAi9pF1p_3VQYa0vqYtv6eQ2YUdrxawNFHPWY6HYNAm8ANIzFykE8Jwa5xIxhpoGdk660x69n-4U5GZA7d3rOnAboqkUV-x_wiJEa7MvsFAaBxoeBdQ=w551-h533-no?authuser=3" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>Samples</category>
+            
+          
+        
+        
+          
+            
+              <category>Música</category>
+            
+          
+        
+        
+          
+            
+              <category>Tracks</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>SoundCloud: EP01</title>
+        <link>/es/posts/post_de_prueba_01/</link>
+        <pubDate>Fri, 11 Dec 2020 23:44:00 -0800</pubDate>
+        <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
+        <atom:modified>Fri, 11 Dec 2020 23:44:00 -0800</atom:modified>
+        <guid>/es/posts/post_de_prueba_01/</guid>
+        <description>Lista de reproducción de SoundCloud: Helio · [03]</description>
+        
+        <dc:creator>Helio</dc:creator>
+        <media:content url="/https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Antu_soundcloud.svg/1200px-Antu_soundcloud.svg.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>SoundCloud</category>
+            
+          
+        
+        
+          
+            
+              <category>Música</category>
+            
+          
+        
+        
+          
+            
+              <category>Tracks</category>
+            
+          
+        
+      </item>
+      
+      <item>
         <title>Formulario de Google Forms</title>
         <link>/es/posts/post_de_prueba_07/</link>
         <pubDate>Fri, 11 Dec 2020 23:38:00 -0800</pubDate>
@@ -96,38 +168,6 @@ mydata &amp;lt;- read_excel(&amp;quot;https://docs.google.com/spreadsheets/d/e/2
         
         <dc:creator>Helio</dc:creator>
         <media:content url="/https://modoturismo.com/wp-content/uploads/2020/05/rss-40674.png" medium="image"><media:title type="html">featured image</media:title></media:content>
-        
-        
-        
-          
-            
-              <category>Test</category>
-            
-          
-        
-        
-          
-            
-          
-        
-        
-          
-            
-          
-        
-      </item>
-      
-      <item>
-        <title>Meme de 9gag (.webp)</title>
-        <link>/es/posts/post_de_prueba_01/</link>
-        <pubDate>Fri, 11 Dec 2020 23:36:00 -0800</pubDate>
-        <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
-        <atom:modified>Fri, 11 Dec 2020 23:36:00 -0800</atom:modified>
-        <guid>/es/posts/post_de_prueba_01/</guid>
-        <description>  </description>
-        
-        <dc:creator>Helio</dc:creator>
-        <media:content url="/https://img-9gag-fun.9cache.com/photo/an5pAbE_700bwp.webp" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         

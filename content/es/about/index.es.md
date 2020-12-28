@@ -11,8 +11,6 @@ enableTocContent: false
 
 
 
-Este es un sitio web orientado, principalmente, a contener herramientas informaticas y metodologías útiles para la elaboración de una tesis doctoral, y material personalmente interesante.
-
 ### García-Mendívil, Helio A.
 
 *  Doctor en Tecnología Agroalimentaria y Biotecnología (2019).

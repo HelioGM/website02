@@ -118,17 +118,12 @@
   </url>
   
   <url>
-    <loc>/es/musica/2020-12-14-51wolves/</loc>
+    <loc>/es/posts/2020-12-14-51wolves/</loc>
     <lastmod>2020-12-13T22:02:14-08:00</lastmod>
   </url>
   
   <url>
     <loc>/es/categories/m%C3%BAsica/</loc>
-    <lastmod>2020-12-13T22:02:14-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/es/musica/</loc>
     <lastmod>2020-12-13T22:02:14-08:00</lastmod>
   </url>
   
@@ -253,7 +248,7 @@
   </url>
   
   <url>
-    <loc>/es/musica/post_de_prueba_01/</loc>
+    <loc>/es/posts/post_de_prueba_01/</loc>
     <lastmod>2020-12-11T23:44:00-08:00</lastmod>
   </url>
   
@@ -310,11 +305,6 @@
   <url>
     <loc>/es/posts/post_de_prueba_06/</loc>
     <lastmod>2020-12-11T23:37:00-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/es/posts/post_de_prueba_01/</loc>
-    <lastmod>2020-12-11T23:36:00-08:00</lastmod>
   </url>
   
   <url>
@@ -433,6 +423,11 @@
   </url>
   
   <url>
+    <loc>/es/resume/</loc>
+    <lastmod>2020-02-09T20:13:59+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/es/archive/</loc>
     <lastmod>2019-10-19T11:44:14+09:00</lastmod>
     <xhtml:link
@@ -460,6 +455,10 @@
                 hreflang="es"
                 href="/es/publication/article/article_any_folder_name_1/"
                 />
+  </url>
+  
+  <url>
+    <loc>/es/musica/</loc>
   </url>
   
   <url>

@@ -219,11 +219,11 @@ Sample Image: Image with title, caption, alt, ...   Sample Image: Image with tit
       
       <item>
         <title>51 Wolves</title>
-        <link>/es/musica/2020-12-14-51wolves/</link>
+        <link>/es/posts/2020-12-14-51wolves/</link>
         <pubDate>Sun, 13 Dec 2020 22:02:14 -0800</pubDate>
         <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
         <atom:modified>Sun, 13 Dec 2020 22:02:14 -0800</atom:modified>
-        <guid>/es/musica/2020-12-14-51wolves/</guid>
+        <guid>/es/posts/2020-12-14-51wolves/</guid>
         <description>Drums: Beat Machine - Chillin&#39; Drums: Beat Machine - Chillin&#39; (Glitch) Bass: Bass Engine - DubStyle Guitar 1: Kontakt - Jazz Guitar Guitar 2: Kontakt - WarmJazz Melodica 1: Kontakt - MSLP Melodica 1 Melodica 1: Kontakt - MSLP Melodica 2 Kalimba: Kontakt - Kalimba Trombone: Kontakt - MSLP Trombone Samples Finished track </description>
         
         <dc:creator>Helio</dc:creator>
@@ -260,11 +260,11 @@ Sample Image: Image with title, caption, alt, ...   Sample Image: Image with tit
         <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
         <atom:modified>Sun, 13 Dec 2020 20:12:00 -0800</atom:modified>
         <guid>/es/carpinteria/2020-12-13-carpinteria-armarios/</guid>
-        <description>Algunas fotos de armarios entregados.
-Sample Image: Image with title, caption, alt, ..   Sample Image: Image with title, caption, lt, ..   Sample Image: Image with title, caption, alt, ..   Sample Image: Image with title, caption, alt, ...   Sample Image: Image with title, caption, alt, ...   Sample Image: Image with title, caption, alt, ...   Sample Image: Image with title, caption, alt, .</description>
+        <description>Marzo, 2018 Enero, 2019 Marzo, 2019    Mostrar la imagen  Armario fabricado en&amp;hellip;
+   Mostrar la imagen     Mostrar la imagen     Mostrar la imagen     Mostrar la imagen     Mostrar la imagen     Mostrar la imagen     Mostrar la imagen     Mostrar la imagen     Mostrar la imagen     Mostrar la imagen     &#39;use strict&#39;; var containerId = JSON.</description>
         
         <dc:creator>Helio</dc:creator>
-        <media:content url="/https://lh3.googleusercontent.com/fXAMwwo-U1SyPRjpMNDnBcT8dhSdNTb7NW5kK8Etoq_nCfo3OSV4KVA7bQKNbf5dqf9sYEW-mZ2HUK3caF0trvR3b5mUarfQDWNTNmaPuVaF-V7g0waMESvlzOCvpAjMs5QwC-Yubw=w1920-h1080" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="/https://lh3.googleusercontent.com/bcI68xNxV54AaKkBmYUb5aBSAhX2w9ARpIDCNXAW3PJtCl0Y95sXC6ggwiam-QkLd1dk7fZtSdKp6P03NNRsdblWcD6RWjIKaTdQq5or30TeF8Z4KdJwn_a-ODle8Pt-BpllUUaXDA=w1920-h1080" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -431,11 +431,11 @@ Sample Image: Image with title, caption, alt, ...   Sample Image: Image with tit
       
       <item>
         <title>SoundCloud: EP01</title>
-        <link>/es/musica/post_de_prueba_01/</link>
+        <link>/es/posts/post_de_prueba_01/</link>
         <pubDate>Fri, 11 Dec 2020 23:44:00 -0800</pubDate>
         <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
         <atom:modified>Fri, 11 Dec 2020 23:44:00 -0800</atom:modified>
-        <guid>/es/musica/post_de_prueba_01/</guid>
+        <guid>/es/posts/post_de_prueba_01/</guid>
         <description>Lista de reproducción de SoundCloud: Helio · [03]</description>
         
         <dc:creator>Helio</dc:creator>
@@ -508,38 +508,6 @@ Sample Image: Image with title, caption, alt, ...   Sample Image: Image with tit
         
         <dc:creator>Helio</dc:creator>
         <media:content url="/https://modoturismo.com/wp-content/uploads/2020/05/rss-40674.png" medium="image"><media:title type="html">featured image</media:title></media:content>
-        
-        
-        
-          
-            
-              <category>Test</category>
-            
-          
-        
-        
-          
-            
-          
-        
-        
-          
-            
-          
-        
-      </item>
-      
-      <item>
-        <title>Meme de 9gag (.webp)</title>
-        <link>/es/posts/post_de_prueba_01/</link>
-        <pubDate>Fri, 11 Dec 2020 23:36:00 -0800</pubDate>
-        <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
-        <atom:modified>Fri, 11 Dec 2020 23:36:00 -0800</atom:modified>
-        <guid>/es/posts/post_de_prueba_01/</guid>
-        <description>  </description>
-        
-        <dc:creator>Helio</dc:creator>
-        <media:content url="/https://img-9gag-fun.9cache.com/photo/an5pAbE_700bwp.webp" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
