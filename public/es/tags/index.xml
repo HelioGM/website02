@@ -14,13 +14,49 @@
     <managingEditor>helio4gm@gmail.com (García-Mendívil, Helio A.)</managingEditor>
     <webMaster>helio4gm@gmail.com (García-Mendívil, Helio A.)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Mon, 21 Dec 2020 17:08:35 -0800</lastBuildDate>
+    <lastBuildDate>Mon, 28 Dec 2020 16:46:00 +0900</lastBuildDate>
     
         <atom:link href="/es/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     
 
+      
+      <item>
+        <title>Estadística</title>
+        <link>/es/tags/estad%C3%ADstica/</link>
+        <pubDate>Mon, 28 Dec 2020 16:46:00 +0900</pubDate>
+        <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
+        
+        <guid>/es/tags/estad%C3%ADstica/</guid>
+        <description></description>
+        
+        <dc:creator>García-Mendívil, Helio A.</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>R</title>
+        <link>/es/tags/r/</link>
+        <pubDate>Mon, 28 Dec 2020 16:46:00 +0900</pubDate>
+        <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
+        
+        <guid>/es/tags/r/</guid>
+        <description></description>
+        
+        <dc:creator>García-Mendívil, Helio A.</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
       
       <item>
         <title>Cocinas</title>
@@ -191,42 +227,6 @@
         <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
         
         <guid>/es/tags/soundcloud/</guid>
-        <description></description>
-        
-        <dc:creator>García-Mendívil, Helio A.</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>Estadística</title>
-        <link>/es/tags/estad%C3%ADstica/</link>
-        <pubDate>Fri, 11 Dec 2020 23:46:00 +0900</pubDate>
-        <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
-        
-        <guid>/es/tags/estad%C3%ADstica/</guid>
-        <description></description>
-        
-        <dc:creator>García-Mendívil, Helio A.</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>R</title>
-        <link>/es/tags/r/</link>
-        <pubDate>Fri, 11 Dec 2020 23:46:00 +0900</pubDate>
-        <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
-        
-        <guid>/es/tags/r/</guid>
         <description></description>
         
         <dc:creator>García-Mendívil, Helio A.</dc:creator>

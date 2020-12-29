@@ -14,13 +14,53 @@
     <managingEditor>helio4gm@gmail.com (García-Mendívil, Helio A.)</managingEditor>
     <webMaster>helio4gm@gmail.com (García-Mendívil, Helio A.)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Fri, 11 Dec 2020 23:45:00 -0800</lastBuildDate>
+    <lastBuildDate>Mon, 28 Dec 2020 16:46:00 +0900</lastBuildDate>
     
         <atom:link href="/es/programacion/index.xml" rel="self" type="application/rss+xml" />
     
     
     
 
+      
+      <item>
+        <title>Capítulo 1: Empezando con R</title>
+        <link>/es/programacion/2020-12-28-empezando_con_r/</link>
+        <pubDate>Mon, 28 Dec 2020 16:46:00 +0900</pubDate>
+        <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
+        <atom:modified>Mon, 28 Dec 2020 16:46:00 +0900</atom:modified>
+        <guid>/es/programacion/2020-12-28-empezando_con_r/</guid>
+        <description>body {text-align: justify}En este capítulo discutiré cómo empezar a usar R. Hablaré brevemente sobre cómo descargar e instalar R, pero la mayor parte del capítulo se centrará en que empiece a escribir comandos R. Nuestro objetivo en este capítulo no es aprender ningún concepto estadístico: solo estamos tratando de aprender los conceptos básicos de cómo funciona R y sentirnos cómodos interactuando con el sistema. Para hacer esto, pasaremos un poco de tiempo usando R como una simple calculadora, ya que eso es lo más fácil de hacer con R.</description>
+        
+        <dc:creator>Helio</dc:creator>
+        <media:content url="/images/learning/cap_01.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>R</category>
+            
+          
+            
+              <category>Estadística</category>
+            
+          
+        
+        
+          
+            
+              <category>Programación</category>
+            
+          
+        
+        
+          
+            
+              <category>RMarkdown</category>
+            
+          
+        
+      </item>
       
       <item>
         <title>Resaltador de sintaxis</title>
@@ -53,6 +93,47 @@
           
             
               <category>MD</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>RMarkdown</title>
+        <link>/es/programacion/2020-12-28-google-sheets/</link>
+        <pubDate>Fri, 11 Dec 2020 23:46:00 +0900</pubDate>
+        <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
+        <atom:modified>Fri, 11 Dec 2020 23:46:00 +0900</atom:modified>
+        <guid>/es/programacion/2020-12-28-google-sheets/</guid>
+        <description>body {text-align: justify}R MarkdownEste es un documento en formato R Markdown. Markdown es un sintaxis de formato simple para crear documentos HTML, PDF, y MS Word. Para más detalles de como utilizar R Markdown visita http://rmarkdown.rstudio.com.
+Cuando presoinas el botón Knit, se genera un documento que incluye tanto el contenido como el como el resultado de cualquier trozo de codigo R incrustado dentro del documento.</description>
+        
+        <dc:creator>Helio</dc:creator>
+        <media:content url="/https://d33wubrfki0l68.cloudfront.net/3215c7166555d2ac02ef678fd025c171f90db23c/4e60a/images/bandone.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>R</category>
+            
+          
+            
+              <category>Estadística</category>
+            
+          
+        
+        
+          
+            
+              <category>Programación</category>
+            
+          
+        
+        
+          
+            
+              <category>RMarkdown</category>
             
           
         

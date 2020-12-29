@@ -14,13 +14,31 @@
     <managingEditor>helio4gm@gmail.com (García-Mendívil, Helio A.)</managingEditor>
     <webMaster>helio4gm@gmail.com (García-Mendívil, Helio A.)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Sun, 13 Dec 2020 22:02:14 -0800</lastBuildDate>
+    <lastBuildDate>Mon, 28 Dec 2020 16:46:00 +0900</lastBuildDate>
     
         <atom:link href="/es/series/index.xml" rel="self" type="application/rss+xml" />
     
     
     
 
+      
+      <item>
+        <title>RMarkdown</title>
+        <link>/es/series/rmarkdown/</link>
+        <pubDate>Mon, 28 Dec 2020 16:46:00 +0900</pubDate>
+        <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
+        
+        <guid>/es/series/rmarkdown/</guid>
+        <description></description>
+        
+        <dc:creator>García-Mendívil, Helio A.</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
       
       <item>
         <title>Tracks</title>
@@ -47,24 +65,6 @@
         <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
         
         <guid>/es/series/md/</guid>
-        <description></description>
-        
-        <dc:creator>García-Mendívil, Helio A.</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>RMarkdown</title>
-        <link>/es/series/rmarkdown/</link>
-        <pubDate>Fri, 11 Dec 2020 23:46:00 +0900</pubDate>
-        <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
-        
-        <guid>/es/series/rmarkdown/</guid>
         <description></description>
         
         <dc:creator>García-Mendívil, Helio A.</dc:creator>
