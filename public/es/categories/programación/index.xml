@@ -14,7 +14,7 @@
     <managingEditor>helio4gm@gmail.com (García-Mendívil, Helio A.)</managingEditor>
     <webMaster>helio4gm@gmail.com (García-Mendívil, Helio A.)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Mon, 28 Dec 2020 16:46:00 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 29 Dec 2020 17:01:00 +0900</lastBuildDate>
     
         <atom:link href="/es/categories/programaci%C3%B3n/index.xml" rel="self" type="application/rss+xml" />
     
@@ -23,13 +23,190 @@
 
       
       <item>
-        <title>Capítulo 1: Empezando con R</title>
-        <link>/es/programacion/2020-12-28-empezando_con_r/</link>
+        <title>Capítulo 3: Empezando con R (2da parte)</title>
+        <link>/es/programacion/2020-12-29-empezando_con_r_2da/</link>
+        <pubDate>Tue, 29 Dec 2020 17:01:00 +0900</pubDate>
+        <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
+        <atom:modified>Tue, 29 Dec 2020 17:01:00 +0900</atom:modified>
+        <guid>/es/programacion/2020-12-29-empezando_con_r_2da/</guid>
+        <description>body {text-align: justify}&amp;hellip;continuación.
+Usar funciones para hacer cálculos Los símbolos +, -, * y así sucesivamente son ejemplos de operadores. Como hemos visto, puede hacer muchos cálculos con solo usar estos operadores. Sin embargo, para hacer cálculos más avanzados (y más adelante, para hacer estadísticas reales), necesitará comenzar a usar funciones. Hablaré con más detalle sobre las funciones y cómo funcionan en la Sección 8.</description>
+        
+        <dc:creator>Helio</dc:creator>
+        <media:content url="/images/learning/cap_03.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>R</category>
+            
+          
+            
+              <category>Estadística</category>
+            
+          
+        
+        
+          
+            
+              <category>Programación</category>
+            
+          
+        
+        
+          
+            
+              <category>RMarkdown</category>
+            
+          
+            
+              <category>Aprendiendo estadística con R</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Capítulo 3: Empezando con R (1ra parte)</title>
+        <link>/es/programacion/2020-12-29-empezando_con_r/</link>
+        <pubDate>Tue, 29 Dec 2020 17:00:00 +0900</pubDate>
+        <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
+        <atom:modified>Tue, 29 Dec 2020 17:00:00 +0900</atom:modified>
+        <guid>/es/programacion/2020-12-29-empezando_con_r/</guid>
+        <description>body {text-align: justify}En este capítulo discutiré cómo empezar a usar R. Hablaré brevemente sobre cómo descargar e instalar R, pero la mayor parte del capítulo se centrará en que empiece a escribir comandos R. Nuestro objetivo en este capítulo no es aprender ningún concepto estadístico: solo estamos tratando de aprender los conceptos básicos de cómo funciona R y sentirnos cómodos interactuando con el sistema. Para hacer esto, pasaremos un poco de tiempo usando R como una simple calculadora, ya que eso es lo más fácil de hacer con R.</description>
+        
+        <dc:creator>Helio</dc:creator>
+        <media:content url="/images/learning/cap_03.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>R</category>
+            
+          
+            
+              <category>Estadística</category>
+            
+          
+        
+        
+          
+            
+              <category>Programación</category>
+            
+          
+        
+        
+          
+            
+              <category>RMarkdown</category>
+            
+          
+            
+              <category>Aprendiendo estadística con R</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Capítulo 2: Una breve introducción al diseño de investigación (2da parte)</title>
+        <link>/es/programacion/2020-12-29-una_breve_introduccion_al_dise%C3%B1o_2da/</link>
+        <pubDate>Tue, 29 Dec 2020 16:46:00 +0900</pubDate>
+        <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
+        <atom:modified>Tue, 29 Dec 2020 16:46:00 +0900</atom:modified>
+        <guid>/es/programacion/2020-12-29-una_breve_introduccion_al_dise%C3%B1o_2da/</guid>
+        <description>body {text-align: justify}Evaluar la validez de un estudio Más que cualquier otra cosa, un científico quiere que su investigación sea &amp;ldquo;válida&amp;rdquo;. La idea conceptual detrás de la validez es muy simple: ¿puedes confiar en los resultados de tu estudio? De lo contrario, el estudio no es válido. Sin embargo, si bien es fácil de establecer, en la práctica es mucho más difícil verificar la validez que verificar la confiabilidad.</description>
+        
+        <dc:creator>Helio</dc:creator>
+        <media:content url="/images/learning/cap_02.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>R</category>
+            
+          
+            
+              <category>Estadística</category>
+            
+          
+        
+        
+          
+            
+              <category>Programación</category>
+            
+          
+        
+        
+          
+            
+              <category>RMarkdown</category>
+            
+          
+            
+              <category>Aprendiendo estadística con R</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Capítulo 2: Una breve introducción al diseño de investigación (1ra parte)</title>
+        <link>/es/programacion/2020-12-29-una_breve_introduccion_al_dise%C3%B1o/</link>
+        <pubDate>Tue, 29 Dec 2020 12:46:00 +0900</pubDate>
+        <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
+        <atom:modified>Tue, 29 Dec 2020 12:46:00 +0900</atom:modified>
+        <guid>/es/programacion/2020-12-29-una_breve_introduccion_al_dise%C3%B1o/</guid>
+        <description>body {text-align: justify}En este capítulo, comenzaremos a pensar en las ideas básicas que se necesitan para diseñar un estudio, recopilar datos, verificar si la recopilación de datos funciona, etc. No le dará suficiente información para que pueda diseñar sus propios estudios, pero le dará muchas de las herramientas básicas que necesita para evaluar los estudios realizados por otras personas. Sin embargo, dado que el enfoque de este libro es mucho más el análisis de datos que la recopilación de datos, solo estoy dando una descripción muy breve.</description>
+        
+        <dc:creator>Helio</dc:creator>
+        <media:content url="/images/learning/cap_02.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>R</category>
+            
+          
+            
+              <category>Estadística</category>
+            
+          
+        
+        
+          
+            
+              <category>Programación</category>
+            
+          
+        
+        
+          
+            
+              <category>RMarkdown</category>
+            
+          
+            
+              <category>Aprendiendo estadística con R</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Capítulo 1: ¿Por qué aprendemos estadística?</title>
+        <link>/es/programacion/2020-12-28-por_que_aprendemos_estadistica/</link>
         <pubDate>Mon, 28 Dec 2020 16:46:00 +0900</pubDate>
         <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
         <atom:modified>Mon, 28 Dec 2020 16:46:00 +0900</atom:modified>
-        <guid>/es/programacion/2020-12-28-empezando_con_r/</guid>
-        <description>body {text-align: justify}En este capítulo discutiré cómo empezar a usar R. Hablaré brevemente sobre cómo descargar e instalar R, pero la mayor parte del capítulo se centrará en que empiece a escribir comandos R. Nuestro objetivo en este capítulo no es aprender ningún concepto estadístico: solo estamos tratando de aprender los conceptos básicos de cómo funciona R y sentirnos cómodos interactuando con el sistema. Para hacer esto, pasaremos un poco de tiempo usando R como una simple calculadora, ya que eso es lo más fácil de hacer con R.</description>
+        <guid>/es/programacion/2020-12-28-por_que_aprendemos_estadistica/</guid>
+        <description>body {text-align: justify}Sobre la psicología de la estadística Para sorpresa de muchos estudiantes, la estadística es una parte bastante importante de la educación psicológica. Para sorpresa de nadie, la estadística rara vez es la parte favorita de la educación psicológica. Después de todo, si realmente te encantó la idea de hacer estadística, probablemente estarías inscrito en una clase de estadística ahora mismo, no en una clase de psicología.</description>
         
         <dc:creator>Helio</dc:creator>
         <media:content url="/images/learning/cap_01.png" medium="image"><media:title type="html">featured image</media:title></media:content>
@@ -57,6 +234,10 @@
           
             
               <category>RMarkdown</category>
+            
+          
+            
+              <category>Aprendiendo estadística con R</category>
             
           
         
@@ -93,47 +274,6 @@
           
             
               <category>MD</category>
-            
-          
-        
-      </item>
-      
-      <item>
-        <title>RMarkdown</title>
-        <link>/es/programacion/2020-12-28-google-sheets/</link>
-        <pubDate>Fri, 11 Dec 2020 23:46:00 +0900</pubDate>
-        <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
-        <atom:modified>Fri, 11 Dec 2020 23:46:00 +0900</atom:modified>
-        <guid>/es/programacion/2020-12-28-google-sheets/</guid>
-        <description>body {text-align: justify}R MarkdownEste es un documento en formato R Markdown. Markdown es un sintaxis de formato simple para crear documentos HTML, PDF, y MS Word. Para más detalles de como utilizar R Markdown visita http://rmarkdown.rstudio.com.
-Cuando presoinas el botón Knit, se genera un documento que incluye tanto el contenido como el como el resultado de cualquier trozo de codigo R incrustado dentro del documento.</description>
-        
-        <dc:creator>Helio</dc:creator>
-        <media:content url="/https://d33wubrfki0l68.cloudfront.net/3215c7166555d2ac02ef678fd025c171f90db23c/4e60a/images/bandone.png" medium="image"><media:title type="html">featured image</media:title></media:content>
-        
-        
-        
-          
-            
-              <category>R</category>
-            
-          
-            
-              <category>Estadística</category>
-            
-          
-        
-        
-          
-            
-              <category>Programación</category>
-            
-          
-        
-        
-          
-            
-              <category>RMarkdown</category>
             
           
         
