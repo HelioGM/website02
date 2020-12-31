@@ -14,7 +14,7 @@
     <managingEditor>helio4gm@gmail.com (García-Mendívil, Helio A.)</managingEditor>
     <webMaster>helio4gm@gmail.com (García-Mendívil, Helio A.)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Tue, 29 Dec 2020 17:01:00 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 30 Dec 2020 18:21:17 -0800</lastBuildDate>
     
         <atom:link href="/es/series/index.xml" rel="self" type="application/rss+xml" />
     
@@ -25,7 +25,7 @@
       <item>
         <title>Aprendiendo estadística con R</title>
         <link>/es/series/aprendiendo-estad%C3%ADstica-con-r/</link>
-        <pubDate>Tue, 29 Dec 2020 17:01:00 +0900</pubDate>
+        <pubDate>Wed, 30 Dec 2020 18:21:17 -0800</pubDate>
         <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
         
         <guid>/es/series/aprendiendo-estad%C3%ADstica-con-r/</guid>
@@ -43,7 +43,7 @@
       <item>
         <title>RMarkdown</title>
         <link>/es/series/rmarkdown/</link>
-        <pubDate>Tue, 29 Dec 2020 17:01:00 +0900</pubDate>
+        <pubDate>Wed, 30 Dec 2020 18:21:17 -0800</pubDate>
         <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
         
         <guid>/es/series/rmarkdown/</guid>

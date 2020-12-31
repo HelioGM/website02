@@ -1,6 +1,7 @@
 ---
 title: "Capítulo 1: ¿Por qué aprendemos estadística?"
-date: 2020-12-28T16:46:00+09:00
+date: 2020-12-30T18:17:17-08:00
+publishdate: 2020-12-30T18:27:17-08:00
 description: "No es sorprendente que haya una proporción bastante grande de la base de estudiantes que no está contenta con el hecho de que su carrera tenga tantas estadísticas. En vista de esto, pensé que el lugar correcto para comenzar podría ser responder algunas de las preguntas más comunes que la gente tiene sobre las estadísticas... "
 #output: 
 #   html_document:
@@ -33,7 +34,9 @@ body {
 text-align: justify}
 </style>
 
-## Sobre la psicología de la estadística {#id-01}
+<a id="id-01"> </a>
+
+## Sobre la psicología de la estadística 
 
 Para sorpresa de muchos estudiantes, la estadística es una parte bastante importante de la educación psicológica. Para sorpresa de nadie, la estadística rara vez es la parte favorita de la educación psicológica. Después de todo, si realmente te encantó la idea de hacer estadística, probablemente estarías inscrito en una clase de estadística ahora mismo, no en una clase de psicología. Entonces, no es sorprendente que haya una proporción bastante grande de la base de estudiantes que no está contenta con el hecho de que la psicología tenga tantas estadísticas. En vista de esto, pensé que el lugar correcto para comenzar podría ser responder algunas de las preguntas más comunes que la gente tiene sobre las estadísticas...
  
@@ -47,35 +50,51 @@ De hecho, ahora que lo pienso, esto me suena mucho a una pregunta psicológica, 
 
 ### La maldición del sesgo de creencias 
 
-La mayoría de las personas son bastante inteligentes. Ciertamente somos más inteligentes que las otras especies con las que compartimos el planeta (aunque muchas personas pueden estar en desacuerdo). Nuestras mentes son cosas bastante asombrosas y parece que somos capaces de las hazañas más increíbles del pensamiento y la razón. Sin embargo, eso no nos hace perfectos. Y entre las muchas cosas que los psicólogos han demostrado a lo largo de los años es que realmente nos resulta difícil ser neutrales, evaluar la evidencia de manera imparcial y sin dejarnos influir por prejuicios preexistentes. Un buen ejemplo de esto es el efecto de sesgo de creencias en el razonamiento lógico: si le pide a la gente que decida si un argumento en particular es lógicamente válido (es decir, la conclusión sería verdadera si las premisas fueran verdaderas), tendemos a estar influenciados por la credibilidad de la conclusión, incluso cuando no deberíamos. Por ejemplo, aquí hay un argumento válido donde la conclusión es creíble:
+La mayoría de las personas son bastante inteligentes. Ciertamente somos más inteligentes que las otras especies con las que compartimos el planeta (aunque muchas personas pueden estar en desacuerdo). Nuestras mentes son cosas bastante asombrosas y parece que somos capaces de las hazañas más increíbles del pensamiento y la razón. Sin embargo, eso no nos hace perfectos. Y entre las muchas cosas que los psicólogos han demostrado a lo largo de los años es que realmente nos resulta difícil ser neutrales, evaluar la evidencia de manera imparcial y sin dejarnos influir por prejuicios preexistentes. Un buen ejemplo de esto es el <span style="color: BlueViolet;">efecto de sesgo de creencias</span> en el razonamiento lógico: si le pide a la gente que decida si un argumento en particular es lógicamente válido (es decir, la conclusión sería verdadera si las premisas fueran verdaderas), tendemos a estar influenciados por la credibilidad de la conclusión, incluso cuando no deberíamos. Por ejemplo, aquí hay un argumento válido donde la conclusión es creíble:
+
+{{< boxmd >}}
  
-Ningún cigarrillo es barato (Premisa 1)  
-Algunas cosas adictivas son económicas (premisa 2)  
-Por tanto, algunas cosas adictivas no son los cigarrillos (Conclusión) 
+- Ningún cigarrillo es barato (Premisa 1)  
+- Algunas cosas adictivas son económicas (premisa 2)  
+- Por tanto, algunas cosas adictivas no son los cigarrillos (Conclusión) 
+
+{{< /boxmd >}}
 
 Y aquí hay un argumento válido donde la conclusión no es creíble:
 
-Ninguna cosa adictiva es barata (Premisa 1)  
-Algunos cigarrillos son económicos (premisa 2)  
-Por tanto, algunos cigarrillos no son adictivos (Conclusión)
+{{< boxmd >}}
+
+- Ninguna cosa adictiva es barata (Premisa 1)  
+- Algunos cigarrillos son económicos (premisa 2)  
+- Por tanto, algunos cigarrillos no son adictivos (Conclusión)
+
+{{< /boxmd >}}
 
 La estructura lógica del argumento n.°2 es idéntica a la estructura del argumento n.°1 y ambos son válidos. Sin embargo, en el segundo argumento, hay buenas razones para pensar que la premisa 1 es incorrecta y, como resultado, es probable que la conclusión también sea incorrecta. Pero eso es completamente irrelevante para el tema en cuestión: un argumento es deductivamente válido si la conclusión es una consecuencia lógica de las premisas. Es decir, un argumento válido no tiene por qué involucrar declaraciones verdaderas.
  
 Por otro lado, aquí hay un argumento inválido que tiene una conclusión creíble: 
+
+{{< boxmd >}}
  
-Ninguna cosa adictiva es barata (Premisa 1)  
-Algunos cigarrillos son económicos (premisa 2)  
-Por tanto, algunas cosas adictivas no son los cigarrillos (Conclusión)
+- Ninguna cosa adictiva es barata (Premisa 1)  
+- Algunos cigarrillos son económicos (premisa 2)  
+- Por tanto, algunas cosas adictivas no son los cigarrillos (Conclusión)
+
+{{< /boxmd >}}
 
 Y finalmente, un argumento inválido con una conclusión increíble:
 
-Ningún cigarrillo es barato (Premisa 1)  
-Algunas cosas adictivas son económicas (premisa 2)  
-Por tanto, algunos cigarrillos no son adictivos (Conclusión)
- 
+{{< boxmd >}}
+
+- Ningún cigarrillo es barato (Premisa 1)  
+- Algunas cosas adictivas son económicas (premisa 2)  
+- Por tanto, algunos cigarrillos no son adictivos (Conclusión)
+
+{{< /boxmd >}}
+
 Ahora, suponga que las personas realmente son perfectamente capaces de dejar de lado sus prejuicios preexistentes sobre lo que es verdad y lo que no, y evaluar puramente un argumento por sus méritos lógicos. Esperaríamos que el 100% de la gente diga que los argumentos válidos son válidos y el 0% de la gente diga que los argumentos inválidos son válidos. Entonces, si realizara un experimento con esto, esperaría ver datos como este:
 
-|       | conclusion se siente verdadera | conclusion se siente falsa     |
+|       | la conclusión se siente verdadera | la conclusión se siente falsa     |
 | :---        |    :----:   |          :----: |
 | El argumento es valido  | 100% dijo "valido" | 100% dijo "valido" |
 | El argumento es invalido | 0% dijo "valido" | 0% dijo "valido" |
@@ -84,7 +103,7 @@ Si los datos psicológicos se viesen así (o incluso una buena aproximación a e
  
 En un estudio clásico, <span style="color: red;">JSBT Evans, Barston y Pollard (1983)</span> realizaron un experimento que analiza exactamente esto. Lo que encontraron es que cuando los prejuicios preexistentes (es decir, las creencias) estaban de acuerdo con la estructura de los datos, todo salió de la manera esperada:
 
-|       | conclusion se siente verdadera | conclusion se siente falsa     |
+|       | la conclusión se siente verdadera | la conclusión se siente falsa     |
 | :---        |    :----:   |          :----: |
 | El argumento es valido  | 92% dijo "valido" |  |
 | El argumento es invalido |  | 8% dijo "valido" |
@@ -132,11 +151,13 @@ Curiosamente, en realidad es una especie de verdad... cuando la gente comenzó a
 
 ¡Sorprendentemente, la mayoría de los departamentos tenían una tasa más alta de admisiones de mujeres que de hombres! Sin embargo, la tasa general de admisión en la universidad para las mujeres fue más baja que para los hombres. ¿Cómo puede ser esto? ¿Cómo pueden ser ciertas estas dos declaraciones al mismo tiempo?
  
-Esto es lo que está pasando. En primer lugar, observe que los departamentos no son iguales entre sí en términos de sus porcentajes de admisión: algunos departamentos (por ejemplo, ingeniería, química) tienden a admitir un alto porcentaje de los solicitantes calificados, mientras que otros (por ejemplo, inglés) tienden a rechazar a la mayoría de los candidatos, aunque fueran de alta calidad. Entonces, entre los seis departamentos que se muestran arriba, observe que el departamento A es el más generoso, seguido de B, C, D, E y F en ese orden. A continuación, observe que los hombres y las mujeres tienden a postularse para diferentes departamentos. Si clasificamos los departamentos en términos del número total de solicitantes masculinos, obtenemos **A**>**B**>D>C>F>E (los departamentos “fáciles” están en negrita). En general, los hombres tendían a postularse en los departamentos que tenían altas tasas de admisión. Ahora compare esto con cómo se distribuyeron las mujeres solicitantes. Clasificación de los departamentos en términos del número total de mujeres aplicantes produce un orden muy diferente C>E>D>F>A>B . En otras palabras, lo que estos datos parecen sugerir es que las mujeres solicitantes tienden a postularse en departamentos "más difíciles". Y de hecho, si miramos todo el Gráfico 1.1, vemos que esta tendencia es sistemática y bastante sorprendente. Este efecto se conoce como ***paradoja de Simpson***. No es común, pero sucede en la vida real, y la mayoría de las personas se sorprenden cuando lo encuentran por primera vez, y muchas personas se niegan incluso a creer que es real. Es muy real. Y aunque hay muchas lecciones estadísticas muy sutiles enterradas allí, quiero usarlas para hacer un punto mucho más importante... investigar es difícil, y hay muchas trampas sutiles y contradictorias al acecho de los incautos. Esa es la razón número 2 por la que a los científicos les encantan las estadísticas y por qué enseñamos métodos de investigación. Porque la ciencia es difícil y la verdad a veces se esconde astutamente en los rincones y recovecos de datos complicados.
+Esto es lo que está pasando. En primer lugar, observe que los departamentos no son iguales entre sí en términos de sus porcentajes de admisión: algunos departamentos (por ejemplo, ingeniería, química) tienden a admitir un alto porcentaje de los solicitantes calificados, mientras que otros (por ejemplo, inglés) tienden a rechazar a la mayoría de los candidatos, aunque fueran de alta calidad. Entonces, entre los seis departamentos que se muestran arriba, observe que el departamento A es el más generoso, seguido de B, C, D, E y F en ese orden. A continuación, observe que los hombres y las mujeres tienden a postularse para diferentes departamentos. Si clasificamos los departamentos en términos del número total de solicitantes masculinos, obtenemos **A**>**B**>D>C>F>E (los departamentos “fáciles” están en negrita). En general, los hombres tendían a postularse en los departamentos que tenían altas tasas de admisión. Ahora compare esto con cómo se distribuyeron las mujeres solicitantes. Clasificación de los departamentos en términos del número total de mujeres aplicantes produce un orden muy diferente C>E>D>F>A>B . En otras palabras, lo que estos datos parecen sugerir es que las mujeres solicitantes tienden a postularse en departamentos "más difíciles". Y de hecho, si miramos todo el Gráfico <a href="#graph01">1.1</a>, vemos que esta tendencia es sistemática y bastante sorprendente. Este efecto se conoce como <span style="color: BlueViolet;">paradoja de Simpson</span>. No es común, pero sucede en la vida real, y la mayoría de las personas se sorprenden cuando lo encuentran por primera vez, y muchas personas se niegan incluso a creer que es real. Es muy real. Y aunque hay muchas lecciones estadísticas muy sutiles enterradas allí, quiero usarlas para hacer un punto mucho más importante... investigar es difícil, y hay muchas trampas sutiles y contradictorias al acecho de los incautos. Esa es la razón número 2 por la que a los científicos les encantan las estadísticas y por qué enseñamos métodos de investigación. Porque la ciencia es difícil y la verdad a veces se esconde astutamente en los rincones y recovecos de datos complicados.
+<a id="graph01"> </a>
+{{< img src="/images/learning/graph01.png" title="Figura 1.1" caption="Datos de admisiones universitarias de Berkeley 1973. Esta cifra traza la tasa de admisión de los 85 departamentos que tenían al menos una solicitante mujer, en función del porcentaje de solicitantes que eran mujeres. El gráfico es un nuevo dibujo de la Figura 1 de Bickel et al. (1975). Los círculos trazan departamentos con más de 40 solicitantes; el área del círculo es proporcional al número total de solicitantes. El departamento de parcelas cruza con menos de 40 solicitantes." alt="image alt" width="720px" position="justify" >}} 
+
+Antes de dejar este tema por completo, quiero señalar algo más realmente crítico que a menudo se pasa por alto en una clase de métodos de investigación. Las estadísticas solo resuelven *parte* del problema. Recuerde que comenzamos todo esto con la preocupación de que los procesos de admisión de Berkeley pudieran estar injustamente sesgados en contra de las postulantes. Cuando nos fijamos en los datos “agregados”, que parecía como la universidad se discrimina a las mujeres, pero cuando nos “desagregado” y mirado en el individuo el comportamiento de todos los departamentos, resultó que los departamentos eran reales, si cualquier cosa, ligeramente sesgada a favor de las mujeres. El sesgo de género en las admisiones totales se debió al hecho de que las mujeres tendían a auto-seleccionarse para los departamentos más difíciles. Desde una perspectiva legal, eso probablemente dejaría a la universidad en claro. Las admisiones de posgrado se determinan a nivel de departamento individual (y hay buenas razones para hacerlo), y a nivel de departamentos individuales, las decisiones son más o menos imparciales (el sesgo débil a favor de las mujeres en ese nivel es pequeño y no es coherente en todos los departamentos). Dado que la universidad no puede dictar a qué departamentos la gente elige postularse, y la toma de decisiones se lleva a cabo a nivel de departamento, difícilmente se puede responsabilizar por los sesgos que esas elecciones produzcan.
  
-Antes de dejar este tema por completo, quiero señalar algo más realmente crítico que a menudo se pasa por alto en una clase de métodos de investigación. Las estadísticas solo resuelven parte del problema. Recuerde que comenzamos todo esto con la preocupación de que los procesos de admisión de Berkeley pudieran estar injustamente sesgados en contra de las postulantes. Cuando nos fijamos en los datos “agregados”, que parecía como la universidad se discrimina a las mujeres, pero cuando nos “desagregado” y mirado en el individuo el comportamiento de todos los departamentos, resultó que los departamentos eran reales, si cualquier cosa, ligeramente sesgada a favor de las mujeres. El sesgo de género en las admisiones totales se debió al hecho de que las mujeres tendían a auto-seleccionarse para los departamentos más difíciles. Desde una perspectiva legal, eso probablemente dejaría a la universidad en claro. Las admisiones de posgrado se determinan a nivel de departamento individual (y hay buenas razones para hacerlo), y a nivel de departamentos individuales, las decisiones son más o menos imparciales (el sesgo débil a favor de las mujeres en ese nivel es pequeño y no es coherente en todos los departamentos). Dado que la universidad no puede dictar a qué departamentos la gente elige postularse, y la toma de decisiones se lleva a cabo a nivel de departamento, difícilmente se puede responsabilizar por los sesgos que esas elecciones produzcan.
- 
-Esa fue la base de mis comentarios un tanto simplistas anteriores, pero esa no es exactamente toda la historia, ¿verdad? Después de todo, si estamos interesados en esto desde una perspectiva más sociológica y psicológica, podríamos querer preguntarnos por qué hay diferencias de género tan fuertes en las aplicaciones. ¿Por qué los hombres tienden a postularse a la ingeniería con más frecuencia que las mujeres, y por qué esto se invierte en el departamento de inglés? Y por qué es que el caso de que los departamentos que tienden a tener un sesgo de aplicación femenina tienden a tener tasas de ingreso, en general, inferiores a los departamentos que tienen un sesgo de aplicación masculina? ¿No podría esto reflejar un sesgo de género, a pesar de que cada departamento es en sí mismo imparcial? Que podría. Supongamos, hipotéticamente, que los hombres prefieren postularse a las "ciencias duras" y las mujeres prefieren las "humanidades". Y suponga además que la razón por la cual los departamentos de humanidades tienen bajas tasas de admisión es porque el gobierno no quiere financiar las humanidades (los lugares de doctorado, por ejemplo, a menudo están vinculados a proyectos de investigación financiados por el gobierno). ¿Eso constituye un sesgo de género? ¿O simplemente una visión poco inteligente del valor de las humanidades? ¿Qué pasa si alguien de alto nivel en el gobierno recorta los fondos de humanidades porque siente que las humanidades son “cosas inútiles para chicas”? Eso parece bastante descaradamente sesgado por el género. Nada de esto cae dentro del ámbito de las estadísticas, pero es importante para el proyecto de investigación. Si está interesado en los efectos estructurales generales de los sutiles sesgos de género, probablemente desee examinar los datos agregados y desagregados. Si está interesado en el proceso de toma de decisiones en Berkeley, probablemente solo le interesen los datos desagregados.
+Esa fue la base de mis comentarios un tanto simplistas anteriores, pero esa no es exactamente toda la historia, ¿verdad? Después de todo, si estamos interesados en esto desde una perspectiva más sociológica y psicológica, podríamos querer preguntarnos *por qué* hay diferencias de género tan fuertes en las aplicaciones. ¿Por qué los hombres tienden a postularse a la ingeniería con más frecuencia que las mujeres, y por qué esto se invierte en el departamento de inglés? Y por qué es que el caso de que los departamentos que tienden a tener un sesgo de aplicación femenina tienden a tener tasas de ingreso, en general, inferiores a los departamentos que tienen un sesgo de aplicación masculina? ¿No podría esto reflejar un sesgo de género, a pesar de que cada departamento es en sí mismo imparcial? Que podría. Supongamos, hipotéticamente, que los hombres prefieren postularse a las "ciencias duras" y las mujeres prefieren las "humanidades". Y suponga además que la razón por la cual los departamentos de humanidades tienen bajas tasas de admisión es porque el gobierno no quiere financiar las humanidades (los lugares de doctorado, por ejemplo, a menudo están vinculados a proyectos de investigación financiados por el gobierno). ¿Eso constituye un sesgo de género? ¿O simplemente una visión poco inteligente del valor de las humanidades? ¿Qué pasa si alguien de alto nivel en el gobierno recorta los fondos de humanidades porque siente que las humanidades son “cosas inútiles para chicas”? Eso parece bastante *descaradamente* sesgado por el género. Nada de esto cae dentro del ámbito de las estadísticas, pero es importante para el proyecto de investigación. Si está interesado en los efectos estructurales generales de los sutiles sesgos de género, probablemente desee examinar los datos agregados y desagregados. Si está interesado en el proceso de toma de decisiones en Berkeley, probablemente solo le interesen los datos desagregados.
  
 En resumen, hay muchas preguntas críticas que no puede responder con estadísticas, pero las respuestas a esas preguntas tendrán un gran impacto en la forma en que analiza e interpreta los datos. Y esta es la razón por la que siempre debes pensar en las estadísticas como una herramienta que te ayude a conocer tus datos, ni más ni menos. Es una herramienta poderosa para ese fin, pero nada sustituye a un pensamiento cuidadoso.
 
@@ -159,13 +180,13 @@ Básicamente, les enseñamos estadísticas como psicólogos porque necesitan ser
 > ***"¿No puede alguien más hacer las estadísticas?"***
  
 Hasta cierto punto, pero no del todo. Es cierto que no necesitas convertirte en un estadístico completamente capacitado solo para estudiar psicología, pero debes alcanzar un cierto nivel de competencia estadística. En mi opinión, hay tres razones por las que todo investigador psicológico debería poder hacer estadísticas básicas:
+
+1. En primer lugar, está la razón fundamental: la estadística está profundamente entrelazada con el diseño de la investigación. Si quiere ser bueno diseñando estudios psicológicos, necesita al menos comprender los conceptos básicos de las estadísticas.
  
-- En primer lugar, está la razón fundamental: la estadística está profundamente entrelazada con el diseño de la investigación. Si quiere ser bueno diseñando estudios psicológicos, necesita al menos comprender los conceptos básicos de las estadísticas.
+2. En segundo lugar, si quieres ser bueno en el lado psicológico de la investigación, entonces necesitas ser capaz de comprender la literatura psicológica, ¿verdad? Pero casi todos los artículos de la literatura psicológica informan los resultados de análisis estadísticos. Entonces, si realmente desea comprender la psicología, debe poder comprender lo que otras personas hicieron con sus datos. Y eso significa comprender una cierta cantidad de estadísticas.
  
-- En segundo lugar, si quieres ser bueno en el lado psicológico de la investigación, entonces necesitas ser capaz de comprender la literatura psicológica, ¿verdad? Pero casi todos los artículos de la literatura psicológica informan los resultados de análisis estadísticos. Entonces, si realmente desea comprender la psicología, debe poder comprender lo que otras personas hicieron con sus datos. Y eso significa comprender una cierta cantidad de estadísticas.
- 
-- En tercer lugar, existe un gran problema práctico al depender de otras personas para realizar todas sus estadísticas: el análisis estadístico es caro. Si alguna vez se aburre y desea ver cuánto cobra el gobierno australiano por las tasas universitarias, notará algo interesante: las estadísticas están designadas como una categoría de "prioridad nacional", por lo que las tasas son mucho, mucho más bajas que las de cualquier otra área de estudio. Esto se debe a que existe una enorme escasez de estadísticos. Entonces, desde su perspectiva como investigador psicológico, ¡las leyes de la oferta y la demanda no están exactamente de su lado aquí! Como resultado, en casi cualquier situación de la vida real en la que desee realizar una investigación psicológica, el hecho cruel será que no tiene suficiente dinero para pagar un estadístico. Entonces, la economía de la situación significa que tienes que ser bastante autosuficiente.
- 
+3. En tercer lugar, existe un gran problema práctico al depender de otras personas para realizar todas sus estadísticas: el análisis estadístico es caro. Si alguna vez se aburre y desea ver cuánto cobra el gobierno australiano por las tasas universitarias, notará algo interesante: las estadísticas están designadas como una categoría de "prioridad nacional", por lo que las tasas son mucho, mucho más bajas que las de cualquier otra área de estudio. Esto se debe a que existe una enorme escasez de estadísticos. Entonces, desde su perspectiva como investigador psicológico, ¡las leyes de la oferta y la demanda no están exactamente de su lado aquí! Como resultado, en casi cualquier situación de la vida real en la que desee realizar una investigación psicológica, el hecho cruel será que no tiene suficiente dinero para pagar un estadístico. Entonces, la economía de la situación significa que tienes que ser bastante autosuficiente.
+
 Tenga en cuenta que muchas de estas razones se generalizan más allá de los investigadores. Si desea ser un psicólogo en ejercicio y mantenerse en la cima del campo, es útil poder leer la literatura científica, que se basa en gran medida en las estadísticas.
  
 > ***"No me preocupan los trabajos, la investigación o el trabajo clínico. ¿Necesito estadísticas?"***
@@ -200,6 +221,6 @@ Pero tenga en cuenta que "urgente" es diferente de "importante": ambos importan.
 
 ---
 
-<p style="text-align:right;">
-Escrito por Navarro, Danielle; traducido por García-Mendívil, Helio A.
+<p style="text-align:right;font-size:80%;">
+Escrito por Navarro, Danielle; traducido y editado por García-Mendívil, Helio A.
 </p>

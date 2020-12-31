@@ -1,6 +1,7 @@
 ---
 title: "Capítulo 2: Una breve introducción al diseño de investigación (2da parte)"
-date: 2020-12-29T16:46:00+09:00
+date: 2020-12-30T18:19:17-08:00
+publishdate: 2020-12-31T18:26:17-08:00
 description: "(...continuación) En este capítulo, comenzaremos a pensar en las ideas básicas que se necesitan para diseñar un estudio, recopilar datos, verificar si la recopilación de datos funciona, etc."
 #output: 
 #   html_document:
@@ -33,20 +34,22 @@ body {
 text-align: justify}
 </style>
 
-## Evaluar la validez de un estudio {#id-01}
+<a id="id-01"> </a>
+
+## Evaluar la validez de un estudio
  
 Más que cualquier otra cosa, un científico quiere que su investigación sea "válida". La idea conceptual detrás de la validez es muy simple: ¿puedes confiar en los resultados de tu estudio? De lo contrario, el estudio no es válido. Sin embargo, si bien es fácil de establecer, en la práctica es mucho más difícil verificar la validez que verificar la confiabilidad. Y con toda honestidad, no hay una noción precisa y claramente acordada de lo que realmente es la validez. De hecho, hay muchos tipos diferentes de validez, cada uno de los cuales plantea sus propios problemas, y no todas las formas de validez son relevantes para todos los estudios. Voy a hablar de cinco tipos diferentes:
- 
+
+{{< boxmd >}}
+
 - Validez interna
- 
 - Validez externa
- 
 - Construir validez
- 
 - Validez aparente
- 
 - Validez ecológica
- 
+
+{{< /boxmd >}}
+
 Para darle una guía rápida sobre lo que importa aquí ... (1) La validez interna y externa son las más importantes, ya que se relacionan directamente con la pregunta fundamental de si su estudio realmente funciona. (2) La validez de constructo pregunta si estás midiendo lo que crees que eres. (3) La validez aparente no es muy importante excepto en la medida en que te preocupas por las "apariencias". (4) La validez ecológica es un caso especial de validez aparente que corresponde a un tipo de apariencia que puede interesarle mucho.
  
 ### Validez interna
@@ -60,17 +63,21 @@ La validez externa se relaciona con la posibilidad de generalizar sus hallazgos.
 El ejemplo clásico de este problema es el hecho de que una gran proporción de los estudios de psicología utilizarán estudiantes de licenciatura en psicología como participantes. Sin embargo, es obvio que a los investigadores no solo les preocupan los estudiantes de psicología; se preocupan por la gente en general. Dado eso, un estudio que utiliza solo estudiantes de psiquiatría como participantes siempre conlleva el riesgo de carecer de validez externa. Es decir, si hay algo “especial” en los estudiantes de psicología que los hace diferentes de la población en general en algún aspecto relevante, entonces podemos empezar a preocuparnos por la falta de validez externa.
  
 Dicho esto, es absolutamente fundamental darse cuenta de que un estudio que utiliza solo a estudiantes de psicología no necesariamente tiene un problema de validez externa. Hablaré de esto nuevamente más tarde, pero es un error tan común que lo mencionaré aquí. La validez externa se ve amenazada por la elección de la población si (a) la población de la que muestreó a sus participantes es muy limitada (por ejemplo, estudiantes de psicología) y (b) la población restringida de la que tomó la muestra es sistemáticamente diferente de la población general , en algún aspecto que sea relevante para el fenómeno psicológico que pretende estudiar. La parte en cursiva es la parte que mucha gente olvida: es cierto que los estudiantes de psicología se diferencian de la población en general en muchos aspectos, por lo que un estudio que solo utilice estudiantes de psicología puede tener problemas con la validez externa. Sin embargo, si esas diferencias no son muy relevantes para el fenómeno que está estudiando, entonces no hay nada de qué preocuparse. Para hacer esto un poco más concreto, aquí hay dos ejemplos extremos:
- 
+
+{{< boxmd >}}
+
 - Quiere medir las “actitudes del público en general hacia la psicoterapia”, pero todos sus participantes son estudiantes de psicología. Es casi seguro que este estudio tenga un problema de validez externa.
- 
-- Quiere medir la efectividad de una ilusión visual y sus participantes son todos estudiantes de psicología. Es muy poco probable que este estudio tenga un problema de validez externa
- 
+- Quiere medir la efectividad de una ilusión visual y sus participantes son todos estudiantes de psicología. Es muy poco probable que este estudio tenga un problema de validez externa.
+
+{{< /boxmd >}}
+
 Habiendo dedicado los últimos dos párrafos a centrarse en la elección de los participantes (ya que ese es el gran problema del que todos tienden a preocuparse más), vale la pena recordar que la validez externa es un concepto más amplio. Los siguientes también son ejemplos de cosas que podrían representar una amenaza para la validez externa, según el tipo de estudio que esté realizando:
  
 Las personas pueden responder un "cuestionario de psicología" de una manera que no refleja lo que harían en la vida real.
- 
+{{< boxmd >}} 
 - Su experimento de laboratorio sobre (digamos) “aprendizaje humano” tiene una estructura diferente a los problemas de aprendizaje que enfrentan las personas en la vida real.
- 
+{{< /boxmd >}}
+
 ### Construir validez
  
 La validez de constructo es básicamente una cuestión de si estás midiendo lo que quieres medir. Una medición tiene una buena validez de constructo si en realidad mide el constructo teórico correcto y una mala validez de constructo si no lo hace. Para dar un ejemplo muy simple (aunque ridículo), suponga que estoy tratando de investigar las tasas con las que los estudiantes universitarios hacen trampa en sus exámenes. Y la forma en que intento medirlo es pidiendo a los estudiantes que hacen trampa que se pongan de pie en la sala de conferencias para poder contarlos. Cuando hago esto con una clase de 300 estudiantes, 0 personas dicen ser tramposos. Por tanto, llego a la conclusión de que la proporción de tramposos en mi clase es del 0%. Claramente esto es un poco ridículo. Pero el punto aquí no es que este sea un ejemplo metodológico muy profundo, sino más bien para explicar qué es la validez de constructo. El problema con mi medida es que mientras intento medir "la proporción de personas que engañan", lo que en realidad estoy midiendo es "la proporción de personas lo suficientemente estúpidas como para admitir haber hecho trampas, o lo suficientemente sangrientas hacer". ¡Obviamente, estos no son lo mismo! Así que mi estudio salió mal, porque mi medición tiene una validez de constructo muy pobre.
@@ -240,6 +247,6 @@ Todo esto debería aclararle que el diseño del estudio es una parte fundamental
 
 ---
 
-<p style="text-align:right;">
+<p style="text-align:right;font-size:80%;">
 Escrito por Navarro, Danielle; traducido por García-Mendívil, Helio A.
 </p>

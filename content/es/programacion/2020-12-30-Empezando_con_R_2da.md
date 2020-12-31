@@ -1,6 +1,7 @@
 ---
 title: "Capítulo 3: Empezando con R (2da parte)"
-date: 2020-12-29T17:01:00+09:00
+date: 2020-12-30T18:21:17-08:00
+publishdate: 2020-12-31T18:32:17-08:00
 description: "(...continuación) En este capítulo discutiré cómo empezar a usar R. Hablaré brevemente sobre cómo descargar e instalar R, pero la mayor parte del capítulo se centrará en que empiece a escribir comandos R."
 #output: 
 #   html_document:
@@ -36,9 +37,10 @@ body {
 text-align: justify}
 </style>
 
+<a id="id-01"> </a>
 ...continuación.
 
-## Usar funciones para hacer cálculos {#id-01}
+## Usar funciones para hacer cálculos 
 Los símbolos **+, -, \*** y así sucesivamente son ejemplos de operadores. Como hemos visto, puede hacer muchos cálculos con solo usar estos operadores. Sin embargo, para hacer cálculos más avanzados (y más adelante, para hacer estadísticas reales), necesitará comenzar a usar **funciones**. Hablaré con más detalle sobre las funciones y cómo funcionan en la Sección **8.4**, pero por ahora vamos a sumergirnos y usar algunas. Para empezar, suponga que quisiera sacar la raíz cuadrada de 225. La raíz cuadrada, en caso de que las matemáticas de la escuela secundaria estén un poco oxidadas, es justo lo opuesto a elevar un número al cuadrado. Entonces, por ejemplo, dado que “5 al cuadrado es 25”, puedo decir que “5 es la raíz cuadrada de 25”. La notación habitual para esto es, 
 
 $$ \sqrt[]{25}=5 $$
@@ -743,6 +745,6 @@ Todavía no hemos llegado a nada que se parezca a un "conjunto de datos", por su
 
 
 ---
-<p style="text-align:right;">
+<p style="text-align:right;font-size:80%;">
 Escrito por Navarro, Danielle; traducido por García-Mendívil, Helio A.
 </p>

@@ -1,6 +1,7 @@
 ---
 title: "Capítulo 3: Empezando con R (1ra parte)"
-date: 2020-12-29T17:00:00+09:00
+date: 2020-12-30T18:20:17-08:00
+publishdate: 2020-12-31T18:29:17-08:00
 description: "En este capítulo discutiré cómo empezar a usar R. Hablaré brevemente sobre cómo descargar e instalar R, pero la mayor parte del capítulo se centrará en que empiece a escribir comandos R."
 #output: 
 #   html_document:
@@ -33,6 +34,7 @@ body {
 text-align: justify}
 </style>
 
+<a id="id-01"> </a>
 
 En este capítulo discutiré cómo empezar a usar R. Hablaré brevemente sobre cómo descargar e instalar R, pero la mayor parte del capítulo se centrará en que empiece a escribir comandos R. Nuestro objetivo en este capítulo no es aprender ningún concepto estadístico: solo estamos tratando de aprender los conceptos básicos de cómo funciona R y sentirnos cómodos interactuando con el sistema. Para hacer esto, pasaremos un poco de tiempo usando R como una simple calculadora, ya que eso es lo más fácil de hacer con R. Al hacerlo, obtendrá una idea de cómo es trabajar en R. A partir de ahí, presentaré algunas ideas de programación muy básicas: en particular, hablaré sobre la idea de definir variables para almacenar información y algunas cosas que puede hacer con estas variables. 
 
@@ -54,7 +56,7 @@ Esas son las principales razones por las que uso R. No está exento de defectos:
 
 ---
 
-## Instalación de R {#id-01}
+## Instalación de R 
 De acuerdo, basta con el argumento de venta. Empecemos. Al igual que con cualquier software, R debe instalarse en una "computadora", que es una caja mágica que hace cosas interesantes y entrega ponis gratis. O algo por el estilo: puedo estar confundiendo las computadoras con las campañas de marketing del iPad. De todos modos, R se distribuye gratuitamente en línea y puede descargarlo desde la página de inicio de R, que es:
 
 http://cran.r-project.org/
@@ -457,6 +459,6 @@ Continúa en la siguiente entrada...
 
 ---
 
-<p style="text-align:right;">
+<p style="text-align:right;font-size:80%;">
 Escrito por Navarro, Danielle; traducido por García-Mendívil, Helio A.
 </p>

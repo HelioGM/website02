@@ -14,7 +14,7 @@
   
   <url>
     <loc>/en/</loc>
-    <lastmod>2020-12-20T12:06:14-08:00</lastmod>
+    <lastmod>2020-12-30T18:17:17-08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -25,6 +25,16 @@
                 hreflang="en"
                 href="/en/"
                 />
+  </url>
+  
+  <url>
+    <loc>/en/post/2020-12-31-hora/</loc>
+    <lastmod>2020-12-30T18:17:17-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/post/</loc>
+    <lastmod>2020-12-30T18:17:17-08:00</lastmod>
   </url>
   
   <url>

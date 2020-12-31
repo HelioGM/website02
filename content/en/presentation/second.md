@@ -9,6 +9,11 @@ series:
 categories:
 -
 image: images/feature1/number-two.png
+plugins:
+- highlight
+- zoom
+- notes
+- math
 revealBackgroundColor: "" # #fff or rgba() or hsl()
 revealBackgroundImage: "" # /images/myImage.png   <= static folder path
 revealBackgroundPosition: "" # left top, left center, left bottom, right top, right center ...
@@ -18,6 +23,7 @@ revealBackgroundVideo: "" # /videos/myVideo.mp4 <= static folder path, A single 
 revealBackgroundVideoLoop: false # true, false
 revealBackgroundVideoMuted: false # true, false
 revealBackgroundSize: "" # cover, contain, ...
+revealTheme: league
 reveal: 
   - main:
     - sub: 
@@ -27,4 +33,7 @@ reveal:
     - sub: 
       - |
         test 2
+        # Reveal.js
+        ## A framework for easily creating beautiful presentations using HTML.
+        - [Check out the live demo](https://revealjs.com/#/)
 ---
