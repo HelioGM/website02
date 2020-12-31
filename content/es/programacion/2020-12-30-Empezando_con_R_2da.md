@@ -1,6 +1,6 @@
 ---
 title: "Capítulo 3: Empezando con R (2da parte)"
-date: 2020-12-30T18:21:17-08:00
+date: 2020-12-31T18:21:17-08:00
 publishdate: 2020-12-31T18:32:17-08:00
 description: "(...continuación) En este capítulo discutiré cómo empezar a usar R. Hablaré brevemente sobre cómo descargar e instalar R, pero la mayor parte del capítulo se centrará en que empiece a escribir comandos R."
 #output: 
