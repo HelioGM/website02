@@ -112,7 +112,7 @@ items:
             
             ---
             
-            ## Certificados
+            ## Cursos
             
             <i class="fa fa-certificate" aria-hidden="true"></i> Taller de fotosíntesis LI-COR LI-6400. 
             **LI-COR Biosciences**. 
@@ -128,7 +128,7 @@ items:
             
             ---
             
-            <i class="fa fa-certificate" aria-hidden="true"></i> Laboratorio de cultivo de tejidos vegetales. 
+            Laboratorio de cultivo de tejidos vegetales. 
             <i class="fa fa-university" aria-hidden="true"></i> Instituto Técnologico de Sonora.
             <i class="fa fa-map-marker" aria-hidden="true"></i> Sonora, México. 
             <i class="fa fa-calendar" aria-hidden="true"></i> Enero a Mayo de 2010.
@@ -140,12 +140,18 @@ items:
             <i class="fa fa-university" aria-hidden="true"></i> **Universitat de Lleida**.
             <i class="fa fa-map-marker" aria-hidden="true"></i> Lleida, España. 
             <i class="fa fa-calendar" aria-hidden="true"></i> 14, 20 y 21 de Marzo de 2019.
+            
+            ---
+            
             ## Conferencias
             Respuesta de *Solanum torvum* a poblaciones de *Meloidogyne* spp. bajo condiciones controladas y de invernadero / Respuesta de *Citrullus amarus* a poblaciones de *Meloidogyne* spp. y su compatibilidad como portainjerto de sandía. 
             **V jornades Tècniques ADV de Catalunya**. 
             **Grup d'horta y ornamentals. Generalitat de Catalunya**. 
             <i class="fa fa-map-marker" aria-hidden="true"></i> Barcelona, España. 
             <i class="fa fa-calendar" aria-hidden="true"></i> Noviembre de 2018.
+            
+            ---
+            
             ## Habilidades
             ### 🔍Campo:
             | Habilidad      | Nivel |
@@ -153,23 +159,35 @@ items:
             | Nematología (Condiciones controladas y de invernadero)  | ⚫⚫⚫⚫⚫       |
             | Fisiolofía vegetal (Condiciones de campo)  | ⚫⚫⚫    ⚪⚪   |
             | Entomología (Condiciones de campo)  | ⚫⚫    ⚪⚪⚪   |
+            
+            ---
+            
             ### 🔬Laboratorio:
             | Habilidad      | Nivel |
             | :---        |    :----:   | 
             | Nematología, microscopía  | ⚫⚫⚫⚫⚫       |
             | Especrofotometría, Análisis vegetal  | ⚫⚫⚫    ⚪⚪   |
             | PCR  | ⚫⚫    ⚪⚪⚪   |
+            
+            ---
+            
             ### 💻Software:
             | Habilidad      | Nivel |
             | :---        |    :----:   | 
             | Windows, MS Office, Mendeley  | ⚫⚫⚫⚫⚫       |
             | Latex, R, Statgraphics, SPSS  | ⚫⚫⚫    ⚪⚪   |
             | Linux, SAS, Minitab  | ⚫⚫    ⚪⚪⚪   |
+            
+            ---
+            
             ### <i class="fa fa-language" aria-hidden="true"></i>Idiomas:
             | Habilidad      | Nivel |
             | :---        |    :----:   | 
             | Español (primer idioma)  | ⚫⚫⚫⚫⚫       |
             | Inglés (B2; TOEFL ITP (2015); 597/677 (88%))  | ⚫⚫⚫    ⚪⚪   |
+            
+            ---
+            
             ### Experiencia en cultivos:
             Número aproximado de ensayos realizados ordenados por cultivo, disciplina, condiciones ambientales y nivel de responsabilidad.
             | Cultivo      | 2012 | 2013 | 2014 | 2015 | 2016 | 2017 | 2018 | 2019 |
@@ -192,6 +210,8 @@ items:
             
             A: Agronomía; E: Entomología; N: Nematología; <sup>f</sup>: Condiciones de campo; <sup>g</sup>: Condiciones de invernadero (plastico/vidrio); <sup>c</sup>: condiciones controladas; *: Como miembro de equipo de apoyo.
             
+            ---
+            
             ## <i class="fa fa-address-card" aria-hidden="true"></i> Referencias
             
             <i class="fa fa-address-book-o" aria-hidden="true"></i> Dr. Fransisco Javier Sorribas
@@ -199,24 +219,34 @@ items:
             https://orcid.org/0000-0001-7465-7353
             Supervisor de tesis doctoral / Referencia de formación en Nematología.
             
+            ---
+            
             <i class="fa fa-address-book-o" aria-hidden="true"></i> Dr.Nuria Escudero
             📧 nuria.escudero@upc.edu
             https://orcid.org/0000-0002-9131-0674 
             Referencia de experiencia en Biología Molecular.
+            
+            ---
             
             <i class="fa fa-address-book-o" aria-hidden="true"></i> Dr. Enrico Yépez
             📧 enrico.yepez@itson.edu.mx
             https://orcid.org/0000-0003-4746-573X
             Referencia de experiencia en evaluación de tasa fotosintética.
             
+            ---
+            
             <i class="fa fa-address-book-o" aria-hidden="true"></i> Dr. Jose Luis Martínez-Carrillo
             📧 jlmarca@gmail.com
             <i class="ai ai-orcid" aria-hidden="true"></i>https://orcid.org/0000-0001-5369-4614
             Referencia de experiencia en Entomología.
             
+            ---
+            
             <i class="fa fa-address-book-o" aria-hidden="true"></i> Dr. Marco Antonio Gutiérrez Coronado
             📧 mgutierrez@itson.edu.mx
             itson.mx/oferta/dcb/Pagina/gutierrez-c.aspx
             Supervisor de Maestría / Último empleador.
+            
+            ---
 ---
 
