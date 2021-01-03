@@ -28,6 +28,8 @@ Este sitio web fue creado en el entorno de desarrollo de [RStudio](https://es.wi
 ## Contacto
             
 Escribeme un mensaje.
+
+{{< box >}}
             
 <form
 action="https://formspree.io/f/meqppywa"
@@ -36,13 +38,13 @@ method="POST"
 <label>
 Nombre:
 <br>
-<input type="text" name="_replytoname">
+<input type="text" name="Nombre">
 </label>
 <br>
 <label>
 Correo electrónico:
 <br>
-<input type="text" name="_replyto">
+<input type="text" name="Correo">
 </label>
 <br>
 <label>
@@ -51,7 +53,14 @@ Tu mensaje:
 <textarea name="message"></textarea>
 </label>
 <br>
+<label>
+Enlace:
+<br>
+<input type="text" name="Enlace">
+</label>
+<br>
 <!-- your other form fields go here -->
 <button type="submit">Enviar</button>
 </form>
 
+{{< /box >}}
