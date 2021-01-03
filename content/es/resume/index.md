@@ -48,92 +48,105 @@ items:
           - Muestreo de variables fisiológicas (contenido de clorofila, tasa fotosintética) y de rendimiento.
           - Manejo de datos, análisis estadísticos, interpretación de resultados.
           - Revisión de literatura y apoyo en la redacción de reportes técnicos y científicos.
-          ---
-
-  - title: Estudios
-    sections:
-      - title: Doctor en Tecnología Agroalimentaria y Biotecnología 
-        subtitle: Universitat Politècnica de Catalunya
-        startDate: 2015-10-18T20:13:59+09:00
-        endDate: 2019-10-29T20:13:59+09:00
-        contents: | 
-         
-      - title: Maestro en Ciencias en Recursos Naturales
-        subtitle: Instituto Técnologico de Sonora
-        startDate: 2011-09-01T20:13:59+09:00
-        endDate: 2013-06-29T20:13:59+09:00
-        contents: | 
-        
-      - title: Ingeniero Biotecnólogo
-        subtitle: Instituto Técnologico de Sonora
-        startDate: 2006-09-01T20:13:59+09:00
-        endDate: 2011-06-29T20:13:59+09:00
-        contents: | 
-      
-      - title: Técnico en Computación
-        subtitle: Centro de Bachillerato Tecnológico Industrial y de Servivios No. 64
-        startDate: 2003-09-01T20:13:59+09:00
-        endDate: 2006-06-29T20:13:59+09:00
-        contents: | 
+          
             ---
-
-  - title: Publicaciones
-    sections:
-      - title: 
-        subtitle: García-Mendívil and Sorribas, 2021. Effect of Citrullus amarus accessions on the population dynamics of Meloidogyne incognita and M. javanica and watermelon yield. Scientia horticulturae. 275, pp. 109680. https://doi.org/10.1016/j.scienta.2020.109680 
-        date: 2020-02-05T20:13:59+09:00
-        contents: | 
-      - title:  
-        subtitle: García-Mendívil and Sorribas, 2019. Fitness cost but no selection for virulence in Meloidogyne incognita after two consecutive crops of eggplant grafted onto Solanum torvum. Plant pathology. 68 (9), pp. 1602-1606. https://doi.org/10.1111/ppa.13092
-        date: 2020-02-05T20:13:59+09:00
-        contents: |           
-      - title:  
-        subtitle: García-Mendívil et al., 2019. Host suitability of Solanum torvum cultivars to meloidogyne incognita and M. javanica and population dynamiocs. Plant pathology. 64(6), pp. 1215-1224. https://doi.org/10.1111/ppa.13036
-        date: 2020-02-05T20:13:59+09:00
-        contents: | 
-      - title:  
-        subtitle: García-Mendívil et al., 2019. Response of two Citrullus amarus accessions to isolates of three species of Meloidogyne and their graft compatibility with watermelon. Crop protection. 119, pp. 208-213. https://doi.org/10.1016/j.cropro.2019.02.005
-        date: 2020-02-05T20:13:59+09:00
-        contents: | 
-      - title:  
-        subtitle: García-Mendívil et al., 2014. Effect of fertilization with used mushroom substrate based compost on Phaseolus vulgaris L. yield. Terra latinoamericana. 32, pp. 69-76. http://ref.scielo.org/vqgz92
-        date: 2020-02-05T20:13:59+09:00
-        contents: | 
-        
-      - title:  
-        subtitle: García-Mendívil et al., 2014. Silicion enriched mushroom based compost application on wheat (Triticum spp.) Agrociencia. 48(7), pp. 691-702. http://ref.scielo.org/yq2yj8
-        date: 2020-02-05T20:13:59+09:00
-        contents: | 
+            ## <i class="fa fa-graduation-cap" aria-hidden="true"></i> Estudios
+            
+            <i class="fa fa-graduation-cap" aria-hidden="true"></i> **Doctor en Tecnología Agroalimentaria y Biotecnología**.
+            <i class="fa fa-university" aria-hidden="true"></i> Universitat Politècnica de Catalunya.
+            <i class="fa fa-map-marker" aria-hidden="true"></i> Barcelona, España.
+            <i class="fa fa-calendar" aria-hidden="true"></i> **2015 - 2019**. (Sobresaliente *Cum laude*)
             
             ---
-  - title: Certificados
-    sections:
-      - title:  
-        subtitle: Taller de fotosintesis LI-COR LI-6400. LI-COR Biosciences, Sonora, México. 7 y 8 de Marzo de 2013. 
-        date: 2020-02-05T20:13:59+09:00
-        contents: | 
+            
+            <i class="fa fa-graduation-cap" aria-hidden="true"></i> **Maestro en Ciencias en Recursos Naturales**.
+            <i class="fa fa-university" aria-hidden="true"></i> Instituto Técnologico de Sonora.
+            <i class="fa fa-map-marker" aria-hidden="true"></i> Sonora, México.
+            <i class="fa fa-calendar" aria-hidden="true"></i> **2011 - 2013**. (*9.3/10.0*)
             
             ---
-  - title: Docencia
-    sections:
-      - title:
-        subtitle: Taller de Nematología del curso de Patología Vegetal del Máster en Protección Integrada de Cultivos. Universitat de Lleida, Lleida, España. 14, 20 y 21 de Marzo de 2019.
-        date: 2020-02-05T20:13:59+09:00
-        contents: | 
+            
+            <i class="fa fa-graduation-cap" aria-hidden="true"></i> **Ingeniero Biotecnólogo**.
+            <i class="fa fa-university" aria-hidden="true"></i> Instituto Técnologico de Sonora.
+            <i class="fa fa-map-marker" aria-hidden="true"></i> Sonora, México.
+            <i class="fa fa-calendar" aria-hidden="true"></i> **2006 - 2011**. (*9.0/10.0*)
             
             ---
-  - title: Conferencias
-    sections:
-      - title:  
-        subtitle: Respuesta de Solanum torvum a poblaciones de Meloidogyne spp. bajo condiciones controladas y de invernadero / Respuesta de Citrullus amarus a poblaciones de Meloidogyne spp. y su compatibilidad como portainjerto de sandía. V jornades Tècniques ADV de Catalunya. Grup d'horta y ornamentals. Generalitat de Catalunya. Barcelona, España. Noviembre de 2018.
-        date: 2020-02-05T20:13:59+09:00
-        contents: | 
-      - title:  
-        subtitle: Aplicación de composta a base de champiñón enriquecida con silicio en trigos del Valle del Yaqui, Sonora.
-        date: 2020-02-05T20:13:59+09:00
-        contents: | 
+            
+            <i class="fa fa-graduation-cap" aria-hidden="true"></i> **Técnico en Computación**.
+            <i class="fa fa-university" aria-hidden="true"></i> Centro de Bachillerato Tecnológico Industrial y de Servivios No. 64.
+            <i class="fa fa-map-marker" aria-hidden="true"></i> Sonora, México.
+            <i class="fa fa-calendar" aria-hidden="true"></i> **2003 - 2006**. (*9.0/10.0*)
+            
             ---
-            # Habilidades
+            
+            ## Publicaciones
+            
+            <i class="fa fa-file-text-o" aria-hidden="true"></i> **García-Mendívil and Sorribas, 2021**. Effect of *Citrullus amarus* accessions on the population dynamics of *Meloidogyne incognita* and *M. javanica* and watermelon yield. *Scientia horticulturae*. 275: 109680.
+            <i class="ai ai-doi" aria-hidden="true"></i> https://doi.org/10.1016/j.scienta.2020.109680 
+            
+            ---
+            
+            <i class="fa fa-file-text-o" aria-hidden="true"></i> **García-Mendívil and Sorribas, 2019**. Fitness cost but no selection for virulence in *Meloidogyne incognita* after two consecutive crops of eggplant grafted onto *Solanum torvum*. Plant pathology. 68 (9): 1602-1606. 
+            <i class="ai ai-doi" aria-hidden="true"></i> https://doi.org/10.1111/ppa.13092
+            
+            ---
+            
+            <i class="fa fa-file-text-o" aria-hidden="true"></i> **García-Mendívil *et al*., 2019**. Host suitability of *Solanum torvum* cultivars to *Meloidogyne incognita* and *M. javanica* and population dynamics. Plant pathology. 64(6): 1215-1224. 
+            <i class="ai ai-doi" aria-hidden="true"></i> https://doi.org/10.1111/ppa.13036
+            
+            ---
+            
+            <i class="fa fa-file-text-o" aria-hidden="true"></i> **García-Mendívil *et al*., 2019**. Response of two *Citrullus amarus* accessions to isolates of three species of *Meloidogyne* and their graft compatibility with watermelon. Crop protection. 119: 208-213. 
+            <i class="ai ai-doi" aria-hidden="true"></i> https://doi.org/10.1016/j.cropro.2019.02.005
+            
+            ---
+            
+            <i class="fa fa-file-text-o" aria-hidden="true"></i> **García-Mendívil *et al*., 2014**. Effect of fertilization with used mushroom substrate based compost on *Phaseolus vulgaris* L. yield. Terra latinoamericana. 32: 69-76. 
+            http://ref.scielo.org/vqgz92
+            
+            ---
+            
+            <i class="fa fa-file-text-o" aria-hidden="true"></i> **García-Mendívil *et al*., 2014**. Silicion enriched mushroom based compost application on wheat (*Triticum* spp.) Agrociencia. 48(7): 691-702. 
+            http://ref.scielo.org/yq2yj8
+            
+            ---
+            
+            ## Certificados
+            
+            <i class="fa fa-certificate" aria-hidden="true"></i> Taller de fotosíntesis LI-COR LI-6400. 
+            **LI-COR Biosciences**. 
+            <i class="fa fa-map-marker" aria-hidden="true"></i> Sonora, México. 
+            <i class="fa fa-calendar" aria-hidden="true"></i> 7 y 8 de Marzo de 2013.
+            
+            ---
+            
+            <i class="fa fa-certificate" aria-hidden="true"></i> Taller de PCR y electroforesis. 
+            <i class="fa fa-university" aria-hidden="true"></i> Instituto Técnologico de Sonora.
+            <i class="fa fa-map-marker" aria-hidden="true"></i> Sonora, México. 
+            <i class="fa fa-calendar" aria-hidden="true"></i> Noviembre de 2011.
+            
+            ---
+            
+            <i class="fa fa-certificate" aria-hidden="true"></i> Laboratorio de cultivo de tejidos vegetales. 
+            <i class="fa fa-university" aria-hidden="true"></i> Instituto Técnologico de Sonora.
+            <i class="fa fa-map-marker" aria-hidden="true"></i> Sonora, México. 
+            <i class="fa fa-calendar" aria-hidden="true"></i> Enero a Mayo de 2010.
+            
+            ---
+            
+            ## Docencia
+            Taller de Nematología del curso de Patología Vegetal del Máster en Protección Integrada de Cultivos. 
+            <i class="fa fa-university" aria-hidden="true"></i> **Universitat de Lleida**.
+            <i class="fa fa-map-marker" aria-hidden="true"></i> Lleida, España. 
+            <i class="fa fa-calendar" aria-hidden="true"></i> 14, 20 y 21 de Marzo de 2019.
+            ## Conferencias
+            Respuesta de *Solanum torvum* a poblaciones de *Meloidogyne* spp. bajo condiciones controladas y de invernadero / Respuesta de *Citrullus amarus* a poblaciones de *Meloidogyne* spp. y su compatibilidad como portainjerto de sandía. 
+            **V jornades Tècniques ADV de Catalunya**. 
+            **Grup d'horta y ornamentals. Generalitat de Catalunya**. 
+            <i class="fa fa-map-marker" aria-hidden="true"></i> Barcelona, España. 
+            <i class="fa fa-calendar" aria-hidden="true"></i> Noviembre de 2018.
+            ## Habilidades
             ### 🔍Campo:
             | Habilidad      | Nivel |
             | :---        |    :----:   | 
@@ -152,7 +165,7 @@ items:
             | Windows, MS Office, Mendeley  | ⚫⚫⚫⚫⚫       |
             | Latex, R, Statgraphics, SPSS  | ⚫⚫⚫    ⚪⚪   |
             | Linux, SAS, Minitab  | ⚫⚫    ⚪⚪⚪   |
-            ### Idiomas:
+            ### <i class="fa fa-language" aria-hidden="true"></i>Idiomas:
             | Habilidad      | Nivel |
             | :---        |    :----:   | 
             | Español (primer idioma)  | ⚫⚫⚫⚫⚫       |
@@ -169,39 +182,39 @@ items:
             | Chile |  |  | E(2)<sup>f</sup> |  | N(2)<sup>c</sup> | N(2)<sup>cg</sup> | N(2)<sup>cg</sup> | N(2)<sup>cg</sup> |
             | Tomate |  |  |  | N(1)<sup>c</sup> | N(5)<sup>cg</sup> | N(5)<sup>cg</sup> | N(5)<sup>cg</sup> | N(5)<sup>cg</sup> |
             | Berenjena |  |  |  | N(1)<sup>c</sup> | N(4)<sup>cg</sup> | N(4)<sup>cg</sup> | N(2)<sup>cg</sup> | N(2)<sup>cg</sup> |
-            | S. torvum |  |  |  | N(1)<sup>c</sup> | N(4)<sup>cg</sup> | N(4)<sup>cg</sup> | N(2)<sup>cg</sup> | N(2)<sup>cg</sup> |
+            | *S. torvum* |  |  |  | N(1)<sup>c</sup> | N(4)<sup>cg</sup> | N(4)<sup>cg</sup> | N(2)<sup>cg</sup> | N(2)<sup>cg</sup> |
             | Sandia |  |  |  | N(1)<sup>c</sup> | N(3)<sup>cg</sup> | N(2)<sup>cg</sup> | N(2)<sup>cg</sup> | N(2)<sup>cg</sup> |
-            | C. amarus |  |  |  | N(1)<sup>c</sup> | N(3)<sup>cg</sup> | N(2)<sup>cg</sup> | N(2)<sup>cg</sup> | N(2)<sup>cg</sup> |
+            | *C. amarus* |  |  |  | N(1)<sup>c</sup> | N(3)<sup>cg</sup> | N(2)<sup>cg</sup> | N(2)<sup>cg</sup> | N(2)<sup>cg</sup> |
             | Melón |  |  |  | *N(1)<sup>c</sup> | *N(3)<sup>cg</sup> | *N(2)<sup>cg</sup> | *N(2)<sup>cg</sup> | *N(2)<sup>cg</sup> |
-            | C. metuliferus  | |  |  | *N(1)<sup>c</sup> | *N(3)<sup>cg</sup> | *N(2)<sup>cg</sup> | *N(2)<sup>cg</sup> | *N(2)<sup>cg</sup> |
+            | *C. metuliferus*  | |  |  | *N(1)<sup>c</sup> | *N(3)<sup>cg</sup> | *N(2)<sup>cg</sup> | *N(2)<sup>cg</sup> | *N(2)<sup>cg</sup> |
             | Lechuga |  |  |  |  | *N(2)<sup>cg</sup> |  | *N(2)<sup>fg</sup> |  |
             | Pepino | |  |  |  |  |  | *N(2)<sup>cg</sup> | N(2)<sup>cg</sup> |
             
             A: Agronomía; E: Entomología; N: Nematología; <sup>f</sup>: Condiciones de campo; <sup>g</sup>: Condiciones de invernadero (plastico/vidrio); <sup>c</sup>: condiciones controladas; *: Como miembro de equipo de apoyo.
             
-            # Referencias
+            ## <i class="fa fa-address-card" aria-hidden="true"></i> Referencias
             
-            Fransisco Javier Sorribas, Dr.
+            <i class="fa fa-address-book-o" aria-hidden="true"></i> Dr. Fransisco Javier Sorribas
             📧 francesc.xavier.sorribas@upc.edu
             https://orcid.org/0000-0001-7465-7353
             Supervisor de tesis doctoral / Referencia de formación en Nematología.
             
-            Nuria Escudero, Dr.
+            <i class="fa fa-address-book-o" aria-hidden="true"></i> Dr.Nuria Escudero
             📧 nuria.escudero@upc.edu
             https://orcid.org/0000-0002-9131-0674 
             Referencia de experiencia en Biología Molecular.
             
-            Enrico Yépez, Dr.
+            <i class="fa fa-address-book-o" aria-hidden="true"></i> Dr. Enrico Yépez
             📧 enrico.yepez@itson.edu.mx
             https://orcid.org/0000-0003-4746-573X
             Referencia de experiencia en evaluación de tasa fotosintética.
             
-            Jose Luis Martínez-Carrillo, Dr.
+            <i class="fa fa-address-book-o" aria-hidden="true"></i> Dr. Jose Luis Martínez-Carrillo
             📧 jlmarca@gmail.com
-            https://orcid.org/0000-0001-5369-4614
+            <i class="ai ai-orcid" aria-hidden="true"></i>https://orcid.org/0000-0001-5369-4614
             Referencia de experiencia en Entomología.
             
-            Marco Antonio Gutiérrez Coronado, Dr.
+            <i class="fa fa-address-book-o" aria-hidden="true"></i> Dr. Marco Antonio Gutiérrez Coronado
             📧 mgutierrez@itson.edu.mx
             itson.mx/oferta/dcb/Pagina/gutierrez-c.aspx
             Supervisor de Maestría / Último empleador.
