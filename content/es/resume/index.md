@@ -50,7 +50,7 @@ items:
           - Revisión de literatura y apoyo en la redacción de reportes técnicos y científicos.
           
             ---
-            ## <i class="fa fa-graduation-cap" aria-hidden="true"> </i>  Estudios
+            ## <i class="fa fa-graduation-cap" aria-hidden="true"> </i>Estudios
             
             <i class="fa fa-graduation-cap" aria-hidden="true"> </i>  **Doctor en Tecnología Agroalimentaria y Biotecnología**.
             <i class="fa fa-university" aria-hidden="true"> </i>  Universitat Politècnica de Catalunya.
@@ -152,6 +152,14 @@ items:
             
             ---
             
+            Aplicación de composta a base de champiñón enriquecida con silicio en trigos del Valle del Yaqui, Sonora. 
+            **XXXVII Congreso Nacional de la Ciencia del Suelo**. 
+            **Sociedad Mexicana de la Ciencia del Suelo, A.C.**. 
+            <i class="fa fa-map-marker" aria-hidden="true"> </i>  Zacatecas, México. 
+            <i class="fa fa-calendar" aria-hidden="true"> </i>  Noviembre de 2012.
+            
+            ---
+            
             ## Habilidades
             ### 🔍Campo:
             | Habilidad      | Nivel |
@@ -180,7 +188,7 @@ items:
             
             ---
             
-            ### <i class="fa fa-language" aria-hidden="true"> </i>  Idiomas:
+            ### <i class="fa fa-language" aria-hidden="true"> </i>Idiomas:
             | Habilidad      | Nivel |
             | :---        |    :----:   | 
             | Español (primer idioma)  | ⚫⚫⚫⚫⚫       |
@@ -212,15 +220,16 @@ items:
             
             ---
             
-            ## <i class="fa fa-link" aria-hidden="true"> </i>  Links
+            ## <i class="fa fa-link" aria-hidden="true"> </i>Links
             
             <i class="ai ai-google-scholar fa-lg" aria-hidden="true"> </i>  [Perfil de Google Scholar](https://scholar.google.es/citations?user=NoUALl0AAAAJ)
             <i class="ai ai-researchgate fa-lg" aria-hidden="true"> </i>  [Perfil de Research Gate](https://www.researchgate.net/profile/Helio_Garcia-Mendivil)
             <i class="ai ai-orcid" aria-hidden="true"> </i>  [Perfil de Orcid](https://orcid.org/0000-0002-5126-9259)
+            <i class="fa fa-linkedin" aria-hidden="true"> </i> [Perfil de linkedin](https://www.linkedin.com/in/heliogm/)
             
             ---
             
-            ## <i class="fa fa-address-card" aria-hidden="true"> </i> Referencias
+            ## <i class="fa fa-address-card" aria-hidden="true"> </i>Referencias
             
             <i class="fa fa-address-book-o" aria-hidden="true"> </i> Dr. Fransisco Javier Sorribas
             📧 francesc.xavier.sorribas@upc.edu
