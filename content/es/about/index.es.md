@@ -3,6 +3,8 @@ title: "Acerca de"
 date: "2020-12-04"
 type: "about"
 description: Acerca de
+service: formspree # formspree, getform
+formId: "meqppywa"
 hideToc: false
 enableToc: true
 enableTocContent: false
@@ -21,6 +23,35 @@ Este sitio web fue creado en el entorno de desarrollo de [RStudio](https://es.wi
 *  Ingeniero en Biotecnología (2011).
 *  Técnico en Computación (2006).
 
+---
 
-
+## Contacto
+            
+Escribeme un mensaje.
+            
+<form
+action="https://formspree.io/f/meqppywa"
+method="POST"
+>
+<label>
+Nombre:
+<br>
+<input type="text" name="_replytoname">
+</label>
+<br>
+<label>
+Correo electrónico:
+<br>
+<input type="text" name="_replyto">
+</label>
+<br>
+<label>
+Tu mensaje:
+<br>
+<textarea name="message"></textarea>
+</label>
+<br>
+<!-- your other form fields go here -->
+<button type="submit">Enviar</button>
+</form>
 

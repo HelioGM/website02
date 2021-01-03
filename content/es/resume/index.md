@@ -4,6 +4,8 @@ title: "Resume"
 date: 2020-02-09T20:13:59+09:00
 description: My resume
 type: resume
+service: formspree # formspree, getform
+formId: "meqppywa"
 enableToc: false
 header:
   image: 
@@ -265,5 +267,37 @@ items:
             Supervisor de Maestría / Último empleador.
             
             ---
+            
+            ## Contacto
+            
+            Escribeme un mensaje.
+            
+            <form
+            action="https://formspree.io/f/meqppywa"
+            method="POST"
+            >
+            <label>
+            Nombre:
+            <br>
+            <input type="text" name="_replytoname">
+            </label>
+            <br>
+            <label>
+            Correo electrónico:
+            <br>
+            <input type="text" name="_replyto">
+            </label>
+            <br>
+            <label>
+            Tu mensaje:
+            <br>
+            <textarea name="message"></textarea>
+            </label>
+            <br>
+            <!-- your other form fields go here -->
+            <button type="submit">Enviar</button>
+            </form>
+
+            
 ---
 

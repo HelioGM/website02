@@ -15,6 +15,8 @@
     <webMaster>helio4gm@gmail.com (García-Mendívil, Helio A.)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Wed, 30 Dec 2020 18:21:17 -0800</lastBuildDate>
+    <sy:updatePeriod>daily</sy:updatePeriod>
+    <sy:updateFrequency>daily</sy:updateFrequency>
     
         <atom:link href="/es/categories/index.xml" rel="self" type="application/rss+xml" />
     
@@ -30,7 +32,7 @@
         
         <guid>/es/categories/programaci%C3%B3n/</guid>
         <description></description>
-        
+        <content:encoded></content:encoded>
         <dc:creator>García-Mendívil, Helio A.</dc:creator>
         
         
@@ -48,7 +50,7 @@
         
         <guid>/es/categories/carpinter%C3%ADa/</guid>
         <description></description>
-        
+        <content:encoded></content:encoded>
         <dc:creator>García-Mendívil, Helio A.</dc:creator>
         
         
@@ -66,7 +68,7 @@
         
         <guid>/es/categories/m%C3%BAsica/</guid>
         <description></description>
-        
+        <content:encoded></content:encoded>
         <dc:creator>García-Mendívil, Helio A.</dc:creator>
         
         

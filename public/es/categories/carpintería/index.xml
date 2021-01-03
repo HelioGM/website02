@@ -15,6 +15,8 @@
     <webMaster>helio4gm@gmail.com (García-Mendívil, Helio A.)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Mon, 21 Dec 2020 17:08:35 -0800</lastBuildDate>
+    <sy:updatePeriod>daily</sy:updatePeriod>
+    <sy:updateFrequency>daily</sy:updateFrequency>
     
         <atom:link href="/es/categories/carpinter%C3%ADa/index.xml" rel="self" type="application/rss+xml" />
     
@@ -32,7 +34,458 @@
         <description>Versión 1 Imagenes Video Modelo  Imagenes Video Modelo Versión para celular   Celular  Haz clic sobre la imagen para cargar el modelo.
     Versión para PC   PC  Haz clic sobre la imagen para cargar el modelo.
    &#39;use strict&#39;; var containerId = JSON.</description>
-        
+        <content:encoded>&lt;h2 id=&#34;versión-1&#34;&gt;Versión 1&lt;/h2&gt;
+
+&lt;div id=&#34;712fc63eda0f8d2d&#34; class=&#34;tab&#34;&gt;
+  &lt;div class=&#34;tab__links&#34;&gt;
+    
+      &lt;button class=&#34;tab__link&#34; aria-label=&#34;Tab link&#34;&gt;Imagenes&lt;/button&gt;
+    
+      &lt;button class=&#34;tab__link&#34; aria-label=&#34;Tab link&#34;&gt;Video&lt;/button&gt;
+    
+      &lt;button class=&#34;tab__link&#34; aria-label=&#34;Tab link&#34;&gt;Modelo&lt;/button&gt;
+    
+  &lt;/div&gt;
+  
+
+
+&lt;div id=&#34;d20e751555f053c3&#34; class=&#34;tab__content&#34;&gt;
+  &lt;h3 id=&#34;imagenes&#34;&gt;Imagenes&lt;/h3&gt;
+&lt;script src=&#34;https://cdn.jsdelivr.net/npm/publicalbum@latest/embed-ui.min.js&#34; async&gt;&lt;/script&gt;
+&lt;div class=&#34;pa-gallery-player-widget&#34; style=&#34;width:100%; height:480px; display:none;&#34;
+  data-link=&#34;https://photos.app.goo.gl/J2VG8t8sWvc8feh3A&#34;
+  data-title=&#34;Cocina-Dic.,2020-Versión_1&#34;
+  data-description=&#34;13 new photos added to shared album&#34;&gt;
+  &lt;object data=&#34;https://lh3.googleusercontent.com/9w2N0OKNvVX6UteulXmJg2aQpx95hdOhsZmdD2Xy7tniuW1LSTB5kTrkesZILKNWdX_QFeL3ZAPISG63mobNTDdmF53zJZkL7EWdA1yYatPUpL0w7gGu1AaXjjgt27l3ZcVE6hGIlw=w1920-h1080&#34;&gt;&lt;/object&gt;
+  &lt;object data=&#34;https://lh3.googleusercontent.com/10iqiWFftHyqmP9NvuZHiUPbsOhGWzANxHbYUMcN2vxZOMYbN4Ka_s3NajBy4cC2MsxhyYi4I9hKJH87Jx2ncU2tuZ0vtEbp9Lu3VNXPLMl2XFvXEWRYd1-LsVO509VRWhCM5XoQKw=w1920-h1080&#34;&gt;&lt;/object&gt;
+  &lt;object data=&#34;https://lh3.googleusercontent.com/Fyp4_Z9G2edT3R53wtT8vDsyTLE0RNmVJ33d8s9iENoYdogLxSzpDp2Iq7m7dIlR5VK0T1tT9TKtOXImu6AN7xV38REhFJaj_wj4RqO9YMLGQL8skR_msvGfvMLiO3Kbh5VM1LnXoA=w1920-h1080&#34;&gt;&lt;/object&gt;
+  &lt;object data=&#34;https://lh3.googleusercontent.com/k9xxhe270mV0ZojehEatlUQlGdzCp6QSn0sM7OYA3DDyqyGUIPxOPCCEk8DtNlJfhKhW8me1PqhJNojjYyuJYXOxPquNREo-mox2qfLMK5E1bcTjU39XHdyOWUj9fTcS6bWGZ8Bq2g=w1920-h1080&#34;&gt;&lt;/object&gt;
+  &lt;object data=&#34;https://lh3.googleusercontent.com/e9K9TeAOOKhRqU76mF_TwMOmrzPROzH1G-LAWLEHsvXZhWW5fcvLrUvRPe1B8ZcjyIkKp6blZqUq-IoZy5afpI4PRqQc8IcFhZcGhHo4wIFJaSyjtbOmG_GjElIig2uc8JWUQG_Q5g=w1920-h1080&#34;&gt;&lt;/object&gt;
+  &lt;object data=&#34;https://lh3.googleusercontent.com/WyIvbOBXfR29nr9ViYzJyOGJWjrYVvBG3BoIy--U4qtnYl3qj92GU0sYK-G4Psw8lUCKPQEprESf5VqKI23wdLItCFpSuw1HYNry6hKOVmpiKJgeHadhvk7-MfXonqAMYG52Ag7KRQ=w1920-h1080&#34;&gt;&lt;/object&gt;
+  &lt;object data=&#34;https://lh3.googleusercontent.com/vkrJZTi5ouMH5JbTQjSDUanh_dlx0EYpPn6BA5csHIfOAN7Cl8keDr-RqXZisxjckjlu-s0dII8iUZPXCUuzcoj9nR4Wqna84aGkYosCUyHzWm49nznqWSgAh8l5beT29I9W78avVQ=w1920-h1080&#34;&gt;&lt;/object&gt;
+  &lt;object data=&#34;https://lh3.googleusercontent.com/eTJ_unOc3ZNXArDTTbC3rUgKKRxS8oIPQTs7SrohgxQryknlkBNWrrYN9stREUrzk0uCYTX3UtChLY3FaX2OQzOQr6nM0UKL4FsZVSiRwgdhFmlwhlJmVXfo32Y6LVO6heVM_C4hWg=w1920-h1080&#34;&gt;&lt;/object&gt;
+  &lt;object data=&#34;https://lh3.googleusercontent.com/6-bnd7VXE3s4t_3V1ADUEXK9GZWu7ibDOv_7ZdW-kD7zOOl8Qc0BuLgkOxTRunIAzX3hOLUqs4NNJWRgL5C5Q_H8_3443DRWp6RMtdTfO71jZxY-8wvHaxr-TQytiQjLNi5R97tk1g=w1920-h1080&#34;&gt;&lt;/object&gt;
+  &lt;object data=&#34;https://lh3.googleusercontent.com/u80K40Qhegb9yoGHjANwz0IC8SlHOxkF3vYddFKV4o3klV_j5REHuxVV3ty7bxoMIkAZW4pUI8rnRkd8XvXBI2xd9kchE8PrDdeiurvrbrCdezNH6OobUjMzLra1iyF4SJXuvaXL2w=w1920-h1080&#34;&gt;&lt;/object&gt;
+  &lt;object data=&#34;https://lh3.googleusercontent.com/MH0X0fstf0r6hyoQ5q7W_yaLi50NQHK08I0bq2b2Ew_G66RnwlQ5DYtJPor5CySQN4ujS5K4sLnso1NeAo-hXgAwoDvnpJTs50VWr59dBU2sI0lTFH4Qb8-lapo8JZH2bBeMs4TYfQ=w1920-h1080&#34;&gt;&lt;/object&gt;
+  &lt;object data=&#34;https://lh3.googleusercontent.com/sX9oJ2stUM3b3IymDxlJ3kGHCP5EhJDU97lRy81L9PU0VjrDxHTItfCi9QwQITgL3AVqR5lAg5jg0ohG6KK3zQiWgE-Q89z7pQqxie5VuM_Q6oR-5wXygzjZAkeDBrgoQEKTct-lVw=w1920-h1080&#34;&gt;&lt;/object&gt;
+  &lt;object data=&#34;https://lh3.googleusercontent.com/YIOp2VaFDpXaAZuv9GCohSmNynh8d-AJ1ZLfy2zSQeGwce45-vsVWkYv_vYzKjUuiZPipqHcKCxfyyd-cT8vX64-VgsKhgg4-hdxqDFIAKOb4ODit5Fg7_WYh1YlpIxiC4WkZhtT6A=w1920-h1080&#34;&gt;&lt;/object&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+  
+&lt;div id=&#34;e9122e66e52c3a6b&#34; class=&#34;tab__content&#34;&gt;
+  &lt;h3 id=&#34;video&#34;&gt;Video&lt;/h3&gt;
+&lt;iframe width=&#34;100%&#34; height=&#34;480&#34; src=&#34;https://www.youtube.com/embed/t6F9njA3zwA&#34; frameborder=&#34;0&#34;  allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;/div&gt;
+  
+&lt;div id=&#34;fd9bf5265abe1696&#34; class=&#34;tab__content&#34;&gt;
+  &lt;h3 id=&#34;modelo&#34;&gt;Modelo&lt;/h3&gt;
+&lt;h4 id=&#34;versión-para-celular&#34;&gt;Versión para celular&lt;/h4&gt;
+&lt;div class=&#34;expand&#34;&gt;
+  &lt;button type=&#34;button&#34; class=&#34;expand__button&#34; aria-label=&#34;Expand Button&#34;&gt;
+    &lt;span class=&#34;expand-icon expand-icon__right&#34;&gt;
+        &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; width=&#34;24&#34; height=&#34;24&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;currentColor&#34; d=&#34;M9.29 15.88L13.17 12 9.29 8.12c-.39-.39-.39-1.02 0-1.41.39-.39 1.02-.39 1.41 0l4.59 4.59c.39.39.39 1.02 0 1.41L10.7 17.3c-.39.39-1.02.39-1.41 0-.38-.39-.39-1.03 0-1.42z&#34;/&gt;&lt;/svg&gt;
+    &lt;/span&gt;
+    Celular
+  &lt;/button&gt;
+  &lt;div class=&#34;expand__content&#34;&gt;
+    &lt;p&gt;Haz clic sobre la imagen para cargar el modelo.&lt;/p&gt;
+&lt;div class=&#39;modelo-wrapper&#39;&gt; &lt;div style=&#34;width: 100%; height:480px;  padding-bottom: 56.25%; position: relative&#34;&gt; &lt;div style=&#34;position: absolute; top: 0; bottom: 0; left: 0; right: 0;&#34;&gt; &lt;iframe src=&#34;https://app.modelo.io/embedded/Mq98UV_ovb?viewport=true&amp;autoplay=false&amp;autoRotate=false&amp;hideTools=false&#34; style=&#34;width:100%;height:100%;&#34; frameborder=&#34;0&#34; mozallowfullscreen webkitallowfullscreen allowfullscreen &gt;&lt;/iframe&gt; &lt;/div&gt; &lt;/div&gt; &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;h4 id=&#34;versión-para-pc&#34;&gt;Versión para PC&lt;/h4&gt;
+&lt;div class=&#34;expand&#34;&gt;
+  &lt;button type=&#34;button&#34; class=&#34;expand__button&#34; aria-label=&#34;Expand Button&#34;&gt;
+    &lt;span class=&#34;expand-icon expand-icon__right&#34;&gt;
+        &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; width=&#34;24&#34; height=&#34;24&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;currentColor&#34; d=&#34;M9.29 15.88L13.17 12 9.29 8.12c-.39-.39-.39-1.02 0-1.41.39-.39 1.02-.39 1.41 0l4.59 4.59c.39.39.39 1.02 0 1.41L10.7 17.3c-.39.39-1.02.39-1.41 0-.38-.39-.39-1.03 0-1.42z&#34;/&gt;&lt;/svg&gt;
+    &lt;/span&gt;
+    PC
+  &lt;/button&gt;
+  &lt;div class=&#34;expand__content&#34;&gt;
+    &lt;p&gt;Haz clic sobre la imagen para cargar el modelo.&lt;/p&gt;
+&lt;iframe src=&#34;https://3dwarehouse.sketchup.com/embed/43d26831-e199-4bd9-962a-25a5a7717617&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34; marginheight=&#34;0&#34; marginwidth=&#34;0&#34; width=&#34;100%&#34; height=&#34;480&#34; allowfullscreen&gt;&lt;/iframe&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;script&gt;
+  &#39;use strict&#39;;
+
+  var containerId = JSON.parse(&#34;\&#34;712fc63eda0f8d2d\&#34;&#34;);
+  var containerElem = document.getElementById(containerId);
+  var tabLinks = null;
+  var tabContents = null;
+  var ids = [];
+
+  if (containerElem) {
+    tabLinks = containerElem.querySelectorAll(&#39;.tab__link&#39;);
+    tabContents = containerElem.querySelectorAll(&#39;.tab__content&#39;);
+  }
+
+  for (var i = 0; i &lt; tabContents.length; i++) {
+    ids = ids.concat(tabContents[i].getAttribute(&#39;id&#39;));
+    tabContents[i].style.display = &#39;none&#39;;
+
+    if (0 === parseInt(i, 10) &amp;&amp; !tabContents[i].classList.contains(&#39;active&#39;)) {
+      tabContents[i].classList.add(&#39;active&#39;);
+    }
+  }
+
+  for (var i = 0; i &lt; tabLinks.length; i++) {
+    tabLinks[i].setAttribute(&#39;id&#39;, ids[i]);
+
+    if (0 === parseInt(i, 10) &amp;&amp; !tabLinks[i].classList.contains(&#39;active&#39;)) {
+      tabLinks[i].classList.add(&#39;active&#39;);
+    } else {
+      tabLinks[i].classList.remove(&#39;active&#39;);
+    }
+  }
+
+  if (tabContents.length &gt; 0) {
+    tabContents[0].style.display = &#39;block&#39;;
+  }
+&lt;/script&gt;
+&lt;hr /&gt;
+&lt;h2 id=&#34;versión-2&#34;&gt;Versión 2&lt;/h2&gt;
+
+&lt;div id=&#34;46387675343c3c99&#34; class=&#34;tab&#34;&gt;
+  &lt;div class=&#34;tab__links&#34;&gt;
+    
+      &lt;button class=&#34;tab__link&#34; aria-label=&#34;Tab link&#34;&gt;Imagenes&lt;/button&gt;
+    
+      &lt;button class=&#34;tab__link&#34; aria-label=&#34;Tab link&#34;&gt;Video&lt;/button&gt;
+    
+      &lt;button class=&#34;tab__link&#34; aria-label=&#34;Tab link&#34;&gt;Modelo&lt;/button&gt;
+    
+  &lt;/div&gt;
+  
+
+&lt;div id=&#34;8e7d3efd0fb778f3&#34; class=&#34;tab__content&#34;&gt;
+  &lt;h3 id=&#34;imagenes&#34;&gt;Imagenes&lt;/h3&gt;
+&lt;script src=&#34;https://cdn.jsdelivr.net/npm/publicalbum@latest/embed-ui.min.js&#34; async&gt;&lt;/script&gt;
+&lt;div class=&#34;pa-gallery-player-widget&#34; style=&#34;width:100%; height:480px; display:none;&#34;
+  data-link=&#34;https://photos.app.goo.gl/HeFUZPcDPrj4kyau5&#34;
+  data-title=&#34;Cocina-Dic.,2020-Versión_2&#34;
+  data-description=&#34;10 new photos added to shared album&#34;&gt;
+  &lt;object data=&#34;https://lh3.googleusercontent.com/pqhlhPqBO8AFnTe4WBmUVDRxAw4GljHFYS6XK0TOL5YxpDFcZbPGhYh9l0CzWVmUw1AeClHlvNyxuCWvL3xujCFqB1hyBertUMiP46r5SRPvtHkyMjslwGQR9Y0H56jyboK8wbwiqQ=w1920-h1080&#34;&gt;&lt;/object&gt;
+  &lt;object data=&#34;https://lh3.googleusercontent.com/9JrIavNkncsAT-RM5z151LNR02Gx05SgTGYzMO6OfHL4USHiuKBCNgHFv3OJdHY9mm2C1AJ_TRR8fVNvjvcNBb646JNi5HRA8Ud-z49hJz-MeRt3jBwbf68WsWP08TrxXCdbcFa-8w=w1920-h1080&#34;&gt;&lt;/object&gt;
+  &lt;object data=&#34;https://lh3.googleusercontent.com/FVdPUuog1kRG1luxbZCecLo2DCZ81Vp405QT0HomUHTBC5Hg4s-tMkA9g0_7oLYH1lyaAlY0E4QF8swb5PyodoA7r3U63YyorToItWQp1vbRuod-7bj8uLlgzummlgTKwfmI1l2vnA=w1920-h1080&#34;&gt;&lt;/object&gt;
+  &lt;object data=&#34;https://lh3.googleusercontent.com/QXkneePxcQwPndsegwxw24Db9VEo6By4VhQH-E-d6hL5x-4t07Eq9NP7QbLwKNFSU3TuMCvJe7bIBZVCM2HRPyD8dBtn0vS0ylLCcGQxk90-tS08eKz3wYRKkJ0p5ntVMIp0vHB2GA=w1920-h1080&#34;&gt;&lt;/object&gt;
+  &lt;object data=&#34;https://lh3.googleusercontent.com/UQOkyctNvRvJ4AcBvVXVTW4JpaPyCZXcDMbW0gmnYN3OOraxMMvARpJ84l5BnfvEmX1T-SviwjI0XjrwEDZuHBZ4FJi7SclYOeeu-G7Ydf8lDc6HPFu6gikaNftuR3epYX7M783g3A=w1920-h1080&#34;&gt;&lt;/object&gt;
+  &lt;object data=&#34;https://lh3.googleusercontent.com/UgG9T7P_SAKNHEwxNlywwtGw_fTYSOsAxxUTCGiJ3xJ7T9ek2xoGcClpB5WexmJGPrr-4gTcjfsWrMx3HY3mWyJfRJZtCksLK2EwgrcnK6R0lWkAZixnZ-QmezRrkQIlMlJeM6XBTg=w1920-h1080&#34;&gt;&lt;/object&gt;
+  &lt;object data=&#34;https://lh3.googleusercontent.com/X9GpckaK_pbqaRKdoHmDRJ9hnIG6rUG810QIkFhBqC6VndGJ3IVTYSI0tR655lM_gK8GqRmZvT281_WYWPYIkbcikFFLRlk9ROOkm9R_-lKJAyTxRxaVbrTs_b-MMr8q_zDgjyHyzQ=w1920-h1080&#34;&gt;&lt;/object&gt;
+  &lt;object data=&#34;https://lh3.googleusercontent.com/-n0OWQiFGrmBMIWRljxDnvzOtHPEsagiS-AI73b_AenatnOxDotJDidm3NOrj6yGW0Dz5eGaLurkQDt6Gz42LAzqTaiBN9fton3YVNUnn6U9Vpfg7yvG9UuKBcvF7h-LDLVseUIdzw=w1920-h1080&#34;&gt;&lt;/object&gt;
+  &lt;object data=&#34;https://lh3.googleusercontent.com/IjcmiYSlZdJgDXPzBbMtJ5xwNdPd8fMRN8Six7Y2cEIKruFFjGd9eBIBBEDQdjlaV_500ithfbDtE-nmt-9a45MyHNYCF5Bo-ktoGn0gNvN88zIJ-1yOlhkOia6MGnaKY7BUN0FLJA=w1920-h1080&#34;&gt;&lt;/object&gt;
+  &lt;object data=&#34;https://lh3.googleusercontent.com/X24AZP4S8h7NDgShAxiBhVEQpnGzvJOGBxnKTwwciF4a4P2ABiXKOzC9w31ygshWGRvQh1banmSAOn6IRKrHMo1SUkvjUnKxNu0czlLDXQqTJO99iSo6i52RGp4LtarEQ0G7xdz-mQ=w1920-h1080&#34;&gt;&lt;/object&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;div id=&#34;069c05124979abc9&#34; class=&#34;tab__content&#34;&gt;
+  &lt;h3 id=&#34;video&#34;&gt;Video&lt;/h3&gt;
+&lt;iframe width=&#34;100%&#34; height=&#34;480&#34; src=&#34;https://www.youtube.com/embed/Qslea7ID0wQ&#34; frameborder=&#34;0&#34;  allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;/div&gt;
+
+&lt;div id=&#34;ca8d1de5a7796b06&#34; class=&#34;tab__content&#34;&gt;
+  &lt;h3 id=&#34;modelo&#34;&gt;Modelo&lt;/h3&gt;
+&lt;h4 id=&#34;versión-para-celular&#34;&gt;Versión para celular&lt;/h4&gt;
+&lt;div class=&#34;expand&#34;&gt;
+  &lt;button type=&#34;button&#34; class=&#34;expand__button&#34; aria-label=&#34;Expand Button&#34;&gt;
+    &lt;span class=&#34;expand-icon expand-icon__right&#34;&gt;
+        &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; width=&#34;24&#34; height=&#34;24&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;currentColor&#34; d=&#34;M9.29 15.88L13.17 12 9.29 8.12c-.39-.39-.39-1.02 0-1.41.39-.39 1.02-.39 1.41 0l4.59 4.59c.39.39.39 1.02 0 1.41L10.7 17.3c-.39.39-1.02.39-1.41 0-.38-.39-.39-1.03 0-1.42z&#34;/&gt;&lt;/svg&gt;
+    &lt;/span&gt;
+    Celular
+  &lt;/button&gt;
+  &lt;div class=&#34;expand__content&#34;&gt;
+    &lt;p&gt;Haz clic sobre la imagen para cargar el modelo.&lt;/p&gt;
+&lt;div class=&#39;modelo-wrapper&#39;&gt; &lt;div style=&#34;width: 100%; height:480px; padding-bottom: 56.25%; position: relative&#34;&gt; &lt;div style=&#34;position: absolute; top: 0; bottom: 0; left: 0; right: 0;&#34;&gt; &lt;iframe src=&#34;https://app.modelo.io/embedded/3c0qq8Yp4K?viewport=true&amp;autoplay=false&amp;autoRotate=false&amp;hideTools=false&#34; style=&#34;width:100%;height:100%;&#34; frameborder=&#34;0&#34; mozallowfullscreen webkitallowfullscreen allowfullscreen &gt;&lt;/iframe&gt; &lt;/div&gt; &lt;/div&gt; &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;h4 id=&#34;versión-para-pc&#34;&gt;Versión para PC&lt;/h4&gt;
+&lt;div class=&#34;expand&#34;&gt;
+  &lt;button type=&#34;button&#34; class=&#34;expand__button&#34; aria-label=&#34;Expand Button&#34;&gt;
+    &lt;span class=&#34;expand-icon expand-icon__right&#34;&gt;
+        &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; width=&#34;24&#34; height=&#34;24&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;currentColor&#34; d=&#34;M9.29 15.88L13.17 12 9.29 8.12c-.39-.39-.39-1.02 0-1.41.39-.39 1.02-.39 1.41 0l4.59 4.59c.39.39.39 1.02 0 1.41L10.7 17.3c-.39.39-1.02.39-1.41 0-.38-.39-.39-1.03 0-1.42z&#34;/&gt;&lt;/svg&gt;
+    &lt;/span&gt;
+    PC
+  &lt;/button&gt;
+  &lt;div class=&#34;expand__content&#34;&gt;
+    &lt;p&gt;Haz clic sobre la imagen para cargar el modelo.&lt;/p&gt;
+&lt;iframe src=&#34;https://3dwarehouse.sketchup.com/embed/9f53755e-37ee-4ef1-9314-ef38003389c2&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34; marginheight=&#34;0&#34; marginwidth=&#34;0&#34; width=&#34;100%&#34; height=&#34;480&#34; allowfullscreen&gt;&lt;/iframe&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;script&gt;
+  &#39;use strict&#39;;
+
+  var containerId = JSON.parse(&#34;\&#34;46387675343c3c99\&#34;&#34;);
+  var containerElem = document.getElementById(containerId);
+  var tabLinks = null;
+  var tabContents = null;
+  var ids = [];
+
+  if (containerElem) {
+    tabLinks = containerElem.querySelectorAll(&#39;.tab__link&#39;);
+    tabContents = containerElem.querySelectorAll(&#39;.tab__content&#39;);
+  }
+
+  for (var i = 0; i &lt; tabContents.length; i++) {
+    ids = ids.concat(tabContents[i].getAttribute(&#39;id&#39;));
+    tabContents[i].style.display = &#39;none&#39;;
+
+    if (0 === parseInt(i, 10) &amp;&amp; !tabContents[i].classList.contains(&#39;active&#39;)) {
+      tabContents[i].classList.add(&#39;active&#39;);
+    }
+  }
+
+  for (var i = 0; i &lt; tabLinks.length; i++) {
+    tabLinks[i].setAttribute(&#39;id&#39;, ids[i]);
+
+    if (0 === parseInt(i, 10) &amp;&amp; !tabLinks[i].classList.contains(&#39;active&#39;)) {
+      tabLinks[i].classList.add(&#39;active&#39;);
+    } else {
+      tabLinks[i].classList.remove(&#39;active&#39;);
+    }
+  }
+
+  if (tabContents.length &gt; 0) {
+    tabContents[0].style.display = &#39;block&#39;;
+  }
+&lt;/script&gt;
+&lt;hr /&gt;
+&lt;h2 id=&#34;versión-3&#34;&gt;Versión 3&lt;/h2&gt;
+
+&lt;div id=&#34;afb7885addfe891e&#34; class=&#34;tab&#34;&gt;
+  &lt;div class=&#34;tab__links&#34;&gt;
+    
+      &lt;button class=&#34;tab__link&#34; aria-label=&#34;Tab link&#34;&gt;Imagenes&lt;/button&gt;
+    
+      &lt;button class=&#34;tab__link&#34; aria-label=&#34;Tab link&#34;&gt;Video&lt;/button&gt;
+    
+      &lt;button class=&#34;tab__link&#34; aria-label=&#34;Tab link&#34;&gt;Modelo&lt;/button&gt;
+    
+  &lt;/div&gt;
+  
+
+&lt;div id=&#34;1620134f5e41aac4&#34; class=&#34;tab__content&#34;&gt;
+  &lt;h3 id=&#34;imagenes&#34;&gt;Imagenes&lt;/h3&gt;
+&lt;script src=&#34;https://cdn.jsdelivr.net/npm/publicalbum@latest/embed-ui.min.js&#34; async&gt;&lt;/script&gt;
+&lt;div class=&#34;pa-gallery-player-widget&#34; style=&#34;width:100%; height:480px; display:none;&#34;
+  data-link=&#34;https://photos.app.goo.gl/YkqDGSsEeLQh7rNv8&#34;
+  data-title=&#34;Cocina-Dic.,2020-Versión_3&#34;
+  data-description=&#34;11 new photos added to shared album&#34;&gt;
+  &lt;object data=&#34;https://lh3.googleusercontent.com/o6fo8DiX7HBHQrb6sox3_dzE7C3xIDkk9EcaS1_w_Mk8nCTKK4Wc8Peqft9IG0Kz1TA_WFXLAgdfHO5YhuOiMNQcnQNkuR-hn__JtaQkGj4WQn7Sw0UP3UUNVl0TNAtI3QoIsCEHBQ=w1920-h1080&#34;&gt;&lt;/object&gt;
+  &lt;object data=&#34;https://lh3.googleusercontent.com/-oNqW43tEopUukS_yQmaeQJJhZo8e8ULPrUWQfsHnIgOvWkyHFCAdf_PYHNpIBbnzYi3_pnjas1YWUYK4UWL8A8mU7TOS5onSGfIsVHGOHtn22AAqWyfPbXK53V_4rQfEnxgGN6DrQ=w1920-h1080&#34;&gt;&lt;/object&gt;
+  &lt;object data=&#34;https://lh3.googleusercontent.com/Ow-XKkX0nQcSXwjyuDUH9bNWSN76ayYoOfxDh2D5KmuEhohkN9mc7Yg7s1zijhjRZL71Noy-L2wDfwSZd9N83twSva2DQMO7nibuWSr6cYK21ZlhSblw2bp9Pus6f_PPLSqX4kCK7A=w1920-h1080&#34;&gt;&lt;/object&gt;
+  &lt;object data=&#34;https://lh3.googleusercontent.com/ypp5TcsmiPBFVFkb3NrC9zUMj7_AQeuTh6RlVqVfo-s9cURyA2V--iM0Ja9HXwr_po1T0m1beN3kM0j-qHj48p1uaOnaw0FE2XlS-X_VZz7887WHJ7XYUIzBbwvBHuvvwZmg9ogRyg=w1920-h1080&#34;&gt;&lt;/object&gt;
+  &lt;object data=&#34;https://lh3.googleusercontent.com/vI3eEw8oJvVZgY8Cin1yB6FeszVcVHFlp6NKOkT84KfEd3O6p3ye3oP2GJ8nmrA0I9RpLZGUxn5F1tX36bPlHH0jLFofoADdVJwKO3drZ5Mn9a-Pyd9ue7DIoVYc-pIsuzS-wqqkTg=w1920-h1080&#34;&gt;&lt;/object&gt;
+  &lt;object data=&#34;https://lh3.googleusercontent.com/bxsc4dIlETqGFsXzjwkP-Pmmo6zX9nodSbJe_TbKKNX_Ovlmn0vucO-cJ-30KnBsh3HPkIrtnm5wi8S85SV2yrAxZXkXUtEb6mtc4FaIDzEyjIL_Svvfj5bbMjG4_sEhntvcchqL6Q=w1920-h1080&#34;&gt;&lt;/object&gt;
+  &lt;object data=&#34;https://lh3.googleusercontent.com/SfNQAgBUtJsu28dovSFQE_F1ffyFQRS9pK-BEULHk4wqPLeScAj2MokCkd9XZi8BJvT08w9No2Zv_56K3TMtM6i9T-GV_TSTr_lDYEjOIkjYkhR-vv65dvq30t-7epqDthLX6-k2fQ=w1920-h1080&#34;&gt;&lt;/object&gt;
+  &lt;object data=&#34;https://lh3.googleusercontent.com/aNKBOuSmTNQaBzSJvnxdpHrK9V8PbzuiUI96gAUoF3IxDixB1ywdKk-Qpn_QKIKWE_jmGR4Vu6ueDv5vtxPfJvL6Px4y6x0Xah7BcTcWgFfn9bKhrDpPn2YIJNPbxkhBLQjviFDaxQ=w1920-h1080&#34;&gt;&lt;/object&gt;
+  &lt;object data=&#34;https://lh3.googleusercontent.com/U2OGrcokmzDtAa89EQHBHmXW5LoqwVXwLJb8JDOUaZ22zaYN2QR0AunmqJrJiXGAEwjfu3dtreJKRw8cOaQudz1oXyK8IjygLuCOq4JfwNNLrcwHm2OpjpaI06hIGSePCUDgSV-C6Q=w1920-h1080&#34;&gt;&lt;/object&gt;
+  &lt;object data=&#34;https://lh3.googleusercontent.com/8s79LfV9V8A2_AYL3Pkj9dojVsnnKcRrPgVJrTgh3zuxw23TkRAp95cJXWk4JUTYioNNBrN8wgpsQQfa07nWHRy18Oo5cIbvA_bix991a5gigEm8Gon8-dsD9jKZkHOMYE3GgrM1-A=w1920-h1080&#34;&gt;&lt;/object&gt;
+  &lt;object data=&#34;https://lh3.googleusercontent.com/r4RZVhIY9dTmPwk5cf1YtuNsWlBEGMKTYVCM0qRilrStDtGBxquTDnKe7Zxn2RqBlqhAgsonVanRNwcsg6Q_USNg-pxLVIpoQaFaENryyw2c50rKlrjQbBK1DWtmyS_M9LTNwNnkfw=w1920-h1080&#34;&gt;&lt;/object&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;div id=&#34;5413cb8b91c534c6&#34; class=&#34;tab__content&#34;&gt;
+  &lt;h3 id=&#34;video&#34;&gt;Video&lt;/h3&gt;
+&lt;iframe width=&#34;100%&#34; height=&#34;480&#34; src=&#34;https://www.youtube.com/embed/YlAtOfJ-e2k&#34; frameborder=&#34;0&#34;  allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;/div&gt;
+
+&lt;div id=&#34;84d522ed441ebdd7&#34; class=&#34;tab__content&#34;&gt;
+  &lt;h3 id=&#34;modelo&#34;&gt;Modelo&lt;/h3&gt;
+&lt;h4 id=&#34;versión-para-celular&#34;&gt;Versión para celular&lt;/h4&gt;
+&lt;div class=&#34;expand&#34;&gt;
+  &lt;button type=&#34;button&#34; class=&#34;expand__button&#34; aria-label=&#34;Expand Button&#34;&gt;
+    &lt;span class=&#34;expand-icon expand-icon__right&#34;&gt;
+        &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; width=&#34;24&#34; height=&#34;24&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;currentColor&#34; d=&#34;M9.29 15.88L13.17 12 9.29 8.12c-.39-.39-.39-1.02 0-1.41.39-.39 1.02-.39 1.41 0l4.59 4.59c.39.39.39 1.02 0 1.41L10.7 17.3c-.39.39-1.02.39-1.41 0-.38-.39-.39-1.03 0-1.42z&#34;/&gt;&lt;/svg&gt;
+    &lt;/span&gt;
+    Celular
+  &lt;/button&gt;
+  &lt;div class=&#34;expand__content&#34;&gt;
+    &lt;p&gt;Haz clic sobre la imagen para cargar el modelo.&lt;/p&gt;
+&lt;div class=&#39;modelo-wrapper&#39;&gt; &lt;div style=&#34;width: 100%; height:480px;  padding-bottom: 56.25%; position: relative&#34;&gt; &lt;div style=&#34;position: absolute; top: 0; bottom: 0; left: 0; right: 0;&#34;&gt; &lt;iframe src=&#34;https://app.modelo.io/embedded/upzsKuRwgB?viewport=true&amp;autoplay=false&amp;autoRotate=false&amp;hideTools=false&#34; style=&#34;width:100%;height:100%;&#34; frameborder=&#34;0&#34; mozallowfullscreen webkitallowfullscreen allowfullscreen &gt;&lt;/iframe&gt; &lt;/div&gt; &lt;/div&gt; &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;h4 id=&#34;versión-para-pc&#34;&gt;Versión para PC&lt;/h4&gt;
+&lt;div class=&#34;expand&#34;&gt;
+  &lt;button type=&#34;button&#34; class=&#34;expand__button&#34; aria-label=&#34;Expand Button&#34;&gt;
+    &lt;span class=&#34;expand-icon expand-icon__right&#34;&gt;
+        &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; width=&#34;24&#34; height=&#34;24&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;currentColor&#34; d=&#34;M9.29 15.88L13.17 12 9.29 8.12c-.39-.39-.39-1.02 0-1.41.39-.39 1.02-.39 1.41 0l4.59 4.59c.39.39.39 1.02 0 1.41L10.7 17.3c-.39.39-1.02.39-1.41 0-.38-.39-.39-1.03 0-1.42z&#34;/&gt;&lt;/svg&gt;
+    &lt;/span&gt;
+    PC
+  &lt;/button&gt;
+  &lt;div class=&#34;expand__content&#34;&gt;
+    &lt;p&gt;Haz clic sobre la imagen para cargar el modelo.&lt;/p&gt;
+&lt;iframe src=&#34;https://3dwarehouse.sketchup.com/embed/3a4d84db-5c13-4196-9bfa-715da9c80aa4&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34; marginheight=&#34;0&#34; marginwidth=&#34;0&#34; width=&#34;100%&#34; height=&#34;480&#34; allowfullscreen&gt;&lt;/iframe&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;script&gt;
+  &#39;use strict&#39;;
+
+  var containerId = JSON.parse(&#34;\&#34;afb7885addfe891e\&#34;&#34;);
+  var containerElem = document.getElementById(containerId);
+  var tabLinks = null;
+  var tabContents = null;
+  var ids = [];
+
+  if (containerElem) {
+    tabLinks = containerElem.querySelectorAll(&#39;.tab__link&#39;);
+    tabContents = containerElem.querySelectorAll(&#39;.tab__content&#39;);
+  }
+
+  for (var i = 0; i &lt; tabContents.length; i++) {
+    ids = ids.concat(tabContents[i].getAttribute(&#39;id&#39;));
+    tabContents[i].style.display = &#39;none&#39;;
+
+    if (0 === parseInt(i, 10) &amp;&amp; !tabContents[i].classList.contains(&#39;active&#39;)) {
+      tabContents[i].classList.add(&#39;active&#39;);
+    }
+  }
+
+  for (var i = 0; i &lt; tabLinks.length; i++) {
+    tabLinks[i].setAttribute(&#39;id&#39;, ids[i]);
+
+    if (0 === parseInt(i, 10) &amp;&amp; !tabLinks[i].classList.contains(&#39;active&#39;)) {
+      tabLinks[i].classList.add(&#39;active&#39;);
+    } else {
+      tabLinks[i].classList.remove(&#39;active&#39;);
+    }
+  }
+
+  if (tabContents.length &gt; 0) {
+    tabContents[0].style.display = &#39;block&#39;;
+  }
+&lt;/script&gt;
+&lt;hr /&gt;
+&lt;h2 id=&#34;versión-4&#34;&gt;Versión 4&lt;/h2&gt;
+
+&lt;div id=&#34;0af11182c7b06588&#34; class=&#34;tab&#34;&gt;
+  &lt;div class=&#34;tab__links&#34;&gt;
+    
+      &lt;button class=&#34;tab__link&#34; aria-label=&#34;Tab link&#34;&gt;Imagenes&lt;/button&gt;
+    
+      &lt;button class=&#34;tab__link&#34; aria-label=&#34;Tab link&#34;&gt;Video&lt;/button&gt;
+    
+      &lt;button class=&#34;tab__link&#34; aria-label=&#34;Tab link&#34;&gt;Modelo&lt;/button&gt;
+    
+  &lt;/div&gt;
+  
+
+&lt;div id=&#34;1d41064a82532b11&#34; class=&#34;tab__content&#34;&gt;
+  &lt;h3 id=&#34;imagenes&#34;&gt;Imagenes&lt;/h3&gt;
+&lt;script src=&#34;https://cdn.jsdelivr.net/npm/publicalbum@latest/embed-ui.min.js&#34; async&gt;&lt;/script&gt;
+&lt;div class=&#34;pa-gallery-player-widget&#34; style=&#34;width:100%; height:480px; display:none;&#34;
+  data-link=&#34;https://photos.app.goo.gl/CAPSso31Ks4t9gX58&#34;
+  data-title=&#34;Cocina-Dic.,2020-Version-4&#34;
+  data-description=&#34;11 new photos added to shared album&#34;&gt;
+  &lt;object data=&#34;https://lh3.googleusercontent.com/w-51MK1Kg7He0vrfrXBQVYpZXQAxacWrFY448Q4-8F8UrKuSlDKta2x2ixk4j0pw3s3CqAK0J2b2GXG_LCZ1q8gVC8xZIZMvkv672WvfVU76N9ZswYQb1aCOXTsfkHFVs2EE0mavqA=w1920-h1080&#34;&gt;&lt;/object&gt;
+  &lt;object data=&#34;https://lh3.googleusercontent.com/4NMeTmknuFI6WdBPcpvhpkc_SyxAdZo9sKihcLdXow4mBQ5OdphpPEVjPNztLcZhLxTMN7YlDDQMB5FerHAeKeNQQXRFdYBAt7djN0npiBLKGLQCH1dY4zTn0F-MjJQsnPUu0b64fA=w1920-h1080&#34;&gt;&lt;/object&gt;
+  &lt;object data=&#34;https://lh3.googleusercontent.com/98HXc_YSxHGBUch51DZ5mKLh7xszbcWmwz9ozYchFHB28bRlGJ8rUGPDcZS0d1-2KY1RiWTnDDV3eC1M-1nFMDegMc2byoiEvAXxYD0R6e2nNAPmLNzl2cEG4BFagA0ST46lGo9x4w=w1920-h1080&#34;&gt;&lt;/object&gt;
+  &lt;object data=&#34;https://lh3.googleusercontent.com/4NLTusQWGP5sXbnXbDBztq6s6TlXk9dC9kFtdjxBivp8Ys6Xb_UNZPG8AepASaePwwSrtGV5l3RHtESi14pZXFkJFax7l3PPZ191e1xd10t34uB19r2WL899tFnovOHF8bJtbsSCPg=w1920-h1080&#34;&gt;&lt;/object&gt;
+  &lt;object data=&#34;https://lh3.googleusercontent.com/20MkSYdNODEuqzRlhDrmUifdjQqXPVGixjQZ4YS8okv6uoYN0tvofi5zt09O6CiHlGnexvkx4uOvxYkPFB_ifuOQeS5StR5Zv48AwqP1XsCq_QxJ6rcRAaN39Qx-SBA3IS2mxKghAQ=w1920-h1080&#34;&gt;&lt;/object&gt;
+  &lt;object data=&#34;https://lh3.googleusercontent.com/TcLOgAu6kM3O5JOujhfa31Wmg04CRatNR8bWYyn-KTtHiUi7pB7ejc4b_GOViOmyHB1PXwc-VlrPUKx-9MancgtyNmZmT_OCblu9c__UnwnNaw38vemtjCPHTm-lYRIZzZQEa8AXzQ=w1920-h1080&#34;&gt;&lt;/object&gt;
+  &lt;object data=&#34;https://lh3.googleusercontent.com/8ne3EEbOqUpDElJIlHDWjlX-NIB24Gk70GiKeydERUfUjp4l5b3rcdl3sObtKkvSNwjou7oR6Gy6FVnYiQJMXYWLasqEdqs5yjX-cUVYgnAL3CKr2MQ-oRIWURMraE2nuCydsKBKhw=w1920-h1080&#34;&gt;&lt;/object&gt;
+  &lt;object data=&#34;https://lh3.googleusercontent.com/1rmFqQqGCKINE4U3KYN6SRxDfZCX1jaT96Dd2UWqHX6MFJJ4DQ7OR0pMI6XOi2oUr7QiNp1yryVSYqxYVNX7jKwKUIQotgQz8RSu4tCK1NOovNynj79NOrzffoL8llXvdhHnak5kFA=w1920-h1080&#34;&gt;&lt;/object&gt;
+  &lt;object data=&#34;https://lh3.googleusercontent.com/AZWUzTwAl4R1rPraKWOBYbobVmId3ta1WwaFlZSJcy1eMqxPYl1HNAUNVXod-XJf5yzsm13pYjPCokALbuW0yebOVWenRBq8gx3-wQyc7Me1GLMqGZuuR35fHGg5KdN2s7etyO79Eg=w1920-h1080&#34;&gt;&lt;/object&gt;
+  &lt;object data=&#34;https://lh3.googleusercontent.com/wtbTNOEmWnbqRCvbdOmsO7g_lFk6vync-nnB7TQqyoDby3N0X7akrIe7eRpWfM09Djk09aru-2kZMMDKsT2tvEzJWvua836wcVQOKCf3uBJSFulbnYhPxCc4yzVOYq2Bx1Xl7TAhKg=w1920-h1080&#34;&gt;&lt;/object&gt;
+  &lt;object data=&#34;https://lh3.googleusercontent.com/J0Wfe_MxbYjj0g8cxUMvVmGofot0EnYwZf5DC2LGUMbzq_uangpsgaQG7NWUEw79DfeSG8bSgLpLDttTPClVfi-Z1-m19RCKuclbzO3I7bZdTBCP05r4bnkMfp-TUrBxALXNXsygsQ=w1920-h1080&#34;&gt;&lt;/object&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;div id=&#34;efdca4335fdfc021&#34; class=&#34;tab__content&#34;&gt;
+  &lt;h3 id=&#34;video&#34;&gt;Video&lt;/h3&gt;
+&lt;iframe width=&#34;100%&#34; height=&#34;480&#34; src=&#34;https://www.youtube.com/embed/Gn-vX79uJb4&#34; frameborder=&#34;0&#34;  allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;/div&gt;
+
+&lt;div id=&#34;f61f409df3a7b46a&#34; class=&#34;tab__content&#34;&gt;
+  &lt;h3 id=&#34;modelo&#34;&gt;Modelo&lt;/h3&gt;
+&lt;h4 id=&#34;versión-para-celular&#34;&gt;Versión para celular&lt;/h4&gt;
+&lt;div class=&#34;expand&#34;&gt;
+  &lt;button type=&#34;button&#34; class=&#34;expand__button&#34; aria-label=&#34;Expand Button&#34;&gt;
+    &lt;span class=&#34;expand-icon expand-icon__right&#34;&gt;
+        &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; width=&#34;24&#34; height=&#34;24&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;currentColor&#34; d=&#34;M9.29 15.88L13.17 12 9.29 8.12c-.39-.39-.39-1.02 0-1.41.39-.39 1.02-.39 1.41 0l4.59 4.59c.39.39.39 1.02 0 1.41L10.7 17.3c-.39.39-1.02.39-1.41 0-.38-.39-.39-1.03 0-1.42z&#34;/&gt;&lt;/svg&gt;
+    &lt;/span&gt;
+    Celular
+  &lt;/button&gt;
+  &lt;div class=&#34;expand__content&#34;&gt;
+    &lt;div class=&#39;modelo-wrapper&#39;&gt; &lt;div style=&#34;width: 100%; height:480px;  padding-bottom: 56.25%; position: relative&#34;&gt; &lt;div style=&#34;position: absolute; top: 0; bottom: 0; left: 0; right: 0;&#34;&gt; &lt;iframe src=&#34;https://app.modelo.io/embedded/8NiYUk5VeO?viewport=true&amp;autoplay=false&amp;autoRotate=false&amp;hideTools=false&#34; style=&#34;width:100%;height:100%;&#34; frameborder=&#34;0&#34; mozallowfullscreen webkitallowfullscreen allowfullscreen &gt;&lt;/iframe&gt; &lt;/div&gt; &lt;/div&gt; &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;h4 id=&#34;versión-para-pc&#34;&gt;Versión para PC&lt;/h4&gt;
+&lt;div class=&#34;expand&#34;&gt;
+  &lt;button type=&#34;button&#34; class=&#34;expand__button&#34; aria-label=&#34;Expand Button&#34;&gt;
+    &lt;span class=&#34;expand-icon expand-icon__right&#34;&gt;
+        &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; width=&#34;24&#34; height=&#34;24&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;currentColor&#34; d=&#34;M9.29 15.88L13.17 12 9.29 8.12c-.39-.39-.39-1.02 0-1.41.39-.39 1.02-.39 1.41 0l4.59 4.59c.39.39.39 1.02 0 1.41L10.7 17.3c-.39.39-1.02.39-1.41 0-.38-.39-.39-1.03 0-1.42z&#34;/&gt;&lt;/svg&gt;
+    &lt;/span&gt;
+    PC
+  &lt;/button&gt;
+  &lt;div class=&#34;expand__content&#34;&gt;
+    &lt;iframe src=&#34;https://3dwarehouse.sketchup.com/embed/70099b87-a401-4b65-9657-48851be4e86c&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34; marginheight=&#34;0&#34; marginwidth=&#34;0&#34; width=&#34;100%&#34; height=&#34;480&#34; allowfullscreen&gt;&lt;/iframe&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;script&gt;
+  &#39;use strict&#39;;
+
+  var containerId = JSON.parse(&#34;\&#34;0af11182c7b06588\&#34;&#34;);
+  var containerElem = document.getElementById(containerId);
+  var tabLinks = null;
+  var tabContents = null;
+  var ids = [];
+
+  if (containerElem) {
+    tabLinks = containerElem.querySelectorAll(&#39;.tab__link&#39;);
+    tabContents = containerElem.querySelectorAll(&#39;.tab__content&#39;);
+  }
+
+  for (var i = 0; i &lt; tabContents.length; i++) {
+    ids = ids.concat(tabContents[i].getAttribute(&#39;id&#39;));
+    tabContents[i].style.display = &#39;none&#39;;
+
+    if (0 === parseInt(i, 10) &amp;&amp; !tabContents[i].classList.contains(&#39;active&#39;)) {
+      tabContents[i].classList.add(&#39;active&#39;);
+    }
+  }
+
+  for (var i = 0; i &lt; tabLinks.length; i++) {
+    tabLinks[i].setAttribute(&#39;id&#39;, ids[i]);
+
+    if (0 === parseInt(i, 10) &amp;&amp; !tabLinks[i].classList.contains(&#39;active&#39;)) {
+      tabLinks[i].classList.add(&#39;active&#39;);
+    } else {
+      tabLinks[i].classList.remove(&#39;active&#39;);
+    }
+  }
+
+  if (tabContents.length &gt; 0) {
+    tabContents[0].style.display = &#39;block&#39;;
+  }
+&lt;/script&gt;
+</content:encoded>
         <dc:creator>García-Mendívil, Helio A.</dc:creator>
         <media:content url="/https://lh3.googleusercontent.com/sX9oJ2stUM3b3IymDxlJ3kGHCP5EhJDU97lRy81L9PU0VjrDxHTItfCi9QwQITgL3AVqR5lAg5jg0ohG6KK3zQiWgE-Q89z7pQqxie5VuM_Q6oR-5wXygzjZAkeDBrgoQEKTct-lVw=w1920-h1080" medium="image"><media:title type="html">featured image</media:title></media:content>
         
@@ -68,7 +521,161 @@
         <description>Mayo, 2017 Agosto, 2017 Agosto, 2017(2)  Cocina entregada durante Mayo de 2017   Mostrar la imagen  Cocina y persiana fabricadas en madera de cedro, color nogal clasico, acabado en poliuretano semi mate, jaladeras de acero inoxidable.
    Mostrar la imagen  Cocina y persiana fabricadas en madera de cedro, color nogal clasico, acabado en poliuretano semi mate, jaladeras de acero inoxidable.
    Mostrar la imagen  Cocina y persiana fabricadas en madera de cedro, color nogal clasico, acabado en poliuretano semi mate, jaladeras de acero inoxidable.</description>
-        
+        <content:encoded>
+&lt;div id=&#34;3ef0dfe492815d5b&#34; class=&#34;tab&#34;&gt;
+  &lt;div class=&#34;tab__links&#34;&gt;
+    
+      &lt;button class=&#34;tab__link&#34; aria-label=&#34;Tab link&#34;&gt;Mayo, 2017&lt;/button&gt;
+    
+      &lt;button class=&#34;tab__link&#34; aria-label=&#34;Tab link&#34;&gt;Agosto, 2017&lt;/button&gt;
+    
+      &lt;button class=&#34;tab__link&#34; aria-label=&#34;Tab link&#34;&gt;Agosto, 2017(2)&lt;/button&gt;
+    
+  &lt;/div&gt;
+  
+
+
+&lt;div id=&#34;125f086c9813437b&#34; class=&#34;tab__content&#34;&gt;
+  &lt;h3 id=&#34;cocina-entregada-durante-mayo-de-2017&#34;&gt;Cocina entregada durante Mayo de 2017&lt;/h3&gt;
+&lt;div class=&#34;expand&#34;&gt;
+  &lt;button type=&#34;button&#34; class=&#34;expand__button&#34; aria-label=&#34;Expand Button&#34;&gt;
+    &lt;span class=&#34;expand-icon expand-icon__right&#34;&gt;
+        &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; width=&#34;24&#34; height=&#34;24&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;currentColor&#34; d=&#34;M9.29 15.88L13.17 12 9.29 8.12c-.39-.39-.39-1.02 0-1.41.39-.39 1.02-.39 1.41 0l4.59 4.59c.39.39.39 1.02 0 1.41L10.7 17.3c-.39.39-1.02.39-1.41 0-.38-.39-.39-1.03 0-1.42z&#34;/&gt;&lt;/svg&gt;
+    &lt;/span&gt;
+    Mostrar la imagen
+  &lt;/button&gt;
+  &lt;div class=&#34;expand__content&#34;&gt;
+    Cocina y persiana fabricadas en madera de cedro, color nogal clasico, acabado en poliuretano semi mate, jaladeras de acero inoxidable.&lt;br /&gt;
+&lt;img src=&#34;https://lh3.googleusercontent.com/yM06HxTsnsjC5nqzZgFzwG7f-EzD1jCsrj-Jf5zr4sQYG8cuoABfBP0sOzTfbL6fZ5l3fbm6soFy4LC7JvTHQ7XtXvvsbd_KG4x2few2W9EAMqmEJoXVeo3wBEb3JUAYHfaPRnWrWA=w1920-h1080&#34; alt=&#34;Cocina01&#34; title=&#34;Cocina y persiana fabricadas en madera de cedro, color nogal clasico, acabado en poliuretano semi mate, jaladeras de acero inoxidable.&#34; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;expand&#34;&gt;
+  &lt;button type=&#34;button&#34; class=&#34;expand__button&#34; aria-label=&#34;Expand Button&#34;&gt;
+    &lt;span class=&#34;expand-icon expand-icon__right&#34;&gt;
+        &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; width=&#34;24&#34; height=&#34;24&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;currentColor&#34; d=&#34;M9.29 15.88L13.17 12 9.29 8.12c-.39-.39-.39-1.02 0-1.41.39-.39 1.02-.39 1.41 0l4.59 4.59c.39.39.39 1.02 0 1.41L10.7 17.3c-.39.39-1.02.39-1.41 0-.38-.39-.39-1.03 0-1.42z&#34;/&gt;&lt;/svg&gt;
+    &lt;/span&gt;
+    Mostrar la imagen
+  &lt;/button&gt;
+  &lt;div class=&#34;expand__content&#34;&gt;
+    Cocina y persiana fabricadas en madera de cedro, color nogal clasico, acabado en poliuretano semi mate, jaladeras de acero inoxidable.&lt;br /&gt;
+&lt;img src=&#34;https://lh3.googleusercontent.com/Fz20gNRQR-2oKFW8-u_8uRd4hAJXfUn49SmqTN4Fczkh8fifXkrb94r_2YL-o3UxIUITh0fv8j7X8_Gm3dAji8eAlfWBAHFnEsBG2XiXBcax5wVaNOnB-qBHoUR_S7q2x-gkMr4biQ=w1920-h1080&#34; alt=&#34;Cocina02&#34; title=&#34;Cocina y persiana fabricadas en madera de cedro, color nogal clasico, acabado en poliuretano semi mate, jaladeras de acero inoxidable.&#34; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;expand&#34;&gt;
+  &lt;button type=&#34;button&#34; class=&#34;expand__button&#34; aria-label=&#34;Expand Button&#34;&gt;
+    &lt;span class=&#34;expand-icon expand-icon__right&#34;&gt;
+        &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; width=&#34;24&#34; height=&#34;24&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;currentColor&#34; d=&#34;M9.29 15.88L13.17 12 9.29 8.12c-.39-.39-.39-1.02 0-1.41.39-.39 1.02-.39 1.41 0l4.59 4.59c.39.39.39 1.02 0 1.41L10.7 17.3c-.39.39-1.02.39-1.41 0-.38-.39-.39-1.03 0-1.42z&#34;/&gt;&lt;/svg&gt;
+    &lt;/span&gt;
+    Mostrar la imagen
+  &lt;/button&gt;
+  &lt;div class=&#34;expand__content&#34;&gt;
+    Cocina y persiana fabricadas en madera de cedro, color nogal clasico, acabado en poliuretano semi mate, jaladeras de acero inoxidable.&lt;br /&gt;
+&lt;img src=&#34;https://lh3.googleusercontent.com/fOqG3fuAKTMbV99uy0twuuVEMsL9yYXxcWpkgzoIzcHAI0qJISLBGr4wwmNVuKwfOe5ruJOOv4FxHoXgOxJnogU6EFtm-JykvL2t3rxaFrK_ujzdfyTEC3rGnJzDt8wEGWCS8o-avA=w1920-h1080&#34; alt=&#34;Cocina03&#34; title=&#34;Cocina y persiana fabricadas en madera de cedro, color nogal clasico, acabado en poliuretano semi mate, jaladeras de acero inoxidable.&#34; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+
+&lt;div id=&#34;5c22545d978ad729&#34; class=&#34;tab__content&#34;&gt;
+  &lt;h3 id=&#34;cocina-entregada-durante-agosto-de-2017&#34;&gt;Cocina entregada durante Agosto de 2017&lt;/h3&gt;
+&lt;div class=&#34;expand&#34;&gt;
+  &lt;button type=&#34;button&#34; class=&#34;expand__button&#34; aria-label=&#34;Expand Button&#34;&gt;
+    &lt;span class=&#34;expand-icon expand-icon__right&#34;&gt;
+        &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; width=&#34;24&#34; height=&#34;24&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;currentColor&#34; d=&#34;M9.29 15.88L13.17 12 9.29 8.12c-.39-.39-.39-1.02 0-1.41.39-.39 1.02-.39 1.41 0l4.59 4.59c.39.39.39 1.02 0 1.41L10.7 17.3c-.39.39-1.02.39-1.41 0-.38-.39-.39-1.03 0-1.42z&#34;/&gt;&lt;/svg&gt;
+    &lt;/span&gt;
+    Mostrar la imagen
+  &lt;/button&gt;
+  &lt;div class=&#34;expand__content&#34;&gt;
+    &lt;p&gt;Cocina y persiana fabricadas en madera de cedro, color early american, acabado en poliuretano semi mate, jaladeras de acero inoxidable.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://lh3.googleusercontent.com/QGnExOeLEiFINZzznih5eRh3PBN8N1xF8kO7bHF6ApUBB1Ne3u4sPt0ecEDbCPlqq-GWuE9Tk9YD7hFcsPpbkKvDARRqqpTEL5b8O_6Mu59MsnaLbPs1QWoUYFf7p4dPnBIee5Fapw=w1920-h1080&#34; alt=&#34;Cocina04&#34; title=&#34;Cocina y persiana fabricadas en madera de cedro, color early american, acabado en poliuretano semi mate, jaladeras de acero inoxidable.&#34; /&gt;&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;expand&#34;&gt;
+  &lt;button type=&#34;button&#34; class=&#34;expand__button&#34; aria-label=&#34;Expand Button&#34;&gt;
+    &lt;span class=&#34;expand-icon expand-icon__right&#34;&gt;
+        &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; width=&#34;24&#34; height=&#34;24&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;currentColor&#34; d=&#34;M9.29 15.88L13.17 12 9.29 8.12c-.39-.39-.39-1.02 0-1.41.39-.39 1.02-.39 1.41 0l4.59 4.59c.39.39.39 1.02 0 1.41L10.7 17.3c-.39.39-1.02.39-1.41 0-.38-.39-.39-1.03 0-1.42z&#34;/&gt;&lt;/svg&gt;
+    &lt;/span&gt;
+    Mostrar la imagen
+  &lt;/button&gt;
+  &lt;div class=&#34;expand__content&#34;&gt;
+    &lt;p&gt;Cocina y persiana fabricadas en madera de cedro, color early american, acabado en poliuretano semi mate, jaladeras de acero inoxidable.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://lh3.googleusercontent.com/B_cMjLn4Azd7L3z_rLKj307mxub5_ciO2TqLw25XhBAhrWKOSxZoxLrerPLTn2f95tdGvJ3YclZgwtrElqnGopADOfuWOljcCiLK7tWhSeNiEJ3XUHTMPBXAZOIJV5LoYtzxlfGe1Q=w1920-h1080&#34; alt=&#34;Cocina05&#34; title=&#34;Cocina y persiana fabricadas en madera de cedro, color early american, acabado en poliuretano semi mate, jaladeras de acero inoxidable.&#34; /&gt;&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;expand&#34;&gt;
+  &lt;button type=&#34;button&#34; class=&#34;expand__button&#34; aria-label=&#34;Expand Button&#34;&gt;
+    &lt;span class=&#34;expand-icon expand-icon__right&#34;&gt;
+        &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; width=&#34;24&#34; height=&#34;24&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;currentColor&#34; d=&#34;M9.29 15.88L13.17 12 9.29 8.12c-.39-.39-.39-1.02 0-1.41.39-.39 1.02-.39 1.41 0l4.59 4.59c.39.39.39 1.02 0 1.41L10.7 17.3c-.39.39-1.02.39-1.41 0-.38-.39-.39-1.03 0-1.42z&#34;/&gt;&lt;/svg&gt;
+    &lt;/span&gt;
+    Mostrar la imagen
+  &lt;/button&gt;
+  &lt;div class=&#34;expand__content&#34;&gt;
+    &lt;p&gt;Cocina y persiana fabricadas en madera de cedro, color early american, acabado en poliuretano semi mate, jaladeras de acero inoxidable.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://lh3.googleusercontent.com/nHPNxSXxOMlkeAELDybEjZPZVmjtXDgFER9Duxx3rOqGh8NirEpu_uX5Mum2Q1_DXKxLMOtThR1SY3vz_FAhMRD5K3YWrseIUQxPVE9fllxDUgzeJAB0n3QLhcDgsoaw4VmB1mADCQ=w1920-h1080&#34; alt=&#34;Cocina06&#34; title=&#34;Cocina y persiana fabricadas en madera de cedro, color early american, acabado en poliuretano semi mate, jaladeras de acero inoxidable.&#34; /&gt;&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;div id=&#34;c98f4a72181cf90e&#34; class=&#34;tab__content&#34;&gt;
+  &lt;h3 id=&#34;otra-cocina-entregada-durante-agosto-de-2017&#34;&gt;Otra cocina entregada durante Agosto de 2017&lt;/h3&gt;
+&lt;div class=&#34;expand&#34;&gt;
+  &lt;button type=&#34;button&#34; class=&#34;expand__button&#34; aria-label=&#34;Expand Button&#34;&gt;
+    &lt;span class=&#34;expand-icon expand-icon__right&#34;&gt;
+        &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; width=&#34;24&#34; height=&#34;24&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;currentColor&#34; d=&#34;M9.29 15.88L13.17 12 9.29 8.12c-.39-.39-.39-1.02 0-1.41.39-.39 1.02-.39 1.41 0l4.59 4.59c.39.39.39 1.02 0 1.41L10.7 17.3c-.39.39-1.02.39-1.41 0-.38-.39-.39-1.03 0-1.42z&#34;/&gt;&lt;/svg&gt;
+    &lt;/span&gt;
+    Mostrar la imagen
+  &lt;/button&gt;
+  &lt;div class=&#34;expand__content&#34;&gt;
+    &lt;p&gt;Cocina y persiana fabricadas en madera de cedro, color caoba clasico, acabado en poliuretano semi mate, jaladeras de acero inoxidable.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://lh3.googleusercontent.com/w8IvUKqaIfMJKwNp5XFgh-3f5JGhQp6YlJgzLjdKAfW1iTdUFQSB_-gfivIpKpq4VbVPrE0zQiuAId0m925sGOPIYkcid26_wqaDIQp4b74ld3otjKFs1XEqsJ_avh1IAhlXVF3XVA=w1920-h1080&#34; alt=&#34;Cocina07&#34; title=&#34;Cocina y persiana fabricadas en madera de cedro, color caoba clasico, acabado en poliuretano semi mate, jaladeras de acero inoxidable.&#34; /&gt;&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+
+&lt;/div&gt;
+
+&lt;script&gt;
+  &#39;use strict&#39;;
+
+  var containerId = JSON.parse(&#34;\&#34;3ef0dfe492815d5b\&#34;&#34;);
+  var containerElem = document.getElementById(containerId);
+  var tabLinks = null;
+  var tabContents = null;
+  var ids = [];
+
+  if (containerElem) {
+    tabLinks = containerElem.querySelectorAll(&#39;.tab__link&#39;);
+    tabContents = containerElem.querySelectorAll(&#39;.tab__content&#39;);
+  }
+
+  for (var i = 0; i &lt; tabContents.length; i++) {
+    ids = ids.concat(tabContents[i].getAttribute(&#39;id&#39;));
+    tabContents[i].style.display = &#39;none&#39;;
+
+    if (0 === parseInt(i, 10) &amp;&amp; !tabContents[i].classList.contains(&#39;active&#39;)) {
+      tabContents[i].classList.add(&#39;active&#39;);
+    }
+  }
+
+  for (var i = 0; i &lt; tabLinks.length; i++) {
+    tabLinks[i].setAttribute(&#39;id&#39;, ids[i]);
+
+    if (0 === parseInt(i, 10) &amp;&amp; !tabLinks[i].classList.contains(&#39;active&#39;)) {
+      tabLinks[i].classList.add(&#39;active&#39;);
+    } else {
+      tabLinks[i].classList.remove(&#39;active&#39;);
+    }
+  }
+
+  if (tabContents.length &gt; 0) {
+    tabContents[0].style.display = &#39;block&#39;;
+  }
+&lt;/script&gt;
+</content:encoded>
         <dc:creator>García-Mendívil, Helio A.</dc:creator>
         <media:content url="/https://lh3.googleusercontent.com/QGnExOeLEiFINZzznih5eRh3PBN8N1xF8kO7bHF6ApUBB1Ne3u4sPt0ecEDbCPlqq-GWuE9Tk9YD7hFcsPpbkKvDARRqqpTEL5b8O_6Mu59MsnaLbPs1QWoUYFf7p4dPnBIee5Fapw=w1920-h1080" medium="image"><media:title type="html">featured image</media:title></media:content>
         
@@ -102,7 +709,19 @@
         <atom:modified>Mon, 14 Dec 2020 19:15:48 -0800</atom:modified>
         <guid>/es/carpinteria/2020-12-14-carpinteria-libros01/</guid>
         <description>Tague lumber moulding and millwork guide:  Woodmaster tools, inc. sample book:  Architectural Millwork Mfg. Co. Catalog:  </description>
-        
+        <content:encoded>&lt;h3 id=&#34;tague-lumber-moulding-and-millwork-guide&#34;&gt;Tague lumber moulding and millwork guide:&lt;/h3&gt;
+&lt;iframe src=&#34;https://drive.google.com/file/d/1xr-CFQ8aND55K3Q7DiDoHoaFnDKUOeDM/preview&#34; width=&#34;100%&#34; height=&#34;480&#34;&gt;&lt;/iframe&gt;  
+&lt;p&gt;&lt;img src=&#34;https://drive.google.com/file/d/1xr-CFQ8aND55K3Q7DiDoHoaFnDKUOeDM/view?usp=sharing&#34; alt=&#34;Descarga&#34; /&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3 id=&#34;woodmaster-tools-inc-sample-book&#34;&gt;Woodmaster tools, inc. sample book:&lt;/h3&gt;
+&lt;iframe src=&#34;https://drive.google.com/file/d/1PSxZLVxAGoSghVSI4vngJEzh3OyESXof/preview&#34; width=&#34;100%&#34; height=&#34;480&#34;&gt;&lt;/iframe&gt;  
+&lt;p&gt;&lt;img src=&#34;https://drive.google.com/file/d/1PSxZLVxAGoSghVSI4vngJEzh3OyESXof/view?usp=sharing&#34; alt=&#34;Descarga&#34; /&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3 id=&#34;architectural-millwork-mfg-co-catalog&#34;&gt;Architectural Millwork Mfg. Co. Catalog:&lt;/h3&gt;
+&lt;iframe src=&#34;https://drive.google.com/file/d/172VdjuamxD8ArdxmK78QZl02qACbGA7p/preview&#34; width=&#34;100%&#34; height=&#34;480&#34;&gt;&lt;/iframe&gt; 
+&lt;p&gt;&lt;img src=&#34;https://drive.google.com/file/d/172VdjuamxD8ArdxmK78QZl02qACbGA7p/view?usp=sharing&#34; alt=&#34;Descarga&#34; /&gt;&lt;/p&gt;
+&lt;hr /&gt;
+</content:encoded>
         <dc:creator>Helio</dc:creator>
         <media:content url="/images/nuevas/Molduras_01.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
@@ -141,7 +760,148 @@
         <guid>/es/carpinteria/2020-12-13-carpinteria-otros/</guid>
         <description>Algunas fotos de otros trabajos entregados.
 Sample Image: Image with title, caption, alt, ...   Sample Image: Image with title, caption, alt, ...   Sample Image: Image with title, caption, alt, ...   Sample Image: Image with title, caption, alt, ...   Sample Image: Image with title, caption, alt, ...   Sample Image: Image with title, caption, alt, ...   Sample Image: Image with title, caption, alt, .</description>
+        <content:encoded>&lt;p&gt;Algunas fotos de otros trabajos entregados.&lt;/p&gt;
+&lt;figure &gt;
+  
+  
+  
+    &lt;img data-src=&#34;https://lh3.googleusercontent.com/uzeyKWaC9bMwF90SR2A2sGNnKlRNWFRq4Eah38qA6uQkTyw69RhzhRfmuCnw2rwV2_nFO9gmh5NcVHns146aqTsrPK1jUdVSKP_rX7zR0P54kb5BEPn91JAW-ZmNJgjrFEP8wvFAOA=w1920-h1080&#34; alt=&#34;image alt&#34; data-caption=&#34;Image with title, caption, alt, ...&#34; src=&#34;data:image/svg+xml,%0A%3Csvg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;700px&#39; height=&#39;&#39; viewBox=&#39;0 0 24 24&#39;%3E%3Cpath fill=&#39;none&#39; d=&#39;M0 0h24v24H0V0z&#39;/%3E%3Cpath fill=&#39;%23aaa&#39; d=&#39;M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm-1 16H6c-.55 0-1-.45-1-1V6c0-.55.45-1 1-1h12c.55 0 1 .45 1 1v12c0 .55-.45 1-1 1zm-4.44-6.19l-2.35 3.02-1.56-1.88c-.2-.25-.58-.24-.78.01l-1.74 2.23c-.26.33-.02.81.39.81h8.98c.41 0 .65-.47.4-.8l-2.55-3.39c-.19-.26-.59-.26-.79 0z&#39;/%3E%3C/svg%3E&#34; class=&#34;lazyload&#34; style=&#34;width:700px;height:;&#34;/&gt;
+  
+
+  
+  
+    &lt;figcaption style=&#34;text-align: center;&#34;&gt;
+      &lt;strong&gt;Sample Image&lt;/strong&gt;:
+      
+      Image with title, caption, alt, ...
+      
         
+        
+      
+    &lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+&lt;figure &gt;
+  
+  
+  
+    &lt;img data-src=&#34;https://lh3.googleusercontent.com/r2UBzPu7EHihAzzDUbhfiVOcA6_W2lnlba9VKBQ7uaOiH1d_qlivbpL_VMuvjNvaltXwTG9U4sZrjxjMOlBFwMaPQRFTIkkOqS3-tGQRs99xsDWMa7y1M4NmvH9_n9KUuzOOLVhcSQ=w1920-h1080&#34; alt=&#34;image alt&#34; data-caption=&#34;Image with title, caption, alt, ...&#34; src=&#34;data:image/svg+xml,%0A%3Csvg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;700px&#39; height=&#39;&#39; viewBox=&#39;0 0 24 24&#39;%3E%3Cpath fill=&#39;none&#39; d=&#39;M0 0h24v24H0V0z&#39;/%3E%3Cpath fill=&#39;%23aaa&#39; d=&#39;M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm-1 16H6c-.55 0-1-.45-1-1V6c0-.55.45-1 1-1h12c.55 0 1 .45 1 1v12c0 .55-.45 1-1 1zm-4.44-6.19l-2.35 3.02-1.56-1.88c-.2-.25-.58-.24-.78.01l-1.74 2.23c-.26.33-.02.81.39.81h8.98c.41 0 .65-.47.4-.8l-2.55-3.39c-.19-.26-.59-.26-.79 0z&#39;/%3E%3C/svg%3E&#34; class=&#34;lazyload&#34; style=&#34;width:700px;height:;&#34;/&gt;
+  
+
+  
+  
+    &lt;figcaption style=&#34;text-align: center;&#34;&gt;
+      &lt;strong&gt;Sample Image&lt;/strong&gt;:
+      
+      Image with title, caption, alt, ...
+      
+        
+        
+      
+    &lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+&lt;figure &gt;
+  
+  
+  
+    &lt;img data-src=&#34;https://lh3.googleusercontent.com/l7ZfC1JfNhsGFjvjr2ZR8KnLb6-X6LPSO8sIwmNyS7AaR36mN3bfjnP1u0qY76rOHNO4RmpjpVw0w9ISQaak2oJMnyy_tDjVPwxdeESIfNK5kj1uD87JyGoLzzLVN61yMF_7ed-Tuw=w1920-h1080&#34; alt=&#34;image alt&#34; data-caption=&#34;Image with title, caption, alt, ...&#34; src=&#34;data:image/svg+xml,%0A%3Csvg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;700px&#39; height=&#39;&#39; viewBox=&#39;0 0 24 24&#39;%3E%3Cpath fill=&#39;none&#39; d=&#39;M0 0h24v24H0V0z&#39;/%3E%3Cpath fill=&#39;%23aaa&#39; d=&#39;M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm-1 16H6c-.55 0-1-.45-1-1V6c0-.55.45-1 1-1h12c.55 0 1 .45 1 1v12c0 .55-.45 1-1 1zm-4.44-6.19l-2.35 3.02-1.56-1.88c-.2-.25-.58-.24-.78.01l-1.74 2.23c-.26.33-.02.81.39.81h8.98c.41 0 .65-.47.4-.8l-2.55-3.39c-.19-.26-.59-.26-.79 0z&#39;/%3E%3C/svg%3E&#34; class=&#34;lazyload&#34; style=&#34;width:700px;height:;&#34;/&gt;
+  
+
+  
+  
+    &lt;figcaption style=&#34;text-align: center;&#34;&gt;
+      &lt;strong&gt;Sample Image&lt;/strong&gt;:
+      
+      Image with title, caption, alt, ...
+      
+        
+        
+      
+    &lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+&lt;figure &gt;
+  
+  
+  
+    &lt;img data-src=&#34;https://lh3.googleusercontent.com/2y6-RTCT_nuCnJmV0OebbYOahP7QnkmrZ9V_YFEypdzx2AwB8bU5AuZerYBmQh1q1FPLCCiT5FPeNxdFciAWBc7hnpoJvKybp1sE_0KsD8DYqGFIQ8ptp9CZTAeBKgXwWfGK4q36YA=w1920-h1080&#34; alt=&#34;image alt&#34; data-caption=&#34;Image with title, caption, alt, ...&#34; src=&#34;data:image/svg+xml,%0A%3Csvg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;700px&#39; height=&#39;&#39; viewBox=&#39;0 0 24 24&#39;%3E%3Cpath fill=&#39;none&#39; d=&#39;M0 0h24v24H0V0z&#39;/%3E%3Cpath fill=&#39;%23aaa&#39; d=&#39;M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm-1 16H6c-.55 0-1-.45-1-1V6c0-.55.45-1 1-1h12c.55 0 1 .45 1 1v12c0 .55-.45 1-1 1zm-4.44-6.19l-2.35 3.02-1.56-1.88c-.2-.25-.58-.24-.78.01l-1.74 2.23c-.26.33-.02.81.39.81h8.98c.41 0 .65-.47.4-.8l-2.55-3.39c-.19-.26-.59-.26-.79 0z&#39;/%3E%3C/svg%3E&#34; class=&#34;lazyload&#34; style=&#34;width:700px;height:;&#34;/&gt;
+  
+
+  
+  
+    &lt;figcaption style=&#34;text-align: center;&#34;&gt;
+      &lt;strong&gt;Sample Image&lt;/strong&gt;:
+      
+      Image with title, caption, alt, ...
+      
+        
+        
+      
+    &lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+&lt;figure &gt;
+  
+  
+  
+    &lt;img data-src=&#34;https://lh3.googleusercontent.com/6LCEf5tLovfBFewTHqvCggmp09GoCUMTVQwsMvXubnMELtDV7XM36CB2Ozv1Mxm3SSbIcVUA9yz3hNmPL7s5-vbUEQtwJrO3xcNXffLtDPAaRaF9ETNq8i3lYv9tdDxsiehQyMjpkw=w1920-h1080&#34; alt=&#34;image alt&#34; data-caption=&#34;Image with title, caption, alt, ...&#34; src=&#34;data:image/svg+xml,%0A%3Csvg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;700px&#39; height=&#39;&#39; viewBox=&#39;0 0 24 24&#39;%3E%3Cpath fill=&#39;none&#39; d=&#39;M0 0h24v24H0V0z&#39;/%3E%3Cpath fill=&#39;%23aaa&#39; d=&#39;M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm-1 16H6c-.55 0-1-.45-1-1V6c0-.55.45-1 1-1h12c.55 0 1 .45 1 1v12c0 .55-.45 1-1 1zm-4.44-6.19l-2.35 3.02-1.56-1.88c-.2-.25-.58-.24-.78.01l-1.74 2.23c-.26.33-.02.81.39.81h8.98c.41 0 .65-.47.4-.8l-2.55-3.39c-.19-.26-.59-.26-.79 0z&#39;/%3E%3C/svg%3E&#34; class=&#34;lazyload&#34; style=&#34;width:700px;height:;&#34;/&gt;
+  
+
+  
+  
+    &lt;figcaption style=&#34;text-align: center;&#34;&gt;
+      &lt;strong&gt;Sample Image&lt;/strong&gt;:
+      
+      Image with title, caption, alt, ...
+      
+        
+        
+      
+    &lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+&lt;figure &gt;
+  
+  
+  
+    &lt;img data-src=&#34;https://lh3.googleusercontent.com/pdX0msPG5HhD6LcZ7YCHRl75teGrwxdk7ie9nt2F9NRFuTBnbPIGUcfa_AtDK2H_PJsiCi-b76HZlfUyuX6NCjXIoyDn3yjm4ZVACzvlt8zKitWlQyd7HmnUq9tzmiINADzsreo6wg=w1920-h1080&#34; alt=&#34;image alt&#34; data-caption=&#34;Image with title, caption, alt, ...&#34; src=&#34;data:image/svg+xml,%0A%3Csvg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;700px&#39; height=&#39;&#39; viewBox=&#39;0 0 24 24&#39;%3E%3Cpath fill=&#39;none&#39; d=&#39;M0 0h24v24H0V0z&#39;/%3E%3Cpath fill=&#39;%23aaa&#39; d=&#39;M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm-1 16H6c-.55 0-1-.45-1-1V6c0-.55.45-1 1-1h12c.55 0 1 .45 1 1v12c0 .55-.45 1-1 1zm-4.44-6.19l-2.35 3.02-1.56-1.88c-.2-.25-.58-.24-.78.01l-1.74 2.23c-.26.33-.02.81.39.81h8.98c.41 0 .65-.47.4-.8l-2.55-3.39c-.19-.26-.59-.26-.79 0z&#39;/%3E%3C/svg%3E&#34; class=&#34;lazyload&#34; style=&#34;width:700px;height:;&#34;/&gt;
+  
+
+  
+  
+    &lt;figcaption style=&#34;text-align: center;&#34;&gt;
+      &lt;strong&gt;Sample Image&lt;/strong&gt;:
+      
+      Image with title, caption, alt, ...
+      
+        
+        
+      
+    &lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+&lt;figure &gt;
+  
+  
+  
+    &lt;img data-src=&#34;https://lh3.googleusercontent.com/CYL6sqrpUI3CtKdZvxrCvLcNOhUkXej0wgcLysM5Gqd9CEAQYBFXrsPVi6LlQmnrIHfyCymfASB4AKt5OSfdGeNv4Y22-HGoxd8GJIKO-qx3rTf0TT01Y2HC6QlAfBlm7BJiJM0q4g=w1920-h1080&#34; alt=&#34;image alt&#34; data-caption=&#34;Image with title, caption, alt, ...&#34; src=&#34;data:image/svg+xml,%0A%3Csvg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;700px&#39; height=&#39;&#39; viewBox=&#39;0 0 24 24&#39;%3E%3Cpath fill=&#39;none&#39; d=&#39;M0 0h24v24H0V0z&#39;/%3E%3Cpath fill=&#39;%23aaa&#39; d=&#39;M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm-1 16H6c-.55 0-1-.45-1-1V6c0-.55.45-1 1-1h12c.55 0 1 .45 1 1v12c0 .55-.45 1-1 1zm-4.44-6.19l-2.35 3.02-1.56-1.88c-.2-.25-.58-.24-.78.01l-1.74 2.23c-.26.33-.02.81.39.81h8.98c.41 0 .65-.47.4-.8l-2.55-3.39c-.19-.26-.59-.26-.79 0z&#39;/%3E%3C/svg%3E&#34; class=&#34;lazyload&#34; style=&#34;width:700px;height:;&#34;/&gt;
+  
+
+  
+  
+    &lt;figcaption style=&#34;text-align: center;&#34;&gt;
+      &lt;strong&gt;Sample Image&lt;/strong&gt;:
+      
+      Image with title, caption, alt, ...
+      
+        
+        
+      
+    &lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+</content:encoded>
         <dc:creator>Helio</dc:creator>
         <media:content url="/https://lh3.googleusercontent.com/uzeyKWaC9bMwF90SR2A2sGNnKlRNWFRq4Eah38qA6uQkTyw69RhzhRfmuCnw2rwV2_nFO9gmh5NcVHns146aqTsrPK1jUdVSKP_rX7zR0P54kb5BEPn91JAW-ZmNJgjrFEP8wvFAOA=w1920-h1080" medium="image"><media:title type="html">featured image</media:title></media:content>
         
@@ -176,7 +936,199 @@ Sample Image: Image with title, caption, alt, ...   Sample Image: Image with tit
         <guid>/es/carpinteria/2020-12-13-carpinteria-armarios/</guid>
         <description>Marzo, 2018 Enero, 2019 Marzo, 2019    Mostrar la imagen  Armario fabricado en&amp;hellip;
    Mostrar la imagen     Mostrar la imagen     Mostrar la imagen     Mostrar la imagen     Mostrar la imagen     Mostrar la imagen     Mostrar la imagen     Mostrar la imagen     Mostrar la imagen     Mostrar la imagen     &#39;use strict&#39;; var containerId = JSON.</description>
-        
+        <content:encoded>
+&lt;div id=&#34;ed0f9e10f27df197&#34; class=&#34;tab&#34;&gt;
+  &lt;div class=&#34;tab__links&#34;&gt;
+    
+      &lt;button class=&#34;tab__link&#34; aria-label=&#34;Tab link&#34;&gt;Marzo, 2018&lt;/button&gt;
+    
+      &lt;button class=&#34;tab__link&#34; aria-label=&#34;Tab link&#34;&gt;Enero, 2019&lt;/button&gt;
+    
+      &lt;button class=&#34;tab__link&#34; aria-label=&#34;Tab link&#34;&gt;Marzo, 2019&lt;/button&gt;
+    
+  &lt;/div&gt;
+  
+
+
+&lt;div id=&#34;3bcee0b8913fa0f3&#34; class=&#34;tab__content&#34;&gt;
+  &lt;div class=&#34;expand&#34;&gt;
+  &lt;button type=&#34;button&#34; class=&#34;expand__button&#34; aria-label=&#34;Expand Button&#34;&gt;
+    &lt;span class=&#34;expand-icon expand-icon__right&#34;&gt;
+        &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; width=&#34;24&#34; height=&#34;24&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;currentColor&#34; d=&#34;M9.29 15.88L13.17 12 9.29 8.12c-.39-.39-.39-1.02 0-1.41.39-.39 1.02-.39 1.41 0l4.59 4.59c.39.39.39 1.02 0 1.41L10.7 17.3c-.39.39-1.02.39-1.41 0-.38-.39-.39-1.03 0-1.42z&#34;/&gt;&lt;/svg&gt;
+    &lt;/span&gt;
+    Mostrar la imagen
+  &lt;/button&gt;
+  &lt;div class=&#34;expand__content&#34;&gt;
+    Armario fabricado en&amp;hellip;&lt;br /&gt;
+&lt;img src=&#34;https://lh3.googleusercontent.com/XaNCQ94Yxg_NJtkgwEwNZN2Iwy76J0baoS3ympFEUBOpG-OzZphRF7TVKNSWLvjVMTbkFnbcbv-teBil_x33IgSXeFa7jB971-delCWjtd-tBbp-bV6mFEhRNPoD73ME3Y9yv7cn_g=w1920-h1080&#34; alt=&#34;Armario01&#34; title=&#34;Armario fabricado en...&#34; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;expand&#34;&gt;
+  &lt;button type=&#34;button&#34; class=&#34;expand__button&#34; aria-label=&#34;Expand Button&#34;&gt;
+    &lt;span class=&#34;expand-icon expand-icon__right&#34;&gt;
+        &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; width=&#34;24&#34; height=&#34;24&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;currentColor&#34; d=&#34;M9.29 15.88L13.17 12 9.29 8.12c-.39-.39-.39-1.02 0-1.41.39-.39 1.02-.39 1.41 0l4.59 4.59c.39.39.39 1.02 0 1.41L10.7 17.3c-.39.39-1.02.39-1.41 0-.38-.39-.39-1.03 0-1.42z&#34;/&gt;&lt;/svg&gt;
+    &lt;/span&gt;
+    Mostrar la imagen
+  &lt;/button&gt;
+  &lt;div class=&#34;expand__content&#34;&gt;
+    &lt;img src=&#34;https://lh3.googleusercontent.com/pw/ACtC-3dJiT7mlzoE-3ZjvFiBeltqFFw2PpVzJwi4yolR1ZcVrfSHiwVMRepB1sM3XtkMJkMk8KTUA7mu73ACWbLfHal4IFHEnhtmMo0HrklQarjTp5GpjlcjrMVvWQqTgE-T2balDkORZ1asgKj2hp6aFFxI=w489-h868-no?authuser=3&#34; alt=&#34;Armario02&#34; title=&#34;title here&#34; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;expand&#34;&gt;
+  &lt;button type=&#34;button&#34; class=&#34;expand__button&#34; aria-label=&#34;Expand Button&#34;&gt;
+    &lt;span class=&#34;expand-icon expand-icon__right&#34;&gt;
+        &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; width=&#34;24&#34; height=&#34;24&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;currentColor&#34; d=&#34;M9.29 15.88L13.17 12 9.29 8.12c-.39-.39-.39-1.02 0-1.41.39-.39 1.02-.39 1.41 0l4.59 4.59c.39.39.39 1.02 0 1.41L10.7 17.3c-.39.39-1.02.39-1.41 0-.38-.39-.39-1.03 0-1.42z&#34;/&gt;&lt;/svg&gt;
+    &lt;/span&gt;
+    Mostrar la imagen
+  &lt;/button&gt;
+  &lt;div class=&#34;expand__content&#34;&gt;
+    &lt;img src=&#34;https://lh3.googleusercontent.com/pw/ACtC-3dCT9ZxxsDWVAH1feyhljwFmA4UH_NTGACrGE69I5cgos-3bhRbEuz3xvi7O3Vr0zNRNlGAQO30otVRDGytPVIYgjKTT5xMeGbj_EvMqEwvCk48KEYYz_EQeCr-u1RNZzMQJbTcm2IflGu4NMSbSLtr=w637-h868-no?authuser=3&#34; alt=&#34;Armario03&#34; title=&#34;title here&#34; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;expand&#34;&gt;
+  &lt;button type=&#34;button&#34; class=&#34;expand__button&#34; aria-label=&#34;Expand Button&#34;&gt;
+    &lt;span class=&#34;expand-icon expand-icon__right&#34;&gt;
+        &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; width=&#34;24&#34; height=&#34;24&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;currentColor&#34; d=&#34;M9.29 15.88L13.17 12 9.29 8.12c-.39-.39-.39-1.02 0-1.41.39-.39 1.02-.39 1.41 0l4.59 4.59c.39.39.39 1.02 0 1.41L10.7 17.3c-.39.39-1.02.39-1.41 0-.38-.39-.39-1.03 0-1.42z&#34;/&gt;&lt;/svg&gt;
+    &lt;/span&gt;
+    Mostrar la imagen
+  &lt;/button&gt;
+  &lt;div class=&#34;expand__content&#34;&gt;
+    &lt;img src=&#34;https://lh3.googleusercontent.com/pw/ACtC-3evGG4Qkr0R80Wam99tjlfm5KC2bnjZdtuN0rSze1acCRNFw0eBHZZA4lxjicysbSLp24R5LMZOTnSBBC1ROORaRYzHCPMs2VFGQEqege8dUs6G740BHUc291BYz7Fv41XB9PiyxKmmyYbC3zrUSxbv=w653-h869-no?authuser=3&#34; alt=&#34;Armario04&#34; title=&#34;title here&#34; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;expand&#34;&gt;
+  &lt;button type=&#34;button&#34; class=&#34;expand__button&#34; aria-label=&#34;Expand Button&#34;&gt;
+    &lt;span class=&#34;expand-icon expand-icon__right&#34;&gt;
+        &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; width=&#34;24&#34; height=&#34;24&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;currentColor&#34; d=&#34;M9.29 15.88L13.17 12 9.29 8.12c-.39-.39-.39-1.02 0-1.41.39-.39 1.02-.39 1.41 0l4.59 4.59c.39.39.39 1.02 0 1.41L10.7 17.3c-.39.39-1.02.39-1.41 0-.38-.39-.39-1.03 0-1.42z&#34;/&gt;&lt;/svg&gt;
+    &lt;/span&gt;
+    Mostrar la imagen
+  &lt;/button&gt;
+  &lt;div class=&#34;expand__content&#34;&gt;
+    &lt;img src=&#34;https://lh3.googleusercontent.com/pw/ACtC-3e5pA_HYCyd9WTSdPR9ZpT2iZffb7XkmWCgeDFGRDlgXe5eLJ1oTVsRWf2dFHBIMTfgtL4JkMjNuVg8mPDlAx4qTU-1Ezl9cpX10qifkybh-cQjdl6b6BW13eDm4bm2LNoAyFHs9mg0_f-F1e59xTeF=w489-h868-no?authuser=3&#34; alt=&#34;Armario05&#34; title=&#34;title here&#34; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+
+&lt;div id=&#34;a168e3e133ed4ea2&#34; class=&#34;tab__content&#34;&gt;
+  &lt;div class=&#34;expand&#34;&gt;
+  &lt;button type=&#34;button&#34; class=&#34;expand__button&#34; aria-label=&#34;Expand Button&#34;&gt;
+    &lt;span class=&#34;expand-icon expand-icon__right&#34;&gt;
+        &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; width=&#34;24&#34; height=&#34;24&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;currentColor&#34; d=&#34;M9.29 15.88L13.17 12 9.29 8.12c-.39-.39-.39-1.02 0-1.41.39-.39 1.02-.39 1.41 0l4.59 4.59c.39.39.39 1.02 0 1.41L10.7 17.3c-.39.39-1.02.39-1.41 0-.38-.39-.39-1.03 0-1.42z&#34;/&gt;&lt;/svg&gt;
+    &lt;/span&gt;
+    Mostrar la imagen
+  &lt;/button&gt;
+  &lt;div class=&#34;expand__content&#34;&gt;
+    &lt;img src=&#34;https://lh3.googleusercontent.com/bcI68xNxV54AaKkBmYUb5aBSAhX2w9ARpIDCNXAW3PJtCl0Y95sXC6ggwiam-QkLd1dk7fZtSdKp6P03NNRsdblWcD6RWjIKaTdQq5or30TeF8Z4KdJwn_a-ODle8Pt-BpllUUaXDA=w1920-h1080&#34; alt=&#34;Armario06&#34; title=&#34;title here&#34; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;expand&#34;&gt;
+  &lt;button type=&#34;button&#34; class=&#34;expand__button&#34; aria-label=&#34;Expand Button&#34;&gt;
+    &lt;span class=&#34;expand-icon expand-icon__right&#34;&gt;
+        &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; width=&#34;24&#34; height=&#34;24&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;currentColor&#34; d=&#34;M9.29 15.88L13.17 12 9.29 8.12c-.39-.39-.39-1.02 0-1.41.39-.39 1.02-.39 1.41 0l4.59 4.59c.39.39.39 1.02 0 1.41L10.7 17.3c-.39.39-1.02.39-1.41 0-.38-.39-.39-1.03 0-1.42z&#34;/&gt;&lt;/svg&gt;
+    &lt;/span&gt;
+    Mostrar la imagen
+  &lt;/button&gt;
+  &lt;div class=&#34;expand__content&#34;&gt;
+    &lt;img src=&#34;https://lh3.googleusercontent.com/e8ajGFCPXBtVCQ0xWCyXS8UnwwqBejbtaryR20Cbrln6-5rJ2QPmgWSA2h9yz7rs2Ohu0jMjGVyTwGnRnwV1YABlryXHgeSJD79xnEdGHz3LvnKHi1RUW1L6ho3Q3ngrl7KwY5u7cg=w1920-h1080&#34; alt=&#34;Armario07&#34; title=&#34;title here&#34; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+
+&lt;div id=&#34;adb67c668145d1e6&#34; class=&#34;tab__content&#34;&gt;
+  &lt;div class=&#34;expand&#34;&gt;
+  &lt;button type=&#34;button&#34; class=&#34;expand__button&#34; aria-label=&#34;Expand Button&#34;&gt;
+    &lt;span class=&#34;expand-icon expand-icon__right&#34;&gt;
+        &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; width=&#34;24&#34; height=&#34;24&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;currentColor&#34; d=&#34;M9.29 15.88L13.17 12 9.29 8.12c-.39-.39-.39-1.02 0-1.41.39-.39 1.02-.39 1.41 0l4.59 4.59c.39.39.39 1.02 0 1.41L10.7 17.3c-.39.39-1.02.39-1.41 0-.38-.39-.39-1.03 0-1.42z&#34;/&gt;&lt;/svg&gt;
+    &lt;/span&gt;
+    Mostrar la imagen
+  &lt;/button&gt;
+  &lt;div class=&#34;expand__content&#34;&gt;
+    &lt;img src=&#34;https://lh3.googleusercontent.com/WXjSVdhjzGigZwFznoWOV4CefOyMDjdoWDj53XKBsJ1CzUwFS_TRE7cEdiwl9ANJoW3_u_a8YQDsDID9oCz_QIIPM1BjfaHITqusYK9-TM_cvJtYxhv6eLUw2xTveJ3riYt2MSGTkw=w1920-h1080&#34; alt=&#34;Armario08&#34; title=&#34;title here&#34; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;expand&#34;&gt;
+  &lt;button type=&#34;button&#34; class=&#34;expand__button&#34; aria-label=&#34;Expand Button&#34;&gt;
+    &lt;span class=&#34;expand-icon expand-icon__right&#34;&gt;
+        &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; width=&#34;24&#34; height=&#34;24&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;currentColor&#34; d=&#34;M9.29 15.88L13.17 12 9.29 8.12c-.39-.39-.39-1.02 0-1.41.39-.39 1.02-.39 1.41 0l4.59 4.59c.39.39.39 1.02 0 1.41L10.7 17.3c-.39.39-1.02.39-1.41 0-.38-.39-.39-1.03 0-1.42z&#34;/&gt;&lt;/svg&gt;
+    &lt;/span&gt;
+    Mostrar la imagen
+  &lt;/button&gt;
+  &lt;div class=&#34;expand__content&#34;&gt;
+    &lt;img src=&#34;https://lh3.googleusercontent.com/t1aHZJBvT_Nkf8s46x9kYAhDRLE1sgzvDMZ2hjMBB7xhefTqoYM_2A9ldTOhv9-e_2uzXkKOVBQ7Ijo4_LXZYvg6zKVLdRqBFOwzyu_ZPI00KKuIwkTRSBFn03gxXCD67mRG6qFhvQ=w1920-h1080&#34; alt=&#34;Armario09&#34; title=&#34;title here&#34; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;expand&#34;&gt;
+  &lt;button type=&#34;button&#34; class=&#34;expand__button&#34; aria-label=&#34;Expand Button&#34;&gt;
+    &lt;span class=&#34;expand-icon expand-icon__right&#34;&gt;
+        &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; width=&#34;24&#34; height=&#34;24&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;currentColor&#34; d=&#34;M9.29 15.88L13.17 12 9.29 8.12c-.39-.39-.39-1.02 0-1.41.39-.39 1.02-.39 1.41 0l4.59 4.59c.39.39.39 1.02 0 1.41L10.7 17.3c-.39.39-1.02.39-1.41 0-.38-.39-.39-1.03 0-1.42z&#34;/&gt;&lt;/svg&gt;
+    &lt;/span&gt;
+    Mostrar la imagen
+  &lt;/button&gt;
+  &lt;div class=&#34;expand__content&#34;&gt;
+    &lt;img src=&#34;https://lh3.googleusercontent.com/bxb_zTjybFdErqarTcCiAg4kfiAsElOjTH4agMAI8hIWUc2YdytOLBlrfJ3mFapomse9vsNXhXsI7-DxmPi8LaC_bYIrVNpKECZ3vvXcLu2s3l_AtwqGSXv06W_n_zH4FQYD_eu4oQ=w1920-h1080&#34; alt=&#34;Armario10&#34; title=&#34;title here&#34; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;expand&#34;&gt;
+  &lt;button type=&#34;button&#34; class=&#34;expand__button&#34; aria-label=&#34;Expand Button&#34;&gt;
+    &lt;span class=&#34;expand-icon expand-icon__right&#34;&gt;
+        &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; width=&#34;24&#34; height=&#34;24&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;currentColor&#34; d=&#34;M9.29 15.88L13.17 12 9.29 8.12c-.39-.39-.39-1.02 0-1.41.39-.39 1.02-.39 1.41 0l4.59 4.59c.39.39.39 1.02 0 1.41L10.7 17.3c-.39.39-1.02.39-1.41 0-.38-.39-.39-1.03 0-1.42z&#34;/&gt;&lt;/svg&gt;
+    &lt;/span&gt;
+    Mostrar la imagen
+  &lt;/button&gt;
+  &lt;div class=&#34;expand__content&#34;&gt;
+    &lt;img src=&#34;https://lh3.googleusercontent.com/rUFEFKrhJclo9Gaw2ZZ7821goGECTKjrOOQ_fCPWcbv4EBWx2j8KAfOEgbphPRzNXJp-SJFw1gxuaN7z2oF_VX1OvCntIfxJXG0FgzwWmAGiQwjkY3kEnmEeea76WvTDsXnp-aKotA=w1920-h1080&#34; alt=&#34;Armario11&#34; title=&#34;title here&#34; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+
+
+
+&lt;/div&gt;
+
+&lt;script&gt;
+  &#39;use strict&#39;;
+
+  var containerId = JSON.parse(&#34;\&#34;ed0f9e10f27df197\&#34;&#34;);
+  var containerElem = document.getElementById(containerId);
+  var tabLinks = null;
+  var tabContents = null;
+  var ids = [];
+
+  if (containerElem) {
+    tabLinks = containerElem.querySelectorAll(&#39;.tab__link&#39;);
+    tabContents = containerElem.querySelectorAll(&#39;.tab__content&#39;);
+  }
+
+  for (var i = 0; i &lt; tabContents.length; i++) {
+    ids = ids.concat(tabContents[i].getAttribute(&#39;id&#39;));
+    tabContents[i].style.display = &#39;none&#39;;
+
+    if (0 === parseInt(i, 10) &amp;&amp; !tabContents[i].classList.contains(&#39;active&#39;)) {
+      tabContents[i].classList.add(&#39;active&#39;);
+    }
+  }
+
+  for (var i = 0; i &lt; tabLinks.length; i++) {
+    tabLinks[i].setAttribute(&#39;id&#39;, ids[i]);
+
+    if (0 === parseInt(i, 10) &amp;&amp; !tabLinks[i].classList.contains(&#39;active&#39;)) {
+      tabLinks[i].classList.add(&#39;active&#39;);
+    } else {
+      tabLinks[i].classList.remove(&#39;active&#39;);
+    }
+  }
+
+  if (tabContents.length &gt; 0) {
+    tabContents[0].style.display = &#39;block&#39;;
+  }
+&lt;/script&gt;
+</content:encoded>
         <dc:creator>Helio</dc:creator>
         <media:content url="/https://lh3.googleusercontent.com/bcI68xNxV54AaKkBmYUb5aBSAhX2w9ARpIDCNXAW3PJtCl0Y95sXC6ggwiam-QkLd1dk7fZtSdKp6P03NNRsdblWcD6RWjIKaTdQq5or30TeF8Z4KdJwn_a-ODle8Pt-BpllUUaXDA=w1920-h1080" medium="image"><media:title type="html">featured image</media:title></media:content>
         
@@ -211,7 +1163,88 @@ Sample Image: Image with title, caption, alt, ...   Sample Image: Image with tit
         <guid>/es/carpinteria/2020-12-13-carpinteria-persianas/</guid>
         <description>Algunas fotos de persianas entregadas.
 Sample Image: Image with title, caption, alt, ...   Sample Image: Image with title, caption, alt, ...   Sample Image: Image with title, caption, alt, ...   Sample Image: Image with title, caption, alt, ...   </description>
+        <content:encoded>&lt;p&gt;Algunas fotos de persianas entregadas.&lt;/p&gt;
+&lt;figure &gt;
+  
+  
+  
+    &lt;img data-src=&#34;https://lh3.googleusercontent.com/JDK9CBAT7CBMDRjvGoXZCBkKyoShnh7BV_oNM4ceXS1BAI1LPQ_aKbZghAITD_DLZI_UxzwHoGREPlXDLRkEzaWQXHjAJurS2vDHlcBI1VeMoUjtEW_VwYr0vFRS2g4IuPqn_7mdgg=w1920-h1080&#34; alt=&#34;image alt&#34; data-caption=&#34;Image with title, caption, alt, ...&#34; src=&#34;data:image/svg+xml,%0A%3Csvg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;700px&#39; height=&#39;&#39; viewBox=&#39;0 0 24 24&#39;%3E%3Cpath fill=&#39;none&#39; d=&#39;M0 0h24v24H0V0z&#39;/%3E%3Cpath fill=&#39;%23aaa&#39; d=&#39;M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm-1 16H6c-.55 0-1-.45-1-1V6c0-.55.45-1 1-1h12c.55 0 1 .45 1 1v12c0 .55-.45 1-1 1zm-4.44-6.19l-2.35 3.02-1.56-1.88c-.2-.25-.58-.24-.78.01l-1.74 2.23c-.26.33-.02.81.39.81h8.98c.41 0 .65-.47.4-.8l-2.55-3.39c-.19-.26-.59-.26-.79 0z&#39;/%3E%3C/svg%3E&#34; class=&#34;lazyload&#34; style=&#34;width:700px;height:;&#34;/&gt;
+  
+
+  
+  
+    &lt;figcaption style=&#34;text-align: center;&#34;&gt;
+      &lt;strong&gt;Sample Image&lt;/strong&gt;:
+      
+      Image with title, caption, alt, ...
+      
         
+        
+      
+    &lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+&lt;figure &gt;
+  
+  
+  
+    &lt;img data-src=&#34;https://lh3.googleusercontent.com/GMJZ64wtQsq-cBrgCWAppnXdK5EAeAxDO_G7SnGKerD8Wi67Q4sYPb7WstiOs6fxIyzLtDp_yfPFU2QX6fbIuFotNjdvIoaHigyWJOQa3O-dfJbrHzz6aKANIPpaGRVivEkmQT71mg=w1920-h1080&#34; alt=&#34;image alt&#34; data-caption=&#34;Image with title, caption, alt, ...&#34; src=&#34;data:image/svg+xml,%0A%3Csvg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;700px&#39; height=&#39;&#39; viewBox=&#39;0 0 24 24&#39;%3E%3Cpath fill=&#39;none&#39; d=&#39;M0 0h24v24H0V0z&#39;/%3E%3Cpath fill=&#39;%23aaa&#39; d=&#39;M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm-1 16H6c-.55 0-1-.45-1-1V6c0-.55.45-1 1-1h12c.55 0 1 .45 1 1v12c0 .55-.45 1-1 1zm-4.44-6.19l-2.35 3.02-1.56-1.88c-.2-.25-.58-.24-.78.01l-1.74 2.23c-.26.33-.02.81.39.81h8.98c.41 0 .65-.47.4-.8l-2.55-3.39c-.19-.26-.59-.26-.79 0z&#39;/%3E%3C/svg%3E&#34; class=&#34;lazyload&#34; style=&#34;width:700px;height:;&#34;/&gt;
+  
+
+  
+  
+    &lt;figcaption style=&#34;text-align: center;&#34;&gt;
+      &lt;strong&gt;Sample Image&lt;/strong&gt;:
+      
+      Image with title, caption, alt, ...
+      
+        
+        
+      
+    &lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+&lt;figure &gt;
+  
+  
+  
+    &lt;img data-src=&#34;https://lh3.googleusercontent.com/2ADYtRQQ4kbypGQOAoy6HRs-yILwTAdWTEDnn-cijoIv0gCTvPIb3pff-JwYdbMnhwbAhtwouWNIrpoAAEzRzmFN0Y9l3VvdUbHVfikix23wBpLdlc0_FCk8Dh0OE7zgwREUVT9FHA=w1920-h1080&#34; alt=&#34;image alt&#34; data-caption=&#34;Image with title, caption, alt, ...&#34; src=&#34;data:image/svg+xml,%0A%3Csvg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;700px&#39; height=&#39;&#39; viewBox=&#39;0 0 24 24&#39;%3E%3Cpath fill=&#39;none&#39; d=&#39;M0 0h24v24H0V0z&#39;/%3E%3Cpath fill=&#39;%23aaa&#39; d=&#39;M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm-1 16H6c-.55 0-1-.45-1-1V6c0-.55.45-1 1-1h12c.55 0 1 .45 1 1v12c0 .55-.45 1-1 1zm-4.44-6.19l-2.35 3.02-1.56-1.88c-.2-.25-.58-.24-.78.01l-1.74 2.23c-.26.33-.02.81.39.81h8.98c.41 0 .65-.47.4-.8l-2.55-3.39c-.19-.26-.59-.26-.79 0z&#39;/%3E%3C/svg%3E&#34; class=&#34;lazyload&#34; style=&#34;width:700px;height:;&#34;/&gt;
+  
+
+  
+  
+    &lt;figcaption style=&#34;text-align: center;&#34;&gt;
+      &lt;strong&gt;Sample Image&lt;/strong&gt;:
+      
+      Image with title, caption, alt, ...
+      
+        
+        
+      
+    &lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+&lt;figure &gt;
+  
+  
+  
+    &lt;img data-src=&#34;https://lh3.googleusercontent.com/RY3gIFrDAqtVxAtcipTECW61gDTtJGYjUOPXzMrK1dh8AlC53qwEtiQrBoalyb5ikUXmi4oDXu_s3qm4puRcimxzQV9Q8TPrbEbTPdIzoE-e18Jq0AfgEJtNh-WcZqPlhPe9XfxoAA=w1920-h1080&#34; alt=&#34;image alt&#34; data-caption=&#34;Image with title, caption, alt, ...&#34; src=&#34;data:image/svg+xml,%0A%3Csvg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;700px&#39; height=&#39;&#39; viewBox=&#39;0 0 24 24&#39;%3E%3Cpath fill=&#39;none&#39; d=&#39;M0 0h24v24H0V0z&#39;/%3E%3Cpath fill=&#39;%23aaa&#39; d=&#39;M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm-1 16H6c-.55 0-1-.45-1-1V6c0-.55.45-1 1-1h12c.55 0 1 .45 1 1v12c0 .55-.45 1-1 1zm-4.44-6.19l-2.35 3.02-1.56-1.88c-.2-.25-.58-.24-.78.01l-1.74 2.23c-.26.33-.02.81.39.81h8.98c.41 0 .65-.47.4-.8l-2.55-3.39c-.19-.26-.59-.26-.79 0z&#39;/%3E%3C/svg%3E&#34; class=&#34;lazyload&#34; style=&#34;width:700px;height:;&#34;/&gt;
+  
+
+  
+  
+    &lt;figcaption style=&#34;text-align: center;&#34;&gt;
+      &lt;strong&gt;Sample Image&lt;/strong&gt;:
+      
+      Image with title, caption, alt, ...
+      
+        
+        
+      
+    &lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+</content:encoded>
         <dc:creator>Helio</dc:creator>
         <media:content url="/https://lh3.googleusercontent.com/RY3gIFrDAqtVxAtcipTECW61gDTtJGYjUOPXzMrK1dh8AlC53qwEtiQrBoalyb5ikUXmi4oDXu_s3qm4puRcimxzQV9Q8TPrbEbTPdIzoE-e18Jq0AfgEJtNh-WcZqPlhPe9XfxoAA=w1920-h1080" medium="image"><media:title type="html">featured image</media:title></media:content>
         
@@ -246,7 +1279,148 @@ Sample Image: Image with title, caption, alt, ...   Sample Image: Image with tit
         <guid>/es/carpinteria/2020-12-13-carpinteria-puertas/</guid>
         <description>Algunas fotos de puertas entregadas.
 Sample Image: Image with title, caption, alt, ...   Sample Image: Image with title, caption, alt, ...   Sample Image: Image with title, caption, alt, ...   Sample Image: Image with title, caption, alt, ...   Sample Image: Image with title, caption, alt, ...   Sample Image: Image with title, caption, alt, ...   Sample Image: Image with title, caption, alt, .</description>
+        <content:encoded>&lt;p&gt;Algunas fotos de puertas entregadas.&lt;/p&gt;
+&lt;figure &gt;
+  
+  
+  
+    &lt;img data-src=&#34;https://lh3.googleusercontent.com/Jd9V3QmImoj3UrTQkmM2d0JohMnmsA4Xk7y1h03UCBGok8GkLjMYTpKV_zOnHxiU2ngnSTn8hRtp8oDQ4rxMBJ80npvXvQBxHRYaKu5Gk4mN-ABb8Wh9wNsbknZUE3Mkg3LMY1jXxQ=w1920-h1080&#34; alt=&#34;image alt&#34; data-caption=&#34;Image with title, caption, alt, ...&#34; src=&#34;data:image/svg+xml,%0A%3Csvg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;700px&#39; height=&#39;&#39; viewBox=&#39;0 0 24 24&#39;%3E%3Cpath fill=&#39;none&#39; d=&#39;M0 0h24v24H0V0z&#39;/%3E%3Cpath fill=&#39;%23aaa&#39; d=&#39;M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm-1 16H6c-.55 0-1-.45-1-1V6c0-.55.45-1 1-1h12c.55 0 1 .45 1 1v12c0 .55-.45 1-1 1zm-4.44-6.19l-2.35 3.02-1.56-1.88c-.2-.25-.58-.24-.78.01l-1.74 2.23c-.26.33-.02.81.39.81h8.98c.41 0 .65-.47.4-.8l-2.55-3.39c-.19-.26-.59-.26-.79 0z&#39;/%3E%3C/svg%3E&#34; class=&#34;lazyload&#34; style=&#34;width:700px;height:;&#34;/&gt;
+  
+
+  
+  
+    &lt;figcaption style=&#34;text-align: center;&#34;&gt;
+      &lt;strong&gt;Sample Image&lt;/strong&gt;:
+      
+      Image with title, caption, alt, ...
+      
         
+        
+      
+    &lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+&lt;figure &gt;
+  
+  
+  
+    &lt;img data-src=&#34;https://lh3.googleusercontent.com/4HQ88Kn83OpAH_Hqn9wxe-w6WEIp8Q04Pl0mXtbEn9-_PWefo-bKGVqGJtA_55a--In0neuCbscgmq3VpYTvkmfFgVz5h-3-4ZN2NXLF4klRjmIYGJIy6sBv-ULyBQtkdxrL2DhSgw=w1920-h1080&#34; alt=&#34;image alt&#34; data-caption=&#34;Image with title, caption, alt, ...&#34; src=&#34;data:image/svg+xml,%0A%3Csvg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;700px&#39; height=&#39;&#39; viewBox=&#39;0 0 24 24&#39;%3E%3Cpath fill=&#39;none&#39; d=&#39;M0 0h24v24H0V0z&#39;/%3E%3Cpath fill=&#39;%23aaa&#39; d=&#39;M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm-1 16H6c-.55 0-1-.45-1-1V6c0-.55.45-1 1-1h12c.55 0 1 .45 1 1v12c0 .55-.45 1-1 1zm-4.44-6.19l-2.35 3.02-1.56-1.88c-.2-.25-.58-.24-.78.01l-1.74 2.23c-.26.33-.02.81.39.81h8.98c.41 0 .65-.47.4-.8l-2.55-3.39c-.19-.26-.59-.26-.79 0z&#39;/%3E%3C/svg%3E&#34; class=&#34;lazyload&#34; style=&#34;width:700px;height:;&#34;/&gt;
+  
+
+  
+  
+    &lt;figcaption style=&#34;text-align: center;&#34;&gt;
+      &lt;strong&gt;Sample Image&lt;/strong&gt;:
+      
+      Image with title, caption, alt, ...
+      
+        
+        
+      
+    &lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+&lt;figure &gt;
+  
+  
+  
+    &lt;img data-src=&#34;https://lh3.googleusercontent.com/p7C_mPKlCN8LoopOcuW0siNho5xhdQFMz9ZUB_ThGT4_xgqBywPjDe00QRkLiJyJWEkDjTppGVeHLBgJVK2fDzg1jL2KY0xV1Ty5za5TWAXeENuAL374ZBDvGbB7FnaDpGgzbaamzA=w1920-h1080&#34; alt=&#34;image alt&#34; data-caption=&#34;Image with title, caption, alt, ...&#34; src=&#34;data:image/svg+xml,%0A%3Csvg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;700px&#39; height=&#39;&#39; viewBox=&#39;0 0 24 24&#39;%3E%3Cpath fill=&#39;none&#39; d=&#39;M0 0h24v24H0V0z&#39;/%3E%3Cpath fill=&#39;%23aaa&#39; d=&#39;M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm-1 16H6c-.55 0-1-.45-1-1V6c0-.55.45-1 1-1h12c.55 0 1 .45 1 1v12c0 .55-.45 1-1 1zm-4.44-6.19l-2.35 3.02-1.56-1.88c-.2-.25-.58-.24-.78.01l-1.74 2.23c-.26.33-.02.81.39.81h8.98c.41 0 .65-.47.4-.8l-2.55-3.39c-.19-.26-.59-.26-.79 0z&#39;/%3E%3C/svg%3E&#34; class=&#34;lazyload&#34; style=&#34;width:700px;height:;&#34;/&gt;
+  
+
+  
+  
+    &lt;figcaption style=&#34;text-align: center;&#34;&gt;
+      &lt;strong&gt;Sample Image&lt;/strong&gt;:
+      
+      Image with title, caption, alt, ...
+      
+        
+        
+      
+    &lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+&lt;figure &gt;
+  
+  
+  
+    &lt;img data-src=&#34;https://lh3.googleusercontent.com/yXznqL0gnHRHGhHXXQNt4pBvI5aEvey3ftlr1CA5csGsJK8kgaPedvC7EvUkBaJubWgY3jhBaqpIiRBx2bjbaSkQNXIw190QTjNKFJAKkh1tuPe5UoXjFWMnxwhWWvCkUEGhE16dCg=w1920-h1080&#34; alt=&#34;image alt&#34; data-caption=&#34;Image with title, caption, alt, ...&#34; src=&#34;data:image/svg+xml,%0A%3Csvg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;700px&#39; height=&#39;&#39; viewBox=&#39;0 0 24 24&#39;%3E%3Cpath fill=&#39;none&#39; d=&#39;M0 0h24v24H0V0z&#39;/%3E%3Cpath fill=&#39;%23aaa&#39; d=&#39;M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm-1 16H6c-.55 0-1-.45-1-1V6c0-.55.45-1 1-1h12c.55 0 1 .45 1 1v12c0 .55-.45 1-1 1zm-4.44-6.19l-2.35 3.02-1.56-1.88c-.2-.25-.58-.24-.78.01l-1.74 2.23c-.26.33-.02.81.39.81h8.98c.41 0 .65-.47.4-.8l-2.55-3.39c-.19-.26-.59-.26-.79 0z&#39;/%3E%3C/svg%3E&#34; class=&#34;lazyload&#34; style=&#34;width:700px;height:;&#34;/&gt;
+  
+
+  
+  
+    &lt;figcaption style=&#34;text-align: center;&#34;&gt;
+      &lt;strong&gt;Sample Image&lt;/strong&gt;:
+      
+      Image with title, caption, alt, ...
+      
+        
+        
+      
+    &lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+&lt;figure &gt;
+  
+  
+  
+    &lt;img data-src=&#34;https://lh3.googleusercontent.com/VcnUChUbfsEliCbdcuoeB6Tg32eai7uBffX5Bwka7pV0Ve2wgjxRp9jYGPQ8jBnk_pwnVJBQEFEeiPQMHQVCZihhwkJoEq1Ek6WP0cXS_qu15aoE98Yhsa0zqAT9FqKEoiddOg4rKQ=w1920-h1080&#34; alt=&#34;image alt&#34; data-caption=&#34;Image with title, caption, alt, ...&#34; src=&#34;data:image/svg+xml,%0A%3Csvg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;700px&#39; height=&#39;&#39; viewBox=&#39;0 0 24 24&#39;%3E%3Cpath fill=&#39;none&#39; d=&#39;M0 0h24v24H0V0z&#39;/%3E%3Cpath fill=&#39;%23aaa&#39; d=&#39;M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm-1 16H6c-.55 0-1-.45-1-1V6c0-.55.45-1 1-1h12c.55 0 1 .45 1 1v12c0 .55-.45 1-1 1zm-4.44-6.19l-2.35 3.02-1.56-1.88c-.2-.25-.58-.24-.78.01l-1.74 2.23c-.26.33-.02.81.39.81h8.98c.41 0 .65-.47.4-.8l-2.55-3.39c-.19-.26-.59-.26-.79 0z&#39;/%3E%3C/svg%3E&#34; class=&#34;lazyload&#34; style=&#34;width:700px;height:;&#34;/&gt;
+  
+
+  
+  
+    &lt;figcaption style=&#34;text-align: center;&#34;&gt;
+      &lt;strong&gt;Sample Image&lt;/strong&gt;:
+      
+      Image with title, caption, alt, ...
+      
+        
+        
+      
+    &lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+&lt;figure &gt;
+  
+  
+  
+    &lt;img data-src=&#34;https://lh3.googleusercontent.com/cZ8rZirhLERqo5IcDL9S4neyU4R5Y4yy7Vluk0S1k3n47xnOigbPruWMtQQ8LSNrElA2ycp0ZL8mEJGzLIYL9BGxoHynT0GCAjB5cLnzzH5JhYTNpqU5b_F1lEyvfMgm8WbpPPdfuQ=w1920-h1080&#34; alt=&#34;image alt&#34; data-caption=&#34;Image with title, caption, alt, ...&#34; src=&#34;data:image/svg+xml,%0A%3Csvg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;700px&#39; height=&#39;&#39; viewBox=&#39;0 0 24 24&#39;%3E%3Cpath fill=&#39;none&#39; d=&#39;M0 0h24v24H0V0z&#39;/%3E%3Cpath fill=&#39;%23aaa&#39; d=&#39;M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm-1 16H6c-.55 0-1-.45-1-1V6c0-.55.45-1 1-1h12c.55 0 1 .45 1 1v12c0 .55-.45 1-1 1zm-4.44-6.19l-2.35 3.02-1.56-1.88c-.2-.25-.58-.24-.78.01l-1.74 2.23c-.26.33-.02.81.39.81h8.98c.41 0 .65-.47.4-.8l-2.55-3.39c-.19-.26-.59-.26-.79 0z&#39;/%3E%3C/svg%3E&#34; class=&#34;lazyload&#34; style=&#34;width:700px;height:;&#34;/&gt;
+  
+
+  
+  
+    &lt;figcaption style=&#34;text-align: center;&#34;&gt;
+      &lt;strong&gt;Sample Image&lt;/strong&gt;:
+      
+      Image with title, caption, alt, ...
+      
+        
+        
+      
+    &lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+&lt;figure &gt;
+  
+  
+  
+    &lt;img data-src=&#34;https://lh3.googleusercontent.com/jkoJfV1SwcKcnIWdGIwimo0tWiBBwYgj9jW3HAR-ei9RT8uXYAWyubV1HomFALqbbGgjaYQfIpMV8BYyhSTJ4vdalSBF1rTwh5E7JPL4HUHIij4yKx_-OrQOXNPZ8lPv6hR-jmmgow=w1920-h1080&#34; alt=&#34;image alt&#34; data-caption=&#34;Image with title, caption, alt, ...&#34; src=&#34;data:image/svg+xml,%0A%3Csvg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;700px&#39; height=&#39;&#39; viewBox=&#39;0 0 24 24&#39;%3E%3Cpath fill=&#39;none&#39; d=&#39;M0 0h24v24H0V0z&#39;/%3E%3Cpath fill=&#39;%23aaa&#39; d=&#39;M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm-1 16H6c-.55 0-1-.45-1-1V6c0-.55.45-1 1-1h12c.55 0 1 .45 1 1v12c0 .55-.45 1-1 1zm-4.44-6.19l-2.35 3.02-1.56-1.88c-.2-.25-.58-.24-.78.01l-1.74 2.23c-.26.33-.02.81.39.81h8.98c.41 0 .65-.47.4-.8l-2.55-3.39c-.19-.26-.59-.26-.79 0z&#39;/%3E%3C/svg%3E&#34; class=&#34;lazyload&#34; style=&#34;width:700px;height:;&#34;/&gt;
+  
+
+  
+  
+    &lt;figcaption style=&#34;text-align: center;&#34;&gt;
+      &lt;strong&gt;Sample Image&lt;/strong&gt;:
+      
+      Image with title, caption, alt, ...
+      
+        
+        
+      
+    &lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+</content:encoded>
         <dc:creator>Helio</dc:creator>
         <media:content url="/https://lh3.googleusercontent.com/yXznqL0gnHRHGhHXXQNt4pBvI5aEvey3ftlr1CA5csGsJK8kgaPedvC7EvUkBaJubWgY3jhBaqpIiRBx2bjbaSkQNXIw190QTjNKFJAKkh1tuPe5UoXjFWMnxwhWWvCkUEGhE16dCg=w1920-h1080" medium="image"><media:title type="html">featured image</media:title></media:content>
         
@@ -281,7 +1455,170 @@ Sample Image: Image with title, caption, alt, ...   Sample Image: Image with tit
         <guid>/es/carpinteria/carpinteria_01_cocinas/</guid>
         <description>Algunas fotos de cocinas entregadas.
 Sample Image: Image with title, caption, alt, ...   Sample Image: Image with title, caption, alt, ...   Sample Image: Image with title, caption, alt, ...   Sample Image: Image with title, caption, alt, ...   Sample Image: Image with title, caption, alt, ...   Sample Image: Image with title, caption, alt, ...   Sample Image: Image with title, caption, alt, .</description>
+        <content:encoded>&lt;p&gt;Algunas fotos de cocinas entregadas.&lt;/p&gt;
+&lt;figure &gt;
+  
+  
+  
+    &lt;img data-src=&#34;/images/nuevas/cocina_01.jpg&#34; alt=&#34;image alt&#34; data-caption=&#34;Image with title, caption, alt, ...&#34; src=&#34;data:image/svg+xml,%0A%3Csvg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;700px&#39; height=&#39;&#39; viewBox=&#39;0 0 24 24&#39;%3E%3Cpath fill=&#39;none&#39; d=&#39;M0 0h24v24H0V0z&#39;/%3E%3Cpath fill=&#39;%23aaa&#39; d=&#39;M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm-1 16H6c-.55 0-1-.45-1-1V6c0-.55.45-1 1-1h12c.55 0 1 .45 1 1v12c0 .55-.45 1-1 1zm-4.44-6.19l-2.35 3.02-1.56-1.88c-.2-.25-.58-.24-.78.01l-1.74 2.23c-.26.33-.02.81.39.81h8.98c.41 0 .65-.47.4-.8l-2.55-3.39c-.19-.26-.59-.26-.79 0z&#39;/%3E%3C/svg%3E&#34; class=&#34;lazyload&#34; style=&#34;width:700px;height:;&#34;/&gt;
+  
+
+  
+  
+    &lt;figcaption style=&#34;text-align: center;&#34;&gt;
+      &lt;strong&gt;Sample Image&lt;/strong&gt;:
+      
+      Image with title, caption, alt, ...
+      
         
+        
+      
+    &lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+&lt;figure &gt;
+  
+  
+  
+    &lt;img data-src=&#34;/images/nuevas/cocina_02.jpg&#34; alt=&#34;image alt&#34; data-caption=&#34;Image with title, caption, alt, ...&#34; src=&#34;data:image/svg+xml,%0A%3Csvg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;700px&#39; height=&#39;&#39; viewBox=&#39;0 0 24 24&#39;%3E%3Cpath fill=&#39;none&#39; d=&#39;M0 0h24v24H0V0z&#39;/%3E%3Cpath fill=&#39;%23aaa&#39; d=&#39;M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm-1 16H6c-.55 0-1-.45-1-1V6c0-.55.45-1 1-1h12c.55 0 1 .45 1 1v12c0 .55-.45 1-1 1zm-4.44-6.19l-2.35 3.02-1.56-1.88c-.2-.25-.58-.24-.78.01l-1.74 2.23c-.26.33-.02.81.39.81h8.98c.41 0 .65-.47.4-.8l-2.55-3.39c-.19-.26-.59-.26-.79 0z&#39;/%3E%3C/svg%3E&#34; class=&#34;lazyload&#34; style=&#34;width:700px;height:;&#34;/&gt;
+  
+
+  
+  
+    &lt;figcaption style=&#34;text-align: center;&#34;&gt;
+      &lt;strong&gt;Sample Image&lt;/strong&gt;:
+      
+      Image with title, caption, alt, ...
+      
+        
+        
+      
+    &lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+&lt;figure &gt;
+  
+  
+  
+    &lt;img data-src=&#34;/images/nuevas/cocina_03.jpg&#34; alt=&#34;image alt&#34; data-caption=&#34;Image with title, caption, alt, ...&#34; src=&#34;data:image/svg+xml,%0A%3Csvg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;700px&#39; height=&#39;&#39; viewBox=&#39;0 0 24 24&#39;%3E%3Cpath fill=&#39;none&#39; d=&#39;M0 0h24v24H0V0z&#39;/%3E%3Cpath fill=&#39;%23aaa&#39; d=&#39;M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm-1 16H6c-.55 0-1-.45-1-1V6c0-.55.45-1 1-1h12c.55 0 1 .45 1 1v12c0 .55-.45 1-1 1zm-4.44-6.19l-2.35 3.02-1.56-1.88c-.2-.25-.58-.24-.78.01l-1.74 2.23c-.26.33-.02.81.39.81h8.98c.41 0 .65-.47.4-.8l-2.55-3.39c-.19-.26-.59-.26-.79 0z&#39;/%3E%3C/svg%3E&#34; class=&#34;lazyload&#34; style=&#34;width:700px;height:;&#34;/&gt;
+  
+
+  
+  
+    &lt;figcaption style=&#34;text-align: center;&#34;&gt;
+      &lt;strong&gt;Sample Image&lt;/strong&gt;:
+      
+      Image with title, caption, alt, ...
+      
+        
+        
+      
+    &lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+&lt;figure &gt;
+  
+  
+  
+    &lt;img data-src=&#34;/images/nuevas/cocina_04.jpg&#34; alt=&#34;image alt&#34; data-caption=&#34;Image with title, caption, alt, ...&#34; src=&#34;data:image/svg+xml,%0A%3Csvg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;700px&#39; height=&#39;&#39; viewBox=&#39;0 0 24 24&#39;%3E%3Cpath fill=&#39;none&#39; d=&#39;M0 0h24v24H0V0z&#39;/%3E%3Cpath fill=&#39;%23aaa&#39; d=&#39;M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm-1 16H6c-.55 0-1-.45-1-1V6c0-.55.45-1 1-1h12c.55 0 1 .45 1 1v12c0 .55-.45 1-1 1zm-4.44-6.19l-2.35 3.02-1.56-1.88c-.2-.25-.58-.24-.78.01l-1.74 2.23c-.26.33-.02.81.39.81h8.98c.41 0 .65-.47.4-.8l-2.55-3.39c-.19-.26-.59-.26-.79 0z&#39;/%3E%3C/svg%3E&#34; class=&#34;lazyload&#34; style=&#34;width:700px;height:;&#34;/&gt;
+  
+
+  
+  
+    &lt;figcaption style=&#34;text-align: center;&#34;&gt;
+      &lt;strong&gt;Sample Image&lt;/strong&gt;:
+      
+      Image with title, caption, alt, ...
+      
+        
+        
+      
+    &lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+&lt;figure &gt;
+  
+  
+  
+    &lt;img data-src=&#34;/images/nuevas/cocina_05.jpg&#34; alt=&#34;image alt&#34; data-caption=&#34;Image with title, caption, alt, ...&#34; src=&#34;data:image/svg+xml,%0A%3Csvg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;700px&#39; height=&#39;&#39; viewBox=&#39;0 0 24 24&#39;%3E%3Cpath fill=&#39;none&#39; d=&#39;M0 0h24v24H0V0z&#39;/%3E%3Cpath fill=&#39;%23aaa&#39; d=&#39;M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm-1 16H6c-.55 0-1-.45-1-1V6c0-.55.45-1 1-1h12c.55 0 1 .45 1 1v12c0 .55-.45 1-1 1zm-4.44-6.19l-2.35 3.02-1.56-1.88c-.2-.25-.58-.24-.78.01l-1.74 2.23c-.26.33-.02.81.39.81h8.98c.41 0 .65-.47.4-.8l-2.55-3.39c-.19-.26-.59-.26-.79 0z&#39;/%3E%3C/svg%3E&#34; class=&#34;lazyload&#34; style=&#34;width:700px;height:;&#34;/&gt;
+  
+
+  
+  
+    &lt;figcaption style=&#34;text-align: center;&#34;&gt;
+      &lt;strong&gt;Sample Image&lt;/strong&gt;:
+      
+      Image with title, caption, alt, ...
+      
+        
+        
+      
+    &lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+&lt;figure &gt;
+  
+  
+  
+    &lt;img data-src=&#34;/images/nuevas/cocina_06.jpg&#34; alt=&#34;image alt&#34; data-caption=&#34;Image with title, caption, alt, ...&#34; src=&#34;data:image/svg+xml,%0A%3Csvg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;700px&#39; height=&#39;&#39; viewBox=&#39;0 0 24 24&#39;%3E%3Cpath fill=&#39;none&#39; d=&#39;M0 0h24v24H0V0z&#39;/%3E%3Cpath fill=&#39;%23aaa&#39; d=&#39;M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm-1 16H6c-.55 0-1-.45-1-1V6c0-.55.45-1 1-1h12c.55 0 1 .45 1 1v12c0 .55-.45 1-1 1zm-4.44-6.19l-2.35 3.02-1.56-1.88c-.2-.25-.58-.24-.78.01l-1.74 2.23c-.26.33-.02.81.39.81h8.98c.41 0 .65-.47.4-.8l-2.55-3.39c-.19-.26-.59-.26-.79 0z&#39;/%3E%3C/svg%3E&#34; class=&#34;lazyload&#34; style=&#34;width:700px;height:;&#34;/&gt;
+  
+
+  
+  
+    &lt;figcaption style=&#34;text-align: center;&#34;&gt;
+      &lt;strong&gt;Sample Image&lt;/strong&gt;:
+      
+      Image with title, caption, alt, ...
+      
+        
+        
+      
+    &lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+&lt;figure &gt;
+  
+  
+  
+    &lt;img data-src=&#34;/images/nuevas/cocina_07.jpg&#34; alt=&#34;image alt&#34; data-caption=&#34;Image with title, caption, alt, ...&#34; src=&#34;data:image/svg+xml,%0A%3Csvg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;700px&#39; height=&#39;&#39; viewBox=&#39;0 0 24 24&#39;%3E%3Cpath fill=&#39;none&#39; d=&#39;M0 0h24v24H0V0z&#39;/%3E%3Cpath fill=&#39;%23aaa&#39; d=&#39;M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm-1 16H6c-.55 0-1-.45-1-1V6c0-.55.45-1 1-1h12c.55 0 1 .45 1 1v12c0 .55-.45 1-1 1zm-4.44-6.19l-2.35 3.02-1.56-1.88c-.2-.25-.58-.24-.78.01l-1.74 2.23c-.26.33-.02.81.39.81h8.98c.41 0 .65-.47.4-.8l-2.55-3.39c-.19-.26-.59-.26-.79 0z&#39;/%3E%3C/svg%3E&#34; class=&#34;lazyload&#34; style=&#34;width:700px;height:;&#34;/&gt;
+  
+
+  
+  
+    &lt;figcaption style=&#34;text-align: center;&#34;&gt;
+      &lt;strong&gt;Sample Image&lt;/strong&gt;:
+      
+      Image with title, caption, alt, ...
+      
+        
+        
+      
+    &lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+&lt;figure &gt;
+  
+  
+  
+    &lt;img data-src=&#34;/images/nuevas/cocina_08.jpg&#34; alt=&#34;image alt&#34; data-caption=&#34;Image with title, caption, alt, ...&#34; src=&#34;data:image/svg+xml,%0A%3Csvg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;700px&#39; height=&#39;&#39; viewBox=&#39;0 0 24 24&#39;%3E%3Cpath fill=&#39;none&#39; d=&#39;M0 0h24v24H0V0z&#39;/%3E%3Cpath fill=&#39;%23aaa&#39; d=&#39;M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm-1 16H6c-.55 0-1-.45-1-1V6c0-.55.45-1 1-1h12c.55 0 1 .45 1 1v12c0 .55-.45 1-1 1zm-4.44-6.19l-2.35 3.02-1.56-1.88c-.2-.25-.58-.24-.78.01l-1.74 2.23c-.26.33-.02.81.39.81h8.98c.41 0 .65-.47.4-.8l-2.55-3.39c-.19-.26-.59-.26-.79 0z&#39;/%3E%3C/svg%3E&#34; class=&#34;lazyload&#34; style=&#34;width:700px;height:;&#34;/&gt;
+  
+
+  
+  
+    &lt;figcaption style=&#34;text-align: center;&#34;&gt;
+      &lt;strong&gt;Sample Image&lt;/strong&gt;:
+      
+      Image with title, caption, alt, ...
+      
+        
+        
+      
+    &lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+&lt;h3 id=&#34;modelo-de-muestra&#34;&gt;Modelo de muestra&lt;/h3&gt;
+&lt;iframe width=&#34;100%&#34; height=&#34;430&#34; src=&#34;https://www.youtube.com/embed/Gbo7EmdtjuU?autoplay=1&amp;loop=1&#34; frameborder=&#34;0&#34;  allowfullscreen&gt;&lt;/iframe&gt;
+&lt;div class=&#39;modelo-wrapper&#39;&gt; &lt;div style=&#34;width: 100%; padding-bottom: 56.25%; position: relative&#34;&gt; &lt;div style=&#34;position: absolute; top: 0; bottom: 0; left: 0; right: 0;&#34;&gt; &lt;iframe src=&#34;https://app.modelo.io/embedded/1Nmg3huZRm?viewport=false&amp;autoplay=true&amp;autoRotate=true&amp;hideTools=false&#34; style=&#34;width:100%;height:100%;&#34; frameborder=&#34;0&#34; mozallowfullscreen webkitallowfullscreen allowfullscreen &gt;&lt;/iframe&gt; &lt;/div&gt; &lt;/div&gt; &lt;/div&gt;</content:encoded>
         <dc:creator>Helio</dc:creator>
         <media:content url="//images/nuevas/cocina_06.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
         

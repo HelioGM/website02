@@ -15,6 +15,8 @@
     <webMaster>helio4gm@gmail.com (García-Mendívil, Helio A.)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Sun, 13 Dec 2020 20:12:00 -0800</lastBuildDate>
+    <sy:updatePeriod>daily</sy:updatePeriod>
+    <sy:updateFrequency>daily</sy:updateFrequency>
     
         <atom:link href="/es/tags/armarios/index.xml" rel="self" type="application/rss+xml" />
     
@@ -31,7 +33,199 @@
         <guid>/es/carpinteria/2020-12-13-carpinteria-armarios/</guid>
         <description>Marzo, 2018 Enero, 2019 Marzo, 2019    Mostrar la imagen  Armario fabricado en&amp;hellip;
    Mostrar la imagen     Mostrar la imagen     Mostrar la imagen     Mostrar la imagen     Mostrar la imagen     Mostrar la imagen     Mostrar la imagen     Mostrar la imagen     Mostrar la imagen     Mostrar la imagen     &#39;use strict&#39;; var containerId = JSON.</description>
-        
+        <content:encoded>
+&lt;div id=&#34;ed0f9e10f27df197&#34; class=&#34;tab&#34;&gt;
+  &lt;div class=&#34;tab__links&#34;&gt;
+    
+      &lt;button class=&#34;tab__link&#34; aria-label=&#34;Tab link&#34;&gt;Marzo, 2018&lt;/button&gt;
+    
+      &lt;button class=&#34;tab__link&#34; aria-label=&#34;Tab link&#34;&gt;Enero, 2019&lt;/button&gt;
+    
+      &lt;button class=&#34;tab__link&#34; aria-label=&#34;Tab link&#34;&gt;Marzo, 2019&lt;/button&gt;
+    
+  &lt;/div&gt;
+  
+
+
+&lt;div id=&#34;3bcee0b8913fa0f3&#34; class=&#34;tab__content&#34;&gt;
+  &lt;div class=&#34;expand&#34;&gt;
+  &lt;button type=&#34;button&#34; class=&#34;expand__button&#34; aria-label=&#34;Expand Button&#34;&gt;
+    &lt;span class=&#34;expand-icon expand-icon__right&#34;&gt;
+        &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; width=&#34;24&#34; height=&#34;24&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;currentColor&#34; d=&#34;M9.29 15.88L13.17 12 9.29 8.12c-.39-.39-.39-1.02 0-1.41.39-.39 1.02-.39 1.41 0l4.59 4.59c.39.39.39 1.02 0 1.41L10.7 17.3c-.39.39-1.02.39-1.41 0-.38-.39-.39-1.03 0-1.42z&#34;/&gt;&lt;/svg&gt;
+    &lt;/span&gt;
+    Mostrar la imagen
+  &lt;/button&gt;
+  &lt;div class=&#34;expand__content&#34;&gt;
+    Armario fabricado en&amp;hellip;&lt;br /&gt;
+&lt;img src=&#34;https://lh3.googleusercontent.com/XaNCQ94Yxg_NJtkgwEwNZN2Iwy76J0baoS3ympFEUBOpG-OzZphRF7TVKNSWLvjVMTbkFnbcbv-teBil_x33IgSXeFa7jB971-delCWjtd-tBbp-bV6mFEhRNPoD73ME3Y9yv7cn_g=w1920-h1080&#34; alt=&#34;Armario01&#34; title=&#34;Armario fabricado en...&#34; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;expand&#34;&gt;
+  &lt;button type=&#34;button&#34; class=&#34;expand__button&#34; aria-label=&#34;Expand Button&#34;&gt;
+    &lt;span class=&#34;expand-icon expand-icon__right&#34;&gt;
+        &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; width=&#34;24&#34; height=&#34;24&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;currentColor&#34; d=&#34;M9.29 15.88L13.17 12 9.29 8.12c-.39-.39-.39-1.02 0-1.41.39-.39 1.02-.39 1.41 0l4.59 4.59c.39.39.39 1.02 0 1.41L10.7 17.3c-.39.39-1.02.39-1.41 0-.38-.39-.39-1.03 0-1.42z&#34;/&gt;&lt;/svg&gt;
+    &lt;/span&gt;
+    Mostrar la imagen
+  &lt;/button&gt;
+  &lt;div class=&#34;expand__content&#34;&gt;
+    &lt;img src=&#34;https://lh3.googleusercontent.com/pw/ACtC-3dJiT7mlzoE-3ZjvFiBeltqFFw2PpVzJwi4yolR1ZcVrfSHiwVMRepB1sM3XtkMJkMk8KTUA7mu73ACWbLfHal4IFHEnhtmMo0HrklQarjTp5GpjlcjrMVvWQqTgE-T2balDkORZ1asgKj2hp6aFFxI=w489-h868-no?authuser=3&#34; alt=&#34;Armario02&#34; title=&#34;title here&#34; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;expand&#34;&gt;
+  &lt;button type=&#34;button&#34; class=&#34;expand__button&#34; aria-label=&#34;Expand Button&#34;&gt;
+    &lt;span class=&#34;expand-icon expand-icon__right&#34;&gt;
+        &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; width=&#34;24&#34; height=&#34;24&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;currentColor&#34; d=&#34;M9.29 15.88L13.17 12 9.29 8.12c-.39-.39-.39-1.02 0-1.41.39-.39 1.02-.39 1.41 0l4.59 4.59c.39.39.39 1.02 0 1.41L10.7 17.3c-.39.39-1.02.39-1.41 0-.38-.39-.39-1.03 0-1.42z&#34;/&gt;&lt;/svg&gt;
+    &lt;/span&gt;
+    Mostrar la imagen
+  &lt;/button&gt;
+  &lt;div class=&#34;expand__content&#34;&gt;
+    &lt;img src=&#34;https://lh3.googleusercontent.com/pw/ACtC-3dCT9ZxxsDWVAH1feyhljwFmA4UH_NTGACrGE69I5cgos-3bhRbEuz3xvi7O3Vr0zNRNlGAQO30otVRDGytPVIYgjKTT5xMeGbj_EvMqEwvCk48KEYYz_EQeCr-u1RNZzMQJbTcm2IflGu4NMSbSLtr=w637-h868-no?authuser=3&#34; alt=&#34;Armario03&#34; title=&#34;title here&#34; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;expand&#34;&gt;
+  &lt;button type=&#34;button&#34; class=&#34;expand__button&#34; aria-label=&#34;Expand Button&#34;&gt;
+    &lt;span class=&#34;expand-icon expand-icon__right&#34;&gt;
+        &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; width=&#34;24&#34; height=&#34;24&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;currentColor&#34; d=&#34;M9.29 15.88L13.17 12 9.29 8.12c-.39-.39-.39-1.02 0-1.41.39-.39 1.02-.39 1.41 0l4.59 4.59c.39.39.39 1.02 0 1.41L10.7 17.3c-.39.39-1.02.39-1.41 0-.38-.39-.39-1.03 0-1.42z&#34;/&gt;&lt;/svg&gt;
+    &lt;/span&gt;
+    Mostrar la imagen
+  &lt;/button&gt;
+  &lt;div class=&#34;expand__content&#34;&gt;
+    &lt;img src=&#34;https://lh3.googleusercontent.com/pw/ACtC-3evGG4Qkr0R80Wam99tjlfm5KC2bnjZdtuN0rSze1acCRNFw0eBHZZA4lxjicysbSLp24R5LMZOTnSBBC1ROORaRYzHCPMs2VFGQEqege8dUs6G740BHUc291BYz7Fv41XB9PiyxKmmyYbC3zrUSxbv=w653-h869-no?authuser=3&#34; alt=&#34;Armario04&#34; title=&#34;title here&#34; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;expand&#34;&gt;
+  &lt;button type=&#34;button&#34; class=&#34;expand__button&#34; aria-label=&#34;Expand Button&#34;&gt;
+    &lt;span class=&#34;expand-icon expand-icon__right&#34;&gt;
+        &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; width=&#34;24&#34; height=&#34;24&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;currentColor&#34; d=&#34;M9.29 15.88L13.17 12 9.29 8.12c-.39-.39-.39-1.02 0-1.41.39-.39 1.02-.39 1.41 0l4.59 4.59c.39.39.39 1.02 0 1.41L10.7 17.3c-.39.39-1.02.39-1.41 0-.38-.39-.39-1.03 0-1.42z&#34;/&gt;&lt;/svg&gt;
+    &lt;/span&gt;
+    Mostrar la imagen
+  &lt;/button&gt;
+  &lt;div class=&#34;expand__content&#34;&gt;
+    &lt;img src=&#34;https://lh3.googleusercontent.com/pw/ACtC-3e5pA_HYCyd9WTSdPR9ZpT2iZffb7XkmWCgeDFGRDlgXe5eLJ1oTVsRWf2dFHBIMTfgtL4JkMjNuVg8mPDlAx4qTU-1Ezl9cpX10qifkybh-cQjdl6b6BW13eDm4bm2LNoAyFHs9mg0_f-F1e59xTeF=w489-h868-no?authuser=3&#34; alt=&#34;Armario05&#34; title=&#34;title here&#34; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+
+&lt;div id=&#34;a168e3e133ed4ea2&#34; class=&#34;tab__content&#34;&gt;
+  &lt;div class=&#34;expand&#34;&gt;
+  &lt;button type=&#34;button&#34; class=&#34;expand__button&#34; aria-label=&#34;Expand Button&#34;&gt;
+    &lt;span class=&#34;expand-icon expand-icon__right&#34;&gt;
+        &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; width=&#34;24&#34; height=&#34;24&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;currentColor&#34; d=&#34;M9.29 15.88L13.17 12 9.29 8.12c-.39-.39-.39-1.02 0-1.41.39-.39 1.02-.39 1.41 0l4.59 4.59c.39.39.39 1.02 0 1.41L10.7 17.3c-.39.39-1.02.39-1.41 0-.38-.39-.39-1.03 0-1.42z&#34;/&gt;&lt;/svg&gt;
+    &lt;/span&gt;
+    Mostrar la imagen
+  &lt;/button&gt;
+  &lt;div class=&#34;expand__content&#34;&gt;
+    &lt;img src=&#34;https://lh3.googleusercontent.com/bcI68xNxV54AaKkBmYUb5aBSAhX2w9ARpIDCNXAW3PJtCl0Y95sXC6ggwiam-QkLd1dk7fZtSdKp6P03NNRsdblWcD6RWjIKaTdQq5or30TeF8Z4KdJwn_a-ODle8Pt-BpllUUaXDA=w1920-h1080&#34; alt=&#34;Armario06&#34; title=&#34;title here&#34; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;expand&#34;&gt;
+  &lt;button type=&#34;button&#34; class=&#34;expand__button&#34; aria-label=&#34;Expand Button&#34;&gt;
+    &lt;span class=&#34;expand-icon expand-icon__right&#34;&gt;
+        &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; width=&#34;24&#34; height=&#34;24&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;currentColor&#34; d=&#34;M9.29 15.88L13.17 12 9.29 8.12c-.39-.39-.39-1.02 0-1.41.39-.39 1.02-.39 1.41 0l4.59 4.59c.39.39.39 1.02 0 1.41L10.7 17.3c-.39.39-1.02.39-1.41 0-.38-.39-.39-1.03 0-1.42z&#34;/&gt;&lt;/svg&gt;
+    &lt;/span&gt;
+    Mostrar la imagen
+  &lt;/button&gt;
+  &lt;div class=&#34;expand__content&#34;&gt;
+    &lt;img src=&#34;https://lh3.googleusercontent.com/e8ajGFCPXBtVCQ0xWCyXS8UnwwqBejbtaryR20Cbrln6-5rJ2QPmgWSA2h9yz7rs2Ohu0jMjGVyTwGnRnwV1YABlryXHgeSJD79xnEdGHz3LvnKHi1RUW1L6ho3Q3ngrl7KwY5u7cg=w1920-h1080&#34; alt=&#34;Armario07&#34; title=&#34;title here&#34; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+
+&lt;div id=&#34;adb67c668145d1e6&#34; class=&#34;tab__content&#34;&gt;
+  &lt;div class=&#34;expand&#34;&gt;
+  &lt;button type=&#34;button&#34; class=&#34;expand__button&#34; aria-label=&#34;Expand Button&#34;&gt;
+    &lt;span class=&#34;expand-icon expand-icon__right&#34;&gt;
+        &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; width=&#34;24&#34; height=&#34;24&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;currentColor&#34; d=&#34;M9.29 15.88L13.17 12 9.29 8.12c-.39-.39-.39-1.02 0-1.41.39-.39 1.02-.39 1.41 0l4.59 4.59c.39.39.39 1.02 0 1.41L10.7 17.3c-.39.39-1.02.39-1.41 0-.38-.39-.39-1.03 0-1.42z&#34;/&gt;&lt;/svg&gt;
+    &lt;/span&gt;
+    Mostrar la imagen
+  &lt;/button&gt;
+  &lt;div class=&#34;expand__content&#34;&gt;
+    &lt;img src=&#34;https://lh3.googleusercontent.com/WXjSVdhjzGigZwFznoWOV4CefOyMDjdoWDj53XKBsJ1CzUwFS_TRE7cEdiwl9ANJoW3_u_a8YQDsDID9oCz_QIIPM1BjfaHITqusYK9-TM_cvJtYxhv6eLUw2xTveJ3riYt2MSGTkw=w1920-h1080&#34; alt=&#34;Armario08&#34; title=&#34;title here&#34; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;expand&#34;&gt;
+  &lt;button type=&#34;button&#34; class=&#34;expand__button&#34; aria-label=&#34;Expand Button&#34;&gt;
+    &lt;span class=&#34;expand-icon expand-icon__right&#34;&gt;
+        &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; width=&#34;24&#34; height=&#34;24&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;currentColor&#34; d=&#34;M9.29 15.88L13.17 12 9.29 8.12c-.39-.39-.39-1.02 0-1.41.39-.39 1.02-.39 1.41 0l4.59 4.59c.39.39.39 1.02 0 1.41L10.7 17.3c-.39.39-1.02.39-1.41 0-.38-.39-.39-1.03 0-1.42z&#34;/&gt;&lt;/svg&gt;
+    &lt;/span&gt;
+    Mostrar la imagen
+  &lt;/button&gt;
+  &lt;div class=&#34;expand__content&#34;&gt;
+    &lt;img src=&#34;https://lh3.googleusercontent.com/t1aHZJBvT_Nkf8s46x9kYAhDRLE1sgzvDMZ2hjMBB7xhefTqoYM_2A9ldTOhv9-e_2uzXkKOVBQ7Ijo4_LXZYvg6zKVLdRqBFOwzyu_ZPI00KKuIwkTRSBFn03gxXCD67mRG6qFhvQ=w1920-h1080&#34; alt=&#34;Armario09&#34; title=&#34;title here&#34; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;expand&#34;&gt;
+  &lt;button type=&#34;button&#34; class=&#34;expand__button&#34; aria-label=&#34;Expand Button&#34;&gt;
+    &lt;span class=&#34;expand-icon expand-icon__right&#34;&gt;
+        &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; width=&#34;24&#34; height=&#34;24&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;currentColor&#34; d=&#34;M9.29 15.88L13.17 12 9.29 8.12c-.39-.39-.39-1.02 0-1.41.39-.39 1.02-.39 1.41 0l4.59 4.59c.39.39.39 1.02 0 1.41L10.7 17.3c-.39.39-1.02.39-1.41 0-.38-.39-.39-1.03 0-1.42z&#34;/&gt;&lt;/svg&gt;
+    &lt;/span&gt;
+    Mostrar la imagen
+  &lt;/button&gt;
+  &lt;div class=&#34;expand__content&#34;&gt;
+    &lt;img src=&#34;https://lh3.googleusercontent.com/bxb_zTjybFdErqarTcCiAg4kfiAsElOjTH4agMAI8hIWUc2YdytOLBlrfJ3mFapomse9vsNXhXsI7-DxmPi8LaC_bYIrVNpKECZ3vvXcLu2s3l_AtwqGSXv06W_n_zH4FQYD_eu4oQ=w1920-h1080&#34; alt=&#34;Armario10&#34; title=&#34;title here&#34; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;expand&#34;&gt;
+  &lt;button type=&#34;button&#34; class=&#34;expand__button&#34; aria-label=&#34;Expand Button&#34;&gt;
+    &lt;span class=&#34;expand-icon expand-icon__right&#34;&gt;
+        &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; width=&#34;24&#34; height=&#34;24&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;currentColor&#34; d=&#34;M9.29 15.88L13.17 12 9.29 8.12c-.39-.39-.39-1.02 0-1.41.39-.39 1.02-.39 1.41 0l4.59 4.59c.39.39.39 1.02 0 1.41L10.7 17.3c-.39.39-1.02.39-1.41 0-.38-.39-.39-1.03 0-1.42z&#34;/&gt;&lt;/svg&gt;
+    &lt;/span&gt;
+    Mostrar la imagen
+  &lt;/button&gt;
+  &lt;div class=&#34;expand__content&#34;&gt;
+    &lt;img src=&#34;https://lh3.googleusercontent.com/rUFEFKrhJclo9Gaw2ZZ7821goGECTKjrOOQ_fCPWcbv4EBWx2j8KAfOEgbphPRzNXJp-SJFw1gxuaN7z2oF_VX1OvCntIfxJXG0FgzwWmAGiQwjkY3kEnmEeea76WvTDsXnp-aKotA=w1920-h1080&#34; alt=&#34;Armario11&#34; title=&#34;title here&#34; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+
+
+
+&lt;/div&gt;
+
+&lt;script&gt;
+  &#39;use strict&#39;;
+
+  var containerId = JSON.parse(&#34;\&#34;ed0f9e10f27df197\&#34;&#34;);
+  var containerElem = document.getElementById(containerId);
+  var tabLinks = null;
+  var tabContents = null;
+  var ids = [];
+
+  if (containerElem) {
+    tabLinks = containerElem.querySelectorAll(&#39;.tab__link&#39;);
+    tabContents = containerElem.querySelectorAll(&#39;.tab__content&#39;);
+  }
+
+  for (var i = 0; i &lt; tabContents.length; i++) {
+    ids = ids.concat(tabContents[i].getAttribute(&#39;id&#39;));
+    tabContents[i].style.display = &#39;none&#39;;
+
+    if (0 === parseInt(i, 10) &amp;&amp; !tabContents[i].classList.contains(&#39;active&#39;)) {
+      tabContents[i].classList.add(&#39;active&#39;);
+    }
+  }
+
+  for (var i = 0; i &lt; tabLinks.length; i++) {
+    tabLinks[i].setAttribute(&#39;id&#39;, ids[i]);
+
+    if (0 === parseInt(i, 10) &amp;&amp; !tabLinks[i].classList.contains(&#39;active&#39;)) {
+      tabLinks[i].classList.add(&#39;active&#39;);
+    } else {
+      tabLinks[i].classList.remove(&#39;active&#39;);
+    }
+  }
+
+  if (tabContents.length &gt; 0) {
+    tabContents[0].style.display = &#39;block&#39;;
+  }
+&lt;/script&gt;
+</content:encoded>
         <dc:creator>Helio</dc:creator>
         <media:content url="/https://lh3.googleusercontent.com/bcI68xNxV54AaKkBmYUb5aBSAhX2w9ARpIDCNXAW3PJtCl0Y95sXC6ggwiam-QkLd1dk7fZtSdKp6P03NNRsdblWcD6RWjIKaTdQq5or30TeF8Z4KdJwn_a-ODle8Pt-BpllUUaXDA=w1920-h1080" medium="image"><media:title type="html">featured image</media:title></media:content>
         

@@ -15,6 +15,8 @@
     <webMaster>helio4gm@gmail.com (García-Mendívil, Helio A.)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Wed, 30 Dec 2020 18:21:17 -0800</lastBuildDate>
+    <sy:updatePeriod>daily</sy:updatePeriod>
+    <sy:updateFrequency>daily</sy:updateFrequency>
     
         <atom:link href="/es/series/index.xml" rel="self" type="application/rss+xml" />
     
@@ -30,7 +32,7 @@
         
         <guid>/es/series/aprendiendo-estad%C3%ADstica-con-r/</guid>
         <description></description>
-        
+        <content:encoded></content:encoded>
         <dc:creator>García-Mendívil, Helio A.</dc:creator>
         
         
@@ -48,7 +50,7 @@
         
         <guid>/es/series/rmarkdown/</guid>
         <description></description>
-        
+        <content:encoded></content:encoded>
         <dc:creator>García-Mendívil, Helio A.</dc:creator>
         
         
@@ -66,7 +68,7 @@
         
         <guid>/es/series/tracks/</guid>
         <description></description>
-        
+        <content:encoded></content:encoded>
         <dc:creator>García-Mendívil, Helio A.</dc:creator>
         
         
@@ -84,7 +86,7 @@
         
         <guid>/es/series/md/</guid>
         <description></description>
-        
+        <content:encoded></content:encoded>
         <dc:creator>García-Mendívil, Helio A.</dc:creator>
         
         
