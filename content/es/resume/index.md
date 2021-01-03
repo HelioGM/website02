@@ -261,7 +261,7 @@ items:
             
             <i class="fa fa-address-book-o" aria-hidden="true"> </i> Dr. Marco Antonio Gutiérrez Coronado
             📧 mgutierrez@itson.edu.mx
-            itson.mx/oferta/dcb/Pagina/gutierrez-c.aspx
+            <i class="ai ai-researchgate fa-lg" aria-hidden="true"> </i>  https://www.researchgate.net/profile/Marco_Gutierrez-Coronado
             Supervisor de Maestría / Último empleador.
             
             ---
