@@ -5,7 +5,7 @@ date: 2020-02-09T20:13:59+09:00
 description: My resume
 type: resume
 service: formspree # formspree, getform
-formId: "meqppywa"
+formId: "meqppyya"
 enableToc: false
 header:
   image: 
@@ -273,7 +273,7 @@ items:
             Escribeme un mensaje.
             
             <form
-            action="https://formspree.io/f/meqppywa"
+            action="https://formspree.io/f/meqppyya"
             method="POST"
             >
             <label>

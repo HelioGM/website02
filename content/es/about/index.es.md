@@ -4,7 +4,7 @@ date: "2020-12-04"
 type: "about"
 description: Acerca de
 service: formspree # formspree, getform
-formId: "meqppywa"
+formId: "meqppyya"
 hideToc: false
 enableToc: true
 enableTocContent: false
@@ -32,7 +32,7 @@ Escribeme un mensaje.
 {{< box >}}
             
 <form
-action="https://formspree.io/f/meqppywa"
+action="https://formspree.io/f/meqppyya"
 method="POST"
 >
 <label>
