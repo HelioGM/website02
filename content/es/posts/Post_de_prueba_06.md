@@ -67,4 +67,3 @@ rssfeed_cache = "e19d6743d060133ccd3575c80069961f";
 <div style="color:#000;font-size:10px; text-align:right; width:540px;">powered by <a href="https://surfing-waves.com" rel="noopener" target="_blank" style="color:#000;">Surfing Waves</a></div> 
 <!-- end sw-rss-feed code -->
 
-
