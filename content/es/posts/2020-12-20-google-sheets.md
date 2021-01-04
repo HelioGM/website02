@@ -1,7 +1,7 @@
 ---
-title: "Google Sheets"
+title: "Galeria de instagram"
 date: 2020-12-19T19:12:10-08:00
-description: Google Sheets
+description: Galeria de instagram
 authorEmoji: 📡
 draft: false
 hideToc: false
@@ -15,23 +15,14 @@ series:
 -
 categories:
 -
-image: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Google_Sheets_logo.svg/1200px-Google_Sheets_logo.svg.png
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Instagram_logo.svg/392px-Instagram_logo.svg.png
 ---
 
-```{r LoadPackages, message = FALSE, warning = FALSE, fig.cap='Figure caption'}   
 
-library(readr)
-library(mosaic)
-library(FSA)
-library("ggplot2")
-library(readxl)
-library(knitr)
-library(doBy)
-library(agricolae)
-options(scipen=999, digits = 0)
-## Load all the libraries needed and the data
+### <i class="fa fa-instagram" aria-hidden="true"> </i> Instagram
+<div id="pixlee_container"></div><script type="text/javascript">window.PixleeAsyncInit = function() {Pixlee.init({apiKey:'MbXtAwbCDeDdWjClM-Mw'});Pixlee.addSimpleWidget({widgetId:'31097'});};</script><script src="//instafeed.assets.pxlecdn.com/assets/pixlee_widget_1_0_0.js"></script>
 
-```
+
 
 
 
@@ -41,9 +32,3 @@ options(scipen=999, digits = 0)
 [Datos](https://docs.google.com/spreadsheets/d/e/2PACX-1vTADEwnTfsuU0PipEXHK1FVtoJjljwQCvOzkUbdo5PiAJ5w9kBWGSxg389vSE5xhzifbBOGecjByTAn/pub?output=xlsx)
 
 
-```{r LoadFiles, message = FALSE, warning = FALSE, fig.cap='Figure caption'}   
-
-mydata <- read_excel("https://docs.google.com/spreadsheets/d/e/2PACX-1vTADEwnTfsuU0PipEXHK1FVtoJjljwQCvOzkUbdo5PiAJ5w9kBWGSxg389vSE5xhzifbBOGecjByTAn/pub?output=xlsx")
-
-```
-.
