@@ -63,7 +63,7 @@ whoami = "Doctor en Tecnología Agroalimentaria y Biotecnología."
 bioImageUrl = ""
 useGravatar = false
 location = "Sonora, Mexico."
-organization = "Not affiliated."
+organization = ""
 link = "https://orcid.org/0000-0002-5126-9259"
 
 # sidebar
