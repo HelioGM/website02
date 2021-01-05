@@ -14,8 +14,8 @@
     <managingEditor>helio4gm@gmail.com (García-Mendívil, Helio A.)</managingEditor>
     <webMaster>helio4gm@gmail.com (García-Mendívil, Helio A.)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <sy:updatePeriod>daily</sy:updatePeriod>
-    <sy:updateFrequency>daily</sy:updateFrequency>
+    <sy:updatePeriod>hourly</sy:updatePeriod>
+    <sy:updateFrequency>hourly</sy:updateFrequency>
     
         <atom:link href="/es/tags/programaci%C3%B3n/index.xml" rel="self" type="application/rss+xml" />
     

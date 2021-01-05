@@ -15,8 +15,8 @@
     <webMaster>helio4gm@gmail.com (García-Mendívil, Helio A.)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Sat, 25 Jan 2020 06:40:51 +0900</lastBuildDate>
-    <sy:updatePeriod>daily</sy:updatePeriod>
-    <sy:updateFrequency>daily</sy:updateFrequency>
+    <sy:updatePeriod>hourly</sy:updatePeriod>
+    <sy:updateFrequency>hourly</sy:updateFrequency>
     
         <atom:link href="/en/tags/shortcode/index.xml" rel="self" type="application/rss+xml" />
     

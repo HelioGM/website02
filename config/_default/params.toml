@@ -101,8 +101,8 @@ busuanziSitePV = true
 busuanziPagePV = true
 
 # rss
-updatePeriod = "daily" # Possible values: 'hourly', 'daily', 'weekly', 'monthly', or 'yearly'.
-updateFrequency = "daily"
+updatePeriod = "hourly" # Possible values: 'hourly', 'daily', 'weekly', 'monthly', or 'yearly'.
+updateFrequency = "hourly"
 fullContents = true
 
 # comment
