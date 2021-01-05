@@ -4,7 +4,7 @@
   
   <url>
     <loc>/es/</loc>
-    <lastmod>2021-01-04T19:54:37-08:00</lastmod>
+    <lastmod>2021-01-05T13:46:19-08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -18,8 +18,13 @@
   </url>
   
   <url>
+    <loc>/es/posts/2021-01-05-1984-pel%C3%ADcula/</loc>
+    <lastmod>2021-01-05T13:46:19-08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/es/categories/</loc>
-    <lastmod>2021-01-04T19:54:37-08:00</lastmod>
+    <lastmod>2021-01-05T13:46:19-08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -33,18 +38,13 @@
   </url>
   
   <url>
-    <loc>/es/categories/herramientas/</loc>
-    <lastmod>2021-01-04T19:54:37-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/es/posts/2021-01-05-sci-hub/</loc>
-    <lastmod>2021-01-04T19:54:37-08:00</lastmod>
+    <loc>/es/series/pel%C3%ADculas/</loc>
+    <lastmod>2021-01-05T13:46:19-08:00</lastmod>
   </url>
   
   <url>
     <loc>/es/posts/</loc>
-    <lastmod>2021-01-04T19:54:37-08:00</lastmod>
+    <lastmod>2021-01-05T13:46:19-08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -55,6 +55,36 @@
                 hreflang="es"
                 href="/es/posts/"
                 />
+  </url>
+  
+  <url>
+    <loc>/es/series/</loc>
+    <lastmod>2021-01-05T13:46:19-08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/series/"
+                />
+  </url>
+  
+  <url>
+    <loc>/es/categories/videos/</loc>
+    <lastmod>2021-01-05T13:46:19-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/es/categories/herramientas/</loc>
+    <lastmod>2021-01-04T19:54:37-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/es/posts/2021-01-05-sci-hub/</loc>
+    <lastmod>2021-01-04T19:54:37-08:00</lastmod>
   </url>
   
   <url>
@@ -84,11 +114,6 @@
   
   <url>
     <loc>/es/categories/memes/</loc>
-    <lastmod>2021-01-04T17:00:25-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/es/categories/videos/</loc>
     <lastmod>2021-01-04T17:00:25-08:00</lastmod>
   </url>
   
@@ -130,21 +155,6 @@
   <url>
     <loc>/es/series/rmarkdown/</loc>
     <lastmod>2020-12-30T18:21:17-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/es/series/</loc>
-    <lastmod>2020-12-30T18:21:17-08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/series/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/series/"
-                />
   </url>
   
   <url>

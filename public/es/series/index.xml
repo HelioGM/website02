@@ -14,7 +14,7 @@
     <managingEditor>helio4gm@gmail.com (García-Mendívil, Helio A.)</managingEditor>
     <webMaster>helio4gm@gmail.com (García-Mendívil, Helio A.)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Wed, 30 Dec 2020 18:21:17 -0800</lastBuildDate>
+    <lastBuildDate>Tue, 05 Jan 2021 13:46:19 -0800</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>hourly</sy:updateFrequency>
     
@@ -23,6 +23,24 @@
     
     
 
+      
+      <item>
+        <title>Películas</title>
+        <link>/es/series/pel%C3%ADculas/</link>
+        <pubDate>Tue, 05 Jan 2021 13:46:19 -0800</pubDate>
+        <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
+        
+        <guid>/es/series/pel%C3%ADculas/</guid>
+        <description></description>
+        <content:encoded></content:encoded>
+        <dc:creator>García-Mendívil, Helio A.</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
       
       <item>
         <title>Aprendiendo estadística con R</title>
