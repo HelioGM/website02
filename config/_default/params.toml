@@ -80,7 +80,7 @@ hideToc = false
 tocFolding = true
 tocPosition = "inner" # inner, outer
 enableTocSwitch = true
-itemsPerCategory = 5
+itemsPerCategory = 3
 sidebarPosition = "right"
 tocLevels = ["h2", "h3", "h4"]
 enableSidebarPostsByOrder = false
@@ -160,7 +160,7 @@ commento = false
 [socialOptions]
   email = "mailto:helio4gm@gmail.com"
   phone = ""
-  facebook = "https://www.facebook.com/helio.irie/"
+  facebook = "https://www.facebook.com/helio4gm"
   twitter = "https://twitter.com/Helio0401"
   github = "https://github.com/HelioGM"
   stack-overflow = ""
@@ -187,7 +187,7 @@ commento = false
   xmpp = ""
   dev-to = ""
   gitea = ""
-  google-scholar = ""
+  google-scholar = "NoUALl0AAAAJ"
 
 [donationOptions]
   enable = true

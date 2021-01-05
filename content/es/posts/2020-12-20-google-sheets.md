@@ -1,5 +1,5 @@
 ---
-title: "Galeria de instagram"
+title: "Galería de instagram"
 date: 2020-12-19T19:12:10-08:00
 description: Galeria de instagram
 authorEmoji: 📡
