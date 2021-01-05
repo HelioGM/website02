@@ -6,7 +6,7 @@ author: Helio
 authorEmoji: 📡
 draft: false
 hideToc: false
-enableToc: true
+enableToc: false
 enableTocContent: false
 tocPosition: inner
 tocLevels: ["h2", "h3", "h4"]
