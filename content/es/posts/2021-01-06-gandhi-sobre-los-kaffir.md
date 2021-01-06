@@ -11,11 +11,11 @@ enableTocContent: false
 tocPosition: inner
 tocLevels: ["h2", "h3", "h4"]
 tags:
--
+- Gandhi
 series:
 -
 categories:
--
+- Artículos
 image: https://atlantablackstar.com/wp-content/uploads/2015/03/gandhi-smile-e1427747090891.jpg
 ---
 
