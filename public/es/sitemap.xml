@@ -4,7 +4,7 @@
   
   <url>
     <loc>/es/</loc>
-    <lastmod>2021-01-05T13:46:19-08:00</lastmod>
+    <lastmod>2021-01-06T10:01:38-08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -14,6 +14,26 @@
                 rel="alternate"
                 hreflang="es"
                 href="/es/"
+                />
+  </url>
+  
+  <url>
+    <loc>/es/posts/2021-01-06-gandhi-sobre-los-kaffir/</loc>
+    <lastmod>2021-01-06T10:01:38-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/es/posts/</loc>
+    <lastmod>2021-01-06T10:01:38-08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/posts/"
                 />
   </url>
   
@@ -40,21 +60,6 @@
   <url>
     <loc>/es/series/pel%C3%ADculas/</loc>
     <lastmod>2021-01-05T13:46:19-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/es/posts/</loc>
-    <lastmod>2021-01-05T13:46:19-08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/posts/"
-                />
   </url>
   
   <url>
