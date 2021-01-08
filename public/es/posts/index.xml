@@ -14,7 +14,7 @@
     <managingEditor>helio4gm@gmail.com (García-Mendívil, Helio A.)</managingEditor>
     <webMaster>helio4gm@gmail.com (García-Mendívil, Helio A.)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Wed, 06 Jan 2021 10:01:38 -0800</lastBuildDate>
+    <lastBuildDate>Thu, 07 Jan 2021 22:44:33 -0800</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>hourly</sy:updateFrequency>
     
@@ -23,6 +23,135 @@
     
     
 
+      
+      <item>
+        <title>Twitch Video</title>
+        <link>/es/posts/2021-01-08-twitch-video/</link>
+        <pubDate>Thu, 07 Jan 2021 22:44:33 -0800</pubDate>
+        <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
+        <atom:modified>Thu, 07 Jan 2021 22:44:33 -0800</atom:modified>
+        <guid>/es/posts/2021-01-08-twitch-video/</guid>
+        <description>Transmisión de twitch var options = {width: 854,height: 480,video: &#34;857864723&#34;,// only needed if your site is also embedded on embed.example.com and othersite.example.comparent: [&#34;embed.example.com&#34;, &#34;othersite.example.com&#34;]};var player = new Twitch.Player(&#34;SamplePlayerDivID&#34;, options);player.setVolume(0.5);</description>
+        <content:encoded>&lt;h3 id=&#34;transmisión-de-twitch&#34;&gt;Transmisión de twitch&lt;/h3&gt;
+&lt;script src= &#34;https://player.twitch.tv/js/embed/v1.js&#34;&gt;&lt;/script&gt;
+&lt;div id=&#34;SamplePlayerDivID&#34;&gt;&lt;/div&gt;
+&lt;script type=&#34;text/javascript&#34;&gt;
+  var options = {
+    width: 854,
+    height: 480,
+    video: &#34;857864723&#34;,
+    // only needed if your site is also embedded on embed.example.com and othersite.example.com
+    parent: [&#34;embed.example.com&#34;, &#34;othersite.example.com&#34;]
+  };
+  var player = new Twitch.Player(&#34;SamplePlayerDivID&#34;, options);
+  player.setVolume(0.5);
+&lt;/script&gt;</content:encoded>
+        <dc:creator>Helio</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>Test</category>
+            
+          
+        
+        
+          
+            
+              <category>Herramientas</category>
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Twitch transmisión</title>
+        <link>/es/posts/2021-01-08-twitch-transmision/</link>
+        <pubDate>Thu, 07 Jan 2021 22:41:51 -0800</pubDate>
+        <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
+        <atom:modified>Thu, 07 Jan 2021 22:41:51 -0800</atom:modified>
+        <guid>/es/posts/2021-01-08-twitch-transmision/</guid>
+        <description>new Twitch.Embed(&#34;twitch-embed&#34;, {width: 720, height: 480, channel: &#34;josejuegosmola&#34;});</description>
+        <content:encoded>&lt;!-- Add a placeholder for the Twitch embed --&gt;
+&lt;div id=&#34;twitch-embed&#34;&gt;&lt;/div&gt;
+&lt;!-- Load the Twitch embed script --&gt;
+&lt;script src=&#34;https://embed.twitch.tv/embed/v1.js&#34;&gt;&lt;/script&gt;
+&lt;!-- Create a Twitch.Embed object that will render within the &#34;twitch-embed&#34; root element. --&gt;
+&lt;script type=&#34;text/javascript&#34;&gt;
+  new Twitch.Embed(&#34;twitch-embed&#34;, {width: 720,  height: 480,  channel: &#34;josejuegosmola&#34;});
+&lt;/script&gt;
+</content:encoded>
+        <dc:creator>Helio</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>Test</category>
+            
+          
+        
+        
+          
+            
+              <category>Herramientas</category>
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Trello, Discord</title>
+        <link>/es/posts/2021-01-08-trello/</link>
+        <pubDate>Thu, 07 Jan 2021 21:18:51 -0800</pubDate>
+        <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
+        <atom:modified>Thu, 07 Jan 2021 21:18:51 -0800</atom:modified>
+        <guid>/es/posts/2021-01-08-trello/</guid>
+        <description>Tablero de Trello Tarjeta de Trello Nueva forma de contactoServer de Discord </description>
+        <content:encoded>&lt;h3 id=&#34;tablero-de-trello&#34;&gt;Tablero de Trello&lt;/h3&gt;
+&lt;iframe src=&#34;https://trello.com/b/4m8STFFJ.html&#34; frameBorder=&#34;0&#34; width=&#34;100%&#34; height=&#34;450&#34;&gt;&lt;/iframe&gt;
+&lt;h3 id=&#34;tarjeta-de-trello&#34;&gt;Tarjeta de Trello&lt;/h3&gt;
+&lt;blockquote class=&#34;trello-card&#34;&gt;&lt;a href=&#34;https://trello.com/c/cSm4Yrd7/15-nueva-forma-de-contacto&#34;&gt;Nueva forma de contacto&lt;/a&gt;&lt;/blockquote&gt;&lt;script src=&#34;https://p.trellocdn.com/embed.min.js&#34;&gt;&lt;/script&gt;
+&lt;h3 id=&#34;server-de-discord&#34;&gt;Server de Discord&lt;/h3&gt;
+&lt;iframe src=&#34;https://discord.com/widget?id=725572516378050572&amp;theme=dark&#34; width=&#34;350&#34; height=&#34;500&#34; allowtransparency=&#34;true&#34; frameborder=&#34;0&#34; sandbox=&#34;allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts&#34;&gt;&lt;/iframe&gt;
+</content:encoded>
+        <dc:creator>Helio</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>Test</category>
+            
+          
+        
+        
+          
+            
+              <category>Herramientas</category>
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
       
       <item>
         <title>Gandhi sobre los kaffir</title>
@@ -461,10 +590,11 @@ El proyecto Sci-Hub comenzó a funcionar el 5 de septiembre de 2011. Fue fundado
         <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
         <atom:modified>Fri, 11 Dec 2020 23:44:00 -0800</atom:modified>
         <guid>/es/posts/post_de_prueba_01/</guid>
-        <description>Lista de reproducción de SoundCloud: Helio · [03]</description>
+        <description>Lista de reproducción de SoundCloud: Helio · [03]Nueva forma de contacto</description>
         <content:encoded>&lt;h3 id=&#34;lista-de-reproducción-de-soundcloud&#34;&gt;Lista de reproducción de SoundCloud:&lt;/h3&gt;
 &lt;iframe width=&#34;100%&#34; height=&#34;450&#34; scrolling=&#34;no&#34; frameborder=&#34;no&#34; allow=&#34;autoplay&#34; src=&#34;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/700244739&amp;color=%23e1ebec&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&#34;&gt;&lt;/iframe&gt;&lt;div style=&#34;font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;&#34;&gt;&lt;a href=&#34;https://soundcloud.com/helio4gm&#34; title=&#34;Helio&#34; target=&#34;_blank&#34; style=&#34;color: #cccccc; text-decoration: none;&#34;&gt;Helio&lt;/a&gt; · &lt;a href=&#34;https://soundcloud.com/helio4gm/sets/03-a&#34; title=&#34;[03]&#34; target=&#34;_blank&#34; style=&#34;color: #cccccc; text-decoration: none;&#34;&gt;[03]&lt;/a&gt;&lt;/div&gt;
-</content:encoded>
+&lt;iframe src=&#34;https://trello.com/b/4m8STFFJ.html&#34; frameBorder=&#34;0&#34; width=&#34;100%&#34; height=&#34;450&#34;&gt;&lt;/iframe&gt;
+&lt;blockquote class=&#34;trello-card&#34;&gt;&lt;a href=&#34;https://trello.com/c/cSm4Yrd7/15-nueva-forma-de-contacto&#34;&gt;Nueva forma de contacto&lt;/a&gt;&lt;/blockquote&gt;&lt;script src=&#34;https://p.trellocdn.com/embed.min.js&#34;&gt;&lt;/script&gt;</content:encoded>
         <dc:creator>Helio</dc:creator>
         <media:content url="/https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Antu_soundcloud.svg/1200px-Antu_soundcloud.svg.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         

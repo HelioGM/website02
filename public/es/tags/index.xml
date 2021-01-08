@@ -14,7 +14,7 @@
     <managingEditor>helio4gm@gmail.com (García-Mendívil, Helio A.)</managingEditor>
     <webMaster>helio4gm@gmail.com (García-Mendívil, Helio A.)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Wed, 06 Jan 2021 10:01:38 -0800</lastBuildDate>
+    <lastBuildDate>Thu, 07 Jan 2021 22:44:33 -0800</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>hourly</sy:updateFrequency>
     
@@ -23,6 +23,24 @@
     
     
 
+      
+      <item>
+        <title>Test</title>
+        <link>/es/tags/test/</link>
+        <pubDate>Thu, 07 Jan 2021 22:44:33 -0800</pubDate>
+        <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
+        
+        <guid>/es/tags/test/</guid>
+        <description></description>
+        <content:encoded></content:encoded>
+        <dc:creator>García-Mendívil, Helio A.</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
       
       <item>
         <title>Gandhi</title>
@@ -229,24 +247,6 @@
         <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
         
         <guid>/es/tags/puertas/</guid>
-        <description></description>
-        <content:encoded></content:encoded>
-        <dc:creator>García-Mendívil, Helio A.</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>Test</title>
-        <link>/es/tags/test/</link>
-        <pubDate>Fri, 11 Dec 2020 23:45:00 -0800</pubDate>
-        <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
-        
-        <guid>/es/tags/test/</guid>
         <description></description>
         <content:encoded></content:encoded>
         <dc:creator>García-Mendívil, Helio A.</dc:creator>
