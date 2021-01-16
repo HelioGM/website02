@@ -4,7 +4,7 @@ date: 2021-01-07T22:41:51-08:00
 description: "Radio 24/7 Lofi HipHop"
 author: Helio
 authorEmoji: 📡
-draft: false
+draft: true
 hideToc: false
 enableToc: false
 enableTocContent: false
@@ -16,7 +16,7 @@ series:
 -
 categories:
 - Herramientas
-image:
+image: /images/nuevas/Logo.png
 ---
 
 
