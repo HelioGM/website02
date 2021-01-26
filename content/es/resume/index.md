@@ -226,7 +226,11 @@ items:
             
             ![Gw3](/images/nuevas/graphpsico.png)
             
-            ---
+            <i class="fa fa-link" aria-hidden="true"> </i> [EXANI-III.](https://www.ceneval.edu.mx/exani-iii)
+            <i class="fa fa-link" aria-hidden="true"> </i> [Resultados nacionales 2011.](https://ouo.io/eboODQ)
+            <i class="fa fa-link" aria-hidden="true"> </i> [Evidencia de resultados.](https://ouo.io/IWMG7A)
+            
+            ---           
             
             ## <i class="fa fa-link" aria-hidden="true"> </i>Links
             

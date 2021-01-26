@@ -4,7 +4,7 @@ date: 2021-01-07T22:44:33-08:00
 description: Otra entrada de prueba
 author: Helio
 authorEmoji: 📡
-draft: ttru
+draft: true
 hideToc: false
 enableToc: false
 enableTocContent: false

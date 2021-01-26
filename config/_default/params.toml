@@ -1,4 +1,4 @@
-logoText = "Helio"
+logoText = ""
 logoType = "short" # long, short
 logo = true
 description = " Descripción"
@@ -25,7 +25,7 @@ enableAppbarSearchIcon = false
 enableAppbarLangIcon = false
 
 # header
-homeHeaderType = "text" # text, img, slide, typewriter
+homeHeaderType = "img" # text, img, slide, typewriter
 hideHomeHeaderWhenMobile = false
 
 # menu
