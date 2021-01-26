@@ -172,7 +172,7 @@ commento = false
   linkedin = "https://www.linkedin.com/in/heliogm/"
   pinterest = ""
   stack-exchange = ""
-  telegram = ""
+  telegram = "https://t.me/helio4gm"
   steam = ""
   weibo = ""
   douban = ""
@@ -182,12 +182,12 @@ commento = false
   jianshu = ""
   zhihu = ""
   signal = ""
-  whatsapp = ""
+  whatsapp = "https://wa.me/526421301799"
   matrix = ""
   xmpp = ""
   dev-to = ""
   gitea = ""
-  google-scholar = "NoUALl0AAAAJ"
+  google-scholar = "https://scholar.google.es/citations?user=NoUALl0AAAAJ"
 
 [donationOptions]
   enable = true

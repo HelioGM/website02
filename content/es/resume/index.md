@@ -222,12 +222,18 @@ items:
             
             ---
             
+            ### 🧠 Psicometría:
+            
+            ![Gw3](/images/nuevas/graphpsico.png)
+            
+            ---
+            
             ## <i class="fa fa-link" aria-hidden="true"> </i>Links
             
-            <i class="ai ai-google-scholar fa-lg" aria-hidden="true"> </i>  [Perfil de Google Scholar](https://scholar.google.es/citations?user=NoUALl0AAAAJ)
-            <i class="ai ai-researchgate fa-lg" aria-hidden="true"> </i>  [Perfil de Research Gate](https://www.researchgate.net/profile/Helio_Garcia-Mendivil)
-            <i class="ai ai-orcid" aria-hidden="true"> </i>  [Perfil de Orcid](https://orcid.org/0000-0002-5126-9259)
-            <i class="fa fa-linkedin" aria-hidden="true"> </i> [Perfil de linkedin](https://www.linkedin.com/in/heliogm/)
+            <i class="ai ai-orcid" aria-hidden="true"> </i>  [Perfil en Orcid](https://orcid.org/0000-0002-5126-9259)
+            <i class="ai ai-google-scholar fa-lg" aria-hidden="true"> </i>  [Perfil en Google Scholar](https://scholar.google.es/citations?user=NoUALl0AAAAJ)
+            <i class="ai ai-researchgate fa-lg" aria-hidden="true"> </i>  [Perfil en Research Gate](https://www.researchgate.net/profile/Helio_Garcia-Mendivil)
+            <i class="fa fa-linkedin" aria-hidden="true"> </i> [Perfil en Linkedin](https://www.linkedin.com/in/heliogm/)
             
             ---
             
