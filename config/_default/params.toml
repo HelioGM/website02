@@ -107,7 +107,7 @@ fullContents = true
 
 # comment
 enableComment = true
-disqus_shortname = "" # helio5
+disqus_shortname = "helio5" # helio5
 commento = false
 
 [telegram]
@@ -123,7 +123,7 @@ commento = false
 
 [utterances]       # https://utteranc.es/
   owner = "HelioGM"              # Your GitHub ID
-  repo = "HelioGM/msg_utterance"               # The repo to store comments
+  repo = "https://github.com/HelioGM/msg_utterance"               # The repo to store comments
 
 [gitalk]           # Gitalk is a comment system based on GitHub issues. see https://github.com/gitalk/gitalk
   owner = ""              # Your GitHub ID
