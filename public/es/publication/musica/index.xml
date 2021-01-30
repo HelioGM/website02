@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Música on Helio</title>
+    <link>/es/publication/musica/</link>
+    <description>Recent content in Música on Helio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <managingEditor>helio4gm@gmail.com (García-Mendívil, Helio A.)</managingEditor>
+    <webMaster>helio4gm@gmail.com (García-Mendívil, Helio A.)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Thu, 05 Mar 2020 14:08:48 +0000</lastBuildDate>
+    <sy:updatePeriod>hourly</sy:updatePeriod>
+    <sy:updateFrequency>hourly</sy:updateFrequency>
+    
+        <atom:link href="/es/publication/musica/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>Early projects (2013)</title>
+        <link>/es/publication/musica/early_projects/</link>
+        <pubDate>Fri, 29 Jan 2021 00:00:00 +0000</pubDate>
+        <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
+        <atom:modified>Fri, 29 Jan 2021 00:00:00 +0000</atom:modified>
+        <guid>/es/publication/musica/early_projects/</guid>
+        <description>Helio · Eat Your Brain</description>
+        <content:encoded>&lt;iframe width=&#34;100%&#34; height=&#34;300&#34; scrolling=&#34;no&#34; frameborder=&#34;no&#34; allow=&#34;autoplay&#34; src=&#34;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/119409864&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true&#34;&gt;&lt;/iframe&gt;&lt;div style=&#34;font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;&#34;&gt;&lt;a href=&#34;https://soundcloud.com/helio4gm&#34; title=&#34;Helio&#34; target=&#34;_blank&#34; style=&#34;color: #cccccc; text-decoration: none;&#34;&gt;Helio&lt;/a&gt; · &lt;a href=&#34;https://soundcloud.com/helio4gm/eat-your-brain&#34; title=&#34;Eat Your Brain&#34; target=&#34;_blank&#34; style=&#34;color: #cccccc; text-decoration: none;&#34;&gt;Eat Your Brain&lt;/a&gt;&lt;/div&gt;
+&lt;iframe src=&#34;https://publisher.podtrac.com/player/MTU0MTIy0/NTQ0OTMxNQ2&#34; width=&#34;100%&#34; height=&#34;100&#34; scrolling=&#34;no&#34; frameborder=&#34;no&#34;&gt;&lt;/iframe&gt;
+&lt;iframe src=&#34;https://publisher.podtrac.com/player/MTU0MTIy0/NTQ0OTMxNg2&#34; width=&#34;100%&#34; height=&#34;100&#34; scrolling=&#34;no&#34; frameborder=&#34;no&#34;&gt;&lt;/iframe&gt;
+&lt;iframe src=&#34;https://publisher.podtrac.com/player/MTU0MTIy0/NTQ0OTMxNw2&#34; width=&#34;100%&#34; height=&#34;100&#34; scrolling=&#34;no&#34; frameborder=&#34;no&#34;&gt;&lt;/iframe&gt;
+&lt;iframe src=&#34;https://publisher.podtrac.com/player/MTU0MTIy0/NTQ0OTMxOA2&#34; width=&#34;100%&#34; height=&#34;100&#34; scrolling=&#34;no&#34; frameborder=&#34;no&#34;&gt;&lt;/iframe&gt;
+&lt;iframe src=&#34;https://publisher.podtrac.com/player/MTU0MTIy0/NTQ0OTMxOQ2&#34; width=&#34;100%&#34; height=&#34;100&#34; scrolling=&#34;no&#34; frameborder=&#34;no&#34;&gt;&lt;/iframe&gt;
+&lt;iframe src=&#34;https://publisher.podtrac.com/player/MTU0MTIy0/NTQ0OTMyMA2&#34; width=&#34;100%&#34; height=&#34;100&#34; scrolling=&#34;no&#34; frameborder=&#34;no&#34;&gt;&lt;/iframe&gt;
+&lt;iframe src=&#34;https://publisher.podtrac.com/player/MTU0MTIy0/NTQ0OTMyMQ2&#34; width=&#34;100%&#34; height=&#34;100&#34; scrolling=&#34;no&#34; frameborder=&#34;no&#34;&gt;&lt;/iframe&gt;
+</content:encoded>
+        <dc:creator>García-Mendívil, Helio A.</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

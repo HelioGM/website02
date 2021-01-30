@@ -1,23 +1,24 @@
 ---
-title: "R Markdown"
-date: 2020-12-06T10:33:41+09:00
-description: "Este es un documento en formato R Markdown"
+title: "RMarkdown"
+date: 2020-12-11T23:46:00+09:00
+description: "Este es un documento en formato RMD"
 #output: pdf_document
 draft: false
 hideToc: false
 enableToc: true
 enableTocContent: false
 author: Helio
-authorEmoji: 🎅
-pinned: true
+authorEmoji: 👽
+pinned: false
 fig_caption: true
 tags:
-- R, Estadística
+- R
+- Estadística
 series:
-- RMD
+- RMarkdown
 categories:
-- Test
-image: images/feature2/bam.png
+- Programación
+image: https://d33wubrfki0l68.cloudfront.net/3215c7166555d2ac02ef678fd025c171f90db23c/4e60a/images/bandone.png
 ---
 
 <style>

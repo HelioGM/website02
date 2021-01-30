@@ -1,7 +1,7 @@
 +++
-aliases = ["posts","articles","blog","showcase","docs"]
-title = "Posts"
-author = "Hugo Authors"
+aliases = ["posts"]
+title = "Blog"
+author = "Helio"
 tags = [""]
-description = "Post page"
+description = "Blog personal"
 +++

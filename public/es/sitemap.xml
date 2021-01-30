@@ -4,7 +4,7 @@
   
   <url>
     <loc>/es/</loc>
-    <lastmod>2021-01-07T22:44:33-08:00</lastmod>
+    <lastmod>2021-01-29T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -14,6 +14,31 @@
                 rel="alternate"
                 hreflang="es"
                 href="/es/"
+                />
+  </url>
+  
+  <url>
+    <loc>/es/publicaciones/musica/early_projects/</loc>
+    <lastmod>2021-01-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/es/publicaciones/</loc>
+    <lastmod>2021-01-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/es/posts/</loc>
+    <lastmod>2021-01-07T22:44:33-08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/posts/"
                 />
   </url>
   
@@ -35,21 +60,6 @@
   <url>
     <loc>/es/categories/herramientas/</loc>
     <lastmod>2021-01-07T22:44:33-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/es/posts/</loc>
-    <lastmod>2021-01-07T22:44:33-08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/posts/"
-                />
   </url>
   
   <url>
@@ -163,7 +173,7 @@
   </url>
   
   <url>
-    <loc>/es/programacion/2020-12-30-empezando_con_r_2da/</loc>
+    <loc>/es/posts/2020-12-30-empezando_con_r_2da/</loc>
     <lastmod>2020-12-30T18:21:17-08:00</lastmod>
   </url>
   
@@ -178,11 +188,6 @@
   </url>
   
   <url>
-    <loc>/es/programacion/</loc>
-    <lastmod>2020-12-30T18:21:17-08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/es/tags/r/</loc>
     <lastmod>2020-12-30T18:21:17-08:00</lastmod>
   </url>
@@ -193,22 +198,22 @@
   </url>
   
   <url>
-    <loc>/es/programacion/2020-12-30-empezando_con_r/</loc>
+    <loc>/es/posts/2020-12-30-empezando_con_r/</loc>
     <lastmod>2020-12-30T18:20:17-08:00</lastmod>
   </url>
   
   <url>
-    <loc>/es/programacion/2020-12-30-una_breve_introduccion_al_dise%C3%B1o_2da/</loc>
+    <loc>/es/posts/2020-12-30-una_breve_introduccion_al_dise%C3%B1o_2da/</loc>
     <lastmod>2020-12-30T18:19:17-08:00</lastmod>
   </url>
   
   <url>
-    <loc>/es/programacion/2020-12-30-una_breve_introduccion_al_dise%C3%B1o/</loc>
+    <loc>/es/posts/2020-12-30-una_breve_introduccion_al_dise%C3%B1o/</loc>
     <lastmod>2020-12-30T18:18:17-08:00</lastmod>
   </url>
   
   <url>
-    <loc>/es/programacion/2020-12-30-por_que_aprendemos_estadistica/</loc>
+    <loc>/es/posts/2020-12-30-por_que_aprendemos_estadistica/</loc>
     <lastmod>2020-12-30T18:17:17-08:00</lastmod>
   </url>
   
@@ -218,12 +223,7 @@
   </url>
   
   <url>
-    <loc>/es/carpinteria/</loc>
-    <lastmod>2020-12-21T17:08:35-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/es/carpinteria/2020-12-21-cocina-dic-2020/</loc>
+    <loc>/es/posts/2020-12-21-cocina-dic-2020/</loc>
     <lastmod>2020-12-21T17:08:35-08:00</lastmod>
   </url>
   
@@ -233,7 +233,7 @@
   </url>
   
   <url>
-    <loc>/es/carpinteria/2020-12-20-cocinas-2017/</loc>
+    <loc>/es/posts/2020-12-20-cocinas-2017/</loc>
     <lastmod>2020-12-20T12:19:35-08:00</lastmod>
   </url>
   
@@ -248,7 +248,7 @@
   </url>
   
   <url>
-    <loc>/es/carpinteria/2020-12-14-carpinteria-libros01/</loc>
+    <loc>/es/posts/2020-12-14-carpinteria-libros01/</loc>
     <lastmod>2020-12-14T19:15:48-08:00</lastmod>
   </url>
   
@@ -263,7 +263,7 @@
   </url>
   
   <url>
-    <loc>/es/carpinteria/2020-12-13-carpinteria-otros/</loc>
+    <loc>/es/posts/2020-12-13-carpinteria-otros/</loc>
     <lastmod>2020-12-13T23:12:00-08:00</lastmod>
   </url>
   
@@ -293,7 +293,7 @@
   </url>
   
   <url>
-    <loc>/es/carpinteria/2020-12-13-carpinteria-armarios/</loc>
+    <loc>/es/posts/2020-12-13-carpinteria-armarios/</loc>
     <lastmod>2020-12-13T20:12:00-08:00</lastmod>
   </url>
   
@@ -303,7 +303,7 @@
   </url>
   
   <url>
-    <loc>/es/carpinteria/2020-12-13-carpinteria-persianas/</loc>
+    <loc>/es/posts/2020-12-13-carpinteria-persianas/</loc>
     <lastmod>2020-12-13T20:12:00-08:00</lastmod>
   </url>
   
@@ -313,48 +313,23 @@
   </url>
   
   <url>
-    <loc>/es/carpinteria/2020-12-13-carpinteria-puertas/</loc>
+    <loc>/es/posts/2020-12-13-carpinteria-puertas/</loc>
     <lastmod>2020-12-13T20:11:00-08:00</lastmod>
   </url>
   
   <url>
-    <loc>/es/carpinteria/carpinteria_01_cocinas/</loc>
+    <loc>/es/posts/carpinteria_01_cocinas/</loc>
     <lastmod>2020-12-12T20:11:00-08:00</lastmod>
   </url>
   
   <url>
-    <loc>/es/publication/book/learnin_statistics_with_r/</loc>
+    <loc>/es/publicaciones/libros/learnin_statistics_with_r/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/es/publication/book/book_any_folder_name_1/</loc>
+    <loc>/es/publicaciones/libros/book_any_folder_name_1/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/publication/book/book_any_folder_name_1/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/publication/book/book_any_folder_name_1/"
-                />
-  </url>
-  
-  <url>
-    <loc>/es/publication/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/publication/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/publication/"
-                />
   </url>
   
   <url>
@@ -363,18 +338,8 @@
   </url>
   
   <url>
-    <loc>/es/programacion/post_de_prueba_01/</loc>
-    <lastmod>2020-12-11T23:45:00-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/es/tags/soundcloud/</loc>
-    <lastmod>2020-12-11T23:44:00-08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/es/posts/post_de_prueba_01/</loc>
-    <lastmod>2020-12-11T23:44:00-08:00</lastmod>
+    <lastmod>2020-12-11T23:45:00-08:00</lastmod>
   </url>
   
   <url>
@@ -453,22 +418,12 @@
   </url>
   
   <url>
-    <loc>/es/publication/misc/misc_any_folder_name_1/</loc>
+    <loc>/es/publicaciones/articulos/tesis/</loc>
     <lastmod>2020-12-12T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/publication/misc/misc_any_folder_name_1/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/publication/misc/misc_any_folder_name_1/"
-                />
   </url>
   
   <url>
-    <loc>/es/programacion/post-en-archivo-rmd/</loc>
+    <loc>/es/posts/post-en-archivo-rmd/</loc>
     <lastmod>2020-12-11T23:46:00+09:00</lastmod>
   </url>
   
@@ -488,48 +443,18 @@
   </url>
   
   <url>
-    <loc>/es/publication/article/</loc>
+    <loc>/es/publicaciones/articulos/</loc>
     <lastmod>2020-03-05T14:08:48+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/publication/article/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/publication/article/"
-                />
   </url>
   
   <url>
-    <loc>/es/publication/book/</loc>
+    <loc>/es/publicaciones/libros/</loc>
     <lastmod>2020-03-05T14:08:48+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/publication/book/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/publication/book/"
-                />
   </url>
   
   <url>
-    <loc>/es/publication/misc/</loc>
+    <loc>/es/publicaciones/musica/</loc>
     <lastmod>2020-03-05T14:08:48+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/publication/misc/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/publication/misc/"
-                />
   </url>
   
   <url>
@@ -553,26 +478,7 @@
   </url>
   
   <url>
-    <loc>/es/publication/article/article_any_folder_name_1/</loc>
-    <lastmod>2018-06-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/publication/article/article_any_folder_name_1/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/publication/article/article_any_folder_name_1/"
-                />
-  </url>
-  
-  <url>
     <loc>/es/musica/</loc>
-  </url>
-  
-  <url>
-    <loc>/es/tags/programaci%C3%B3n/</loc>
   </url>
   
 </urlset>

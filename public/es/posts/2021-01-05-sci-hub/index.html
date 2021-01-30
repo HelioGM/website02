@@ -1578,30 +1578,6 @@ if (!doNotTrack) {
 
       
         <li class="navbarm__menu--item ">
-          <a href="/es/programacion">Programación</a>
-        </li>
-      
-      
-    
-      
-      
-      
-      
-
-      
-        <li class="navbarm__menu--item ">
-          <a href="/es/carpinteria">Carpintería</a>
-        </li>
-      
-      
-    
-      
-      
-      
-      
-
-      
-        <li class="navbarm__menu--item ">
           <a href="/es/archive">Archivo</a>
         </li>
       
@@ -1717,22 +1693,6 @@ if (!doNotTrack) {
   
   
   
-  <a href="/es/programacion" class="navbar__menu-item navbar__slide-down " dir="ltr" data-ani="true">Programación</a>
-  
-  
-  
-  
-  
-  
-  
-  <a href="/es/carpinteria" class="navbar__menu-item navbar__slide-down " dir="ltr" data-ani="true">Carpintería</a>
-  
-  
-  
-  
-  
-  
-  
   <a href="/es/archive" class="navbar__menu-item navbar__slide-down " dir="ltr" data-ani="true">Archivo</a>
   
   
@@ -1785,7 +1745,7 @@ if (!doNotTrack) {
   
   <li >
     
-      <a href="/es/posts/" class="capitalize">Posts</a>
+      <a href="/es/posts/" class="capitalize">Blog</a>
     
   </li>
   
@@ -2298,24 +2258,59 @@ El proyecto Sci-Hub comenzó a funcionar el 5 de septiembre de 2011. Fue fundado
 </nav>
     
   
-    <div id="disqus_thread"></div>
+    <div id="utterances"></div>
+<noscript>Please enable JavaScript to view the <a href="https://github.com/utterance">comments powered by utterances.</a></noscript>
 <script>
-  let disqus_config = function () {
-    
-    
-    
-  };
-  (function () {
-    if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
-      document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
-      return;
+  document.addEventListener('DOMContentLoaded', function () {
+    function checkTheme(local, base) {
+      var currentTheme = local || base;
+
+      if (currentTheme === "dark") {
+        return "photon-dark";
+      } else if (currentTheme === "hacker") {
+        return "photon-dark";
+      } else if (currentTheme === "kimbie") {
+        return "github-dark-orange";
+      } else {
+        return "github-light";
+      }
     }
-    var d = document, s = d.createElement('script'); s.async = true;
-    s.src = 'https://' + 'helio5' + '.disqus.com/embed.js';
-  s.setAttribute('data-timestamp', +new Date());
-  (d.head || d.body).appendChild(s);
-  }) ();
+
+    try {
+      
+      var owner = JSON.parse("\"HelioGM\"");
+      
+      var repo = JSON.parse("\"HelioGM/msg_utterance\"");
+      
+      var baseTheme = JSON.parse("\"light\"");
+      var localTheme = localStorage.getItem('theme');
+      var utterTheme = checkTheme(localTheme, baseTheme);
+      var myScript = document.createElement('script');
+      myScript.setAttribute('src', 'https://utteranc.es/client.js');
+      myScript.setAttribute('repo', `${owner}/${repo}`);
+      myScript.setAttribute('issue-term', 'pathname');
+      myScript.setAttribute('theme', utterTheme);
+      myScript.setAttribute('crossorigin', 'anonymous');
+      myScript.setAttribute('async', '');
+      myScript.onload = function() {
+      }
+
+      
+
+      document.getElementById('utterances').appendChild(myScript);
+    } catch (err) {
+      console.log(err);
+    }
+  });
 </script>
+
+<div id="comments-fallback" class="viaemail">
+    <div class="utterances__message">
+        
+        <a href="https://github.com/HelioGM/HelioGM/msg_utterance/issues/" target="_blank" rel="noreferrer">&nbsp;</a>
+    </div>
+</div>
+
   
 
     <div class="modal micromodal-slide" id="modal" aria-hidden="true">
@@ -3378,12 +3373,6 @@ document.addEventListener('DOMContentLoaded', function () {
 
     <div class="footer__poweredby">
         
-                
-            <p class="caption">
-                
-                    ©2021, All Rights Reserved
-                
-            </p>
         
 
         

@@ -1,0 +1,756 @@
+---
+authors: ['García-Mendívil,H.A.']
+publication: "Tesis"
+abstract: ""
+links:
+ - name: url
+   link: https://google.com
+shorttitle: "Introduccion"
+copyright: "All rights reserved"
+title: "Durability of resistance to Meloidogyne mediated by R-genes in
+  Solanaceae and Cucurbitaceae crops"
+bibliography:
+- bib/MyCollection.bib
+ENTRYTYPE: "misc"
+output:
+  blogdown::html_page:
+    toc: true
+enableToc: false
+enableWhoami: True
+pinned: true
+publishDate: "2020-12-12"
+libraries:
+- katex
+math: true
+image:  images/nuevas/Logo.png
+
+---
+
+<style>
+body {
+text-align: justify}
+</style>
+
+-   [General introduction](#general-introduction)
+    -   [*Meloidogyne* spp.](#meloidogyne-spp.)
+        -   [Biology](#biology)
+        -   [Economic importance](#economic-importance)
+    -   [Population dynamics and yield
+        losses](#population-dynamics-and-yield-losses)
+    -   [Plant resistance](#plant-resistance)
+    -   [Watermelon](#watermelon)
+        -   [Importance](#importance)
+        -   [Origin](#origin)
+        -   [Cultivation challenges](#cultivation-challenges)
+        -   [Grafting](#grafting)
+    -   [Eggplant](#eggplant)
+        -   [Importance](#importance-1)
+        -   [Origin](#origin-1)
+        -   [Cultivation challenges](#cultivation-challenges-1)
+        -   [Grafting](#grafting-1)
+    -   [Objectives](#objectives)
+    -   [References](#references)
+
+Universitat Politècnica de Catalunya\
+Departament d'Enginyeria Agroalimentària i Biotecnologia\
+Programa de Doctorat Tecnologia Agroalimentària i Biotecnologia\
+
+![image](LogoUPC2){width="30%"}
+
+**Durability of resistance to *Meloidogyne* spp. mediated by *R*-genes
+in solanaceous and cucurbitaceous crops**
+
+PhD dissertation
+
+**Helio Adán García Mendívil**
+
+PhD Supervisor: **Dr. Francisco Javier Sorribas Royo**
+
+Castelldefels, España
+
+The work presented in this thesis has been developed in the Integrated
+Plant-Parasitic Nematode Research Group of the Department of Agri-Food
+Engineering and Biotechnology of the UPC (Universitat Politècnica de
+Catalunya-BarcelonaTech, in the framework of the research projects:
+
+"Efecto de la resistencia de genes *R* y la inducida por hongos
+endofitos en la epidemiología de *Meloidogyne* y la producción y calidad
+de la cosecha en solanaceas-cucurbitaceas\". Funded by Ministerio de
+Economća y Competitividad (AGL2013-49040-C2-1R).
+
+"Estrategias de gestión de germoplasma vegetal resistente a
+*Meloidogyne* para evitar la selección de virulencia\". Funded by
+Ministerio de Economća y Competitividad (AGL2017-89785-R).
+
+And with help of the pre-doctoral grant provided by the Consejo Nacional
+de Ciencía y Tecnología (No. 411638).
+
+
+---------------
+
+**Durability of resistance to *Meloidogyne* spp. mediated by *R*-genes
+in solanaceous and cucurbitaceous crops**
+
+Helio Adán García Mendívil\
+**Abstract**
+
+------------------------------------------------------------------------
+
+Watermelon, *Citrullus lanatus* var. *lanatus*, and eggplant, *Solanum
+melongena*, are two major crops commonly grafted in order to overcome
+soilborne diseases. However, there are currently no commercially
+available rootstocks resistant to root-knot nematodes (RKN),
+*Meloidogyne* spp., infection in the *Cucurbitacea* family, and also a
+narrow diversity in the *Solanaceae*, mostly in tomato and pepper. In
+order find alternatives to address this problem, the main objective of
+this thesis was to determine the durability of resistance to
+*Meloidogyne* of *Citrullus amarus* and *Solanum torvum* as potential
+rootstocks for watermelon and eggplant, respectively. In the first part
+of this document, the work conducted with the cucurbits is presented in
+chapters one and two, while chapters three and four correspond to work
+done with solanaceous.
+
+Durabilty of *Citrullus amarus* resistance to *Meloidogyne*: the
+response of two *Citrullus amarus* accessions, BGV0005164 and
+BGV0005167, was assessed against different *Meloidogyne arenaria*, *M.
+incognita*, and *M. javanica* isolates in pot experiments and against
+*M. incognita* in plastic greenhouse. (i) In the pot experiments, plants
+were inoculated with a second-stage juvenile per cm^3^ of sterile sand
+and maintained in a growth chamber at 25 C for 50 days. The watermelon
+cv. Sugar Baby was included as a susceptible control for comparison. At
+the end of the experiments, the number of egg masses and eggs per plant
+was determined, and the reproduction index was calculated as the
+percentage of the number of eggs produced in the *C. amarus* accessions
+with regard to that produced in the susceptible cv. Sugar Baby. (ii) In
+the plastic greenhouse experiment, the ungrafted watermelon cv. Sugar
+Baby and watermelon grafted onto each of the *C. amarus* accessions and
+onto the watermelon rootstock cv. Robusta were cultivated from May to
+August 2016 in plots with nematode densities from 46 to 1392 J2 per 250
+cm^3^ of soil at transplantation. At the end of the experiment, the
+galling index and the number of eggs per plant were determined, and the
+reproduction index was calculated. (iii) Additionally, the compatibility
+of the two accessions with the watermelon cv. Sugar Baby and the effect
+on fruit quality (weight, size, shape, firmness, pH, total soluble
+solids, and flesh color) were assessed under a hydroponic system in a
+greenhouse. The commercial rootstocks cv. Cobalt and cv. Robusta were
+also included. Moreover (iv) The response of ungrafted and grafted
+watermelon cv. Sugar baby onto the *C. amarus* accessions BGV0005164 and
+BGV0005167 submitted to increasing densities of *M. incognita* and *M.
+javanica* was studied in pot experiments to determine the maximum
+multiplication rate, the maximum population density and the equilibrium
+density of the root-knot nematode species and the effect on shoot dry
+biomass of watermelon. (v) In plastic greenhouse conditions, the
+ungrafted and grafted watermelon onto both *C. amarus* accessions, and
+onto the *C. lanatus* rootstock cv. Robusta were cultivated for two
+consecutive years in the same plots to assess the level of resistance to
+*M. incognita* and crop yield. (vi) Additionally, after the second crop,
+the putative selection for virulence in the nematode subpopulation
+originated in the ungrafted and grafted watermelon was assessed in pot
+experiments. The results showed that (i) all the *Meloidogyne* isolates
+produced fewer egg masses and eggs per plant in the accessions than in
+Sugar Baby. Both accessions performed as resistant against *M.
+arenaria*, and from highly to moderately resistant to *M. incognita* and
+*M. javanica* in pot experiments. (ii) In the plastic greenhouse
+experiment, both *C. amarus* accessions performed as resistant to *M.
+incognita*. (iii) Both *C. amarus* accessions were compatible with the
+watermelon cv. Sugar Baby, but only the BGV0005167 accession did not
+influence the fruit quality. (iv) The maximum multiplication rate, the
+maximum population density and the equilibrium density values of both
+*Meloidogyne* species were lower in grafted than ungrafted watermelon.
+(v) In the plastic greenhouse experiment, the nematode densities in soil
+at transplantation ranged from 1 to 53 J2 per 100 cm^3^ of soil in
+2017 and did not differ between grafted and ungrafted watermelons. At
+the end of the crop, the galling index and the number of eggs per plant
+was higher in ungrafted than in grafted watermelon both years. The *C.
+amarus* accessions performed from highly resistant to resistant to *M.
+incognita*, and the rootstock cv. Robusta from moderately resistant in
+2017 to slightly resistant in 2018. All grafted watermelons yielded more
+kg per plant than the ungrafted in both years. (vi) The repeated
+cultivation of grafted watermelon onto *C. amarus* accessions did not
+select for virulence. In conclusion, the BGV0005167 accession is a
+promising rootstock for managing the three tropical root-knot nematode
+species without influencing watermelon fruit quality. The results of
+this study highlight the poorer host status of CI64 and CI67 accessions
+to *M. incognita* and *M. javanica* compared to watermelon; the
+stability of the *C. amarus* resistance; and the beneficial effect of
+*C. amarus* on watermelon yield when cultivated in *Meloidogyne*
+infested soils.
+
+Durabilty of Solanum torvum resistance to Meloidogyne: several
+experiments were carried out to assess the performance of commercial
+*Solanum torvum* cultivars against *Meloidogyne incognita* and *M.
+javanica* isolates from Spain. (i) The response of *S. torvum* rootstock
+cultivars Brutus, Espina, Salutamu and Torpedo against *M. incognita*
+and *Mi1.2* (a)virulent *M. javanica* isolates was determined in pot
+experiments, and of cv. Brutus to an *N*-virulent isolate of *M.
+incognita*, compared with that of the eggplant cv. Cristal. (ii) The
+relationship between the initial and final population densities of *M.
+javanica* on ungrafted and grafted 'Cristal' onto the *S. torvum*
+'Brutus' was assessed, together with the effect on dry shoot biomass.
+(iii) Finally, the population growth rate and the resistance level of
+the four *S. torvum* cultivars against *M. incognita* was assessed under
+plastic greenhouse conditions in two cropping seasons. (iv) The eggplant
+*Solanum melongena* cv. Cristal, either ungrafted or grafted onto the
+*S. torvum* rootstock cv. Brutus was cultivated for two consecutive
+years in the same plots in a plastic greenhouse to assess the level of
+resistance to *M. incognita* and crop yield. (v) At the end of the
+second crop, the putative selection for virulence of the nematode
+subpopulations coming from infected ungrafted and grafted eggplant was
+assessed in the eggplant and in *S. torvum* in a pot experiment. The
+results showed that: (i) all *S. torvum* rootstocks responded as
+resistant to the *M. incognita* isolates and from highly resistant to
+susceptible against *M. javanica* isolates. (ii) The maximum
+multiplication rate of *M. javanica* on the ungrafted or grafted
+eggplant were 270 and 49, respectively, and the equilibrium density were
+1318 and 2056 eggs and J2 per 100 cm^3^ soil, respectively. The
+tolerance of the ungrafted eggplant was 10.9 J2 per 100 cm^3^ soil,
+and the minimum relative dry shoot biomass was 0.76. (iii) The
+population growth rate of *M. incognita* on eggplant cv. Cristal
+differed from that of the *S. torvum* cultivars in both cropping
+seasons. (iv) Nematode population densities at transplantation in 2017
+ranged from 2 to 378 J2 per 100 cm^3^ of soil and did not differ
+between ungrafted and grafted eggplant. At the end of each crop, higher
+galling index and number of nematodes in soil and in roots were
+registered in ungrafted than grafted eggplant. The grafted eggplant
+performed as resistant in 2017 and as highly resistant in 2018. Eggplant
+yield did not differ irrespective of grafting in 2017 after being
+cultivated for 135 days, but it differed after 251 days of cultivation
+in 2018. (v) In the pot experiment, *S. torvum* performed as resistant
+to both *M. incognita* subpopulations. However, the *M. incognita*
+subpopulation obtained from roots of *S. torvum* produced 49.4% less egg
+masses and 56% less eggs per plant in the eggplant than the nematode
+subpopulation obtained from roots of the eggplant cv. Cristal. These
+results suggest that *S. torvum* is a valuable rootstock for managing
+the two *Meloidogyne* species irrespective of the (a)virulence status,
+and revealed that the infective and reproductive fitness of the nematode
+decrease without having been selected for virulence.
+
+------------------------------------------------------------------------
+
+General introduction {#general-introduction .unnumbered}
+====================
+
+![](https://lh3.googleusercontent.com/pw/ACtC-3chWku17BouslTi3TwtIApAxojdtSzOiwJZGg3cy2s_2bxOENN2y7XXghkCUig-QLU08ClMFoQ8nR0pGoipswLW4mKYhxkWF8OsUNmiEeoXY5C8Czwt3htg1Xvm9FY0frujYYERbLFkiKugtyKLIgw=w1058-h868-no?authuser=3){#fig:introduction width="100%"}
+
+------------------------------------------------------------------------
+
+Durability of resistance to *Meloidogyne* spp. mediated by *R*-genes in
+solanaceous and cucurbitaceous crops\
+**Helio A. García-Mendívil**\
+PhD Dissertation\
+
+------------------------------------------------------------------------
+
+*Meloidogyne* spp. {#meloidogyne-spp. .unnumbered}
+------------------
+
+
+
+### Biology {#biology .unnumbered}
+
+Root-knot nematodes (RKN), *Meloidogyne* spp., are the most damaging
+plant parasitic nematodes worldwide. This genus comprises more than 100
+species, however, most of the crop yield losses are caused by four of
+them: the tropical species *M. arenaria*, *M. incognita* and *M.
+javanica*, and the temperate species *M. hapla* [@Jones2013]. The
+widened global warming can favor the expansion and proliferation of the
+RKN tropical species in areas where the temperate RKN species
+predominates. This fact evidence the importance of focusing research
+efforts for designing management strategies to the tropical RKN species.
+
+RKN are obligated parasites that require a suitable host plant for life
+cycle completion (Fig.
+[1](#fig:LifeCycle03){reference-type="ref"
+reference="fig:LifeCycle03"}). The infective pre-parasitic vermiform
+second-stage juveniles (J2) of *Meloidogyne* moves through the soil and
+penetrate the root behind the tip, by using their protractible stylet
+and releasing secretions containing cell-wall-degrading enzymes
+[@Abad2003]. J2 then migrate intercellularly between the cortical
+cells towards the root tip where they make a U-turn to later enter into
+the vascular cylinder and moves until stablishing a feeding site. Each
+J2 is able to induce the redifferentiation of five to seven
+parenchymatic root cells into multinucleate and hypertrophied feeding
+cells, the so-called giant cells, from which get the nutrients needed
+for its life cycle completion [@Nyczepir2009a]. The accumulation of
+these giant cells is responsible for the characteristic galled tissue
+present in infected root systems, and for the disturbance of plant
+development, defenses, and metabolism [@Shukla2018]. Once infection
+occurs, juveniles become sedentary and assume a "sausage" shape as
+increases its size. J2 then moults three times achieving the adult
+stage. The tropical species, *M. arenaria, M. incognita* and *M.
+javanica*, reproduce parthenogenetically. The sedentary pearl-shaped
+adult female keeps feeding from the giant cells and is able to lay c.
+300-500 eggs inside a gelatinous mass. Under unfavourable conditions
+(high nematode density, scarcity of food or stressed plants) the
+juveniles develop into males. Interestingly, some studies have found to
+increase stimulation towards maleness by cropping several cucurbit
+species [@Fassuliotis1970; @Walters2006; @ExpositoA.2019c].
+
+```{r LifeCycle03, fig.cap="Diagram of the life cycle of the root-knot nematode, *Meloidogyne*. J2: second-stage juvenile; J3: third-stage juvenile; J4: fourth-stage juvenile (adapted from @moens2009meloidogyne).", echo=FALSE, out.width = "80%"}
+knitr::include_graphics("https://lh3.googleusercontent.com/pw/ACtC-3dve0uFhqMp2Zcg-M2EdMtEzDU4FdVgBLG5MfuKV8pY278VbFKGqAKzhFrxdjdBhwy8XdHhvC9tQIfoaa6vHlazBY9if2bUCmgDWw9Cg7t98smLcxFb8vU5YBpf90xetlcO4v0rTxzYKy5-g1Y7AbQ=w999-h868-no?authuser=3")
+```
+
+
+*Meloidogyne* spp. is a poikilothermic organism, meaning that
+temperature influence its life cycle and determine its length
+[@Tyler1933]. The nematode development occurs between 10 and 32 C, and
+needs to accumulate an amount of degree-days (K) at a certain basal
+temperature (Tb) to complete its life cycle [@Trudgill1995]. For
+instance, it has been reported that *Meloidogyne* spp. requires between
+600 and 700 accumulated degree-days with a base temperature of 10 C to
+complete its life cycle in tomato [@Ferris1985]. However, the thermal
+time requirements for life cycle completion can differ between RKN
+populations of a given species depending of its geographic origin,
+showing its ability to adapt to environmental factors, i.e., optimal
+temperatures of 25-30C and 32-34C were found in populations of *M.
+javanica* from Australia and California, respectively [@Ferris1979].
+Such adaptive ability may be one of the main reasons of its success in
+spreading globally, and also evidence its importance for modern
+agriculture.
+
+### Economic importance {#economic-importance .unnumbered}
+
+The occurrence of soilborne diseases and pests have increased in recent
+years as consequence of the intensive cultivation needed to supply a
+growing population in limited land resources [@Thies2015c]. A
+comprehensive summary of the estimation of yield losses caused by RKN in
+several crops have been published by Greco and Di Vito [-@Greco2009a].
+The cucurbit and solanaceous crops are two of the crop families most
+frequently cultivated worldwide that are severely affected by RKN.
+Regarding cucurbit crops, maximum yield losses of 88, 53 and 35% in
+cucumber, zucchini and watermelon, respectively, have been estimated
+under greenhouse conditions [@Gine2014a; @Vela2014;
+@Lopez-Gomez2014a, 2015]. RKN are also one of the most
+damaging soilborne pathogens for solanaceous crops, specially under
+protected cultivation, with maximum yield losses of 94, 95 and 100%
+reported for pepper, eggplant and tomato, respectively [@Gine2017c;
+@Hallmann2018a].
+
+Population dynamics and yield losses {#population-dynamics-and-yield-losses .unnumbered}
+------------------------------------
+
+Population dynamics studies the factors that determine the temporal
+oscillation of densities of individuals from the same specie living in a
+certain area. The nematode population density at sowing or transplanting
+of a crop is related with its productivity. The proper modeling of
+population dynamics allows to estimate the densities variability over
+time in relation with influencing factors, and therefore, to relate them
+with the yield losses that nematodes could cause. Modeling the damage
+levels enable to calculate parameters such the tolerance limit (*T*),
+the maximum population density above which yield losses start to occur,
+and the maximum yield losses (*m*). These parameters, along with the
+maximum reproduction rate (*a*)(*Pf/Pi* at low densities
+[@Ferris1985], and the equilibrium density, that initial population at
+which nematode receive just enough supply of nutrients to maintain the
+population density at the same level from begin at the end of the
+growing season; permits to evaluate the importance of a determined
+nematode from a growing area, or the effect of management strategies.
+These quantitative studies constitute the basis for populations'
+evolution understanding of specific patosystems with typical
+agro-environmental conditions from determine growing area, and to design
+and implement effective and durable management strategies (Sorriba and
+Verdejo-Lucas 2011; Fig
+[2](#fig:FigPivsPf){reference-type="ref"
+reference="fig:FigPivsPf"}).
+
+
+
+```{r FigPivsPf, fig.cap="Relation between initial and final densities in experiments with a nematode on a good host, intermediate hosts, poor hosts, and a nonhost. *Pi* and *Pf*: initial and final densities on logarithmic scales. Equilibrium density: *Pf = Pi* (adapted from @Seinhorst1970a).", echo=FALSE, out.width = "80%"}
+knitr::include_graphics("https://lh3.googleusercontent.com/pw/ACtC-3cKaA_VJetctp0Kutrgp-OyKQg0C6ATybWPWwwfxcrOyZugBBrCgK7yKpWCy6X8s48188sRhSFlBedhofbLC2nMI3p3mYwd6-lAMqh1D_QNo9mIV3kTGJE9UioV69khhOGWSBp8oGu6n-jvicXkoiA=w852-h868-no?authuser=3")
+```
+
+Population density fluctuations are affected by denso-independent and
+denso-dependent factors. Denso-independent factors, such climate,
+environmental conditions, and intraspecific competition, influence from
+outside of population, while denso-dependent include interspecific
+competition and the action of antagonist or predators. Two phases can be
+distinguish: one during the host plant cultivation in which nematode
+have enough nutrients to increase its population density, and the second
+during either no cropping periods in which there is no food supply and
+population density do not increase, or decrease depending on the
+nematode and the duration of periods with no host cultivation.
+
+The multiplication growth rate (*Pf*/*Pi*), that is, the relationship
+between the nematode population density at transplanting (*Pi*) and at
+the end of the crop (*Pf*) is consider a good indicator of population
+growth. In absence of competition between individuals for limiting
+resources, the *Pf*/*Pi* maximize (*a*), and the relationship with *Pi*
+its a straight line (*Pf* = *aPi*; thus *Pf*/*Pi* = *a*). However,
+increases in *Pi* induce competition between individuals for healthy
+plant tissue, can induce alteration in sex differentiation or to reduce
+in female fecundity, thus *Pf*/*Pi* decreases. In the case of nematodes
+that reproduce parthenogenetically, such *Meloidogyne* spp., the
+relationship between *Pf*/*Pi* and *Pi* follows an inverse potential
+function (*Pf*/*Pi* = *aPi*^-b^, where *a* is the maximum multiplication
+rate, and *-b* is the decrease rate of the population as *Pi* increase).
+The maximum multiplication rate (*a*) is a good indicator of the plant
+host status to Meloidogyne. Higher values of *a* indicate that the plant
+is a good host and low values, a pooor host [@Ferris1985].
+
+The population growth rate can also be useful to estimate the *Pi* at
+which *Pf*/*Pi* = 1, the equilibrium density (*E*). This can be
+calculated from the regression equation obtained from linearizing the
+relationship between the *Pi* and the multiplication rate (*Pf/Pi*). The
+population growth rate is also a useful indicator that allows to compare
+between plant species and/or germplasms, as well as the effectiveness of
+control methods [@Talavera2009b; @Gine2017b; @Exposito2018c]; Fig
+[3](#fig:LogPivsLogPfPi3){reference-type="ref"
+reference="fig:LogPivsLogPfPi3"}).
+
+
+```{r LogPivsLogPfPi3, fig.cap="Relation between initial population density (*Pi*) and multiplication rate (*Pf/Pi*) of RKN on two hypothetical germplasms (adapted from @Ferris1985).", echo=FALSE, out.width = "80%"}
+knitr::include_graphics("https://lh3.googleusercontent.com/pw/ACtC-3fJzp2yIYOvKBgotoDzZ8fzIE6DZh8M_ZO6HKWyIeAstNe-z5QyVtbxTMs8Gt9773vi9G1LUI4tOEl-LNW-FwFGNBu5G7s-Fl-pyqkEjk6aJ7Nws0AF1yybBA-xsaeUE_Zjtg-FctOLeidpTFwOBx0=w1095-h868-no?authuser=3")
+```
+
+
+
+Regarding to crop yield losses, there are two parameters that can be
+calculated by estimating the relationship between increasing levels of
+*Pi* and the relative crop biomass or yield according to the Seinhort's
+damage model [@fdi:010017629]: 
+
+<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mtable><mtr><mtd columnalign="right"></mtd><mtd columnalign="left"><mi>y</mi><mo>=</mo><mi>m</mi><mo>+</mo><mo stretchy="false" form="prefix">(</mo><mn>1</mn><mo>−</mo><mi>m</mi><mo stretchy="false" form="postfix">)</mo><msup><mn>0.95</mn><mfrac><mrow><mi>P</mi><mi>i</mi></mrow><mrow><mi>T</mi><mo>−</mo><mn>1</mn></mrow></mfrac></msup></mtd><mtd columnalign="right"><mi>f</mi><mi>o</mi><mi>r</mi><mi>P</mi><mi>i</mi></mtd><mtd columnalign="left"><mo>&gt;</mo><mi>T</mi></mtd></mtr><mtr><mtd columnalign="right"></mtd><mtd columnalign="left"><mi>y</mi><mo>=</mo><mn>1</mn></mtd><mtd columnalign="right"><mi>f</mi><mi>o</mi><mi>r</mi><mi>P</mi><mi>i</mi></mtd><mtd columnalign="left"><mo>≤</mo><mi>T</mi></mtd></mtr><mtr><mtd columnalign="right"></mtd><mtd columnalign="left"><mi>y</mi><mo>=</mo><mi>m</mi></mtd><mtd columnalign="right"><mi>f</mi><mi>o</mi><mi>r</mi><mi>P</mi><mi>i</mi></mtd><mtd columnalign="left"><mo>→</mo><mi>∞</mi></mtd></mtr></mtable><annotation encoding="application/x-tex">\begin{aligned}
+&amp;y = m + (1 - m) 0.95 ^{\frac{Pi}{T-1}} &amp;&#9;for Pi &amp;&gt; T \\
+&amp;y = 1&#9;&#9;&#9;&#9;&#9;&#9;            &amp;&#9;for Pi &amp;\leq T \\
+&amp;y = m&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;    &amp;&#9;for Pi &amp;\longrightarrow \infty\end{aligned}</annotation></semantics></math>
+
+The nematode population density above which yield loss start to occur is
+defined as the nematode damage threshold level or the tolerance limit of
+the crop (*T*). This value, along with the the minimum relative yield
+(*m*) are important parameters to characterize the response of a crop
+plant to a nematode population. The parameter *T* manifests itself at
+small nematode densities and *m* at larger ones [@Greco2009a]; Fig
+[4](#fig:Seinhorst){reference-type="ref"
+reference="fig:Seinhorst"}).
+
+
+```{r Seinhorst, fig.cap="Relationship between relative yield and the initial nematode population density of three hypothetical germplasms with different values of *T* and *m* (adapted from @Schomaker2013).", echo=FALSE, out.width = "80%"}
+knitr::include_graphics("https://lh3.googleusercontent.com/pw/ACtC-3fMQUmhgPS8bRvYnfXuEBlR8qTZ-tAWMePvAN8Ms6zzAUf997PmpHNqlZD0ukxo5QLV1Enp4djBJmjWC5jqz1JhGxX1thlT6B3SW-jEeigwTByHZcEYc-16xCBT4WmJacmmdV96e_kZ2uRf0Oxhrwo=w1470-h868-no?authuser=3")
+```
+
+
+
+Plant resistance {#plant-resistance .unnumbered}
+----------------
+
+The most commonly used strategy for RKN management has been, until
+recent years, the use of fumigant and non fumigant nematicides
+[@Nyczepir2009a]. However, regulations such the European directive
+2009/128/EC and the U.S. Clean Air Act [@U.S.2012]), have brought
+special attention on the research and development of environmentally
+friendlier management strategies. A promising alternative strategy
+involves the use of resistant plants, those whose have the ability to
+suppress infection development, and/or reproduction of plant-parasitic
+nematodes [@Roberts2009]. Plant resistance has proven to be effective
+and economically profitable [@Sorribas2005a], and also reduce yield
+losses of the follwing crop [@OrnatC1997a; @Talavera2009b;
+@Westphal2011; @Thies2015; @Gine2017b; @ExpositoA.2019c].
+
+The resistance levels of a determined plant germplasm can be categorized
+in relation to a susceptible standard [@Hadisoeganda1982c]. Expressed
+as the percentage of RKN reproduction compared to that in a susceptible
+standard, this parameter is called the reproduction index (RI; Fig
+[5](#fig:RI3){reference-type="ref"
+reference="fig:RI3"}).
+
+
+
+```{r RI3, fig.cap="A diagrammatic representation of the continuum of susceptibility and resistance to nematode reproduction within a crop germplasm pool (adapted from @starr2009a).", echo=FALSE, out.width = "90%"}
+knitr::include_graphics("https://lh3.googleusercontent.com/pw/ACtC-3cYrBnPs8S7Jdi67WTTjJ5I9bY8UFGFmlfte8m4WEE4VPEXnEFopas2RhNMmpBmDHKD1HvVeOpsoT25m3pbszB5aeAbkhUVD3zIC6nSMBZ0FoQFUgAxheCsfFY2zrGf9FjifMueIbuTJXUTLvv7OUYx=w1367-h373-no?authuser=3")
+```
+
+
+
+Despite its advantages, the expression of plant resistance can be
+affected by several factors, such the genetic background of the plant
+cultivar and/or the nematode species or population [@Cortada2008]. The
+selection of virulent nematode populations due to repeated cultivation
+of the same resistance gene [@Verdejo-Lucas2009a; @Gine2017b;
+@ExpositoA.2019c]. Moreover, there are only a few resistance genes
+introgressed into commercial solanaceous cultivars at present, and none
+in cucurbits. That are, the *Me1, Me3* and *N* gene in pepper, and the
+*Mi1.2* gene in tomato. Soil temeprature can also affect the expression
+of plant resistance. It is known that the *Mi1.2* gene is affected at
+soil temperatures above 30 °C, while the resistance of the *N* gene is
+reported to be partially lost at 32 °C [@araujo1982effects;
+@Thies1998]. Thus,plant resistance is a valuable management tool but
+it should be used in a proper manner to maximize its effectiveness.
+Moreover, more research are needed to identify new resistance sources
+for increasing the *R*-genes that could be used in rotation schemes .
+
+Grafting vegetables onto resistant rootstocks is an effective method to
+control soilborne pathogens when no commercial cultivars are available
+[@Miguel2004a; @Cohen2007; @Thies2016; @Kumar2018]. This control
+method was essentially rediscovered in the past two decades and quickly
+expanded to become a common practice at the present [@Thies2015c;
+@Kyriacou2017]. Grafting has expanded mainly in the Cucurbitaceae and
+the Solanaceae families [@Moncada2013]. The use of anatomical and
+physiological compatible graft combinations improve the plant
+performance under biotic or abiotic stress conditions when compared with
+that of the ungrafted scion, allowing rapid response to new pathogen
+races without the prolonged screening and selection required for
+breeding resistance into cultivars [@Davis2008]. Although the
+tolerance and resistance to abiotic and biotic stresses, respectively,
+along with an increasing productivity have been the main drivers of
+rootstock selection and breeding, the effect of grafting on fruit
+quality is also another important factor to take into account
+[@Kyriacou2017].
+
+Some strategies proposed to avoid the selection for RKN virulence or to
+reduce the level of virulence and crop yield losses consider to include
+resistant and susceptible crops in rotation sequences
+[@Talavera2009b], the use of crops of two different resistant plant
+species [@ExpositoA.2019c], or to pyramid different *R*-genes
+[@Djian2014]. However, as literature reviewed points out, most of the
+research done have been focusing on tomato and pepper. Thus, the aim of
+this thesis was to increase the diversity of resistance sources against
+RKN by potentially effective rootstocks for two species of the most
+economically important botanical families cultivated, the cucurbitaseous
+watermelon (*Citrullus lanatus* var. *lanatus*), and the solanaseous
+eggplant (*Solanum melongena*). A brief description of these two crops
+and their potential rootstocks is presented in the next two sections.
+
+
+Watermelon {#watermelon .unnumbered}
+----------
+
+### Importance {#importance .unnumbered}
+
+Watermelon is the most cultivated cucurbit crop worldwide. The global
+production in 2017 was ca. 118 million t in ca. 3.4 million ha, 38% of
+the arable land destined to cultivate for this botanical family, with an
+estimated value of 48.9B [@FAOSTAT2017c]; Fig
+[6](#fig:WorldWatermelon02){reference-type="ref"
+reference="fig:WorldWatermelon02"}). In spite of its origin theorized in the
+African continent, most of the watermelon are produced in Asia, with 67%
+of total world production in China. Within the European Union (EU),
+Spain was the main watermelon producer during 2017, with 20,026 ha
+harvested to produce 1.1 million t of fruit marketed with an estimated
+value of 331M, 68% of which were exported [@MAPA2019]. The watermelon
+fruit composition is 93% water, with small amounts of protein, fat,
+minerals, and vitamins. The major nutritional fruit components are
+carbohydrates (6.4 g/100 g), vitamin A (590 IU), and lycopene (4,100
+μg/100g, range 2300--7200), an anticarcinogenic compound found in
+red flesh watermelon, even in higher amounts than in tomato, pink
+grapefruit, or guava [@Wehner2008].
+
+
+```{r WorldWatermelon02, fig.cap="Origin and production quantities of watermelons in 2017 by country [FAOSTAT, 2019; @Renner2019].", echo=FALSE, out.width = "100%"}
+knitr::include_graphics("https://lh3.googleusercontent.com/pw/ACtC-3dtr0vFepGytI3IyvDSVPYt0w3r3nl2UJBKqLpMEAlGoRXoaVOkm-QIAAar49tVVCx5GM9lnNBMfMHjHEAyscxQ_QHbJFwDb2YXBJE1xtQA86slfYulB_QSHmR_rd5Dnmv0znTMlkiX2FlgztOd2ipQ=w1112-h557-no?authuser=3")
+```
+
+
+### Origin {#origin .unnumbered}
+
+Watermelon is a diploid creeping monoecious crop that belongs to the
+*Cucurbitaceae* family. The taxonomy of the genus *Citrullus* have had
+major misapplication of names until recent years, including that of
+watermelon, *C. lanatus*, itself [@Chomicki2015]; [@Renner2014]. The
+Southern African region is reported to be the center of diversity and
+probably the center of origin of most of the *Citrullus* species
+[@Dane2004; @Rubatsky2001; @Robinson1997]. However, four
+hypotheses have been proposed for the origin of watermelon: i) that it
+descends from the northern African colocynth (*C. colocynthis*,
+[@Singh1978; @Sain2002; @McCreight2013]. ii) That it derives from
+the South African citron melon, *C. amarus*, previously referred as *C.
+lanatus* var. *citroides* [@Robinson1997; @Maynard2000;
+@Rubatsky2001; @Chomicki2015]. iii) That it stems from the West
+African *C. mucosospermus* [@Guo2013; @Chomicki2015], and iv) Recent
+research with polygenomic analyses of nuclear gene sequences suggest
+that the white-fleshed Sudanese Kordophan melon (*Citrullus vulgaris*)
+is the closest relative of domesticated watermelon that was originated
+and domesticated in north-eastern Africa [@Renner2019]; Fig
+[6](#fig:WorldWatermelon02){reference-type="ref"
+reference="fig:WorldWatermelon02"}).
+
+### Cultivation challenges {#cultivation-challenges .unnumbered}
+
+The modern cultivated watermelon has a narrow genetic base
+[@Szamosi2009; @Solmaz2010; @Nimmakayala2014] attributed to many
+years of domestication and selection of its desirable horticultural
+traits such as red-scarlet flesh color and sweetness [@Levi2001b;
+@Hwang2011; @Lambel2014; @Nimmakayala2014]. The continued use of
+cultivars with narrow genetic base for breeding resulted in reduced gene
+diversity among American watermelon accessions [@Wang2015;
+@Zhang2016]. This has derived in susceptibility of crops to random and
+emerging biotic and abiotic stresses [@Levi2001a; @Mo2016]. In spite
+of being consider a less suitable host for RKN than other cucurbit
+crops, watermelon maximum yield losses of 37% have been recently
+reported in Spain [@Lopez-Gomez2014a]. Moreover, as the next section
+will better describe, modern watermelons are commonly grafted onto
+commercial rootstocks owing its resistance to fusarium, however, these
+rootstocks are not resistant to *Meloidogyne*
+[@Kokalis-Burelle2011; @Lopez-Gomez2016; @Gine2017c].
+
+### Grafting {#grafting .unnumbered}
+
+A detailed history of cucurbit grafting have been done by Davis
+[-@Davis2008]. The primary motive for grafting cucurbits is to avoid
+damage caused by soilborne pests and pathogens when genetic or chemical
+approaches for disease management are not available [@Oda2002].
+Research on cucurbit grafting began in the 1920s with the use of
+*Cucurbita moschata* as a rootstock for watermelon, but then bottle
+gourd (*Lagenaria siceraria*) soon became the preferred rootstock. By
+the year 1998, approximately 95% of watermelon and oriental melons were
+grafted onto squash or bottlegourd rootstocks in Japan, Korea, and
+Taiwan [@Oda2003]. Possibly because of the widespread use of bottle
+gourd rootstocks, there are reports of plants affected by Fusarium wilt,
+probably the most common and damaging soilborne disease of cucurbit
+crops worldwide, caused by *Fusarium oxysporum* Schltdl. Moreover both
+rootstocks are susceptible to *Meloidogyne* infection
+[@Kokalis-Burelle2011; @Lopez-Gomez2016; @Gine2017c]. Hence, an
+alternative genetic source of resistance to both pathogens must be found
+and properly characterized in order to be able to design an effective
+and widely applicable RKN management strategy.
+
+A potential alternative rootstock for watermelon, is its close relative
+citron or preserving melon, *C. amarus*. The flesh of the citron is
+white or green, and may vary from bland to bitter tasting. Its rind is
+used to make pickles, and the fruit are feeding to livestock
+[@Wehner2008]. Conversely to watermelon, citron melon exhibits wider
+genetic variation [@Levi2001b] suggesting its genetic worthiness as a
+source of valuable genes for breeding [@Ngwepe2019]. This rootstock
+have show to be resistant to several soil pathogens such as fusarium
+wilt, gummy stem blight, powdery mildew, potyviruses, and some species
+and populations of *Meloidogyne* [@Gusmini2005; @Huitron2007a;
+@Guner2008; @Tetteh2010; @Thies2016]. In spite of it, there is
+little information about it use to control RKN in the EU, thus, research
+on its response to local population must be done before include it in a
+management strategy.
+
+Eggplant {#eggplant .unnumbered}
+--------
+
+### Importance {#importance-1 .unnumbered}
+
+Eggplant, *Solanum melongena*, is the third most widely cultivated
+Solanaceous fruiting crop after potato and tomato. The global production
+in 2017 was ca. 52 million t in ca. 1.8 million ha, 7% of the arable
+land destined to cultivate for this family, with an estimated value of
+36.2B. Most of eggplants production is made in China and India, with ca.
+87% of global production done there in 2017. Italy, Spain and Romania
+were the top three eggplant producer countries in the EU, with 286,473,
+225,912 and 124,429 t produced, respectively (@FAOSTAT2017c; Fig
+[7](#fig:WorldEggplant02){reference-type="ref"
+reference="fig:WorldEggplant02"}). Eggplant is not high in the majority of
+health-related micronutrients, but it is very low in fat an calorie and
+a rich source of nutritionally and pharmaceutically useful compounds,
+such a number phytonutrients, especially hydroxycinnamic acid (HCA)
+conjugates, potentially involved in consumer health, fruit taste and
+texture [@Meyer2015; @Chapman2019].
+
+```{r WorldEggplant02, fig.cap="Production quantities of eggplants in 2017 by country (FAOSTAT, 2019).", echo=FALSE, out.width = "100%"}
+knitr::include_graphics("https://lh3.googleusercontent.com/pw/ACtC-3dH17FJYfXBlWaHO8-vPvaeZ-senTHpd_k5QdRv03odteBUus3FzOD_CdM4F1WiI5TuIbo_lP6_86iep9bG-tsI8TjysruOCHL_JV87zy5pNphGDALXASQG_IkzssO-1ds7IL2jJnhF8e8Z11RphF18=w1112-h557-no?authuser=3")
+```
+
+
+### Origin {#origin-1 .unnumbered}
+
+The Asian eggplant is a widely grown species from the *Solanaceae*
+family. Eggplant is especially popular in the Southeast Asia and the
+Mediterranean region . Several non-exclusive theories have been proposed
+regarding eggplant's origin. The general consensus [@Weese2010;
+@Knapp2013] is that the African/Middle Eastern species *S. incanum*
+was transported into Indo-China where the true wild progenitor, *S.
+insanum*, evolved, from which *S. melongena* is derived
+[@Chapman2019].
+
+### Cultivation challenges {#cultivation-challenges-1 .unnumbered}
+
+The commercial eggplant cultivars also have a narrow genetic diversity
+that, is even poorer than for other solanaceous crops such as tomato and
+pepper. A list of eggplant diseases and pests, and resistances described
+has been well summarized by Daunay [-@Daunay2008]. Among the most
+common soil borne diseases affecting eggplants are bacterial, fusarium
+and verticillium wilt, caused by *Ralstonia solanacearum*, *Fusarium
+oxysporum* f. sp. *melongenae*, *Verticillium dahliae* and *V.
+albo-atrum*. Moreover, it is also susceptible to RKN.
+
+### Grafting {#grafting-1 .unnumbered}
+
+Eggplant grafting is mostly used in intensive production conditions. As
+Daunay [-@Daunay2008] well summarize, there are currently three types
+of eggplant rootstock: i) *S. melongena* lines and hybrids that resist
+to Fusarium and bacterial wilt, and Phomopsis blight, ii) rootstocks
+based on the use of *S. integrifolium*, which also resists to Fusarium
+and bacterial wilts, and is used directly as a rootstock or as parent
+crossed with *S. melongena* varieties for producing interspecific hybrid
+rootstocks (*S. integrifolium × S. melongena*), and iii) the
+third type of rootstocks is composed by *Solanum* species such *S.
+torvum* and *S. sanitswongsei*. However, within Europe eggplant is
+grafted mostly onto tomato or tomato interspecific hybrids (*L.
+esculentum × L. hirsutum*).
+
+*Solanum torvum* is a wild relative of eggplant that is resistant to *V.
+dahliae*, *R. solanacearum*, *F. oxysporum* f. sp. *Melongenae*, and
+some RKN populations [@Singh1997; @Bletsos2003; @Daunay2008;
+@Gisbert2011]. Although resistance of *S. torvum* rootstocks to *M.
+incognita* have been consistently described against several populations
+from France [@Daunay1985], India [@Shetty1985; @Dhivya2014b],
+Japan [@Hara1983; @Ali1992], Pakistan [@Rahman2002a] and Turkey
+[@Curuk2009]; several studies found discrepancies on the levels of
+resistance to *M. arenaria* [@Daunay1985; Gonzalez et al 2010; Ryu et
+al. 2011; @Uehara2017b; @Ocal2018a] and *M. javanica*
+[@Daunay1985; @Boiteux1996; @Tzortzakakis2006a; @Ocal2018a]. As
+far as literature reviewed pointed out, there are no enough studies that
+widely characterize the response of *S. torvum* against *Meloidogyne*
+populations occurring in Spain.
+
+Most of grafting application have expanded mainly in the *Cucurbitaceae*
+and *Solanaceae* family, both major vegetable crops that are commonly
+rotated to maximize land use and boost productivity
+[@Lopez-Gomez2015a; @Kyriacou2017]. The proper screening of *C.
+amarus* and *S. torvum* rootstocks could give crucial information about
+potential tools already available to design effective and
+environmentally friendlier strategies to managing RKN. In particular,
+this work will focus on *Meloidogyne* populations ocurrying in Spain,
+some of them previously described as virulents to the Mi1.2 gene in
+tomato [@Ornat2007; @Verdejo-Lucas2012].
+
+------------------------------------------------------------------------
+
+Objectives {#objectives .unnumbered}
+----------
+
+The main objective of this thesis was to determine the durability of
+resistance to *Meloidogyne* of *Citrullus amarus* and *Solanum torvum*
+as potential rootstocks for watermelon and eggplant, respectively. This
+objective was divided into specific objectives to determine:
+
+1.  The response of two *Citrullus amarus* accessions, BGV0005164 and
+    BGV0005167, against different *Meloidogyne arenaria*, *M.
+    incognita*, and *M. javanica* (a)virulent isolates in pot
+    experiments and against *M. incognita* in plastic greenhouse
+    (Chapter 1).
+
+2.  The performance of ungrafted and grafted watermelon onto *C. amarus*
+    accessions submitted to increasing densities of *M. incognita* and
+    *M. javanica* in pot experiments to determine the maximum
+    multiplication rate, the maximum population density and the
+    equilibrium density of the root-knot nematode species and the effect
+    on shoot dry biomass of watermelon (Chapter 2).
+
+3.  The durability of resistance of *C. amarus* accessions after two
+    consecutive years in the same plots, the selection for virulence and
+    the fitness cost for the nematode (Chapter 2).
+
+4.  The response of commercial *Solanum torvum* cultivars against
+    (a)virulent isolates of *M. incognita* and *M. javanica* in pot
+    experiments and against *M. incognita* in plastic greenhouse in two
+    cropping seasons (Chapter 3).
+
+5.  The performance of ungrafted and grafted eggplant onto *S. torvum*
+    'Brutus' submitted to increasing densities of *M. javanica* in pot
+    experiments to determine the maximum multiplication rate, the
+    maximum population density and the equilibrium density of the
+    root-knot nematode species and the effect on shoot dry biomass of
+    watermelon (Chapter 3).
+
+6.  The durability of resistance of *S. torvum* 'Brutus' after two
+    consecutive years in the same plots, the selection for virulence and
+    the fitness cost for the nematode (Chapter 4).
+    
+------------------------------------------------------------------------
+
+References {#references .unnumbered}
+----------

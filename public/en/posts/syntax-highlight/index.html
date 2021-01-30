@@ -1792,7 +1792,7 @@ if (!doNotTrack) {
             
             
 
-<main class="single__main main-main">
+<main class="single__main main">
   
     <nav class="breadcrumb hide" aria-label="breadcrumbs">
   <script>document.querySelector('.breadcrumb').classList.remove('hide')</script>
@@ -2785,24 +2785,59 @@ if (!doNotTrack) {
 </nav>
     
   
-    <div id="disqus_thread"></div>
+    <div id="utterances"></div>
+<noscript>Please enable JavaScript to view the <a href="https://github.com/utterance">comments powered by utterances.</a></noscript>
 <script>
-  let disqus_config = function () {
-    
-    
-    
-  };
-  (function () {
-    if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
-      document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
-      return;
+  document.addEventListener('DOMContentLoaded', function () {
+    function checkTheme(local, base) {
+      var currentTheme = local || base;
+
+      if (currentTheme === "dark") {
+        return "photon-dark";
+      } else if (currentTheme === "hacker") {
+        return "photon-dark";
+      } else if (currentTheme === "kimbie") {
+        return "github-dark-orange";
+      } else {
+        return "github-light";
+      }
     }
-    var d = document, s = d.createElement('script'); s.async = true;
-    s.src = 'https://' + 'helio5' + '.disqus.com/embed.js';
-  s.setAttribute('data-timestamp', +new Date());
-  (d.head || d.body).appendChild(s);
-  }) ();
+
+    try {
+      
+      var owner = JSON.parse("\"HelioGM\"");
+      
+      var repo = JSON.parse("\"HelioGM/msg_utterance\"");
+      
+      var baseTheme = JSON.parse("\"light\"");
+      var localTheme = localStorage.getItem('theme');
+      var utterTheme = checkTheme(localTheme, baseTheme);
+      var myScript = document.createElement('script');
+      myScript.setAttribute('src', 'https://utteranc.es/client.js');
+      myScript.setAttribute('repo', `${owner}/${repo}`);
+      myScript.setAttribute('issue-term', 'pathname');
+      myScript.setAttribute('theme', utterTheme);
+      myScript.setAttribute('crossorigin', 'anonymous');
+      myScript.setAttribute('async', '');
+      myScript.onload = function() {
+      }
+
+      
+
+      document.getElementById('utterances').appendChild(myScript);
+    } catch (err) {
+      console.log(err);
+    }
+  });
 </script>
+
+<div id="comments-fallback" class="viaemail">
+    <div class="utterances__message">
+        
+        <a href="https://github.com/HelioGM/HelioGM/msg_utterance/issues/" target="_blank" rel="noreferrer">&nbsp;</a>
+    </div>
+</div>
+
   
 
     <div class="modal micromodal-slide" id="modal" aria-hidden="true">
@@ -3138,57 +3173,6 @@ document.addEventListener('DOMContentLoaded', function () {
 </main>
 
 
-<aside class="single__side main-side">
-  
-
-
-<section class="sidebar hide">
-  <script>document.querySelector('.sidebar').classList.remove('hide')</script>
-  <div class="toc__flexbox" data-position="fixed">
-    <h6 class="toc__title" data-ani="true">What&#39;s on this Page</h6>
-    
-      <label class="switch" data-ani="true">
-        <input id="toggle-toc" aria-label="Toggle TOC" type="checkbox" checked>
-        <span class="slider round"></span>
-      </label>
-    
-  </div>
-  <div class="toc " data-dir="ltr" data-folding="true" data-ani="true">
-    <nav id="TableOfContents">
-  <ul>
-    <li><a href="#code-syntax-highlighting">Code Syntax Highlighting</a>
-      <ul>
-        <li><a href="#diff">Diff</a></li>
-        <li><a href="#makefile">Makefile</a></li>
-        <li><a href="#json">JSON</a></li>
-        <li><a href="#markdown">Markdown</a></li>
-        <li><a href="#javascript">JavaScript</a></li>
-        <li><a href="#css">CSS</a></li>
-        <li><a href="#objective-c">Objective C</a></li>
-        <li><a href="#python">Python</a></li>
-        <li><a href="#xml">XML</a></li>
-        <li><a href="#perl">Perl</a></li>
-        <li><a href="#bash">Bash</a></li>
-        <li><a href="#php">PHP</a></li>
-        <li><a href="#coffeescript">CoffeeScript</a></li>
-        <li><a href="#c">C#</a></li>
-        <li><a href="#c-1">C++</a></li>
-        <li><a href="#sql">SQL</a></li>
-        <li><a href="#go">Go</a></li>
-        <li><a href="#ruby">Ruby</a></li>
-        <li><a href="#java">Java</a></li>
-        <li><a href="#latex-equation">Latex Equation</a></li>
-      </ul>
-    </li>
-  </ul>
-</nav>
-  </div>
-</section>
-
-
-
-</aside>
-
 <script>
   
   
@@ -3196,7 +3180,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
   var enableToc = JSON.parse("true");
   var toc = JSON.parse("null");
-  var tocPosition = JSON.parse("\"inner\"");
+  var tocPosition = JSON.parse("\"outer\"");
   
   var singleMainElem = document.querySelector('.single__main');
   var singleSideElem = document.querySelector('.single__side');
@@ -3916,12 +3900,6 @@ document.addEventListener('DOMContentLoaded', function () {
 
     <div class="footer__poweredby">
         
-                
-            <p class="caption">
-                
-                    ©2021, All Rights Reserved
-                
-            </p>
         
 
         
@@ -3939,6 +3917,50 @@ document.addEventListener('DOMContentLoaded', function () {
 
 <div class="wrapper__right hide" data-pad="true" dir="ltr">
   <script>document.querySelector('.wrapper__right').classList.remove('hide')</script>
+  
+    
+      
+        <div class="toc__flexbox--outer" data-position="fixed" data-dir="ltr" data-ani="true">
+          <h6 class="toc__title toc__title--outer" data-ani="true">What&#39;s on this Page</h6>
+          
+          <label class="switch" data-ani="true">
+            <input id="visible-toc" aria-label="Visible TOC" type="checkbox" checked>
+            <span class="slider round"></span>
+          </label>
+          
+        </div>
+        <div class="toc toc__outer " data-dir="ltr" data-folding="true" data-ani="true">
+          <nav id="TableOfContents">
+  <ul>
+    <li><a href="#code-syntax-highlighting">Code Syntax Highlighting</a>
+      <ul>
+        <li><a href="#diff">Diff</a></li>
+        <li><a href="#makefile">Makefile</a></li>
+        <li><a href="#json">JSON</a></li>
+        <li><a href="#markdown">Markdown</a></li>
+        <li><a href="#javascript">JavaScript</a></li>
+        <li><a href="#css">CSS</a></li>
+        <li><a href="#objective-c">Objective C</a></li>
+        <li><a href="#python">Python</a></li>
+        <li><a href="#xml">XML</a></li>
+        <li><a href="#perl">Perl</a></li>
+        <li><a href="#bash">Bash</a></li>
+        <li><a href="#php">PHP</a></li>
+        <li><a href="#coffeescript">CoffeeScript</a></li>
+        <li><a href="#c">C#</a></li>
+        <li><a href="#c-1">C++</a></li>
+        <li><a href="#sql">SQL</a></li>
+        <li><a href="#go">Go</a></li>
+        <li><a href="#ruby">Ruby</a></li>
+        <li><a href="#java">Java</a></li>
+        <li><a href="#latex-equation">Latex Equation</a></li>
+      </ul>
+    </li>
+  </ul>
+</nav>
+        </div>
+      
+    
   
 </div>
 

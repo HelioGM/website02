@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Publicaciones on Helio</title>
+    <link>/es/publicaciones/</link>
+    <description>Recent content in Publicaciones on Helio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <managingEditor>helio4gm@gmail.com (García-Mendívil, Helio A.)</managingEditor>
+    <webMaster>helio4gm@gmail.com (García-Mendívil, Helio A.)</webMaster>
+    <lastBuildDate>Fri, 29 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <sy:updatePeriod>hourly</sy:updatePeriod>
+    <sy:updateFrequency>hourly</sy:updateFrequency>
+    
+        <atom:link href="/es/publicaciones/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>Artículos</title>
+        <link>/es/publicaciones/articulos/</link>
+        <pubDate>Thu, 05 Mar 2020 14:08:48 +0000</pubDate>
+        <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
+        <atom:modified>Thu, 05 Mar 2020 14:08:48 +0000</atom:modified>
+        <guid>/es/publicaciones/articulos/</guid>
+        <description></description>
+        <content:encoded></content:encoded>
+        <dc:creator>García-Mendívil, Helio A.</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Libros</title>
+        <link>/es/publicaciones/libros/</link>
+        <pubDate>Thu, 05 Mar 2020 14:08:48 +0000</pubDate>
+        <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
+        <atom:modified>Thu, 05 Mar 2020 14:08:48 +0000</atom:modified>
+        <guid>/es/publicaciones/libros/</guid>
+        <description></description>
+        <content:encoded></content:encoded>
+        <dc:creator>García-Mendívil, Helio A.</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Música</title>
+        <link>/es/publicaciones/musica/</link>
+        <pubDate>Thu, 05 Mar 2020 14:08:48 +0000</pubDate>
+        <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
+        <atom:modified>Thu, 05 Mar 2020 14:08:48 +0000</atom:modified>
+        <guid>/es/publicaciones/musica/</guid>
+        <description></description>
+        <content:encoded></content:encoded>
+        <dc:creator>García-Mendívil, Helio A.</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
