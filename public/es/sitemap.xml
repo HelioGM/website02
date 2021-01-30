@@ -18,13 +18,23 @@
   </url>
   
   <url>
-    <loc>/es/publicaciones/musica/early_projects/</loc>
+    <loc>/es/publication/musica/early_projects/</loc>
     <lastmod>2021-01-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/es/publicaciones/</loc>
+    <loc>/es/publication/</loc>
     <lastmod>2021-01-29T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/publication/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/publication/"
+                />
   </url>
   
   <url>
@@ -323,12 +333,12 @@
   </url>
   
   <url>
-    <loc>/es/publicaciones/libros/learnin_statistics_with_r/</loc>
+    <loc>/es/publication/libros/learnin_statistics_with_r/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/es/publicaciones/libros/book_any_folder_name_1/</loc>
+    <loc>/es/publication/libros/book_any_folder_name_1/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url>
   
@@ -418,7 +428,7 @@
   </url>
   
   <url>
-    <loc>/es/publicaciones/articulos/tesis/</loc>
+    <loc>/es/publication/articulos/tesis/</loc>
     <lastmod>2020-12-12T00:00:00+00:00</lastmod>
   </url>
   
@@ -443,17 +453,17 @@
   </url>
   
   <url>
-    <loc>/es/publicaciones/articulos/</loc>
+    <loc>/es/publication/articulos/</loc>
     <lastmod>2020-03-05T14:08:48+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/es/publicaciones/libros/</loc>
+    <loc>/es/publication/libros/</loc>
     <lastmod>2020-03-05T14:08:48+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/es/publicaciones/musica/</loc>
+    <loc>/es/publication/musica/</loc>
     <lastmod>2020-03-05T14:08:48+00:00</lastmod>
   </url>
   

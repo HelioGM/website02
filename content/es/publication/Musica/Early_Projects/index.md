@@ -8,7 +8,7 @@ links:
    link: https://soundcloud.com/helio4gm
 copyright: ""
 title: "Early projects (2013)"
-ENTRYTYPE: "Música"
+ENTRYTYPE: "Misc"
 enableToc: False
 enableWhoami: True
 pinned: true

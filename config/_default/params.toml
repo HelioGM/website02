@@ -9,8 +9,8 @@ meta_image = "images/nuevas/Logo.png"
 themecolor = ""
 
 themeOptions = ["light", "dark", "hacker", "solarized", "kimbie"]
-notAllowedTypesInHome = ["contact", "talks", "about", "showcase", "publicaciones", "presentation", "resume", "gallery"]
-notAllowedTypesInHomeSidebar = ["about", "archive", "showcase", "posts", "publicaciones", "presentation", "resume", "gallery", "musica"]
+notAllowedTypesInHome = ["contact", "talks", "about", "showcase", "publication", "presentation", "resume", "gallery"]
+notAllowedTypesInHomeSidebar = ["about", "archive", "showcase", "posts", "publication", "presentation", "resume", "gallery", "musica"]
 notAllowedTypesInArchive = ["about", "talks", "showcase", "publication", "presentation", "resume"]
 notAllowedTypesInHomeFeed = ["about", "archive", "contact", "talks", "showcase", "publication", "presentation", "resume", "gallery"]
 

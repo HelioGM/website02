@@ -12,7 +12,7 @@ buildFuture = true
 copyright = ""
 timeout = 10000
 enableEmoji = true
-paginate = 16
+paginate = 12
 rssLimit = 100
 
 enableGitInfo = false

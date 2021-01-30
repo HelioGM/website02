@@ -1,17 +1,17 @@
 ---
 authors: ['García-Mendívil,H.A.']
-publication: "Tesis"
-abstract: ""
+publication: "Introducción"
+abstract: "Watermelon, Citrullus lanatus var. lanatus, and eggplant, Solanum melongena, are two major crops commonly grafted onto resistant rootstocks for controlling soilborne diseases. However, there are currently no commercially available rootstocks resistant to Meloidogyne for cucurbit crops, and also a narrow diversity for fruiting solanaceous crops. Then, the main aim of this thesis was to determine the durability of resistance to Meloidogyne of Citrullus amarus and Solanum torvum as potential rootstocks for watermelon and eggplant, respectively..."
 links:
- - name: url
-   link: https://google.com
+ - name: Tesis
+   link: https://upcommons.upc.edu/handle/2117/172048
 shorttitle: "Introduccion"
 copyright: "All rights reserved"
 title: "Durability of resistance to Meloidogyne mediated by R-genes in
   Solanaceae and Cucurbitaceae crops"
 bibliography:
 - bib/MyCollection.bib
-ENTRYTYPE: "misc"
+ENTRYTYPE: "Tesis"
 output:
   blogdown::html_page:
     toc: true

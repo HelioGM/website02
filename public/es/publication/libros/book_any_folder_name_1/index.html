@@ -1716,7 +1716,7 @@ if (!doNotTrack) {
             
             
 
-<main class="single__main main-main">
+<main class="single__main main">
   
     <nav class="breadcrumb hide" aria-label="breadcrumbs">
   <script>document.querySelector('.breadcrumb').classList.remove('hide')</script>
@@ -1745,7 +1745,7 @@ if (!doNotTrack) {
   
   <li >
     
-      <a href="/es/publication/libros/" class="capitalize">book</a>
+      <a href="/es/publication/libros/" class="capitalize">Libros</a>
     
   </li>
   
@@ -2191,6 +2191,27 @@ ante una sugestión más que otra, pero hay también, con la misma certidumbre, 
 
 
     
+  
+    <div id="disqus_thread"></div>
+<script>
+  let disqus_config = function () {
+    
+    
+    
+  };
+  (function () {
+    if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
+      document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
+      return;
+    }
+    var d = document, s = d.createElement('script'); s.async = true;
+    s.src = 'https://' + 'helio5' + '.disqus.com/embed.js';
+  s.setAttribute('data-timestamp', +new Date());
+  (d.head || d.body).appendChild(s);
+  }) ();
+</script>
+  
+
     <div class="modal micromodal-slide" id="modal" aria-hidden="true">
   <div class="modal__overlay" tabindex="-1" data-micromodal-close>
     <div class="modal__container" role="dialog" aria-modal="true" aria-labelledby="modal-title">
@@ -2524,45 +2545,6 @@ document.addEventListener('DOMContentLoaded', function () {
 </main>
 
 
-<aside class="single__side main-side">
-  
-
-
-<section class="sidebar hide">
-  <script>document.querySelector('.sidebar').classList.remove('hide')</script>
-  <div class="toc__flexbox" data-position="fixed">
-    <h6 class="toc__title" data-ani="true">Qué hay en esta página</h6>
-    
-      <label class="switch" data-ani="true">
-        <input id="toggle-toc" aria-label="Toggle TOC" type="checkbox" checked>
-        <span class="slider round"></span>
-      </label>
-    
-  </div>
-  <div class="toc " data-dir="ltr" data-folding="true" data-ani="true">
-    <nav id="TableOfContents">
-  <ul>
-    <li><a href="#i-exceso-de-población">I Exceso de población</a></li>
-    <li><a href="#ii-cantidad-calidad-moralidad">II Cantidad, calidad, moralidad</a></li>
-    <li><a href="#iii-exceso-de-organización">III Exceso de organización</a></li>
-    <li><a href="#iv-propaganda-en-una-sociedad--democrática">IV Propaganda en una Sociedad  democrática.</a></li>
-    <li><a href="#v-propaganda-bajo-una-dictadura">V Propaganda bajo una dictadura.</a></li>
-    <li><a href="#vi-el-arte-de-vender">VI El arte de vender</a></li>
-    <li><a href="#vii-lavado-de-cerebros">VII Lavado de cerebros</a></li>
-    <li><a href="#viii-persuasión-química">VIII Persuasión química</a></li>
-    <li><a href="#ix-persuasión-subconsciente">IX Persuasión subconsciente</a></li>
-    <li><a href="#x-hipnopedia">X Hipnopedia</a></li>
-    <li><a href="#xi-educación-para-la-libertad">XI Educación para la libertad</a></li>
-    <li><a href="#xii-qué-puede-hacerse">XII ¿Qué puede hacerse?</a></li>
-  </ul>
-</nav>
-  </div>
-</section>
-
-
-
-</aside>
-
 
 <script defer src="/js/micromodal.min.de01b44b2f383056bbcaf6ee921fd385d79108ec1129afd0eb2f3f5a07e11f45.js"></script>
 
@@ -2753,12 +2735,6 @@ document.addEventListener('DOMContentLoaded', function () {
 
     <div class="footer__poweredby">
         
-                
-            <p class="caption">
-                
-                    ©2021, All Rights Reserved
-                
-            </p>
         
 
         
@@ -2776,6 +2752,38 @@ document.addEventListener('DOMContentLoaded', function () {
 
 <div class="wrapper__right hide" data-pad="false" dir="ltr">
   <script>document.querySelector('.wrapper__right').classList.remove('hide')</script>
+  
+    
+      
+        <div class="toc__flexbox--outer" data-position="fixed" data-dir="ltr" data-ani="true">
+          <h6 class="toc__title toc__title--outer" data-ani="true">Qué hay en esta página</h6>
+          
+          <label class="switch" data-ani="true">
+            <input id="visible-toc" aria-label="Visible TOC" type="checkbox" checked>
+            <span class="slider round"></span>
+          </label>
+          
+        </div>
+        <div class="toc toc__outer " data-dir="ltr" data-folding="true" data-ani="true">
+          <nav id="TableOfContents">
+  <ul>
+    <li><a href="#i-exceso-de-población">I Exceso de población</a></li>
+    <li><a href="#ii-cantidad-calidad-moralidad">II Cantidad, calidad, moralidad</a></li>
+    <li><a href="#iii-exceso-de-organización">III Exceso de organización</a></li>
+    <li><a href="#iv-propaganda-en-una-sociedad--democrática">IV Propaganda en una Sociedad  democrática.</a></li>
+    <li><a href="#v-propaganda-bajo-una-dictadura">V Propaganda bajo una dictadura.</a></li>
+    <li><a href="#vi-el-arte-de-vender">VI El arte de vender</a></li>
+    <li><a href="#vii-lavado-de-cerebros">VII Lavado de cerebros</a></li>
+    <li><a href="#viii-persuasión-química">VIII Persuasión química</a></li>
+    <li><a href="#ix-persuasión-subconsciente">IX Persuasión subconsciente</a></li>
+    <li><a href="#x-hipnopedia">X Hipnopedia</a></li>
+    <li><a href="#xi-educación-para-la-libertad">XI Educación para la libertad</a></li>
+    <li><a href="#xii-qué-puede-hacerse">XII ¿Qué puede hacerse?</a></li>
+  </ul>
+</nav>
+        </div>
+      
+    
   
 </div>
 
