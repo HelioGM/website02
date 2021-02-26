@@ -4,7 +4,7 @@ date: 2021-01-06T10:01:38-08:00
 description: 13 Citas racistas que Gandhi dijo acerca de las personas negras.
 author: Helio
 authorEmoji: 
-draft: false
+draft: true
 hideToc: false
 enableToc: true
 enableTocContent: false
