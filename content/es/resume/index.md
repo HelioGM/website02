@@ -57,7 +57,8 @@ items:
             <i class="fa fa-graduation-cap" aria-hidden="true"> </i>  **Doctor en Tecnología Agroalimentaria y Biotecnología**.
             <i class="fa fa-university" aria-hidden="true"> </i>  Universitat Politècnica de Catalunya.
             <i class="fa fa-map-marker" aria-hidden="true"> </i>  Barcelona, España.
-            <i class="fa fa-calendar" aria-hidden="true"> </i>  **2015 - 2019**. (Sobresaliente *Cum laude*)
+            <i class="fa fa-calendar" aria-hidden="true"> </i>  **2015 - 2019**. (Sobresaliente *Cum laude*) 
+            <i class="fa fa-certificate" aria-hidden="true"> </i> https://upcommons.upc.edu/bitstream/handle/2117/172048/THAGM1de1.pdf
             
             ---
             
