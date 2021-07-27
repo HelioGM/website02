@@ -7,29 +7,59 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>R on Helio</title>
-    <link>/es/tags/r/</link>
+    <link>https://helio4gm.netlify.app/es/tags/r/</link>
     <description>Recent content in R on Helio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <managingEditor>helio4gm@gmail.com (García-Mendívil, Helio A.)</managingEditor>
     <webMaster>helio4gm@gmail.com (García-Mendívil, Helio A.)</webMaster>
-    <lastBuildDate>Wed, 30 Dec 2020 18:21:17 -0800</lastBuildDate>
+    <lastBuildDate>Tue, 27 Jul 2021 00:00:00 +0000</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>hourly</sy:updateFrequency>
     
-        <atom:link href="/es/tags/r/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://helio4gm.netlify.app/es/tags/r/index.xml" rel="self" type="application/rss+xml" />
     
     
     
 
       
       <item>
+        <title>Shiny Dashboard</title>
+        <link>https://helio4gm.netlify.app/es/post/2021-07-27-shiny-dashboard/</link>
+        <pubDate>Tue, 27 Jul 2021 00:00:00 +0000</pubDate>
+        <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
+        <atom:modified>Tue, 27 Jul 2021 00:00:00 +0000</atom:modified>
+        <guid>https://helio4gm.netlify.app/es/post/2021-07-27-shiny-dashboard/</guid>
+        <description>Cargando…</description>
+        <content:encoded>&lt;iframe src=&#34;https://helio.shinyapps.io/dashboard/&#34; width=&#34;100%&#34; height=&#34;380&#34; frameborder=&#34;0&#34; marginheight=&#34;0&#34; marginwidth=&#34;0&#34;&gt;Cargando…&lt;/iframe&gt;</content:encoded>
+        <dc:creator>Helio</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>R</category>
+            
+          
+        
+        
+          
+            
+              <category>R</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
         <title>Capítulo 3: Empezando con R (2da parte)</title>
-        <link>/es/posts/2020-12-30-empezando_con_r_2da/</link>
+        <link>https://helio4gm.netlify.app/es/posts/2020-12-30-empezando_con_r_2da/</link>
         <pubDate>Wed, 30 Dec 2020 18:21:17 -0800</pubDate>
         <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
         <atom:modified>Wed, 30 Dec 2020 18:21:17 -0800</atom:modified>
-        <guid>/es/posts/2020-12-30-empezando_con_r_2da/</guid>
+        <guid>https://helio4gm.netlify.app/es/posts/2020-12-30-empezando_con_r_2da/</guid>
         <description>body {text-align: justify}
 &amp;hellip;continuación.
 Usar funciones para hacer cálculos Los símbolos +, -, * y así sucesivamente son ejemplos de operadores. Como hemos visto, puede hacer muchos cálculos con solo usar estos operadores. Sin embargo, para hacer cálculos más avanzados (y más adelante, para hacer estadísticas reales), necesitará comenzar a usar funciones. Hablaré con más detalle sobre las funciones y cómo funcionan en la Sección 8.</description>
@@ -42,7 +72,7 @@ Usar funciones para hacer cálculos Los símbolos +, -, * y así sucesivamente s
 
 
   &lt;div class=&#34;featured-image__wrapper&#34;&gt;
-    &lt;img src=&#34;/images/learning/cap_03.png&#34; alt=&#34;Featured Image&#34; class=&#34;featured-image&#34; style=&#34;width: ;height: ;&#34;&gt;
+    &lt;img src=&#34;https://helio4gm.netlify.app/images/learning/cap_03.png&#34; alt=&#34;Featured Image&#34; class=&#34;featured-image&#34; style=&#34;width: ;height: ;&#34;&gt;
   &lt;/div&gt;
 
 &lt;hr /&gt;
@@ -994,7 +1024,7 @@ La parte y / n / c aquí es la abreviatura de &amp;ldquo;sí / no / cancelar&amp
 Escrito por Navarro, Danielle; traducido por García-Mendívil, Helio A.
 &lt;/p&gt;</content:encoded>
         <dc:creator>Helio</dc:creator>
-        <media:content url="/images/learning/cap_03.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://helio4gm.netlify.app/images/learning/cap_03.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -1030,11 +1060,11 @@ Escrito por Navarro, Danielle; traducido por García-Mendívil, Helio A.
       
       <item>
         <title>Capítulo 3: Empezando con R (1ra parte)</title>
-        <link>/es/posts/2020-12-30-empezando_con_r/</link>
+        <link>https://helio4gm.netlify.app/es/posts/2020-12-30-empezando_con_r/</link>
         <pubDate>Wed, 30 Dec 2020 18:20:17 -0800</pubDate>
         <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
         <atom:modified>Wed, 30 Dec 2020 18:20:17 -0800</atom:modified>
-        <guid>/es/posts/2020-12-30-empezando_con_r/</guid>
+        <guid>https://helio4gm.netlify.app/es/posts/2020-12-30-empezando_con_r/</guid>
         <description>body {text-align: justify}
 En este capítulo discutiré cómo empezar a usar R. Hablaré brevemente sobre cómo descargar e instalar R, pero la mayor parte del capítulo se centrará en que empiece a escribir comandos R. Nuestro objetivo en este capítulo no es aprender ningún concepto estadístico: solo estamos tratando de aprender los conceptos básicos de cómo funciona R y sentirnos cómodos interactuando con el sistema.</description>
         <content:encoded>
@@ -1046,7 +1076,7 @@ En este capítulo discutiré cómo empezar a usar R. Hablaré brevemente sobre c
 
 
   &lt;div class=&#34;featured-image__wrapper&#34;&gt;
-    &lt;img src=&#34;/images/learning/cap_03.png&#34; alt=&#34;Featured Image&#34; class=&#34;featured-image&#34; style=&#34;width: ;height: ;&#34;&gt;
+    &lt;img src=&#34;https://helio4gm.netlify.app/images/learning/cap_03.png&#34; alt=&#34;Featured Image&#34; class=&#34;featured-image&#34; style=&#34;width: ;height: ;&#34;&gt;
   &lt;/div&gt;
 
 &lt;hr /&gt;
@@ -1595,7 +1625,7 @@ Escrito por Navarro, Danielle; traducido por García-Mendívil, Helio A.
 &lt;/p&gt;
 </content:encoded>
         <dc:creator>Helio</dc:creator>
-        <media:content url="/images/learning/cap_03.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://helio4gm.netlify.app/images/learning/cap_03.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -1631,11 +1661,11 @@ Escrito por Navarro, Danielle; traducido por García-Mendívil, Helio A.
       
       <item>
         <title>Capítulo 2: Una breve introducción al diseño de investigación (2da parte)</title>
-        <link>/es/posts/2020-12-30-una_breve_introduccion_al_dise%C3%B1o_2da/</link>
+        <link>https://helio4gm.netlify.app/es/posts/2020-12-30-una_breve_introduccion_al_dise%C3%B1o_2da/</link>
         <pubDate>Wed, 30 Dec 2020 18:19:17 -0800</pubDate>
         <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
         <atom:modified>Wed, 30 Dec 2020 18:19:17 -0800</atom:modified>
-        <guid>/es/posts/2020-12-30-una_breve_introduccion_al_dise%C3%B1o_2da/</guid>
+        <guid>https://helio4gm.netlify.app/es/posts/2020-12-30-una_breve_introduccion_al_dise%C3%B1o_2da/</guid>
         <description>body {text-align: justify}
 Evaluar la validez de un estudio Más que cualquier otra cosa, un científico quiere que su investigación sea &amp;ldquo;válida&amp;rdquo;. La idea conceptual detrás de la validez es muy simple: ¿puedes confiar en los resultados de tu estudio? De lo contrario, el estudio no es válido. Sin embargo, si bien es fácil de establecer, en la práctica es mucho más difícil verificar la validez que verificar la confiabilidad.</description>
         <content:encoded>
@@ -1647,7 +1677,7 @@ Evaluar la validez de un estudio Más que cualquier otra cosa, un científico qu
 
 
   &lt;div class=&#34;featured-image__wrapper&#34;&gt;
-    &lt;img src=&#34;/images/learning/cap_02.png&#34; alt=&#34;Featured Image&#34; class=&#34;featured-image&#34; style=&#34;width: ;height: ;&#34;&gt;
+    &lt;img src=&#34;https://helio4gm.netlify.app/images/learning/cap_02.png&#34; alt=&#34;Featured Image&#34; class=&#34;featured-image&#34; style=&#34;width: ;height: ;&#34;&gt;
   &lt;/div&gt;
 
 &lt;hr /&gt;
@@ -1823,11 +1853,11 @@ Como regla general, las confusiones son una preocupación mayor para los estudio
 &lt;h2 id=&#34;resumen&#34;&gt;Resumen&lt;/h2&gt;
 &lt;p&gt;En realidad, este capítulo no está destinado a proporcionar una discusión exhaustiva de los métodos de investigación psicológica: requeriría otro volumen tan largo como este para hacer justicia al tema. Sin embargo, en la vida real, las estadísticas y el diseño de estudios están estrechamente entrelazados, por lo que es muy útil discutir algunos de los temas clave. En este capítulo, he analizado brevemente los siguientes temas:&lt;/p&gt;
 &lt;div class=&#34;box&#34;&gt;&lt;ul&gt;
-&lt;li&gt;&lt;em&gt;Introducción a la medición psicológica&lt;/em&gt; (Sección &lt;a href=&#34;/es/programacion/2020-12-30-una_breve_introduccion_al_dise%25C3%25B1o/#introducción-a-la-medición-psicológica&#34;&gt;2.1&lt;/a&gt;). ¿Qué significa operacionalizar un constructo teórico? ¿Qué significa tener variables y tomar medidas?&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Escalas de medida y tipos de variables&lt;/em&gt; (Sección &lt;a href=&#34;/es/programacion/2020-12-30-una_breve_introduccion_al_dise%25C3%25B1o/#escalas-de-medida&#34;&gt;2.2&lt;/a&gt;). Recuerde que aquí hay dos distinciones diferentes: existe la diferencia entre datos discretos y continuos, y existe la diferencia entre los cuatro tipos de escala diferentes (nominal, ordinal, intervalo y relación).&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Fiabilidad de una medición&lt;/em&gt; (Sección &lt;a href=&#34;/es/programacion/2020-12-30-una_breve_introduccion_al_dise%25C3%25B1o/#evaluar-la-confiabilidad-de-una-medición&#34;&gt;2.3&lt;/a&gt;). Si mido lo &amp;ldquo;mismo&amp;rdquo; dos veces, ¿debería esperar ver el mismo resultado? Solo si mi medida es confiable. Pero, ¿qué significa hablar de hacer “lo mismo”? Bueno, por eso tenemos diferentes tipos de confiabilidad. Asegúrese de recordar cuáles son.&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Terminología&lt;/em&gt;: predictores y resultados (Sección &lt;a href=&#34;/es/programacion/2020-12-30-una_breve_introduccion_al_dise%25C3%25B1o/#el-papel-de-las-variables-predictores-y-resultados&#34;&gt;2.4&lt;/a&gt;). ¿Qué papel juegan las variables en un análisis? ¿Puede recordar la diferencia entre predictores y resultados? ¿Variables dependientes e independientes? Etc.&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Diseños de investigación experimentales y no experimentales&lt;/em&gt; (Sección &lt;a href=&#34;/es/programacion/2020-12-30-una_breve_introduccion_al_dise%25C3%25B1o/#investigación-experimental-y-no-experimental&#34;&gt;2.5&lt;/a&gt;). ¿Qué hace que un experimento sea un experimento? ¿Es una bonita bata blanca de laboratorio o tiene algo que ver con el control del investigador sobre las variables?&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Introducción a la medición psicológica&lt;/em&gt; (Sección &lt;a href=&#34;https://helio4gm.netlify.app/es/programacion/2020-12-30-una_breve_introduccion_al_dise%25C3%25B1o/#introducción-a-la-medición-psicológica&#34;&gt;2.1&lt;/a&gt;). ¿Qué significa operacionalizar un constructo teórico? ¿Qué significa tener variables y tomar medidas?&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Escalas de medida y tipos de variables&lt;/em&gt; (Sección &lt;a href=&#34;https://helio4gm.netlify.app/es/programacion/2020-12-30-una_breve_introduccion_al_dise%25C3%25B1o/#escalas-de-medida&#34;&gt;2.2&lt;/a&gt;). Recuerde que aquí hay dos distinciones diferentes: existe la diferencia entre datos discretos y continuos, y existe la diferencia entre los cuatro tipos de escala diferentes (nominal, ordinal, intervalo y relación).&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Fiabilidad de una medición&lt;/em&gt; (Sección &lt;a href=&#34;https://helio4gm.netlify.app/es/programacion/2020-12-30-una_breve_introduccion_al_dise%25C3%25B1o/#evaluar-la-confiabilidad-de-una-medición&#34;&gt;2.3&lt;/a&gt;). Si mido lo &amp;ldquo;mismo&amp;rdquo; dos veces, ¿debería esperar ver el mismo resultado? Solo si mi medida es confiable. Pero, ¿qué significa hablar de hacer “lo mismo”? Bueno, por eso tenemos diferentes tipos de confiabilidad. Asegúrese de recordar cuáles son.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Terminología&lt;/em&gt;: predictores y resultados (Sección &lt;a href=&#34;https://helio4gm.netlify.app/es/programacion/2020-12-30-una_breve_introduccion_al_dise%25C3%25B1o/#el-papel-de-las-variables-predictores-y-resultados&#34;&gt;2.4&lt;/a&gt;). ¿Qué papel juegan las variables en un análisis? ¿Puede recordar la diferencia entre predictores y resultados? ¿Variables dependientes e independientes? Etc.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Diseños de investigación experimentales y no experimentales&lt;/em&gt; (Sección &lt;a href=&#34;https://helio4gm.netlify.app/es/programacion/2020-12-30-una_breve_introduccion_al_dise%25C3%25B1o/#investigación-experimental-y-no-experimental&#34;&gt;2.5&lt;/a&gt;). ¿Qué hace que un experimento sea un experimento? ¿Es una bonita bata blanca de laboratorio o tiene algo que ver con el control del investigador sobre las variables?&lt;/li&gt;
 &lt;li&gt;&lt;em&gt;Validez y sus amenazas&lt;/em&gt; (Sección &lt;a href=&#34;#evaluar-la-validez-de-un-estudio&#34;&gt;2.6&lt;/a&gt;). ¿Tu estudio mide lo que quieres que mida? ¿Cómo pueden salir mal las cosas? ¿Y es mi imaginación, o es una lista muy larga de posibles formas en las que las cosas pueden salir mal?&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
@@ -1840,7 +1870,7 @@ Como regla general, las confusiones son una preocupación mayor para los estudio
 Escrito por Navarro, Danielle; traducido por García-Mendívil, Helio A.
 &lt;/p&gt;</content:encoded>
         <dc:creator>Helio</dc:creator>
-        <media:content url="/images/learning/cap_02.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://helio4gm.netlify.app/images/learning/cap_02.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -1876,11 +1906,11 @@ Escrito por Navarro, Danielle; traducido por García-Mendívil, Helio A.
       
       <item>
         <title>Capítulo 2: Una breve introducción al diseño de investigación (1ra parte)</title>
-        <link>/es/posts/2020-12-30-una_breve_introduccion_al_dise%C3%B1o/</link>
+        <link>https://helio4gm.netlify.app/es/posts/2020-12-30-una_breve_introduccion_al_dise%C3%B1o/</link>
         <pubDate>Wed, 30 Dec 2020 18:18:17 -0800</pubDate>
         <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
         <atom:modified>Wed, 30 Dec 2020 18:18:17 -0800</atom:modified>
-        <guid>/es/posts/2020-12-30-una_breve_introduccion_al_dise%C3%B1o/</guid>
+        <guid>https://helio4gm.netlify.app/es/posts/2020-12-30-una_breve_introduccion_al_dise%C3%B1o/</guid>
         <description>body {text-align: justify}
 En este capítulo, comenzaremos a pensar en las ideas básicas que se necesitan para diseñar un estudio, recopilar datos, verificar si la recopilación de datos funciona, etc. No le dará suficiente información para que pueda diseñar sus propios estudios, pero le dará muchas de las herramientas básicas que necesita para evaluar los estudios realizados por otras personas. Sin embargo, dado que el enfoque de este libro es mucho más el análisis de datos que la recopilación de datos, solo estoy dando una descripción muy breve.</description>
         <content:encoded>
@@ -1892,7 +1922,7 @@ En este capítulo, comenzaremos a pensar en las ideas básicas que se necesitan 
 
 
   &lt;div class=&#34;featured-image__wrapper&#34;&gt;
-    &lt;img src=&#34;/images/learning/cap_02.png&#34; alt=&#34;Featured Image&#34; class=&#34;featured-image&#34; style=&#34;width: ;height: ;&#34;&gt;
+    &lt;img src=&#34;https://helio4gm.netlify.app/images/learning/cap_02.png&#34; alt=&#34;Featured Image&#34; class=&#34;featured-image&#34; style=&#34;width: ;height: ;&#34;&gt;
   &lt;/div&gt;
 
 &lt;hr /&gt;
@@ -2191,7 +2221,7 @@ Continúa en la siguiente entrada...
 Escrito por Navarro, Danielle; traducido por García-Mendívil, Helio A.
 &lt;/p&gt;</content:encoded>
         <dc:creator>Helio</dc:creator>
-        <media:content url="/images/learning/cap_02.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://helio4gm.netlify.app/images/learning/cap_02.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -2227,11 +2257,11 @@ Escrito por Navarro, Danielle; traducido por García-Mendívil, Helio A.
       
       <item>
         <title>Capítulo 1: ¿Por qué aprendemos estadística?</title>
-        <link>/es/posts/2020-12-30-por_que_aprendemos_estadistica/</link>
+        <link>https://helio4gm.netlify.app/es/posts/2020-12-30-por_que_aprendemos_estadistica/</link>
         <pubDate>Wed, 30 Dec 2020 18:17:17 -0800</pubDate>
         <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
         <atom:modified>Wed, 30 Dec 2020 18:17:17 -0800</atom:modified>
-        <guid>/es/posts/2020-12-30-por_que_aprendemos_estadistica/</guid>
+        <guid>https://helio4gm.netlify.app/es/posts/2020-12-30-por_que_aprendemos_estadistica/</guid>
         <description>body {text-align: justify}
 Sobre la psicología de la estadística Para sorpresa de muchos estudiantes, la estadística es una parte bastante importante de la educación psicológica. Para sorpresa de nadie, la estadística rara vez es la parte favorita de la educación psicológica. Después de todo, si realmente te encantó la idea de hacer estadística, probablemente estarías inscrito en una clase de estadística ahora mismo, no en una clase de psicología.</description>
         <content:encoded>
@@ -2243,7 +2273,7 @@ Sobre la psicología de la estadística Para sorpresa de muchos estudiantes, la 
 
 
   &lt;div class=&#34;featured-image__wrapper&#34;&gt;
-    &lt;img src=&#34;/images/learning/cap_01.png&#34; alt=&#34;Featured Image&#34; class=&#34;featured-image&#34; style=&#34;width: ;height: ;&#34;&gt;
+    &lt;img src=&#34;https://helio4gm.netlify.app/images/learning/cap_01.png&#34; alt=&#34;Featured Image&#34; class=&#34;featured-image&#34; style=&#34;width: ;height: ;&#34;&gt;
   &lt;/div&gt;
 
 &lt;hr /&gt;
@@ -2450,7 +2480,7 @@ text-align: justify}
   
   
   
-    &lt;img data-src=&#34;/images/learning/graph01.png&#34; alt=&#34;image alt&#34; data-caption=&#34;Datos de admisiones universitarias de Berkeley 1973. Esta cifra traza la tasa de admisión de los 85 departamentos que tenían al menos una solicitante mujer, en función del porcentaje de solicitantes que eran mujeres. El gráfico es un nuevo dibujo de la Figura 1 de Bickel et al. (1975). Los círculos trazan departamentos con más de 40 solicitantes; el área del círculo es proporcional al número total de solicitantes. El departamento de parcelas cruza con menos de 40 solicitantes.&#34; src=&#34;data:image/svg+xml,%0A%3Csvg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;720px&#39; height=&#39;&#39; viewBox=&#39;0 0 24 24&#39;%3E%3Cpath fill=&#39;none&#39; d=&#39;M0 0h24v24H0V0z&#39;/%3E%3Cpath fill=&#39;%23aaa&#39; d=&#39;M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm-1 16H6c-.55 0-1-.45-1-1V6c0-.55.45-1 1-1h12c.55 0 1 .45 1 1v12c0 .55-.45 1-1 1zm-4.44-6.19l-2.35 3.02-1.56-1.88c-.2-.25-.58-.24-.78.01l-1.74 2.23c-.26.33-.02.81.39.81h8.98c.41 0 .65-.47.4-.8l-2.55-3.39c-.19-.26-.59-.26-.79 0z&#39;/%3E%3C/svg%3E&#34; class=&#34;lazyload&#34; style=&#34;width:720px;height:;&#34;/&gt;
+    &lt;img data-src=&#34;https://helio4gm.netlify.app/images/learning/graph01.png&#34; alt=&#34;image alt&#34; data-caption=&#34;Datos de admisiones universitarias de Berkeley 1973. Esta cifra traza la tasa de admisión de los 85 departamentos que tenían al menos una solicitante mujer, en función del porcentaje de solicitantes que eran mujeres. El gráfico es un nuevo dibujo de la Figura 1 de Bickel et al. (1975). Los círculos trazan departamentos con más de 40 solicitantes; el área del círculo es proporcional al número total de solicitantes. El departamento de parcelas cruza con menos de 40 solicitantes.&#34; src=&#34;data:image/svg+xml,%0A%3Csvg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;720px&#39; height=&#39;&#39; viewBox=&#39;0 0 24 24&#39;%3E%3Cpath fill=&#39;none&#39; d=&#39;M0 0h24v24H0V0z&#39;/%3E%3Cpath fill=&#39;%23aaa&#39; d=&#39;M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm-1 16H6c-.55 0-1-.45-1-1V6c0-.55.45-1 1-1h12c.55 0 1 .45 1 1v12c0 .55-.45 1-1 1zm-4.44-6.19l-2.35 3.02-1.56-1.88c-.2-.25-.58-.24-.78.01l-1.74 2.23c-.26.33-.02.81.39.81h8.98c.41 0 .65-.47.4-.8l-2.55-3.39c-.19-.26-.59-.26-.79 0z&#39;/%3E%3C/svg%3E&#34; class=&#34;lazyload&#34; style=&#34;width:720px;height:;&#34;/&gt;
   
 
   
@@ -2521,7 +2551,7 @@ text-align: justify}
 Escrito por Navarro, Danielle; traducido y editado por García-Mendívil, Helio A.
 &lt;/p&gt;</content:encoded>
         <dc:creator>Helio</dc:creator>
-        <media:content url="/images/learning/cap_01.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://helio4gm.netlify.app/images/learning/cap_01.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -2557,11 +2587,11 @@ Escrito por Navarro, Danielle; traducido y editado por García-Mendívil, Helio 
       
       <item>
         <title>RMarkdown</title>
-        <link>/es/posts/post-en-archivo-rmd/</link>
+        <link>https://helio4gm.netlify.app/es/posts/post-en-archivo-rmd/</link>
         <pubDate>Fri, 11 Dec 2020 23:46:00 +0900</pubDate>
         <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
         <atom:modified>Fri, 11 Dec 2020 23:46:00 +0900</atom:modified>
-        <guid>/es/posts/post-en-archivo-rmd/</guid>
+        <guid>https://helio4gm.netlify.app/es/posts/post-en-archivo-rmd/</guid>
         <description>body {text-align: justify}R MarkdownEste es un documento en formato R Markdown. Markdown es un sintaxis de formato simple para crear documentos HTML, PDF, y MS Word. Para más detalles de como utilizar R Markdown visita http://rmarkdown.rstudio.com.
 Cuando presoinas el botón Knit, se genera un documento que incluye tanto el contenido como el como el resultado de cualquier trozo de codigo R incrustado dentro del documento.</description>
         <content:encoded>
@@ -2918,14 +2948,14 @@ dif&lt;/code&gt;&lt;/pre&gt;
 &lt;h3&gt;Graficos generados por R&lt;/h3&gt;
 &lt;p&gt;También se pueden incluir graficos. Por ejemplo, la función &lt;strong&gt;boxplot&lt;/strong&gt;.&lt;/p&gt;
 &lt;pre class=&#34;r&#34;&gt;&lt;code&gt;boxplot(Sub.Eggs.MIAd$EggsP ~ Sub.Eggs.MIAd$Nger, main = &amp;quot;MIAd&amp;quot;, xlab = &amp;quot;Germplasm&amp;quot;, ylab = &amp;quot;Eggs per plant&amp;quot;)&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;&lt;img src=&#34;/es/programacion/Post-en-archivo-RMD_files/figure-html/pressure-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://helio4gm.netlify.app/es/programacion/Post-en-archivo-RMD_files/figure-html/pressure-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div id=&#34;graficos-no-generados-por-r&#34; class=&#34;section level3&#34;&gt;
 &lt;h3&gt;Graficos no generados por R&lt;/h3&gt;
 &lt;p&gt;Si se desea incluir graficos que no son generados por codigo R, puedes usar la función &lt;strong&gt;knitr::include_graphics()&lt;/strong&gt;, la cual te da mas control sobre los atributos de la imagen que la sintaxis… (por ejemplo, puedes especificar el ancho de la figura mediante out.width). La figura &lt;a href=&#34;#fig:Figure01&#34;&gt;1&lt;/a&gt; provee un ejemplo de ello.&lt;/p&gt;
 &lt;pre class=&#34;r&#34;&gt;&lt;code&gt;knitr::include_graphics(rep(&amp;#39;/images/nuevas/20201205_Prueba_RMD01.png&amp;#39;, 1)) ## codigo para Hugo&lt;/code&gt;&lt;/pre&gt;
 &lt;div class=&#34;figure&#34; style=&#34;text-align: center&#34;&gt;&lt;span id=&#34;fig:Figure01&#34;&gt;&lt;/span&gt;
-&lt;img src=&#34;/images/nuevas/20201205_Prueba_RMD01.png&#34; alt=&#34;Figure caption&#34; width=&#34;90%&#34; /&gt;
+&lt;img src=&#34;https://helio4gm.netlify.app/images/nuevas/20201205_Prueba_RMD01.png&#34; alt=&#34;Figure caption&#34; width=&#34;90%&#34; /&gt;
 &lt;p class=&#34;caption&#34;&gt;
 Figure 1: Figure caption
 &lt;/p&gt;
@@ -2943,7 +2973,7 @@ Figure 2: Figure caption
 &lt;/div&gt;
 </content:encoded>
         <dc:creator>Helio</dc:creator>
-        <media:content url="/https://d33wubrfki0l68.cloudfront.net/3215c7166555d2ac02ef678fd025c171f90db23c/4e60a/images/bandone.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://helio4gm.netlify.app/https://d33wubrfki0l68.cloudfront.net/3215c7166555d2ac02ef678fd025c171f90db23c/4e60a/images/bandone.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         

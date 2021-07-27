@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Helio&#39;s Website</title>
-    <link>/en/</link>
+    <link>https://helio4gm.netlify.app/en/</link>
     <description>Recent content on Helio&#39;s Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -17,7 +17,7 @@
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>hourly</sy:updateFrequency>
     
-        <atom:link href="/en/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://helio4gm.netlify.app/en/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -46,11 +46,11 @@
       
       <item>
         <title>2020 12 31 Hora</title>
-        <link>/en/post/2020-12-31-hora/</link>
+        <link>https://helio4gm.netlify.app/en/post/2020-12-31-hora/</link>
         <pubDate>Wed, 30 Dec 2020 18:17:17 -0800</pubDate>
         <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
         <atom:modified>Wed, 30 Dec 2020 18:17:17 -0800</atom:modified>
-        <guid>/en/post/2020-12-31-hora/</guid>
+        <guid>https://helio4gm.netlify.app/en/post/2020-12-31-hora/</guid>
         <description></description>
         <content:encoded></content:encoded>
         <dc:creator>García-Mendívil, Helio A.</dc:creator>
@@ -76,11 +76,11 @@
       
       <item>
         <title>2020 12 20 Cocinas 2017 Es</title>
-        <link>/en/posts/2020-12-20-cocinas-2017-es/</link>
+        <link>https://helio4gm.netlify.app/en/posts/2020-12-20-cocinas-2017-es/</link>
         <pubDate>Sun, 20 Dec 2020 12:06:14 -0800</pubDate>
         <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
         <atom:modified>Sun, 20 Dec 2020 12:06:14 -0800</atom:modified>
-        <guid>/en/posts/2020-12-20-cocinas-2017-es/</guid>
+        <guid>https://helio4gm.netlify.app/en/posts/2020-12-20-cocinas-2017-es/</guid>
         <description></description>
         <content:encoded></content:encoded>
         <dc:creator>García-Mendívil, Helio A.</dc:creator>
@@ -106,17 +106,17 @@
       
       <item>
         <title>Carpintería</title>
-        <link>/en/posts/2020-12-07-shiny/</link>
+        <link>https://helio4gm.netlify.app/en/posts/2020-12-07-shiny/</link>
         <pubDate>Mon, 07 Dec 2020 21:37:44 -0800</pubDate>
         <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
         <atom:modified>Mon, 07 Dec 2020 21:37:44 -0800</atom:modified>
-        <guid>/en/posts/2020-12-07-shiny/</guid>
+        <guid>https://helio4gm.netlify.app/en/posts/2020-12-07-shiny/</guid>
         <description>Sample Image: Image with title, caption, alt, ...   Sample Image: Image with title, caption, alt, ...   Sample Image: Image with title, caption, alt, ...   Sample Image: Image with title, caption, alt, ...   Sample Image: Image with title, caption, alt, ...      </description>
         <content:encoded>&lt;figure &gt;
   
   
   
-    &lt;img data-src=&#34;/images/nuevas/logo.png&#34; alt=&#34;image alt&#34; data-caption=&#34;Image with title, caption, alt, ...&#34; src=&#34;data:image/svg+xml,%0A%3Csvg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;700px&#39; height=&#39;&#39; viewBox=&#39;0 0 24 24&#39;%3E%3Cpath fill=&#39;none&#39; d=&#39;M0 0h24v24H0V0z&#39;/%3E%3Cpath fill=&#39;%23aaa&#39; d=&#39;M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm-1 16H6c-.55 0-1-.45-1-1V6c0-.55.45-1 1-1h12c.55 0 1 .45 1 1v12c0 .55-.45 1-1 1zm-4.44-6.19l-2.35 3.02-1.56-1.88c-.2-.25-.58-.24-.78.01l-1.74 2.23c-.26.33-.02.81.39.81h8.98c.41 0 .65-.47.4-.8l-2.55-3.39c-.19-.26-.59-.26-.79 0z&#39;/%3E%3C/svg%3E&#34; class=&#34;lazyload&#34; style=&#34;width:700px;height:;&#34;/&gt;
+    &lt;img data-src=&#34;https://helio4gm.netlify.app/images/nuevas/logo.png&#34; alt=&#34;image alt&#34; data-caption=&#34;Image with title, caption, alt, ...&#34; src=&#34;data:image/svg+xml,%0A%3Csvg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;700px&#39; height=&#39;&#39; viewBox=&#39;0 0 24 24&#39;%3E%3Cpath fill=&#39;none&#39; d=&#39;M0 0h24v24H0V0z&#39;/%3E%3Cpath fill=&#39;%23aaa&#39; d=&#39;M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm-1 16H6c-.55 0-1-.45-1-1V6c0-.55.45-1 1-1h12c.55 0 1 .45 1 1v12c0 .55-.45 1-1 1zm-4.44-6.19l-2.35 3.02-1.56-1.88c-.2-.25-.58-.24-.78.01l-1.74 2.23c-.26.33-.02.81.39.81h8.98c.41 0 .65-.47.4-.8l-2.55-3.39c-.19-.26-.59-.26-.79 0z&#39;/%3E%3C/svg%3E&#34; class=&#34;lazyload&#34; style=&#34;width:700px;height:;&#34;/&gt;
   
 
   
@@ -136,7 +136,7 @@
   
   
   
-    &lt;img data-src=&#34;/images/nuevas/cocina_01.jpg&#34; alt=&#34;image alt&#34; data-caption=&#34;Image with title, caption, alt, ...&#34; src=&#34;data:image/svg+xml,%0A%3Csvg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;700px&#39; height=&#39;&#39; viewBox=&#39;0 0 24 24&#39;%3E%3Cpath fill=&#39;none&#39; d=&#39;M0 0h24v24H0V0z&#39;/%3E%3Cpath fill=&#39;%23aaa&#39; d=&#39;M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm-1 16H6c-.55 0-1-.45-1-1V6c0-.55.45-1 1-1h12c.55 0 1 .45 1 1v12c0 .55-.45 1-1 1zm-4.44-6.19l-2.35 3.02-1.56-1.88c-.2-.25-.58-.24-.78.01l-1.74 2.23c-.26.33-.02.81.39.81h8.98c.41 0 .65-.47.4-.8l-2.55-3.39c-.19-.26-.59-.26-.79 0z&#39;/%3E%3C/svg%3E&#34; class=&#34;lazyload&#34; style=&#34;width:700px;height:;&#34;/&gt;
+    &lt;img data-src=&#34;https://helio4gm.netlify.app/images/nuevas/cocina_01.jpg&#34; alt=&#34;image alt&#34; data-caption=&#34;Image with title, caption, alt, ...&#34; src=&#34;data:image/svg+xml,%0A%3Csvg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;700px&#39; height=&#39;&#39; viewBox=&#39;0 0 24 24&#39;%3E%3Cpath fill=&#39;none&#39; d=&#39;M0 0h24v24H0V0z&#39;/%3E%3Cpath fill=&#39;%23aaa&#39; d=&#39;M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm-1 16H6c-.55 0-1-.45-1-1V6c0-.55.45-1 1-1h12c.55 0 1 .45 1 1v12c0 .55-.45 1-1 1zm-4.44-6.19l-2.35 3.02-1.56-1.88c-.2-.25-.58-.24-.78.01l-1.74 2.23c-.26.33-.02.81.39.81h8.98c.41 0 .65-.47.4-.8l-2.55-3.39c-.19-.26-.59-.26-.79 0z&#39;/%3E%3C/svg%3E&#34; class=&#34;lazyload&#34; style=&#34;width:700px;height:;&#34;/&gt;
   
 
   
@@ -156,7 +156,7 @@
   
   
   
-    &lt;img data-src=&#34;/images/nuevas/cocina_02.jpg&#34; alt=&#34;image alt&#34; data-caption=&#34;Image with title, caption, alt, ...&#34; src=&#34;data:image/svg+xml,%0A%3Csvg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;700px&#39; height=&#39;&#39; viewBox=&#39;0 0 24 24&#39;%3E%3Cpath fill=&#39;none&#39; d=&#39;M0 0h24v24H0V0z&#39;/%3E%3Cpath fill=&#39;%23aaa&#39; d=&#39;M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm-1 16H6c-.55 0-1-.45-1-1V6c0-.55.45-1 1-1h12c.55 0 1 .45 1 1v12c0 .55-.45 1-1 1zm-4.44-6.19l-2.35 3.02-1.56-1.88c-.2-.25-.58-.24-.78.01l-1.74 2.23c-.26.33-.02.81.39.81h8.98c.41 0 .65-.47.4-.8l-2.55-3.39c-.19-.26-.59-.26-.79 0z&#39;/%3E%3C/svg%3E&#34; class=&#34;lazyload&#34; style=&#34;width:700px;height:;&#34;/&gt;
+    &lt;img data-src=&#34;https://helio4gm.netlify.app/images/nuevas/cocina_02.jpg&#34; alt=&#34;image alt&#34; data-caption=&#34;Image with title, caption, alt, ...&#34; src=&#34;data:image/svg+xml,%0A%3Csvg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;700px&#39; height=&#39;&#39; viewBox=&#39;0 0 24 24&#39;%3E%3Cpath fill=&#39;none&#39; d=&#39;M0 0h24v24H0V0z&#39;/%3E%3Cpath fill=&#39;%23aaa&#39; d=&#39;M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm-1 16H6c-.55 0-1-.45-1-1V6c0-.55.45-1 1-1h12c.55 0 1 .45 1 1v12c0 .55-.45 1-1 1zm-4.44-6.19l-2.35 3.02-1.56-1.88c-.2-.25-.58-.24-.78.01l-1.74 2.23c-.26.33-.02.81.39.81h8.98c.41 0 .65-.47.4-.8l-2.55-3.39c-.19-.26-.59-.26-.79 0z&#39;/%3E%3C/svg%3E&#34; class=&#34;lazyload&#34; style=&#34;width:700px;height:;&#34;/&gt;
   
 
   
@@ -176,7 +176,7 @@
   
   
   
-    &lt;img data-src=&#34;/images/nuevas/cocina_03.jpg&#34; alt=&#34;image alt&#34; data-caption=&#34;Image with title, caption, alt, ...&#34; src=&#34;data:image/svg+xml,%0A%3Csvg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;700px&#39; height=&#39;&#39; viewBox=&#39;0 0 24 24&#39;%3E%3Cpath fill=&#39;none&#39; d=&#39;M0 0h24v24H0V0z&#39;/%3E%3Cpath fill=&#39;%23aaa&#39; d=&#39;M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm-1 16H6c-.55 0-1-.45-1-1V6c0-.55.45-1 1-1h12c.55 0 1 .45 1 1v12c0 .55-.45 1-1 1zm-4.44-6.19l-2.35 3.02-1.56-1.88c-.2-.25-.58-.24-.78.01l-1.74 2.23c-.26.33-.02.81.39.81h8.98c.41 0 .65-.47.4-.8l-2.55-3.39c-.19-.26-.59-.26-.79 0z&#39;/%3E%3C/svg%3E&#34; class=&#34;lazyload&#34; style=&#34;width:700px;height:;&#34;/&gt;
+    &lt;img data-src=&#34;https://helio4gm.netlify.app/images/nuevas/cocina_03.jpg&#34; alt=&#34;image alt&#34; data-caption=&#34;Image with title, caption, alt, ...&#34; src=&#34;data:image/svg+xml,%0A%3Csvg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;700px&#39; height=&#39;&#39; viewBox=&#39;0 0 24 24&#39;%3E%3Cpath fill=&#39;none&#39; d=&#39;M0 0h24v24H0V0z&#39;/%3E%3Cpath fill=&#39;%23aaa&#39; d=&#39;M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm-1 16H6c-.55 0-1-.45-1-1V6c0-.55.45-1 1-1h12c.55 0 1 .45 1 1v12c0 .55-.45 1-1 1zm-4.44-6.19l-2.35 3.02-1.56-1.88c-.2-.25-.58-.24-.78.01l-1.74 2.23c-.26.33-.02.81.39.81h8.98c.41 0 .65-.47.4-.8l-2.55-3.39c-.19-.26-.59-.26-.79 0z&#39;/%3E%3C/svg%3E&#34; class=&#34;lazyload&#34; style=&#34;width:700px;height:;&#34;/&gt;
   
 
   
@@ -196,7 +196,7 @@
   
   
   
-    &lt;img data-src=&#34;/images/nuevas/cocina_04.jpg&#34; alt=&#34;image alt&#34; data-caption=&#34;Image with title, caption, alt, ...&#34; src=&#34;data:image/svg+xml,%0A%3Csvg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;700px&#39; height=&#39;&#39; viewBox=&#39;0 0 24 24&#39;%3E%3Cpath fill=&#39;none&#39; d=&#39;M0 0h24v24H0V0z&#39;/%3E%3Cpath fill=&#39;%23aaa&#39; d=&#39;M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm-1 16H6c-.55 0-1-.45-1-1V6c0-.55.45-1 1-1h12c.55 0 1 .45 1 1v12c0 .55-.45 1-1 1zm-4.44-6.19l-2.35 3.02-1.56-1.88c-.2-.25-.58-.24-.78.01l-1.74 2.23c-.26.33-.02.81.39.81h8.98c.41 0 .65-.47.4-.8l-2.55-3.39c-.19-.26-.59-.26-.79 0z&#39;/%3E%3C/svg%3E&#34; class=&#34;lazyload&#34; style=&#34;width:700px;height:;&#34;/&gt;
+    &lt;img data-src=&#34;https://helio4gm.netlify.app/images/nuevas/cocina_04.jpg&#34; alt=&#34;image alt&#34; data-caption=&#34;Image with title, caption, alt, ...&#34; src=&#34;data:image/svg+xml,%0A%3Csvg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;700px&#39; height=&#39;&#39; viewBox=&#39;0 0 24 24&#39;%3E%3Cpath fill=&#39;none&#39; d=&#39;M0 0h24v24H0V0z&#39;/%3E%3Cpath fill=&#39;%23aaa&#39; d=&#39;M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm-1 16H6c-.55 0-1-.45-1-1V6c0-.55.45-1 1-1h12c.55 0 1 .45 1 1v12c0 .55-.45 1-1 1zm-4.44-6.19l-2.35 3.02-1.56-1.88c-.2-.25-.58-.24-.78.01l-1.74 2.23c-.26.33-.02.81.39.81h8.98c.41 0 .65-.47.4-.8l-2.55-3.39c-.19-.26-.59-.26-.79 0z&#39;/%3E%3C/svg%3E&#34; class=&#34;lazyload&#34; style=&#34;width:700px;height:;&#34;/&gt;
   
 
   
@@ -215,7 +215,7 @@
 &lt;iframe width=&#34;100%&#34; height=&#34;430&#34; src=&#34;https://www.youtube.com/embed/Gbo7EmdtjuU?autoplay=1&amp;loop=1&#34; frameborder=&#34;0&#34;  allowfullscreen&gt;&lt;/iframe&gt;
 &lt;div class=&#39;modelo-wrapper&#39;&gt; &lt;div style=&#34;width: 100%; padding-bottom: 56.25%; position: relative&#34;&gt; &lt;div style=&#34;position: absolute; top: 0; bottom: 0; left: 0; right: 0;&#34;&gt; &lt;iframe src=&#34;https://app.modelo.io/embedded/1Nmg3huZRm?viewport=false&amp;autoplay=true&amp;autoRotate=true&amp;hideTools=false&#34; style=&#34;width:100%;height:100%;&#34; frameborder=&#34;0&#34; mozallowfullscreen webkitallowfullscreen allowfullscreen &gt;&lt;/iframe&gt; &lt;/div&gt; &lt;/div&gt; &lt;/div&gt;</content:encoded>
         <dc:creator>Helio</dc:creator>
-        <media:content url="/images/nuevas/cocina_01.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://helio4gm.netlify.app/images/nuevas/cocina_01.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -241,17 +241,17 @@
       
       <item>
         <title>Meme02</title>
-        <link>/en/posts/2020-12-08-meme02/</link>
+        <link>https://helio4gm.netlify.app/en/posts/2020-12-08-meme02/</link>
         <pubDate>Mon, 07 Dec 2020 20:39:49 -0800</pubDate>
         <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
         <atom:modified>Mon, 07 Dec 2020 20:39:49 -0800</atom:modified>
-        <guid>/en/posts/2020-12-08-meme02/</guid>
+        <guid>https://helio4gm.netlify.app/en/posts/2020-12-08-meme02/</guid>
         <description>Sample Image: Image with title, caption, alt, ...   </description>
         <content:encoded>&lt;figure &gt;
   
   
   
-    &lt;img data-src=&#34;/images/nuevas/Ej57kOZXgAAXLGN.jpg&#34; alt=&#34;image alt&#34; data-caption=&#34;Image with title, caption, alt, ...&#34; src=&#34;data:image/svg+xml,%0A%3Csvg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;700px&#39; height=&#39;&#39; viewBox=&#39;0 0 24 24&#39;%3E%3Cpath fill=&#39;none&#39; d=&#39;M0 0h24v24H0V0z&#39;/%3E%3Cpath fill=&#39;%23aaa&#39; d=&#39;M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm-1 16H6c-.55 0-1-.45-1-1V6c0-.55.45-1 1-1h12c.55 0 1 .45 1 1v12c0 .55-.45 1-1 1zm-4.44-6.19l-2.35 3.02-1.56-1.88c-.2-.25-.58-.24-.78.01l-1.74 2.23c-.26.33-.02.81.39.81h8.98c.41 0 .65-.47.4-.8l-2.55-3.39c-.19-.26-.59-.26-.79 0z&#39;/%3E%3C/svg%3E&#34; class=&#34;lazyload&#34; style=&#34;width:700px;height:;&#34;/&gt;
+    &lt;img data-src=&#34;https://helio4gm.netlify.app/images/nuevas/Ej57kOZXgAAXLGN.jpg&#34; alt=&#34;image alt&#34; data-caption=&#34;Image with title, caption, alt, ...&#34; src=&#34;data:image/svg+xml,%0A%3Csvg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;700px&#39; height=&#39;&#39; viewBox=&#39;0 0 24 24&#39;%3E%3Cpath fill=&#39;none&#39; d=&#39;M0 0h24v24H0V0z&#39;/%3E%3Cpath fill=&#39;%23aaa&#39; d=&#39;M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm-1 16H6c-.55 0-1-.45-1-1V6c0-.55.45-1 1-1h12c.55 0 1 .45 1 1v12c0 .55-.45 1-1 1zm-4.44-6.19l-2.35 3.02-1.56-1.88c-.2-.25-.58-.24-.78.01l-1.74 2.23c-.26.33-.02.81.39.81h8.98c.41 0 .65-.47.4-.8l-2.55-3.39c-.19-.26-.59-.26-.79 0z&#39;/%3E%3C/svg%3E&#34; class=&#34;lazyload&#34; style=&#34;width:700px;height:;&#34;/&gt;
   
 
   
@@ -269,7 +269,7 @@
 &lt;/figure&gt;
 </content:encoded>
         <dc:creator>Helio</dc:creator>
-        <media:content url="/images/nuevas/Ej57kOZXgAAXLGN.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://helio4gm.netlify.app/images/nuevas/Ej57kOZXgAAXLGN.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -291,17 +291,17 @@
       
       <item>
         <title>meme</title>
-        <link>/en/posts/test-2020-12-03-nuevopost/</link>
+        <link>https://helio4gm.netlify.app/en/posts/test-2020-12-03-nuevopost/</link>
         <pubDate>Mon, 07 Dec 2020 20:36:49 -0800</pubDate>
         <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
         <atom:modified>Mon, 07 Dec 2020 20:36:49 -0800</atom:modified>
-        <guid>/en/posts/test-2020-12-03-nuevopost/</guid>
+        <guid>https://helio4gm.netlify.app/en/posts/test-2020-12-03-nuevopost/</guid>
         <description>Sample Image: Image with title, caption, alt, ...   </description>
         <content:encoded>&lt;figure &gt;
   
   
   
-    &lt;img data-src=&#34;/images/nuevas/20201205_Prueba_RMD01.png&#34; alt=&#34;image alt&#34; data-caption=&#34;Image with title, caption, alt, ...&#34; src=&#34;data:image/svg+xml,%0A%3Csvg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;700px&#39; height=&#39;&#39; viewBox=&#39;0 0 24 24&#39;%3E%3Cpath fill=&#39;none&#39; d=&#39;M0 0h24v24H0V0z&#39;/%3E%3Cpath fill=&#39;%23aaa&#39; d=&#39;M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm-1 16H6c-.55 0-1-.45-1-1V6c0-.55.45-1 1-1h12c.55 0 1 .45 1 1v12c0 .55-.45 1-1 1zm-4.44-6.19l-2.35 3.02-1.56-1.88c-.2-.25-.58-.24-.78.01l-1.74 2.23c-.26.33-.02.81.39.81h8.98c.41 0 .65-.47.4-.8l-2.55-3.39c-.19-.26-.59-.26-.79 0z&#39;/%3E%3C/svg%3E&#34; class=&#34;lazyload&#34; style=&#34;width:700px;height:;&#34;/&gt;
+    &lt;img data-src=&#34;https://helio4gm.netlify.app/images/nuevas/20201205_Prueba_RMD01.png&#34; alt=&#34;image alt&#34; data-caption=&#34;Image with title, caption, alt, ...&#34; src=&#34;data:image/svg+xml,%0A%3Csvg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;700px&#39; height=&#39;&#39; viewBox=&#39;0 0 24 24&#39;%3E%3Cpath fill=&#39;none&#39; d=&#39;M0 0h24v24H0V0z&#39;/%3E%3Cpath fill=&#39;%23aaa&#39; d=&#39;M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm-1 16H6c-.55 0-1-.45-1-1V6c0-.55.45-1 1-1h12c.55 0 1 .45 1 1v12c0 .55-.45 1-1 1zm-4.44-6.19l-2.35 3.02-1.56-1.88c-.2-.25-.58-.24-.78.01l-1.74 2.23c-.26.33-.02.81.39.81h8.98c.41 0 .65-.47.4-.8l-2.55-3.39c-.19-.26-.59-.26-.79 0z&#39;/%3E%3C/svg%3E&#34; class=&#34;lazyload&#34; style=&#34;width:700px;height:;&#34;/&gt;
   
 
   
@@ -319,7 +319,7 @@
 &lt;/figure&gt;
 </content:encoded>
         <dc:creator>Helio</dc:creator>
-        <media:content url="/images/nuevas/20201205_Prueba_RMD01.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://helio4gm.netlify.app/images/nuevas/20201205_Prueba_RMD01.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -345,11 +345,11 @@
       
       <item>
         <title>Nuevo</title>
-        <link>/en/posts/2020-12-03-nuevo/</link>
+        <link>https://helio4gm.netlify.app/en/posts/2020-12-03-nuevo/</link>
         <pubDate>Thu, 03 Dec 2020 00:18:42 -0800</pubDate>
         <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
         <atom:modified>Thu, 03 Dec 2020 00:18:42 -0800</atom:modified>
-        <guid>/en/posts/2020-12-03-nuevo/</guid>
+        <guid>https://helio4gm.netlify.app/en/posts/2020-12-03-nuevo/</guid>
         <description>  </description>
         <content:encoded>
 
@@ -360,12 +360,12 @@
 
 
   &lt;div class=&#34;featured-image__wrapper&#34;&gt;
-    &lt;img src=&#34;/images/nuevas/98331050_153125359583231_3517623115012112384_o.jpg&#34; alt=&#34;Featured Image&#34; class=&#34;featured-image&#34; style=&#34;width: ;height: ;&#34;&gt;
+    &lt;img src=&#34;https://helio4gm.netlify.app/images/nuevas/98331050_153125359583231_3517623115012112384_o.jpg&#34; alt=&#34;Featured Image&#34; class=&#34;featured-image&#34; style=&#34;width: ;height: ;&#34;&gt;
   &lt;/div&gt;
 
 </content:encoded>
         <dc:creator>Helio</dc:creator>
-        <media:content url="/images/nuevas/98331050_153125359583231_3517623115012112384_o.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://helio4gm.netlify.app/images/nuevas/98331050_153125359583231_3517623115012112384_o.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -387,11 +387,11 @@
       
       <item>
         <title>R Syntax highlighting cap 02</title>
-        <link>/en/posts/test-r-syntax-highligt-cap-02/</link>
+        <link>https://helio4gm.netlify.app/en/posts/test-r-syntax-highligt-cap-02/</link>
         <pubDate>Thu, 03 Dec 2020 10:33:41 +0900</pubDate>
         <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
         <atom:modified>Thu, 03 Dec 2020 10:33:41 +0900</atom:modified>
-        <guid>/en/posts/test-r-syntax-highligt-cap-02/</guid>
+        <guid>https://helio4gm.netlify.app/en/posts/test-r-syntax-highligt-cap-02/</guid>
         <description>Code Syntax Highlighting Verify the following code blocks render as code blocks and highlight properly.
 More about tuning syntax highlighting is the Hugo documentation.
 R 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19  library(readr) library(mosaic) library(FSA) library(&amp;#34;ggplot2&amp;#34;) library(readxl) library(knitr) library(doBy) library(agricolae) options(scipen=999, digits = 0) mydata &amp;lt;- read_excel(&amp;#34;./data/2016-Solanum-01-11_Isolates(Germplasms).xlsx&amp;#34;) ## getwd() ## Load all the libraries needed and the data   </description>
@@ -445,7 +445,7 @@ R 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19  library(readr) library(mosaic
 &lt;/div&gt;
 &lt;/div&gt;</content:encoded>
         <dc:creator>Helio</dc:creator>
-        <media:content url="/images/feature2/color-palette.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://helio4gm.netlify.app/images/feature2/color-palette.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -471,11 +471,11 @@ R 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19  library(readr) library(mosaic
       
       <item>
         <title>R Syntax highlighting</title>
-        <link>/en/posts/test-r-syntax-highlight/</link>
+        <link>https://helio4gm.netlify.app/en/posts/test-r-syntax-highlight/</link>
         <pubDate>Wed, 02 Dec 2020 10:33:41 +0900</pubDate>
         <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
         <atom:modified>Wed, 02 Dec 2020 10:33:41 +0900</atom:modified>
-        <guid>/en/posts/test-r-syntax-highlight/</guid>
+        <guid>https://helio4gm.netlify.app/en/posts/test-r-syntax-highlight/</guid>
         <description>R MarkdownThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
 When you click the Knit button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:</description>
         <content:encoded>
@@ -602,7 +602,7 @@ krustable=kable(KrusData[1:RND,])
 &lt;div id=&#34;including-plots&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Including Plots&lt;/h2&gt;
 &lt;p&gt;You can also embed plots, for example:&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/en/posts/test-R-syntax-highlight_files/figure-html/pressure-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://helio4gm.netlify.app/en/posts/test-R-syntax-highlight_files/figure-html/pressure-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;Note that the &lt;code&gt;echo = FALSE&lt;/code&gt; parameter was added to the code chunk to prevent printing of the R code that generated the plot.&lt;/p&gt;
 &lt;div id=&#34;dunn-1964-kruskal-wallis-multiple-comparison-p-values-adjusted-with-the-bonferroni-method.&#34; class=&#34;section level3&#34;&gt;
 &lt;h3&gt;Dunn (1964) Kruskal-Wallis multiple comparison p-values adjusted with the Bonferroni method.&lt;/h3&gt;
@@ -637,7 +637,7 @@ krustable=kable(KrusData[1:RND,])
 &lt;/div&gt;
 </content:encoded>
         <dc:creator>Helio</dc:creator>
-        <media:content url="/images/feature2/color-palette02.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://helio4gm.netlify.app/images/feature2/color-palette02.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -663,11 +663,11 @@ krustable=kable(KrusData[1:RND,])
       
       <item>
         <title>Shortcodes</title>
-        <link>/en/posts/shortcodes/</link>
+        <link>https://helio4gm.netlify.app/en/posts/shortcodes/</link>
         <pubDate>Sat, 25 Jan 2020 06:40:51 +0900</pubDate>
         <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
         <atom:modified>Sat, 25 Jan 2020 06:40:51 +0900</atom:modified>
-        <guid>/en/posts/shortcodes/</guid>
+        <guid>https://helio4gm.netlify.app/en/posts/shortcodes/</guid>
         <description>Markdownify box This is boxmd shortcode Simple box This is **box** shortcode  Code tabs Make it easy to switch between different code
 java javascript  1  System.out.println(&amp;#39;Hello World!&amp;#39;);     1  console.log(&amp;#39;Hello World!&amp;#39;);       &#39;use strict&#39;; var containerId = JSON.parse(&#34;\&#34;d96f892eb0443615\&#34;&#34;); var containerElem = document.getElementById(containerId); var codetabLinks = null; var codetabContents = null; var ids = []; if (containerElem) { codetabLinks = containerElem.</description>
         <content:encoded>&lt;h2 id=&#34;markdownify-box&#34;&gt;Markdownify box&lt;/h2&gt;
@@ -876,7 +876,7 @@ This is **box** shortcode
 &lt;/div&gt;
 </content:encoded>
         <dc:creator>García-Mendívil, Helio A.</dc:creator>
-        <media:content url="/images/feature3/code-file.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://helio4gm.netlify.app/images/feature3/code-file.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -900,11 +900,11 @@ This is **box** shortcode
       
       <item>
         <title>Markdown Syntax Guide</title>
-        <link>/en/posts/markdown-syntax/</link>
+        <link>https://helio4gm.netlify.app/en/posts/markdown-syntax/</link>
         <pubDate>Fri, 20 Dec 2019 12:00:06 +0900</pubDate>
         <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
         <atom:modified>Fri, 20 Dec 2019 12:00:06 +0900</atom:modified>
-        <guid>/en/posts/markdown-syntax/</guid>
+        <guid>https://helio4gm.netlify.app/en/posts/markdown-syntax/</guid>
         <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
         <content:encoded>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;
 &lt;h2 id=&#34;headings&#34;&gt;Headings&lt;/h2&gt;
@@ -1057,7 +1057,7 @@ This is **box** shortcode
 &lt;/ol&gt;
 &lt;/div&gt;</content:encoded>
         <dc:creator>Choi</dc:creator>
-        <media:content url="/images/feature1/markdown.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://helio4gm.netlify.app/images/feature1/markdown.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -1101,11 +1101,11 @@ This is **box** shortcode
       
       <item>
         <title>Rich Content</title>
-        <link>/en/posts/rich-content/</link>
+        <link>https://helio4gm.netlify.app/en/posts/rich-content/</link>
         <pubDate>Thu, 19 Dec 2019 12:00:06 +0900</pubDate>
         <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
         <atom:modified>Thu, 19 Dec 2019 12:00:06 +0900</atom:modified>
-        <guid>/en/posts/rich-content/</guid>
+        <guid>https://helio4gm.netlify.app/en/posts/rich-content/</guid>
         <description>&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugo-s-built-in-shortcodes&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;</description>
         <content:encoded>&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugo-s-built-in-shortcodes&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;
 &lt;hr /&gt;
@@ -1183,10 +1183,10 @@ This is **box** shortcode
 &lt;a href=&#34;https://vimeo.com/4.8912912e&amp;#43;07&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;
 
 
-&lt;img src=&#34;https://i.vimeocdn.com/video/337401969_640.jpg&#34; srcset=&#34;https://i.vimeocdn.com/video/337401969_640.jpg 1x, https://i.vimeocdn.com/video/337401969.jpg 2x&#34; alt=&#34;Sing Jan Swing - Kinetic Type&#34;&gt;
+&lt;img src=&#34;https://i.vimeocdn.com/video/337401969_640&#34; srcset=&#34;https://i.vimeocdn.com/video/337401969_640 1x, https://i.vimeocdn.com/video/337401969_640 2x&#34; alt=&#34;Sing Jan Swing - Kinetic Type&#34;&gt;
 &lt;div class=&#34;play&#34;&gt;&lt;svg version=&#34;1&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 61 61&#34;&gt;&lt;circle cx=&#34;30.5&#34; cy=&#34;30.5&#34; r=&#34;30.5&#34; opacity=&#34;.8&#34; fill=&#34;#000&#34;&gt;&lt;/circle&gt;&lt;path d=&#34;M25.3 19.2c-2.1-1.2-3.8-.2-3.8 2.2v18.1c0 2.4 1.7 3.4 3.8 2.2l16.6-9.1c2.1-1.2 2.1-3.2 0-4.4l-16.6-9z&#34; fill=&#34;#fff&#34;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/div&gt;&lt;/a&gt;&lt;/div&gt;</content:encoded>
         <dc:creator>Lee</dc:creator>
-        <media:content url="/images/feature2/content.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://helio4gm.netlify.app/images/feature2/content.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -1206,11 +1206,11 @@ This is **box** shortcode
       
       <item>
         <title>Syntax highlighting</title>
-        <link>/en/posts/syntax-highlight/</link>
+        <link>https://helio4gm.netlify.app/en/posts/syntax-highlight/</link>
         <pubDate>Wed, 18 Dec 2019 10:33:41 +0900</pubDate>
         <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
         <atom:modified>Wed, 18 Dec 2019 10:33:41 +0900</atom:modified>
-        <guid>/en/posts/syntax-highlight/</guid>
+        <guid>https://helio4gm.netlify.app/en/posts/syntax-highlight/</guid>
         <description>Code Syntax Highlighting Verify the following code blocks render as code blocks and highlight properly.
 More about tuning syntax highlighting is the Hugo documentation.
 Diff 1 2 3 4 5 6 7 8 9 10  *** /path/to/original	&amp;#39;&amp;#39;timestamp&amp;#39;&amp;#39; --- /path/to/new	&amp;#39;&amp;#39;timestamp&amp;#39;&amp;#39; *************** *** 1 **** ! This is a line. --- 1 --- ! This is a replacement line. It is important to spell -removed line +new line   *** /path/to/original	&amp;#39;&amp;#39;timestamp&amp;#39;&amp;#39; --- /path/to/new	&amp;#39;&amp;#39;timestamp&amp;#39;&amp;#39; *************** *** 1 **** !</description>
@@ -1734,7 +1734,7 @@ Diff 1 2 3 4 5 6 7 8 9 10  *** /path/to/original	&amp;#39;&amp;#39;timestamp&amp
 &lt;/div&gt;
 &lt;/div&gt;</content:encoded>
         <dc:creator>Jeus</dc:creator>
-        <media:content url="/images/feature2/color-palette.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://helio4gm.netlify.app/images/feature2/color-palette.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -1760,11 +1760,11 @@ Diff 1 2 3 4 5 6 7 8 9 10  *** /path/to/original	&amp;#39;&amp;#39;timestamp&amp
       
       <item>
         <title>Math Typesetting</title>
-        <link>/en/posts/math-typesetting/</link>
+        <link>https://helio4gm.netlify.app/en/posts/math-typesetting/</link>
         <pubDate>Tue, 17 Dec 2019 12:00:06 +0900</pubDate>
         <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
         <atom:modified>Tue, 17 Dec 2019 12:00:06 +0900</atom:modified>
-        <guid>/en/posts/math-typesetting/</guid>
+        <guid>https://helio4gm.netlify.app/en/posts/math-typesetting/</guid>
         <description>&lt;div class=&#34;box&#34;&gt;
 We need goldmark katex entension which is not yet we have: 
 [https://github.com/gohugoio/hugo/issues/6544](https://github.com/gohugoio/hugo/issues/6544)
@@ -1806,11 +1806,11 @@ $$&lt;/p&gt;</content:encoded>
       
       <item>
         <title>Emoji Support</title>
-        <link>/en/posts/emoji-support/</link>
+        <link>https://helio4gm.netlify.app/en/posts/emoji-support/</link>
         <pubDate>Mon, 16 Dec 2019 12:00:06 +0900</pubDate>
         <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
         <atom:modified>Mon, 16 Dec 2019 12:00:06 +0900</atom:modified>
-        <guid>/en/posts/emoji-support/</guid>
+        <guid>https://helio4gm.netlify.app/en/posts/emoji-support/</guid>
         <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
         <content:encoded>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;
 &lt;p&gt;The &lt;a href=&#34;https://gohugo.io/functions/emojify/&#34;&gt;&lt;code&gt;emojify&lt;/code&gt;&lt;/a&gt; function can be called directly in templates or &lt;a href=&#34;https://gohugo.io/templates/shortcode-templates/#inline-shortcodes&#34;&gt;Inline Shortcodes&lt;/a&gt;.&lt;/p&gt;
@@ -1865,11 +1865,11 @@ font-family: Apple Color Emoji,Segoe UI Emoji,NotoColorEmoji,Segoe UI Symbol,And
       
       <item>
         <title>Viz support</title>
-        <link>/en/posts/test-viz/</link>
+        <link>https://helio4gm.netlify.app/en/posts/test-viz/</link>
         <pubDate>Mon, 18 Nov 2019 21:00:06 +0900</pubDate>
         <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
         <atom:modified>Mon, 18 Nov 2019 21:00:06 +0900</atom:modified>
-        <guid>/en/posts/test-viz/</guid>
+        <guid>https://helio4gm.netlify.app/en/posts/test-viz/</guid>
         <description>digraph G { subgraph cluster_0 { style=filled; color=lightgrey; node [style=filled,color=white]; a0 -&amp;gt; a1 -&amp;gt; a2 -&amp;gt; a3; label = &amp;quot;process #1&amp;quot;; } subgraph cluster_1 { node [style=filled]; b0 -&amp;gt; b1 -&amp;gt; b2 -&amp;gt; b3; label = &amp;quot;process #2&amp;quot;; color=blue } start -&amp;gt; a0; start -&amp;gt; b0; a1 -&amp;gt; b3; b2 -&amp;gt; a3; a3 -&amp;gt; a0; a3 -&amp;gt; end; b3 -&amp;gt; end; start [shape=Mdiamond]; end [shape=Msquare]; } </description>
         <content:encoded>&lt;pre&gt;&lt;code class=&#34;language-viz-dot&#34; data-lang=&#34;viz-dot&#34;&gt;  digraph G {
 
@@ -1901,7 +1901,7 @@ font-family: Apple Color Emoji,Segoe UI Emoji,NotoColorEmoji,Segoe UI Symbol,And
 
 &lt;/code&gt;&lt;/pre&gt;</content:encoded>
         <dc:creator>García-Mendívil, Helio A.</dc:creator>
-        <media:content url="/images/feature2/graph.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://helio4gm.netlify.app/images/feature2/graph.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -1925,11 +1925,11 @@ font-family: Apple Color Emoji,Segoe UI Emoji,NotoColorEmoji,Segoe UI Symbol,And
       
       <item>
         <title>Wavedrom support</title>
-        <link>/en/posts/test-wavedrom/</link>
+        <link>https://helio4gm.netlify.app/en/posts/test-wavedrom/</link>
         <pubDate>Mon, 18 Nov 2019 18:00:06 +0900</pubDate>
         <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
         <atom:modified>Mon, 18 Nov 2019 18:00:06 +0900</atom:modified>
-        <guid>/en/posts/test-wavedrom/</guid>
+        <guid>https://helio4gm.netlify.app/en/posts/test-wavedrom/</guid>
         <description>{ &amp;quot;signal&amp;quot;: [ {&amp;quot;name&amp;quot;: &amp;quot;CLK&amp;quot;, &amp;quot;wave&amp;quot;: &amp;quot;p.....|...&amp;quot;}, {&amp;quot;name&amp;quot;:&amp;quot;DAT&amp;quot;, &amp;quot;wave&amp;quot;:&amp;quot;x.345x|=.x&amp;quot;, &amp;quot;data&amp;quot;:[&amp;quot;A&amp;quot;,&amp;quot;B&amp;quot;,&amp;quot;C&amp;quot;,&amp;quot;D&amp;quot;]}, {&amp;quot;name&amp;quot;: &amp;quot;REQ&amp;quot;, &amp;quot;wave&amp;quot;: &amp;quot;0.1..0|1.0&amp;quot;}, {}, {&amp;quot;name&amp;quot;: &amp;quot;ACK&amp;quot;, &amp;quot;wave&amp;quot;: &amp;quot;1.....|01.&amp;quot;} ]} </description>
         <content:encoded>&lt;pre&gt;&lt;code class=&#34;language-wave&#34; data-lang=&#34;wave&#34;&gt;{ 
   &amp;quot;signal&amp;quot;: [ {&amp;quot;name&amp;quot;: &amp;quot;CLK&amp;quot;, &amp;quot;wave&amp;quot;: &amp;quot;p.....|...&amp;quot;},
@@ -1940,7 +1940,7 @@ font-family: Apple Color Emoji,Segoe UI Emoji,NotoColorEmoji,Segoe UI Symbol,And
 ]}
 &lt;/code&gt;&lt;/pre&gt;</content:encoded>
         <dc:creator>García-Mendívil, Helio A.</dc:creator>
-        <media:content url="/images/feature1/wave.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://helio4gm.netlify.app/images/feature1/wave.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -1964,11 +1964,11 @@ font-family: Apple Color Emoji,Segoe UI Emoji,NotoColorEmoji,Segoe UI Symbol,And
       
       <item>
         <title>Chart support</title>
-        <link>/en/posts/test-chartjs/</link>
+        <link>https://helio4gm.netlify.app/en/posts/test-chartjs/</link>
         <pubDate>Mon, 18 Nov 2019 12:00:06 +0900</pubDate>
         <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
         <atom:modified>Mon, 18 Nov 2019 12:00:06 +0900</atom:modified>
-        <guid>/en/posts/test-chartjs/</guid>
+        <guid>https://helio4gm.netlify.app/en/posts/test-chartjs/</guid>
         <description>{ &amp;quot;type&amp;quot;: &amp;quot;bar&amp;quot;, &amp;quot;data&amp;quot;: { &amp;quot;labels&amp;quot;: [&amp;quot;One&amp;quot;, &amp;quot;Two&amp;quot;, &amp;quot;Three&amp;quot;, &amp;quot;Four&amp;quot;, &amp;quot;Five&amp;quot;, &amp;quot;Six&amp;quot;], &amp;quot;datasets&amp;quot;: [{ &amp;quot;label&amp;quot;: &amp;quot;# of Votes&amp;quot;, &amp;quot;data&amp;quot;: [12, 19, 3, 5, 3, 8] }] } } { &amp;quot;type&amp;quot;: &amp;quot;line&amp;quot;, &amp;quot;data&amp;quot;: { &amp;quot;labels&amp;quot;: [&amp;quot;One&amp;quot;, &amp;quot;Two&amp;quot;, &amp;quot;Three&amp;quot;, &amp;quot;Four&amp;quot;, &amp;quot;Five&amp;quot;, &amp;quot;Six&amp;quot;], &amp;quot;datasets&amp;quot;: [ { &amp;quot;label&amp;quot;: &amp;quot;# of Votes&amp;quot;, &amp;quot;data&amp;quot;: [12, 19, 3, 5, 2, 3], &amp;quot;backgroundColor&amp;quot;:&amp;quot;transparent&amp;quot;, &amp;quot;borderColor&amp;quot;:&amp;quot;orange&amp;quot; }, { &amp;quot;label&amp;quot;: &amp;quot;Some other set&amp;quot;, &amp;quot;data&amp;quot;: [15, 8, 13, 5, 5, 9], &amp;quot;backgroundColor&amp;quot;:&amp;quot;transparent&amp;quot;, &amp;quot;borderColor&amp;quot;:&amp;quot;#44ccff&amp;quot; } ] } } </description>
         <content:encoded>&lt;pre&gt;&lt;code class=&#34;language-chart&#34; data-lang=&#34;chart&#34;&gt;{
     &amp;quot;type&amp;quot;: &amp;quot;bar&amp;quot;,
@@ -2003,7 +2003,7 @@ font-family: Apple Color Emoji,Segoe UI Emoji,NotoColorEmoji,Segoe UI Symbol,And
     }
 &lt;/code&gt;&lt;/pre&gt;</content:encoded>
         <dc:creator>García-Mendívil, Helio A.</dc:creator>
-        <media:content url="/images/feature1/graph.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://helio4gm.netlify.app/images/feature1/graph.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -2027,11 +2027,11 @@ font-family: Apple Color Emoji,Segoe UI Emoji,NotoColorEmoji,Segoe UI Symbol,And
       
       <item>
         <title>JS Sequence Diagram support</title>
-        <link>/en/posts/test-js-sequence-diagrams/</link>
+        <link>https://helio4gm.netlify.app/en/posts/test-js-sequence-diagrams/</link>
         <pubDate>Mon, 18 Nov 2019 12:00:06 +0900</pubDate>
         <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
         <atom:modified>Mon, 18 Nov 2019 12:00:06 +0900</atom:modified>
-        <guid>/en/posts/test-js-sequence-diagrams/</guid>
+        <guid>https://helio4gm.netlify.app/en/posts/test-js-sequence-diagrams/</guid>
         <description>Alice-&amp;gt;Bob: Hello Bob, how are you? Note right of Bob: Bob thinks Bob--&amp;gt;Alice: I am good thanks! Title: Here is a title A-&amp;gt;B: Normal line B--&amp;gt;C: Dashed line C-&amp;gt;&amp;gt;D: Open arrow D--&amp;gt;&amp;gt;A: Dashed open arrow </description>
         <content:encoded>&lt;pre&gt;&lt;code class=&#34;language-msc&#34; data-lang=&#34;msc&#34;&gt;Alice-&amp;gt;Bob: Hello Bob, how are you?
 Note right of Bob: Bob thinks
@@ -2043,7 +2043,7 @@ C-&amp;gt;&amp;gt;D: Open arrow
 D--&amp;gt;&amp;gt;A: Dashed open arrow
 &lt;/code&gt;&lt;/pre&gt;</content:encoded>
         <dc:creator>García-Mendívil, Helio A.</dc:creator>
-        <media:content url="/images/feature2/transfer.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://helio4gm.netlify.app/images/feature2/transfer.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -2067,11 +2067,11 @@ D--&amp;gt;&amp;gt;A: Dashed open arrow
       
       <item>
         <title>Mermaid support</title>
-        <link>/en/posts/test-mermaid/</link>
+        <link>https://helio4gm.netlify.app/en/posts/test-mermaid/</link>
         <pubDate>Sun, 17 Nov 2019 12:00:06 +0900</pubDate>
         <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
         <atom:modified>Sun, 17 Nov 2019 12:00:06 +0900</atom:modified>
-        <guid>/en/posts/test-mermaid/</guid>
+        <guid>https://helio4gm.netlify.app/en/posts/test-mermaid/</guid>
         <description>graph TD; A--&amp;gt;B; A--&amp;gt;C; B--&amp;gt;D; C--&amp;gt;D; sequenceDiagram participant Alice participant Bob Alice-&amp;gt;John: Hello John, how are you? loop Healthcheck John-&amp;gt;John: Fight against hypochondria end Note right of John: Rational thoughts &amp;lt;br/&amp;gt;prevail... John--&amp;gt;Alice: Great! John-&amp;gt;Bob: How about you? Bob--&amp;gt;John: Jolly good! graph TD A[Hard] --&amp;gt;|Text| B(Round) B --&amp;gt; C{Decision} C --&amp;gt;|One| D[Result 1] C --&amp;gt;|Two| E[Result 2] gantt section Section Completed :done, des1, 2014-01-06,2014-01-08 Active :active, des2, 2014-01-07, 3d Parallel 1 : des3, after des1, 1d Parallel 2 : des4, after des1, 1d Parallel 3 : des5, after des3, 1d Parallel 4 : des6, after des4, 1d classDiagram Class01 &amp;lt;|-- AveryLongClass : Cool &amp;lt;&amp;lt;interface&amp;gt;&amp;gt; Class01 Class09 --&amp;gt; C2 : Where am i?</description>
         <content:encoded>&lt;pre&gt;&lt;code class=&#34;language-mermaid&#34; data-lang=&#34;mermaid&#34;&gt;graph TD;
   A--&amp;gt;B;
@@ -2131,7 +2131,7 @@ Crash --&amp;gt; [*]
 &amp;quot;Rats&amp;quot; : 15 
 &lt;/code&gt;&lt;/pre&gt;</content:encoded>
         <dc:creator>García-Mendívil, Helio A.</dc:creator>
-        <media:content url="/images/feature2/workflow.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://helio4gm.netlify.app/images/feature2/workflow.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -2157,18 +2157,18 @@ Crash --&amp;gt; [*]
       
       <item>
         <title>MathJax support</title>
-        <link>/en/posts/test-mathjax/</link>
+        <link>https://helio4gm.netlify.app/en/posts/test-mathjax/</link>
         <pubDate>Sat, 16 Nov 2019 12:00:06 +0900</pubDate>
         <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
         <atom:modified>Sat, 16 Nov 2019 12:00:06 +0900</atom:modified>
-        <guid>/en/posts/test-mathjax/</guid>
+        <guid>https://helio4gm.netlify.app/en/posts/test-mathjax/</guid>
         <description>When $a \ne 0$, there are two solutions to $(ax^2 + bx + c = 0)$ and they are
 $$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$</description>
         <content:encoded>&lt;p&gt;When $a \ne 0$, there are two solutions to $(ax^2 + bx + c = 0)$ and they are&lt;br /&gt;
 $$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$&lt;/p&gt;
 </content:encoded>
         <dc:creator>García-Mendívil, Helio A.</dc:creator>
-        <media:content url="/images/feature1/infinity.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://helio4gm.netlify.app/images/feature1/infinity.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -2192,11 +2192,11 @@ $$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$&lt;/p&gt;
       
       <item>
         <title>Katex support</title>
-        <link>/en/posts/test-katex/</link>
+        <link>https://helio4gm.netlify.app/en/posts/test-katex/</link>
         <pubDate>Fri, 15 Nov 2019 12:00:06 +0900</pubDate>
         <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
         <atom:modified>Fri, 15 Nov 2019 12:00:06 +0900</atom:modified>
-        <guid>/en/posts/test-katex/</guid>
+        <guid>https://helio4gm.netlify.app/en/posts/test-katex/</guid>
         <description>The following
 $$ \int_{a}^{b} x^2 dx $$
 Is an integral
@@ -2221,7 +2221,7 @@ $$ \varphi = 1+\frac{1} {1+\frac{1} {1+\frac{1} {1+\cdots} } } $$
 &lt;p&gt;$$ \varphi = 1+\frac{1} {1+\frac{1} {1+\frac{1} {1+\cdots} } } $$&lt;/p&gt;
 </content:encoded>
         <dc:creator>García-Mendívil, Helio A.</dc:creator>
-        <media:content url="/images/feature2/mathbook.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://helio4gm.netlify.app/images/feature2/mathbook.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -2245,11 +2245,11 @@ $$ \varphi = 1+\frac{1} {1+\frac{1} {1+\frac{1} {1+\cdots} } } $$
       
       <item>
         <title>Flowchart support</title>
-        <link>/en/posts/test-flowchart/</link>
+        <link>https://helio4gm.netlify.app/en/posts/test-flowchart/</link>
         <pubDate>Thu, 14 Nov 2019 12:00:06 +0900</pubDate>
         <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
         <atom:modified>Thu, 14 Nov 2019 12:00:06 +0900</atom:modified>
-        <guid>/en/posts/test-flowchart/</guid>
+        <guid>https://helio4gm.netlify.app/en/posts/test-flowchart/</guid>
         <description>st=&amp;gt;start: Start|past:&amp;gt;http://www.google.com[blank] e=&amp;gt;end: End|future:&amp;gt;http://www.google.com op1=&amp;gt;operation: My Operation|past op2=&amp;gt;operation: Stuff|current sub1=&amp;gt;subroutine: My Subroutine|invalid cond=&amp;gt;condition: Yes or No?|approved:&amp;gt;http://www.google.com c2=&amp;gt;condition: Good idea|rejected io=&amp;gt;inputoutput: catch something...|future st-&amp;gt;op1(right)-&amp;gt;cond cond(yes, right)-&amp;gt;c2 cond(no)-&amp;gt;sub1(left)-&amp;gt;op1 c2(yes)-&amp;gt;io-&amp;gt;e c2(no)-&amp;gt;op2-&amp;gt;e </description>
         <content:encoded>&lt;pre&gt;&lt;code class=&#34;language-flowchart&#34; data-lang=&#34;flowchart&#34;&gt;st=&amp;gt;start: Start|past:&amp;gt;http://www.google.com[blank]
 e=&amp;gt;end: End|future:&amp;gt;http://www.google.com
@@ -2268,7 +2268,7 @@ c2(yes)-&amp;gt;io-&amp;gt;e
 c2(no)-&amp;gt;op2-&amp;gt;e
 &lt;/code&gt;&lt;/pre&gt;</content:encoded>
         <dc:creator>García-Mendívil, Helio A.</dc:creator>
-        <media:content url="/images/feature1/flowchart.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://helio4gm.netlify.app/images/feature1/flowchart.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         

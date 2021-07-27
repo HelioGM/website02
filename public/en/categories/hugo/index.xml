@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>hugo on Helio&#39;s Website</title>
-    <link>/en/categories/hugo/</link>
+    <link>https://helio4gm.netlify.app/en/categories/hugo/</link>
     <description>Recent content in hugo on Helio&#39;s Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -17,7 +17,7 @@
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>hourly</sy:updateFrequency>
     
-        <atom:link href="/en/categories/hugo/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://helio4gm.netlify.app/en/categories/hugo/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -25,17 +25,17 @@
       
       <item>
         <title>meme</title>
-        <link>/en/posts/test-2020-12-03-nuevopost/</link>
+        <link>https://helio4gm.netlify.app/en/posts/test-2020-12-03-nuevopost/</link>
         <pubDate>Mon, 07 Dec 2020 20:36:49 -0800</pubDate>
         <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
         <atom:modified>Mon, 07 Dec 2020 20:36:49 -0800</atom:modified>
-        <guid>/en/posts/test-2020-12-03-nuevopost/</guid>
+        <guid>https://helio4gm.netlify.app/en/posts/test-2020-12-03-nuevopost/</guid>
         <description>Sample Image: Image with title, caption, alt, ...   </description>
         <content:encoded>&lt;figure &gt;
   
   
   
-    &lt;img data-src=&#34;/images/nuevas/20201205_Prueba_RMD01.png&#34; alt=&#34;image alt&#34; data-caption=&#34;Image with title, caption, alt, ...&#34; src=&#34;data:image/svg+xml,%0A%3Csvg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;700px&#39; height=&#39;&#39; viewBox=&#39;0 0 24 24&#39;%3E%3Cpath fill=&#39;none&#39; d=&#39;M0 0h24v24H0V0z&#39;/%3E%3Cpath fill=&#39;%23aaa&#39; d=&#39;M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm-1 16H6c-.55 0-1-.45-1-1V6c0-.55.45-1 1-1h12c.55 0 1 .45 1 1v12c0 .55-.45 1-1 1zm-4.44-6.19l-2.35 3.02-1.56-1.88c-.2-.25-.58-.24-.78.01l-1.74 2.23c-.26.33-.02.81.39.81h8.98c.41 0 .65-.47.4-.8l-2.55-3.39c-.19-.26-.59-.26-.79 0z&#39;/%3E%3C/svg%3E&#34; class=&#34;lazyload&#34; style=&#34;width:700px;height:;&#34;/&gt;
+    &lt;img data-src=&#34;https://helio4gm.netlify.app/images/nuevas/20201205_Prueba_RMD01.png&#34; alt=&#34;image alt&#34; data-caption=&#34;Image with title, caption, alt, ...&#34; src=&#34;data:image/svg+xml,%0A%3Csvg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;700px&#39; height=&#39;&#39; viewBox=&#39;0 0 24 24&#39;%3E%3Cpath fill=&#39;none&#39; d=&#39;M0 0h24v24H0V0z&#39;/%3E%3Cpath fill=&#39;%23aaa&#39; d=&#39;M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm-1 16H6c-.55 0-1-.45-1-1V6c0-.55.45-1 1-1h12c.55 0 1 .45 1 1v12c0 .55-.45 1-1 1zm-4.44-6.19l-2.35 3.02-1.56-1.88c-.2-.25-.58-.24-.78.01l-1.74 2.23c-.26.33-.02.81.39.81h8.98c.41 0 .65-.47.4-.8l-2.55-3.39c-.19-.26-.59-.26-.79 0z&#39;/%3E%3C/svg%3E&#34; class=&#34;lazyload&#34; style=&#34;width:700px;height:;&#34;/&gt;
   
 
   
@@ -53,7 +53,7 @@
 &lt;/figure&gt;
 </content:encoded>
         <dc:creator>Helio</dc:creator>
-        <media:content url="/images/nuevas/20201205_Prueba_RMD01.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://helio4gm.netlify.app/images/nuevas/20201205_Prueba_RMD01.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -79,11 +79,11 @@
       
       <item>
         <title>R Syntax highlighting cap 02</title>
-        <link>/en/posts/test-r-syntax-highligt-cap-02/</link>
+        <link>https://helio4gm.netlify.app/en/posts/test-r-syntax-highligt-cap-02/</link>
         <pubDate>Thu, 03 Dec 2020 10:33:41 +0900</pubDate>
         <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
         <atom:modified>Thu, 03 Dec 2020 10:33:41 +0900</atom:modified>
-        <guid>/en/posts/test-r-syntax-highligt-cap-02/</guid>
+        <guid>https://helio4gm.netlify.app/en/posts/test-r-syntax-highligt-cap-02/</guid>
         <description>Code Syntax Highlighting Verify the following code blocks render as code blocks and highlight properly.
 More about tuning syntax highlighting is the Hugo documentation.
 R 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19  library(readr) library(mosaic) library(FSA) library(&amp;#34;ggplot2&amp;#34;) library(readxl) library(knitr) library(doBy) library(agricolae) options(scipen=999, digits = 0) mydata &amp;lt;- read_excel(&amp;#34;./data/2016-Solanum-01-11_Isolates(Germplasms).xlsx&amp;#34;) ## getwd() ## Load all the libraries needed and the data   </description>
@@ -137,7 +137,7 @@ R 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19  library(readr) library(mosaic
 &lt;/div&gt;
 &lt;/div&gt;</content:encoded>
         <dc:creator>Helio</dc:creator>
-        <media:content url="/images/feature2/color-palette.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://helio4gm.netlify.app/images/feature2/color-palette.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -163,11 +163,11 @@ R 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19  library(readr) library(mosaic
       
       <item>
         <title>R Syntax highlighting</title>
-        <link>/en/posts/test-r-syntax-highlight/</link>
+        <link>https://helio4gm.netlify.app/en/posts/test-r-syntax-highlight/</link>
         <pubDate>Wed, 02 Dec 2020 10:33:41 +0900</pubDate>
         <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
         <atom:modified>Wed, 02 Dec 2020 10:33:41 +0900</atom:modified>
-        <guid>/en/posts/test-r-syntax-highlight/</guid>
+        <guid>https://helio4gm.netlify.app/en/posts/test-r-syntax-highlight/</guid>
         <description>R MarkdownThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
 When you click the Knit button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:</description>
         <content:encoded>
@@ -294,7 +294,7 @@ krustable=kable(KrusData[1:RND,])
 &lt;div id=&#34;including-plots&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Including Plots&lt;/h2&gt;
 &lt;p&gt;You can also embed plots, for example:&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/en/posts/test-R-syntax-highlight_files/figure-html/pressure-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://helio4gm.netlify.app/en/posts/test-R-syntax-highlight_files/figure-html/pressure-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;Note that the &lt;code&gt;echo = FALSE&lt;/code&gt; parameter was added to the code chunk to prevent printing of the R code that generated the plot.&lt;/p&gt;
 &lt;div id=&#34;dunn-1964-kruskal-wallis-multiple-comparison-p-values-adjusted-with-the-bonferroni-method.&#34; class=&#34;section level3&#34;&gt;
 &lt;h3&gt;Dunn (1964) Kruskal-Wallis multiple comparison p-values adjusted with the Bonferroni method.&lt;/h3&gt;
@@ -329,7 +329,7 @@ krustable=kable(KrusData[1:RND,])
 &lt;/div&gt;
 </content:encoded>
         <dc:creator>Helio</dc:creator>
-        <media:content url="/images/feature2/color-palette02.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://helio4gm.netlify.app/images/feature2/color-palette02.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -355,11 +355,11 @@ krustable=kable(KrusData[1:RND,])
       
       <item>
         <title>Syntax highlighting</title>
-        <link>/en/posts/syntax-highlight/</link>
+        <link>https://helio4gm.netlify.app/en/posts/syntax-highlight/</link>
         <pubDate>Wed, 18 Dec 2019 10:33:41 +0900</pubDate>
         <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
         <atom:modified>Wed, 18 Dec 2019 10:33:41 +0900</atom:modified>
-        <guid>/en/posts/syntax-highlight/</guid>
+        <guid>https://helio4gm.netlify.app/en/posts/syntax-highlight/</guid>
         <description>Code Syntax Highlighting Verify the following code blocks render as code blocks and highlight properly.
 More about tuning syntax highlighting is the Hugo documentation.
 Diff 1 2 3 4 5 6 7 8 9 10  *** /path/to/original	&amp;#39;&amp;#39;timestamp&amp;#39;&amp;#39; --- /path/to/new	&amp;#39;&amp;#39;timestamp&amp;#39;&amp;#39; *************** *** 1 **** ! This is a line. --- 1 --- ! This is a replacement line. It is important to spell -removed line +new line   *** /path/to/original	&amp;#39;&amp;#39;timestamp&amp;#39;&amp;#39; --- /path/to/new	&amp;#39;&amp;#39;timestamp&amp;#39;&amp;#39; *************** *** 1 **** !</description>
@@ -883,7 +883,7 @@ Diff 1 2 3 4 5 6 7 8 9 10  *** /path/to/original	&amp;#39;&amp;#39;timestamp&amp
 &lt;/div&gt;
 &lt;/div&gt;</content:encoded>
         <dc:creator>Jeus</dc:creator>
-        <media:content url="/images/feature2/color-palette.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://helio4gm.netlify.app/images/feature2/color-palette.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         

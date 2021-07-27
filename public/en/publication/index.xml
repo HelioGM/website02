@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Publications on Helio&#39;s Website</title>
-    <link>/en/publication/</link>
+    <link>https://helio4gm.netlify.app/en/publication/</link>
     <description>Recent content in Publications on Helio&#39;s Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -17,7 +17,7 @@
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>hourly</sy:updateFrequency>
     
-        <atom:link href="/en/publication/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://helio4gm.netlify.app/en/publication/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -25,11 +25,11 @@
       
       <item>
         <title>article</title>
-        <link>/en/publication/article/</link>
+        <link>https://helio4gm.netlify.app/en/publication/article/</link>
         <pubDate>Thu, 05 Mar 2020 14:08:48 +0000</pubDate>
         <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
         <atom:modified>Thu, 05 Mar 2020 14:08:48 +0000</atom:modified>
-        <guid>/en/publication/article/</guid>
+        <guid>https://helio4gm.netlify.app/en/publication/article/</guid>
         <description></description>
         <content:encoded></content:encoded>
         <dc:creator>García-Mendívil, Helio A.</dc:creator>
@@ -43,11 +43,11 @@
       
       <item>
         <title>book</title>
-        <link>/en/publication/book/</link>
+        <link>https://helio4gm.netlify.app/en/publication/book/</link>
         <pubDate>Thu, 05 Mar 2020 14:08:48 +0000</pubDate>
         <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
         <atom:modified>Thu, 05 Mar 2020 14:08:48 +0000</atom:modified>
-        <guid>/en/publication/book/</guid>
+        <guid>https://helio4gm.netlify.app/en/publication/book/</guid>
         <description></description>
         <content:encoded></content:encoded>
         <dc:creator>García-Mendívil, Helio A.</dc:creator>
@@ -61,11 +61,11 @@
       
       <item>
         <title>misc</title>
-        <link>/en/publication/misc/</link>
+        <link>https://helio4gm.netlify.app/en/publication/misc/</link>
         <pubDate>Thu, 05 Mar 2020 14:08:48 +0000</pubDate>
         <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
         <atom:modified>Thu, 05 Mar 2020 14:08:48 +0000</atom:modified>
-        <guid>/en/publication/misc/</guid>
+        <guid>https://helio4gm.netlify.app/en/publication/misc/</guid>
         <description></description>
         <content:encoded></content:encoded>
         <dc:creator>García-Mendívil, Helio A.</dc:creator>

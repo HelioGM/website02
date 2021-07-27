@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Tracks on Helio</title>
-    <link>/es/series/tracks/</link>
+    <link>https://helio4gm.netlify.app/es/series/tracks/</link>
     <description>Recent content in Tracks on Helio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
@@ -17,7 +17,7 @@
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>hourly</sy:updateFrequency>
     
-        <atom:link href="/es/series/tracks/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://helio4gm.netlify.app/es/series/tracks/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -25,11 +25,11 @@
       
       <item>
         <title>51 Wolves</title>
-        <link>/es/posts/2020-12-14-51wolves/</link>
+        <link>https://helio4gm.netlify.app/es/posts/2020-12-14-51wolves/</link>
         <pubDate>Sun, 13 Dec 2020 22:02:14 -0800</pubDate>
         <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
         <atom:modified>Sun, 13 Dec 2020 22:02:14 -0800</atom:modified>
-        <guid>/es/posts/2020-12-14-51wolves/</guid>
+        <guid>https://helio4gm.netlify.app/es/posts/2020-12-14-51wolves/</guid>
         <description>Drums: Beat Machine - Chillin&#39; Drums: Beat Machine - Chillin&#39; (Glitch) Bass: Bass Engine - DubStyle Guitar 1: Kontakt - Jazz Guitar Guitar 2: Kontakt - WarmJazz Melodica 1: Kontakt - MSLP Melodica 1 Melodica 1: Kontakt - MSLP Melodica 2 Kalimba: Kontakt - Kalimba Trombone: Kontakt - MSLP Trombone Samples Finished track </description>
         <content:encoded>&lt;h3 id=&#34;drums-beat-machine---chillin&#34;&gt;Drums: Beat Machine - Chillin&#39;&lt;/h3&gt;
 &lt;p&gt;&lt;img src=&#34;https://lh3.googleusercontent.com/AfrDbQLgLQ_u93mU-5blzBep53BFBFJgIbHkBksD6hk-an_PPZ-KeQvm8584cDKr6fKxjFZr7VQVC63SuZ6UeRqSe_PgOw0xGrc60Y_IP_Cmj9U6-8qtnfecgQ1kuJT6bsJrDp_KBgK4PG65PcNL4nOpit2A3X8UMAlIVbfGebBYw0ZBr_2Om-4aUjuxdgxVWT2g9-dh0151jl_717OtWwcJ6AMOsqqkvh5worxHisvjq1_vFQgWYwf9ipaOOaZa_WK8h1m_jxtZywSP5V8Al1ZngjdxAH4vNF8TuIDrLG3f3bSlfRZTFbYKsLaThNpgzRHta_cv2jl2cmTMwU2JoZYrRiAQVe9UApYLR89qFj55G7U0_xb-mDSK7QZEHXVz5Ns9fOaDgDKh0-CIAUhC_AKmp23KNG9c2je_HVfkG16-klN_IyY5DyHMulQ_WzYkCnwk3VCnlVPQw8xoHZRKFM47q--RoL3ERhpRsjDYPnbgT4wQnFq6SaiBE8azcIrsr0-REleQSrX75cm9siXYzz4V0gBxG_-w2Pb5wB1GyoODcHUbixRQ59PuM3Q9bAgpiDfqvQDq9gksl9FPuhN3ae0p1af2m6dTgmugclAXx6Z0Lk2BqqXGZ281zhS9Xln0eC95o2RrNgvAQL5kXCBBI_LaK7Ce4bF2QlN_aV44rnuLF40rsE871O-sDhzjnA=w662-h298-no?authuser=3&#34; alt=&#34;BeatMachine - Chilin&#39;&#34; /&gt;&lt;/p&gt;
@@ -79,7 +79,7 @@
 &lt;iframe src=&#34;https://www.facebook.com/plugins/video.php?height=314&amp;href=https%3A%2F%2Fwww.facebook.com%2Fhelio.irie%2Fvideos%2F1892357107480022%2F&amp;show_text=false&amp;width=560&#34; width=&#34;560&#34; height=&#34;314&#34; style=&#34;border:none;overflow:hidden&#34; scrolling=&#34;no&#34; frameborder=&#34;0&#34; allowfullscreen=&#34;true&#34; allow=&#34;autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share&#34; allowFullScreen=&#34;true&#34;&gt;&lt;/iframe&gt;
 </content:encoded>
         <dc:creator>Helio</dc:creator>
-        <media:content url="/https://lh3.googleusercontent.com/GX0Lj86Hf9PhjlhdpERmElp8W1ikiufXLDdstsi_2dt_uhG1W_zHj6VF37M2kyvYjJ60xVd-IY-p_LkRbSAbSvm4aiU5nWlwMGInZ6XtikXePKlkUze1weEgDoBT03f8TGvBVV2SEi3TJMlyuTB3cx7Gj4dcZtlVfaFhiXeqCDruY_G8BM8NTZHGu4iRQQpIZaqjArA5YtslRV9Bt_Kc7uLqyj6VXHBdlNvIsTAd1tIoyS5sMxHLWVjr3jB9wue8xylsS5QbPoAV8WXU3hekyb7T_LeRj7cbNbbkvyrl94mn-DURSLRHYawc5ZJXzpqTYHRhdHUcZaYdGoS2dEHobb0djYQLkSGbmjR9vUiJ7VxRQknSHk78eCjZo61AQeZRtQmISGhvOGFihpFHXplEQBDIpxslKs2SzqY2Xrn4a4SejDg_SA3dVwvj_D6-FXvOWhkQg1YqGKkmb0KFDTXA-r7YZNXrEtluu35uSN9iAl_OFHYFCEDK7riX9w3pQoLkOuH3dWtoIO257gpHRqKthaulJKaAtRyXq1L_zMEbknkFr3puuB01mxqAN7HXf4rF80bKLXR2cL8qAi9pF1p_3VQYa0vqYtv6eQ2YUdrxawNFHPWY6HYNAm8ANIzFykE8Jwa5xIxhpoGdk660x69n-4U5GZA7d3rOnAboqkUV-x_wiJEa7MvsFAaBxoeBdQ=w551-h533-no?authuser=3" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://helio4gm.netlify.app/https://lh3.googleusercontent.com/GX0Lj86Hf9PhjlhdpERmElp8W1ikiufXLDdstsi_2dt_uhG1W_zHj6VF37M2kyvYjJ60xVd-IY-p_LkRbSAbSvm4aiU5nWlwMGInZ6XtikXePKlkUze1weEgDoBT03f8TGvBVV2SEi3TJMlyuTB3cx7Gj4dcZtlVfaFhiXeqCDruY_G8BM8NTZHGu4iRQQpIZaqjArA5YtslRV9Bt_Kc7uLqyj6VXHBdlNvIsTAd1tIoyS5sMxHLWVjr3jB9wue8xylsS5QbPoAV8WXU3hekyb7T_LeRj7cbNbbkvyrl94mn-DURSLRHYawc5ZJXzpqTYHRhdHUcZaYdGoS2dEHobb0djYQLkSGbmjR9vUiJ7VxRQknSHk78eCjZo61AQeZRtQmISGhvOGFihpFHXplEQBDIpxslKs2SzqY2Xrn4a4SejDg_SA3dVwvj_D6-FXvOWhkQg1YqGKkmb0KFDTXA-r7YZNXrEtluu35uSN9iAl_OFHYFCEDK7riX9w3pQoLkOuH3dWtoIO257gpHRqKthaulJKaAtRyXq1L_zMEbknkFr3puuB01mxqAN7HXf4rF80bKLXR2cL8qAi9pF1p_3VQYa0vqYtv6eQ2YUdrxawNFHPWY6HYNAm8ANIzFykE8Jwa5xIxhpoGdk660x69n-4U5GZA7d3rOnAboqkUV-x_wiJEa7MvsFAaBxoeBdQ=w551-h533-no?authuser=3" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         

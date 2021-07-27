@@ -7,83 +7,29 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Categories on Helio</title>
-    <link>/es/categories/</link>
+    <link>https://helio4gm.netlify.app/es/categories/</link>
     <description>Recent content in Categories on Helio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <managingEditor>helio4gm@gmail.com (García-Mendívil, Helio A.)</managingEditor>
     <webMaster>helio4gm@gmail.com (García-Mendívil, Helio A.)</webMaster>
-    <lastBuildDate>Thu, 07 Jan 2021 22:44:33 -0800</lastBuildDate>
+    <lastBuildDate>Tue, 27 Jul 2021 00:00:00 +0000</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>hourly</sy:updateFrequency>
     
-        <atom:link href="/es/categories/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://helio4gm.netlify.app/es/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     
 
       
       <item>
-        <title>Herramientas</title>
-        <link>/es/categories/herramientas/</link>
-        <pubDate>Thu, 07 Jan 2021 22:44:33 -0800</pubDate>
+        <title>R</title>
+        <link>https://helio4gm.netlify.app/es/categories/r/</link>
+        <pubDate>Tue, 27 Jul 2021 00:00:00 +0000</pubDate>
         <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
         
-        <guid>/es/categories/herramientas/</guid>
-        <description></description>
-        <content:encoded></content:encoded>
-        <dc:creator>García-Mendívil, Helio A.</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>Artículos</title>
-        <link>/es/categories/art%C3%ADculos/</link>
-        <pubDate>Wed, 06 Jan 2021 10:01:38 -0800</pubDate>
-        <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
-        
-        <guid>/es/categories/art%C3%ADculos/</guid>
-        <description></description>
-        <content:encoded></content:encoded>
-        <dc:creator>García-Mendívil, Helio A.</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>Videos</title>
-        <link>/es/categories/videos/</link>
-        <pubDate>Tue, 05 Jan 2021 13:46:19 -0800</pubDate>
-        <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
-        
-        <guid>/es/categories/videos/</guid>
-        <description></description>
-        <content:encoded></content:encoded>
-        <dc:creator>García-Mendívil, Helio A.</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>Memes</title>
-        <link>/es/categories/memes/</link>
-        <pubDate>Mon, 04 Jan 2021 17:00:25 -0800</pubDate>
-        <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
-        
-        <guid>/es/categories/memes/</guid>
+        <guid>https://helio4gm.netlify.app/es/categories/r/</guid>
         <description></description>
         <content:encoded></content:encoded>
         <dc:creator>García-Mendívil, Helio A.</dc:creator>
@@ -97,11 +43,11 @@
       
       <item>
         <title>Programación</title>
-        <link>/es/categories/programaci%C3%B3n/</link>
+        <link>https://helio4gm.netlify.app/es/categories/programaci%C3%B3n/</link>
         <pubDate>Wed, 30 Dec 2020 18:21:17 -0800</pubDate>
         <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
         
-        <guid>/es/categories/programaci%C3%B3n/</guid>
+        <guid>https://helio4gm.netlify.app/es/categories/programaci%C3%B3n/</guid>
         <description></description>
         <content:encoded></content:encoded>
         <dc:creator>García-Mendívil, Helio A.</dc:creator>
@@ -115,11 +61,11 @@
       
       <item>
         <title>Carpintería</title>
-        <link>/es/categories/carpinter%C3%ADa/</link>
+        <link>https://helio4gm.netlify.app/es/categories/carpinter%C3%ADa/</link>
         <pubDate>Mon, 21 Dec 2020 17:08:35 -0800</pubDate>
         <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
         
-        <guid>/es/categories/carpinter%C3%ADa/</guid>
+        <guid>https://helio4gm.netlify.app/es/categories/carpinter%C3%ADa/</guid>
         <description></description>
         <content:encoded></content:encoded>
         <dc:creator>García-Mendívil, Helio A.</dc:creator>
@@ -133,11 +79,11 @@
       
       <item>
         <title>Música</title>
-        <link>/es/categories/m%C3%BAsica/</link>
+        <link>https://helio4gm.netlify.app/es/categories/m%C3%BAsica/</link>
         <pubDate>Sun, 13 Dec 2020 22:02:14 -0800</pubDate>
         <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
         
-        <guid>/es/categories/m%C3%BAsica/</guid>
+        <guid>https://helio4gm.netlify.app/es/categories/m%C3%BAsica/</guid>
         <description></description>
         <content:encoded></content:encoded>
         <dc:creator>García-Mendívil, Helio A.</dc:creator>

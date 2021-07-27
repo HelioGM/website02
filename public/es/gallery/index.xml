@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Galleries on Helio</title>
-    <link>/es/gallery/</link>
+    <link>https://helio4gm.netlify.app/es/gallery/</link>
     <description>Recent content in Galleries on Helio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
@@ -17,7 +17,7 @@
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>hourly</sy:updateFrequency>
     
-        <atom:link href="/es/gallery/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://helio4gm.netlify.app/es/gallery/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -25,15 +25,15 @@
       
       <item>
         <title>Cartoon</title>
-        <link>/es/gallery/cartoon/</link>
+        <link>https://helio4gm.netlify.app/es/gallery/cartoon/</link>
         <pubDate>Fri, 11 Dec 2020 23:40:00 -0800</pubDate>
         <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
         <atom:modified>Fri, 11 Dec 2020 23:40:00 -0800</atom:modified>
-        <guid>/es/gallery/cartoon/</guid>
+        <guid>https://helio4gm.netlify.app/es/gallery/cartoon/</guid>
         <description></description>
         <content:encoded></content:encoded>
         <dc:creator>García-Mendívil, Helio A.</dc:creator>
-        <media:content url="/images/nuevas/Ej57kOZXgAAXLGN.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://helio4gm.netlify.app/images/nuevas/Ej57kOZXgAAXLGN.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -43,15 +43,15 @@
       
       <item>
         <title>Castelldefels</title>
-        <link>/es/gallery/photo/</link>
+        <link>https://helio4gm.netlify.app/es/gallery/photo/</link>
         <pubDate>Fri, 11 Dec 2020 23:40:00 -0800</pubDate>
         <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
         <atom:modified>Fri, 11 Dec 2020 23:40:00 -0800</atom:modified>
-        <guid>/es/gallery/photo/</guid>
+        <guid>https://helio4gm.netlify.app/es/gallery/photo/</guid>
         <description></description>
         <content:encoded></content:encoded>
         <dc:creator>García-Mendívil, Helio A.</dc:creator>
-        <media:content url="/https://lh3.googleusercontent.com/pw/ACtC-3e8iVFHsw78PrGA3PzYjl5--VagB-e2lUNW2i8yCVcgz7jOD6pHUVkW4RhYkuDOHH8lo7imuGRgbqqFsgVs_7ni7_ARtaBtBXJV_vQ7KHuxcV3_bGWWOL2E2dFryWlfpwjD56_s965JmbqUpTU9rnI=w1669-h868-no?authuser=3" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://helio4gm.netlify.app/https://lh3.googleusercontent.com/pw/ACtC-3e8iVFHsw78PrGA3PzYjl5--VagB-e2lUNW2i8yCVcgz7jOD6pHUVkW4RhYkuDOHH8lo7imuGRgbqqFsgVs_7ni7_ARtaBtBXJV_vQ7KHuxcV3_bGWWOL2E2dFryWlfpwjD56_s965JmbqUpTU9rnI=w1669-h868-no?authuser=3" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         

@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Música on Helio</title>
-    <link>/es/musica/</link>
+    <link>https://helio4gm.netlify.app/es/musica/</link>
     <description>Recent content in Música on Helio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
@@ -16,7 +16,7 @@
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>hourly</sy:updateFrequency>
     
-        <atom:link href="/es/musica/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://helio4gm.netlify.app/es/musica/index.xml" rel="self" type="application/rss+xml" />
     
     
     

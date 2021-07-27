@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Artículos on Helio</title>
-    <link>/es/publication/articulos/</link>
+    <link>https://helio4gm.netlify.app/es/publication/articulos/</link>
     <description>Recent content in Artículos on Helio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
@@ -17,7 +17,7 @@
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>hourly</sy:updateFrequency>
     
-        <atom:link href="/es/publication/articulos/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://helio4gm.netlify.app/es/publication/articulos/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -25,11 +25,11 @@
       
       <item>
         <title>Durability of resistance to Meloidogyne mediated by R-genes in Solanaceae and Cucurbitaceae crops</title>
-        <link>/es/publication/articulos/tesis/</link>
+        <link>https://helio4gm.netlify.app/es/publication/articulos/tesis/</link>
         <pubDate>Sat, 12 Dec 2020 00:00:00 +0000</pubDate>
         <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
         <atom:modified>Sat, 12 Dec 2020 00:00:00 +0000</atom:modified>
-        <guid>/es/publication/articulos/tesis/</guid>
+        <guid>https://helio4gm.netlify.app/es/publication/articulos/tesis/</guid>
         <description>General introductionMeloidogyne spp.BiologyEconomic importancePopulation dynamics and yield lossesPlant resistanceWatermelonImportanceOriginCultivation challengesGraftingEggplantImportanceOriginCultivation challengesGraftingObjectivesReferencesbody {text-align: justify}General introductionMeloidogyne spp.BiologyEconomic importancePopulation dynamics and yieldlossesPlant resistanceWatermelonImportanceOriginCultivation challengesGraftingEggplantImportanceOriginCultivation challengesGraftingObjectivesReferencesUniversitat Politècnica de Catalunya</description>
         <content:encoded>
 
@@ -1033,7 +1033,7 @@ the fitness cost for the nematode (Chapter 4).&lt;/p&gt;&lt;/li&gt;
 &lt;/div&gt;
 </content:encoded>
         <dc:creator>García-Mendívil, Helio A.</dc:creator>
-        <media:content url="/images/nuevas/Logo.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://helio4gm.netlify.app/images/nuevas/Logo.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         

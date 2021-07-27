@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Música on Helio</title>
-    <link>/es/publication/musica/</link>
+    <link>https://helio4gm.netlify.app/es/publication/musica/</link>
     <description>Recent content in Música on Helio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
@@ -17,7 +17,7 @@
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>hourly</sy:updateFrequency>
     
-        <atom:link href="/es/publication/musica/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://helio4gm.netlify.app/es/publication/musica/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -25,11 +25,11 @@
       
       <item>
         <title>Early projects (2013)</title>
-        <link>/es/publication/musica/early_projects/</link>
+        <link>https://helio4gm.netlify.app/es/publication/musica/early_projects/</link>
         <pubDate>Fri, 29 Jan 2021 00:00:00 +0000</pubDate>
         <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
         <atom:modified>Fri, 29 Jan 2021 00:00:00 +0000</atom:modified>
-        <guid>/es/publication/musica/early_projects/</guid>
+        <guid>https://helio4gm.netlify.app/es/publication/musica/early_projects/</guid>
         <description>Helio · Eat Your Brain 
    Helio · Almost Gave You The Wrong Shit 
    Helio · Already Took &amp;#x27;Em 

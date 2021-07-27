@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Categories on Helio&#39;s Website</title>
-    <link>/en/categories/</link>
+    <link>https://helio4gm.netlify.app/en/categories/</link>
     <description>Recent content in Categories on Helio&#39;s Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -17,7 +17,7 @@
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>hourly</sy:updateFrequency>
     
-        <atom:link href="/en/categories/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://helio4gm.netlify.app/en/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -25,11 +25,11 @@
       
       <item>
         <title>hugo</title>
-        <link>/en/categories/hugo/</link>
+        <link>https://helio4gm.netlify.app/en/categories/hugo/</link>
         <pubDate>Mon, 07 Dec 2020 20:36:49 -0800</pubDate>
         <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
         
-        <guid>/en/categories/hugo/</guid>
+        <guid>https://helio4gm.netlify.app/en/categories/hugo/</guid>
         <description></description>
         <content:encoded></content:encoded>
         <dc:creator>García-Mendívil, Helio A.</dc:creator>
@@ -43,11 +43,11 @@
       
       <item>
         <title>syntax</title>
-        <link>/en/categories/syntax/</link>
+        <link>https://helio4gm.netlify.app/en/categories/syntax/</link>
         <pubDate>Fri, 20 Dec 2019 12:00:06 +0900</pubDate>
         <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
         
-        <guid>/en/categories/syntax/</guid>
+        <guid>https://helio4gm.netlify.app/en/categories/syntax/</guid>
         <description></description>
         <content:encoded></content:encoded>
         <dc:creator>García-Mendívil, Helio A.</dc:creator>
@@ -61,11 +61,11 @@
       
       <item>
         <title>themes</title>
-        <link>/en/categories/themes/</link>
+        <link>https://helio4gm.netlify.app/en/categories/themes/</link>
         <pubDate>Fri, 20 Dec 2019 12:00:06 +0900</pubDate>
         <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
         
-        <guid>/en/categories/themes/</guid>
+        <guid>https://helio4gm.netlify.app/en/categories/themes/</guid>
         <description></description>
         <content:encoded></content:encoded>
         <dc:creator>García-Mendívil, Helio A.</dc:creator>
@@ -79,11 +79,11 @@
       
       <item>
         <title>diagram</title>
-        <link>/en/categories/diagram/</link>
+        <link>https://helio4gm.netlify.app/en/categories/diagram/</link>
         <pubDate>Mon, 18 Nov 2019 21:00:06 +0900</pubDate>
         <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
         
-        <guid>/en/categories/diagram/</guid>
+        <guid>https://helio4gm.netlify.app/en/categories/diagram/</guid>
         <description></description>
         <content:encoded></content:encoded>
         <dc:creator>García-Mendívil, Helio A.</dc:creator>
@@ -97,11 +97,11 @@
       
       <item>
         <title>math</title>
-        <link>/en/categories/math/</link>
+        <link>https://helio4gm.netlify.app/en/categories/math/</link>
         <pubDate>Sat, 16 Nov 2019 12:00:06 +0900</pubDate>
         <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
         
-        <guid>/en/categories/math/</guid>
+        <guid>https://helio4gm.netlify.app/en/categories/math/</guid>
         <description></description>
         <content:encoded></content:encoded>
         <dc:creator>García-Mendívil, Helio A.</dc:creator>

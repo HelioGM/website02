@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Series on Helio&#39;s Website</title>
-    <link>/en/series/</link>
+    <link>https://helio4gm.netlify.app/en/series/</link>
     <description>Recent content in Series on Helio&#39;s Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -17,7 +17,7 @@
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>hourly</sy:updateFrequency>
     
-        <atom:link href="/en/series/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://helio4gm.netlify.app/en/series/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -25,11 +25,11 @@
       
       <item>
         <title>Carpintería</title>
-        <link>/en/series/carpinter%C3%ADa/</link>
+        <link>https://helio4gm.netlify.app/en/series/carpinter%C3%ADa/</link>
         <pubDate>Mon, 07 Dec 2020 21:37:44 -0800</pubDate>
         <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
         
-        <guid>/en/series/carpinter%C3%ADa/</guid>
+        <guid>https://helio4gm.netlify.app/en/series/carpinter%C3%ADa/</guid>
         <description></description>
         <content:encoded></content:encoded>
         <dc:creator>García-Mendívil, Helio A.</dc:creator>
@@ -43,11 +43,11 @@
       
       <item>
         <title>Themes Guide</title>
-        <link>/en/series/themes-guide/</link>
+        <link>https://helio4gm.netlify.app/en/series/themes-guide/</link>
         <pubDate>Fri, 20 Dec 2019 12:00:06 +0900</pubDate>
         <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
         
-        <guid>/en/series/themes-guide/</guid>
+        <guid>https://helio4gm.netlify.app/en/series/themes-guide/</guid>
         <description></description>
         <content:encoded></content:encoded>
         <dc:creator>García-Mendívil, Helio A.</dc:creator>

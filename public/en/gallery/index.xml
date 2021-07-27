@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Galleries on Helio&#39;s Website</title>
-    <link>/en/gallery/</link>
+    <link>https://helio4gm.netlify.app/en/gallery/</link>
     <description>Recent content in Galleries on Helio&#39;s Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -17,7 +17,7 @@
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>hourly</sy:updateFrequency>
     
-        <atom:link href="/en/gallery/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://helio4gm.netlify.app/en/gallery/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -25,16 +25,16 @@
       
       <item>
         <title>Cartoon</title>
-        <link>/en/gallery/cartoon/</link>
+        <link>https://helio4gm.netlify.app/en/gallery/cartoon/</link>
         <pubDate>Thu, 31 Oct 2019 10:20:16 +0900</pubDate>
         <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
         <atom:modified>Thu, 31 Oct 2019 10:20:16 +0900</atom:modified>
-        <guid>/en/gallery/cartoon/</guid>
+        <guid>https://helio4gm.netlify.app/en/gallery/cartoon/</guid>
         <description>Sample images from Pixabay</description>
         <content:encoded>&lt;p&gt;Sample images from &lt;a href=&#34;https://pixabay.com&#34;&gt;Pixabay&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
         <dc:creator>García-Mendívil, Helio A.</dc:creator>
-        <media:content url="/images/feature2/bam.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://helio4gm.netlify.app/images/feature2/bam.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -44,16 +44,16 @@
       
       <item>
         <title>Photo</title>
-        <link>/en/gallery/photo/</link>
+        <link>https://helio4gm.netlify.app/en/gallery/photo/</link>
         <pubDate>Thu, 31 Oct 2019 10:20:16 +0900</pubDate>
         <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
         <atom:modified>Thu, 31 Oct 2019 10:20:16 +0900</atom:modified>
-        <guid>/en/gallery/photo/</guid>
+        <guid>https://helio4gm.netlify.app/en/gallery/photo/</guid>
         <description>Sample images from Pixabay</description>
         <content:encoded>&lt;p&gt;Sample images from &lt;a href=&#34;https://pixabay.com&#34;&gt;Pixabay&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
         <dc:creator>García-Mendívil, Helio A.</dc:creator>
-        <media:content url="/images/feature2/gallery.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://helio4gm.netlify.app/images/feature2/gallery.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         

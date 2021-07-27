@@ -1,474 +1,340 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
-    <loc>/en/showcase/hugo/hugo-theme-zzo/</loc>
+    <loc>https://helio4gm.netlify.app/en/showcase/hugo/hugo-theme-zzo/</loc>
     <lastmod>2020-01-19T21:13:42+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/en/showcase/hugo/hugo-theme-zdoc/</loc>
+  </url><url>
+    <loc>https://helio4gm.netlify.app/en/showcase/hugo/hugo-theme-zdoc/</loc>
     <lastmod>2020-01-19T21:13:42+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/en/</loc>
+  </url><url>
+    <loc>https://helio4gm.netlify.app/en/</loc>
     <lastmod>2020-12-30T18:17:17-08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/"
+                href="https://helio4gm.netlify.app/es/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/"
+                href="https://helio4gm.netlify.app/en/"
                 />
-  </url>
-  
-  <url>
-    <loc>/en/post/2020-12-31-hora/</loc>
+  </url><url>
+    <loc>https://helio4gm.netlify.app/en/post/2020-12-31-hora/</loc>
     <lastmod>2020-12-30T18:17:17-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/en/post/</loc>
+  </url><url>
+    <loc>https://helio4gm.netlify.app/en/post/</loc>
     <lastmod>2020-12-30T18:17:17-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/en/posts/2020-12-20-cocinas-2017-es/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://helio4gm.netlify.app/es/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://helio4gm.netlify.app/en/post/"
+                />
+  </url><url>
+    <loc>https://helio4gm.netlify.app/en/posts/2020-12-20-cocinas-2017-es/</loc>
     <lastmod>2020-12-20T12:06:14-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/en/posts/</loc>
+  </url><url>
+    <loc>https://helio4gm.netlify.app/en/posts/</loc>
     <lastmod>2020-12-20T12:06:14-08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/posts/"
+                href="https://helio4gm.netlify.app/es/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/posts/"
+                href="https://helio4gm.netlify.app/en/posts/"
                 />
-  </url>
-  
-  <url>
-    <loc>/en/publication/misc/misc_any_folder_name_1/</loc>
+  </url><url>
+    <loc>https://helio4gm.netlify.app/en/publication/misc/misc_any_folder_name_1/</loc>
     <lastmod>2020-12-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/en/publication/</loc>
+  </url><url>
+    <loc>https://helio4gm.netlify.app/en/publication/</loc>
     <lastmod>2020-12-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/publication/"
+                href="https://helio4gm.netlify.app/es/publication/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/publication/"
+                href="https://helio4gm.netlify.app/en/publication/"
                 />
-  </url>
-  
-  <url>
-    <loc>/en/series/carpinter%C3%ADa/</loc>
+  </url><url>
+    <loc>https://helio4gm.netlify.app/en/series/carpinter%C3%ADa/</loc>
     <lastmod>2020-12-07T21:37:44-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/en/posts/2020-12-07-shiny/</loc>
+  </url><url>
+    <loc>https://helio4gm.netlify.app/en/posts/2020-12-07-shiny/</loc>
     <lastmod>2020-12-07T21:37:44-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/en/tags/carpinter%C3%ADa-cocinas/</loc>
+  </url><url>
+    <loc>https://helio4gm.netlify.app/en/tags/carpinter%C3%ADa-cocinas/</loc>
     <lastmod>2020-12-07T21:37:44-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/en/series/</loc>
+  </url><url>
+    <loc>https://helio4gm.netlify.app/en/series/</loc>
     <lastmod>2020-12-07T21:37:44-08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/series/"
+                href="https://helio4gm.netlify.app/es/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/series/"
+                href="https://helio4gm.netlify.app/en/series/"
                 />
-  </url>
-  
-  <url>
-    <loc>/en/tags/</loc>
+  </url><url>
+    <loc>https://helio4gm.netlify.app/en/tags/</loc>
     <lastmod>2020-12-07T21:37:44-08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/tags/"
+                href="https://helio4gm.netlify.app/es/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/"
+                href="https://helio4gm.netlify.app/en/tags/"
                 />
-  </url>
-  
-  <url>
-    <loc>/en/posts/2020-12-08-meme02/</loc>
+  </url><url>
+    <loc>https://helio4gm.netlify.app/en/posts/2020-12-08-meme02/</loc>
     <lastmod>2020-12-07T20:39:49-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/en/categories/</loc>
+  </url><url>
+    <loc>https://helio4gm.netlify.app/en/categories/</loc>
     <lastmod>2020-12-07T20:36:49-08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/categories/"
+                href="https://helio4gm.netlify.app/es/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/categories/"
+                href="https://helio4gm.netlify.app/en/categories/"
                 />
-  </url>
-  
-  <url>
-    <loc>/en/tags/hugo/</loc>
+  </url><url>
+    <loc>https://helio4gm.netlify.app/en/tags/hugo/</loc>
     <lastmod>2020-12-07T20:36:49-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/en/categories/hugo/</loc>
+  </url><url>
+    <loc>https://helio4gm.netlify.app/en/categories/hugo/</loc>
     <lastmod>2020-12-07T20:36:49-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/en/posts/test-2020-12-03-nuevopost/</loc>
+  </url><url>
+    <loc>https://helio4gm.netlify.app/en/posts/test-2020-12-03-nuevopost/</loc>
     <lastmod>2020-12-07T20:36:49-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/en/posts/2020-12-03-nuevo/</loc>
+  </url><url>
+    <loc>https://helio4gm.netlify.app/en/posts/2020-12-03-nuevo/</loc>
     <lastmod>2020-12-03T00:18:42-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/en/posts/test-r-syntax-highligt-cap-02/</loc>
+  </url><url>
+    <loc>https://helio4gm.netlify.app/en/posts/test-r-syntax-highligt-cap-02/</loc>
     <lastmod>2020-12-03T10:33:41+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/en/posts/test-r-syntax-highlight/</loc>
+  </url><url>
+    <loc>https://helio4gm.netlify.app/en/posts/test-r-syntax-highlight/</loc>
     <lastmod>2020-12-02T10:33:41+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/en/publication/article/</loc>
+  </url><url>
+    <loc>https://helio4gm.netlify.app/en/publication/article/</loc>
     <lastmod>2020-03-05T14:08:48+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/en/publication/book/</loc>
+  </url><url>
+    <loc>https://helio4gm.netlify.app/en/publication/book/</loc>
     <lastmod>2020-03-05T14:08:48+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/en/publication/misc/</loc>
+  </url><url>
+    <loc>https://helio4gm.netlify.app/en/publication/misc/</loc>
     <lastmod>2020-03-05T14:08:48+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/en/tags/shortcode/</loc>
+  </url><url>
+    <loc>https://helio4gm.netlify.app/en/tags/shortcode/</loc>
     <lastmod>2020-01-25T06:40:51+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/en/posts/shortcodes/</loc>
+  </url><url>
+    <loc>https://helio4gm.netlify.app/en/posts/shortcodes/</loc>
     <lastmod>2020-01-25T06:40:51+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/en/showcase/hugo/</loc>
+  </url><url>
+    <loc>https://helio4gm.netlify.app/en/showcase/hugo/</loc>
     <lastmod>2020-01-19T21:04:11+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/en/showcase/</loc>
+  </url><url>
+    <loc>https://helio4gm.netlify.app/en/showcase/</loc>
     <lastmod>2020-01-19T15:43:38+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/en/tags/css/</loc>
+  </url><url>
+    <loc>https://helio4gm.netlify.app/en/tags/css/</loc>
     <lastmod>2019-12-20T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/en/tags/html/</loc>
+  </url><url>
+    <loc>https://helio4gm.netlify.app/en/tags/html/</loc>
     <lastmod>2019-12-20T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/en/tags/markdown/</loc>
+  </url><url>
+    <loc>https://helio4gm.netlify.app/en/tags/markdown/</loc>
     <lastmod>2019-12-20T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/en/posts/markdown-syntax/</loc>
+  </url><url>
+    <loc>https://helio4gm.netlify.app/en/posts/markdown-syntax/</loc>
     <lastmod>2019-12-20T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/en/categories/syntax/</loc>
+  </url><url>
+    <loc>https://helio4gm.netlify.app/en/categories/syntax/</loc>
     <lastmod>2019-12-20T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/en/tags/themes/</loc>
+  </url><url>
+    <loc>https://helio4gm.netlify.app/en/tags/themes/</loc>
     <lastmod>2019-12-20T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/en/categories/themes/</loc>
+  </url><url>
+    <loc>https://helio4gm.netlify.app/en/categories/themes/</loc>
     <lastmod>2019-12-20T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/en/series/themes-guide/</loc>
+  </url><url>
+    <loc>https://helio4gm.netlify.app/en/series/themes-guide/</loc>
     <lastmod>2019-12-20T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/en/tags/privacy/</loc>
+  </url><url>
+    <loc>https://helio4gm.netlify.app/en/tags/privacy/</loc>
     <lastmod>2019-12-19T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/en/posts/rich-content/</loc>
+  </url><url>
+    <loc>https://helio4gm.netlify.app/en/posts/rich-content/</loc>
     <lastmod>2019-12-19T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/en/tags/shortcodes/</loc>
+  </url><url>
+    <loc>https://helio4gm.netlify.app/en/tags/shortcodes/</loc>
     <lastmod>2019-12-19T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/en/posts/syntax-highlight/</loc>
+  </url><url>
+    <loc>https://helio4gm.netlify.app/en/posts/syntax-highlight/</loc>
     <lastmod>2019-12-18T10:33:41+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/en/posts/math-typesetting/</loc>
+  </url><url>
+    <loc>https://helio4gm.netlify.app/en/posts/math-typesetting/</loc>
     <lastmod>2019-12-17T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/en/tags/amoji/</loc>
+  </url><url>
+    <loc>https://helio4gm.netlify.app/en/tags/amoji/</loc>
     <lastmod>2019-12-16T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/en/tags/bamoji/</loc>
+  </url><url>
+    <loc>https://helio4gm.netlify.app/en/tags/bamoji/</loc>
     <lastmod>2019-12-16T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/en/tags/emoji/</loc>
+  </url><url>
+    <loc>https://helio4gm.netlify.app/en/tags/emoji/</loc>
     <lastmod>2019-12-16T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/en/posts/emoji-support/</loc>
+  </url><url>
+    <loc>https://helio4gm.netlify.app/en/posts/emoji-support/</loc>
     <lastmod>2019-12-16T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/en/tags/gamoji/</loc>
+  </url><url>
+    <loc>https://helio4gm.netlify.app/en/tags/gamoji/</loc>
     <lastmod>2019-12-16T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/en/tags/namoji/</loc>
+  </url><url>
+    <loc>https://helio4gm.netlify.app/en/tags/namoji/</loc>
     <lastmod>2019-12-16T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/en/categories/diagram/</loc>
+  </url><url>
+    <loc>https://helio4gm.netlify.app/en/categories/diagram/</loc>
     <lastmod>2019-11-18T21:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/en/posts/test-viz/</loc>
+  </url><url>
+    <loc>https://helio4gm.netlify.app/en/posts/test-viz/</loc>
     <lastmod>2019-11-18T21:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/en/posts/test-wavedrom/</loc>
+  </url><url>
+    <loc>https://helio4gm.netlify.app/en/posts/test-wavedrom/</loc>
     <lastmod>2019-11-18T18:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/en/posts/test-chartjs/</loc>
+  </url><url>
+    <loc>https://helio4gm.netlify.app/en/posts/test-chartjs/</loc>
     <lastmod>2019-11-18T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/en/posts/test-js-sequence-diagrams/</loc>
+  </url><url>
+    <loc>https://helio4gm.netlify.app/en/posts/test-js-sequence-diagrams/</loc>
     <lastmod>2019-11-18T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/en/tags/diagram/</loc>
+  </url><url>
+    <loc>https://helio4gm.netlify.app/en/tags/diagram/</loc>
     <lastmod>2019-11-17T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/en/posts/test-mermaid/</loc>
+  </url><url>
+    <loc>https://helio4gm.netlify.app/en/posts/test-mermaid/</loc>
     <lastmod>2019-11-17T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/en/categories/math/</loc>
+  </url><url>
+    <loc>https://helio4gm.netlify.app/en/categories/math/</loc>
     <lastmod>2019-11-16T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/en/posts/test-mathjax/</loc>
+  </url><url>
+    <loc>https://helio4gm.netlify.app/en/posts/test-mathjax/</loc>
     <lastmod>2019-11-16T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/en/posts/test-katex/</loc>
+  </url><url>
+    <loc>https://helio4gm.netlify.app/en/posts/test-katex/</loc>
     <lastmod>2019-11-15T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/en/posts/test-flowchart/</loc>
+  </url><url>
+    <loc>https://helio4gm.netlify.app/en/posts/test-flowchart/</loc>
     <lastmod>2019-11-14T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/en/gallery/cartoon/</loc>
+  </url><url>
+    <loc>https://helio4gm.netlify.app/en/gallery/cartoon/</loc>
     <lastmod>2019-10-31T10:20:16+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/gallery/cartoon/"
+                href="https://helio4gm.netlify.app/es/gallery/cartoon/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/gallery/cartoon/"
+                href="https://helio4gm.netlify.app/en/gallery/cartoon/"
                 />
-  </url>
-  
-  <url>
-    <loc>/en/gallery/</loc>
+  </url><url>
+    <loc>https://helio4gm.netlify.app/en/gallery/</loc>
     <lastmod>2019-10-31T10:20:16+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/gallery/"
+                href="https://helio4gm.netlify.app/es/gallery/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/gallery/"
+                href="https://helio4gm.netlify.app/en/gallery/"
                 />
-  </url>
-  
-  <url>
-    <loc>/en/gallery/photo/</loc>
+  </url><url>
+    <loc>https://helio4gm.netlify.app/en/gallery/photo/</loc>
     <lastmod>2019-10-31T10:20:16+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/gallery/photo/"
+                href="https://helio4gm.netlify.app/es/gallery/photo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/gallery/photo/"
+                href="https://helio4gm.netlify.app/en/gallery/photo/"
                 />
-  </url>
-  
-  <url>
-    <loc>/en/presentation/dir/fourth/</loc>
+  </url><url>
+    <loc>https://helio4gm.netlify.app/en/presentation/dir/fourth/</loc>
     <lastmod>2019-10-30T20:48:10+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/en/presentation/</loc>
+  </url><url>
+    <loc>https://helio4gm.netlify.app/en/presentation/</loc>
     <lastmod>2019-10-30T20:48:10+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/en/presentation/third/</loc>
+  </url><url>
+    <loc>https://helio4gm.netlify.app/en/presentation/third/</loc>
     <lastmod>2019-10-30T20:46:30+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/en/presentation/second/</loc>
+  </url><url>
+    <loc>https://helio4gm.netlify.app/en/presentation/second/</loc>
     <lastmod>2019-10-30T20:45:24+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/en/presentation/first/</loc>
+  </url><url>
+    <loc>https://helio4gm.netlify.app/en/presentation/first/</loc>
     <lastmod>2019-10-30T19:45:20+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/en/archive/</loc>
+  </url><url>
+    <loc>https://helio4gm.netlify.app/en/archive/</loc>
     <lastmod>2019-10-19T11:44:14+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/archive/"
+                href="https://helio4gm.netlify.app/es/archive/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/archive/"
+                href="https://helio4gm.netlify.app/en/archive/"
                 />
-  </url>
-  
-  <url>
-    <loc>/en/about/</loc>
+  </url><url>
+    <loc>https://helio4gm.netlify.app/en/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/about/"
+                href="https://helio4gm.netlify.app/es/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/about/"
+                href="https://helio4gm.netlify.app/en/about/"
                 />
-  </url>
-  
-  <url>
-    <loc>/en/publication/article/article_any_folder_name_1/</loc>
+  </url><url>
+    <loc>https://helio4gm.netlify.app/en/publication/article/article_any_folder_name_1/</loc>
     <lastmod>2018-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/en/publication/book/book_any_folder_name_1/</loc>
+  </url><url>
+    <loc>https://helio4gm.netlify.app/en/publication/book/book_any_folder_name_1/</loc>
     <lastmod>2017-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://helio4gm.netlify.app/en/tags/index/</loc>
   </url>
-  
-  <url>
-    <loc>/en/tags/index/</loc>
-  </url>
-  
 </urlset>

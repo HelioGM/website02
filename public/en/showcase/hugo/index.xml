@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Hugo on Helio&#39;s Website</title>
-    <link>/en/showcase/hugo/</link>
+    <link>https://helio4gm.netlify.app/en/showcase/hugo/</link>
     <description>Recent content in Hugo on Helio&#39;s Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -17,7 +17,7 @@
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>hourly</sy:updateFrequency>
     
-        <atom:link href="/en/showcase/hugo/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://helio4gm.netlify.app/en/showcase/hugo/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -25,11 +25,11 @@
       
       <item>
         <title>Hugo Zzo Theme</title>
-        <link>/en/showcase/hugo/hugo-theme-zzo/</link>
+        <link>https://helio4gm.netlify.app/en/showcase/hugo/hugo-theme-zzo/</link>
         <pubDate>Sun, 19 Jan 2020 21:13:42 +0900</pubDate>
         <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
         <atom:modified>Sun, 19 Jan 2020 21:13:42 +0900</atom:modified>
-        <guid>/en/showcase/hugo/hugo-theme-zzo/</guid>
+        <guid>https://helio4gm.netlify.app/en/showcase/hugo/hugo-theme-zzo/</guid>
         <description></description>
         <content:encoded></content:encoded>
         <dc:creator>García-Mendívil, Helio A.</dc:creator>
@@ -43,11 +43,11 @@
       
       <item>
         <title>Hugo zDoc Theme</title>
-        <link>/en/showcase/hugo/hugo-theme-zdoc/</link>
+        <link>https://helio4gm.netlify.app/en/showcase/hugo/hugo-theme-zdoc/</link>
         <pubDate>Sun, 19 Jan 2020 21:13:42 +0900</pubDate>
         <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
         <atom:modified>Sun, 19 Jan 2020 21:13:42 +0900</atom:modified>
-        <guid>/en/showcase/hugo/hugo-theme-zdoc/</guid>
+        <guid>https://helio4gm.netlify.app/en/showcase/hugo/hugo-theme-zdoc/</guid>
         <description></description>
         <content:encoded></content:encoded>
         <dc:creator>García-Mendívil, Helio A.</dc:creator>

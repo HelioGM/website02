@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Libros on Helio</title>
-    <link>/es/publication/libros/</link>
+    <link>https://helio4gm.netlify.app/es/publication/libros/</link>
     <description>Recent content in Libros on Helio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
@@ -17,7 +17,7 @@
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>hourly</sy:updateFrequency>
     
-        <atom:link href="/es/publication/libros/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://helio4gm.netlify.app/es/publication/libros/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -25,11 +25,11 @@
       
       <item>
         <title>Learning Statistics with R</title>
-        <link>/es/publication/libros/learnin_statistics_with_r/</link>
+        <link>https://helio4gm.netlify.app/es/publication/libros/learnin_statistics_with_r/</link>
         <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
         <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
         <atom:modified>Sun, 13 Dec 2020 00:00:00 +0000</atom:modified>
-        <guid>/es/publication/libros/learnin_statistics_with_r/</guid>
+        <guid>https://helio4gm.netlify.app/es/publication/libros/learnin_statistics_with_r/</guid>
         <description>body {text-align: justify}</description>
         <content:encoded>&lt;style&gt;
 body {
@@ -48,11 +48,11 @@ text-align: justify}
       
       <item>
         <title>Nueva visita a un mundo feliz</title>
-        <link>/es/publication/libros/book_any_folder_name_1/</link>
+        <link>https://helio4gm.netlify.app/es/publication/libros/book_any_folder_name_1/</link>
         <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
         <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
         <atom:modified>Sun, 13 Dec 2020 00:00:00 +0000</atom:modified>
-        <guid>/es/publication/libros/book_any_folder_name_1/</guid>
+        <guid>https://helio4gm.netlify.app/es/publication/libros/book_any_folder_name_1/</guid>
         <description>body {text-align: justify}I Exceso de población Son muchos los caminos que llevan al Mundo Feliz, pero cabe que el más derecho y ancho de todos ellos sea el que estamos siguiendo hoy, el camino que lleva por números gigantescos y acelerados aumentos.
 A medida que poblaciones grandes y crecientes presionan más duramente en los recursos disponibles, la posición económica de la sociedad sometida a esta prueba se hace más precaria.</description>
         <content:encoded>&lt;style&gt;

@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Puertas on Helio</title>
-    <link>/es/tags/puertas/</link>
+    <link>https://helio4gm.netlify.app/es/tags/puertas/</link>
     <description>Recent content in Puertas on Helio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
@@ -17,7 +17,7 @@
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>hourly</sy:updateFrequency>
     
-        <atom:link href="/es/tags/puertas/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://helio4gm.netlify.app/es/tags/puertas/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -25,11 +25,11 @@
       
       <item>
         <title>Puertas</title>
-        <link>/es/posts/2020-12-13-carpinteria-puertas/</link>
+        <link>https://helio4gm.netlify.app/es/posts/2020-12-13-carpinteria-puertas/</link>
         <pubDate>Sun, 13 Dec 2020 20:11:00 -0800</pubDate>
         <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
         <atom:modified>Sun, 13 Dec 2020 20:11:00 -0800</atom:modified>
-        <guid>/es/posts/2020-12-13-carpinteria-puertas/</guid>
+        <guid>https://helio4gm.netlify.app/es/posts/2020-12-13-carpinteria-puertas/</guid>
         <description>Algunas fotos de puertas entregadas.
 Sample Image: Image with title, caption, alt, ...   Sample Image: Image with title, caption, alt, ...   Sample Image: Image with title, caption, alt, ...   Sample Image: Image with title, caption, alt, ...   Sample Image: Image with title, caption, alt, ...   Sample Image: Image with title, caption, alt, ...   Sample Image: Image with title, caption, alt, .</description>
         <content:encoded>&lt;p&gt;Algunas fotos de puertas entregadas.&lt;/p&gt;
@@ -175,7 +175,7 @@ Sample Image: Image with title, caption, alt, ...   Sample Image: Image with tit
 &lt;/figure&gt;
 </content:encoded>
         <dc:creator>Helio</dc:creator>
-        <media:content url="/https://lh3.googleusercontent.com/yXznqL0gnHRHGhHXXQNt4pBvI5aEvey3ftlr1CA5csGsJK8kgaPedvC7EvUkBaJubWgY3jhBaqpIiRBx2bjbaSkQNXIw190QTjNKFJAKkh1tuPe5UoXjFWMnxwhWWvCkUEGhE16dCg=w1920-h1080" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://helio4gm.netlify.app/https://lh3.googleusercontent.com/yXznqL0gnHRHGhHXXQNt4pBvI5aEvey3ftlr1CA5csGsJK8kgaPedvC7EvUkBaJubWgY3jhBaqpIiRBx2bjbaSkQNXIw190QTjNKFJAKkh1tuPe5UoXjFWMnxwhWWvCkUEGhE16dCg=w1920-h1080" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         

@@ -7,474 +7,29 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Blog on Helio</title>
-    <link>/es/posts/</link>
+    <link>https://helio4gm.netlify.app/es/posts/</link>
     <description>Recent content in Blog on Helio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <managingEditor>helio4gm@gmail.com (García-Mendívil, Helio A.)</managingEditor>
     <webMaster>helio4gm@gmail.com (García-Mendívil, Helio A.)</webMaster>
-    <lastBuildDate>Thu, 07 Jan 2021 22:44:33 -0800</lastBuildDate>
+    <lastBuildDate>Wed, 30 Dec 2020 18:21:17 -0800</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>hourly</sy:updateFrequency>
     
-        <atom:link href="/es/posts/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://helio4gm.netlify.app/es/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     
 
-      
-      <item>
-        <title>Twitch Video</title>
-        <link>/es/posts/2021-01-08-twitch-video/</link>
-        <pubDate>Thu, 07 Jan 2021 22:44:33 -0800</pubDate>
-        <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
-        <atom:modified>Thu, 07 Jan 2021 22:44:33 -0800</atom:modified>
-        <guid>/es/posts/2021-01-08-twitch-video/</guid>
-        <description>Transmisión de twitch var options = {width: 854,height: 480,video: &#34;857864723&#34;,// only needed if your site is also embedded on embed.example.com and othersite.example.comparent: [&#34;embed.example.com&#34;, &#34;othersite.example.com&#34;]};var player = new Twitch.Player(&#34;SamplePlayerDivID&#34;, options);player.setVolume(0.5);</description>
-        <content:encoded>&lt;h3 id=&#34;transmisión-de-twitch&#34;&gt;Transmisión de twitch&lt;/h3&gt;
-&lt;script src= &#34;https://player.twitch.tv/js/embed/v1.js&#34;&gt;&lt;/script&gt;
-&lt;div id=&#34;SamplePlayerDivID&#34;&gt;&lt;/div&gt;
-&lt;script type=&#34;text/javascript&#34;&gt;
-  var options = {
-    width: 854,
-    height: 480,
-    video: &#34;857864723&#34;,
-    // only needed if your site is also embedded on embed.example.com and othersite.example.com
-    parent: [&#34;embed.example.com&#34;, &#34;othersite.example.com&#34;]
-  };
-  var player = new Twitch.Player(&#34;SamplePlayerDivID&#34;, options);
-  player.setVolume(0.5);
-&lt;/script&gt;</content:encoded>
-        <dc:creator>Helio</dc:creator>
-        <media:content url="//images/nuevas/Logo.png" medium="image"><media:title type="html">featured image</media:title></media:content>
-        
-        
-        
-          
-            
-              <category>Test</category>
-            
-          
-        
-        
-          
-            
-              <category>Herramientas</category>
-            
-          
-        
-        
-          
-            
-          
-        
-      </item>
-      
-      <item>
-        <title>Twitch transmisión</title>
-        <link>/es/posts/2021-01-08-twitch-transmision/</link>
-        <pubDate>Thu, 07 Jan 2021 22:41:51 -0800</pubDate>
-        <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
-        <atom:modified>Thu, 07 Jan 2021 22:41:51 -0800</atom:modified>
-        <guid>/es/posts/2021-01-08-twitch-transmision/</guid>
-        <description>new Twitch.Embed(&#34;twitch-embed&#34;, {width: 720, height: 480, channel: &#34;josejuegosmola&#34;});</description>
-        <content:encoded>&lt;!-- Add a placeholder for the Twitch embed --&gt;
-&lt;div id=&#34;twitch-embed&#34;&gt;&lt;/div&gt;
-&lt;!-- Load the Twitch embed script --&gt;
-&lt;script src=&#34;https://embed.twitch.tv/embed/v1.js&#34;&gt;&lt;/script&gt;
-&lt;!-- Create a Twitch.Embed object that will render within the &#34;twitch-embed&#34; root element. --&gt;
-&lt;script type=&#34;text/javascript&#34;&gt;
-  new Twitch.Embed(&#34;twitch-embed&#34;, {width: 720,  height: 480,  channel: &#34;josejuegosmola&#34;});
-&lt;/script&gt;
-</content:encoded>
-        <dc:creator>Helio</dc:creator>
-        <media:content url="//images/nuevas/Logo.png" medium="image"><media:title type="html">featured image</media:title></media:content>
-        
-        
-        
-          
-            
-              <category>Test</category>
-            
-          
-        
-        
-          
-            
-              <category>Herramientas</category>
-            
-          
-        
-        
-          
-            
-          
-        
-      </item>
-      
-      <item>
-        <title>Trello, Discord</title>
-        <link>/es/posts/2021-01-08-trello/</link>
-        <pubDate>Thu, 07 Jan 2021 21:18:51 -0800</pubDate>
-        <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
-        <atom:modified>Thu, 07 Jan 2021 21:18:51 -0800</atom:modified>
-        <guid>/es/posts/2021-01-08-trello/</guid>
-        <description>Tablero de Trello Tarjeta de Trello Nueva forma de contactoServer de Discord </description>
-        <content:encoded>&lt;h3 id=&#34;tablero-de-trello&#34;&gt;Tablero de Trello&lt;/h3&gt;
-&lt;iframe src=&#34;https://trello.com/b/4m8STFFJ.html&#34; frameBorder=&#34;0&#34; width=&#34;100%&#34; height=&#34;450&#34;&gt;&lt;/iframe&gt;
-&lt;h3 id=&#34;tarjeta-de-trello&#34;&gt;Tarjeta de Trello&lt;/h3&gt;
-&lt;blockquote class=&#34;trello-card&#34;&gt;&lt;a href=&#34;https://trello.com/c/cSm4Yrd7/15-nueva-forma-de-contacto&#34;&gt;Nueva forma de contacto&lt;/a&gt;&lt;/blockquote&gt;&lt;script src=&#34;https://p.trellocdn.com/embed.min.js&#34;&gt;&lt;/script&gt;
-&lt;h3 id=&#34;server-de-discord&#34;&gt;Server de Discord&lt;/h3&gt;
-&lt;iframe src=&#34;https://discord.com/widget?id=725572516378050572&amp;theme=dark&#34; width=&#34;350&#34; height=&#34;500&#34; allowtransparency=&#34;true&#34; frameborder=&#34;0&#34; sandbox=&#34;allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts&#34;&gt;&lt;/iframe&gt;
-</content:encoded>
-        <dc:creator>Helio</dc:creator>
-        <media:content url="//images/nuevas/Logo.png" medium="image"><media:title type="html">featured image</media:title></media:content>
-        
-        
-        
-          
-            
-              <category>Test</category>
-            
-          
-        
-        
-          
-            
-              <category>Herramientas</category>
-            
-          
-        
-        
-          
-            
-          
-        
-      </item>
-      
-      <item>
-        <title>Gandhi sobre los kaffir</title>
-        <link>/es/posts/2021-01-06-gandhi-sobre-los-kaffir/</link>
-        <pubDate>Wed, 06 Jan 2021 10:01:38 -0800</pubDate>
-        <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
-        <atom:modified>Wed, 06 Jan 2021 10:01:38 -0800</atom:modified>
-        <guid>/es/posts/2021-01-06-gandhi-sobre-los-kaffir/</guid>
-        <description>body {text-align: justify}13 Citas racistas que Gandhi dijo acerca de las personas negras1 Por Nick Chiles2 | Marzo 31, 2005
-Todas las citas son citas directas de las Obras completas de Mahatma Gandhi. Están extraídos de sus escritos y declaraciones durante los años que pasó trabajando como abogado en Sudáfrica antes de regresar a la India en 1915 para luchar por la independencia. Nota: &amp;ldquo;kaffir&amp;rdquo; es un término ofensivo en Sudáfrica considerado a la par con &amp;ldquo;nigger&amp;rdquo; en los Estados Unidos; aunque en la época de Gandhi, algunos historiadores afirman que se consideraba más neutral.</description>
-        <content:encoded>&lt;style&gt;
-body {
-text-align: justify}
-&lt;/style&gt;
-&lt;h3 id=&#34;13-citas-racistas-que-gandhi-dijo-acerca-de-las-personas-negras1&#34;&gt;13 Citas racistas que Gandhi dijo acerca de las personas negras&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/h3&gt;
-&lt;p&gt;Por Nick Chiles&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt; | Marzo 31, 2005&lt;/p&gt;
-&lt;hr /&gt;
-&lt;p&gt;Todas las citas son citas directas de las Obras completas de Mahatma Gandhi. Están extraídos de sus escritos y declaraciones durante los años que pasó trabajando como abogado en Sudáfrica antes de regresar a la India en 1915 para luchar por la independencia. Nota: &amp;ldquo;&lt;em&gt;kaffir&lt;/em&gt;&amp;rdquo; es un término ofensivo en Sudáfrica considerado a la par con &amp;ldquo;&lt;del&gt;nigger&lt;/del&gt;&amp;rdquo; en los Estados Unidos; aunque en la época de Gandhi, algunos historiadores afirman que se consideraba más neutral.&lt;/p&gt;
-&lt;h4 id=&#34;indios-arrastrados-hasta-los-kaffirs&#34;&gt;Indios arrastrados hasta los &lt;em&gt;kaffirs&lt;/em&gt;&lt;/h4&gt;
-&lt;p&gt;&lt;strong&gt;Antes del 19 de diciembre de 1894&lt;/strong&gt;: “En la Colonia parece prevalecer una creencia generalizada de que los indios son poco mejores, si es que lo son, que los salvajes o los nativos de África. Incluso a los niños se les enseña a creer de esa manera, con el resultado de que el indio está siendo arrastrado hasta la posición de un &lt;em&gt;kaffir&lt;/em&gt; crudo &amp;ldquo;.&lt;/p&gt;
-&lt;h4 id=&#34;los-kaffirs-pasan-la-vida-en-indolencia-y-desnudez&#34;&gt;Los &lt;em&gt;kaffirs&lt;/em&gt; pasan la vida en &amp;ldquo;indolencia y desnudez&amp;rdquo;&lt;/h4&gt;
-&lt;p&gt;&lt;strong&gt;26 de septiembre de 1896&lt;/strong&gt;: “La nuestra es una lucha continua contra una degradación que pretenden infligirnos los europeos, que desean degradarnos al nivel del &lt;em&gt;kaffir&lt;/em&gt; crudo cuya ocupación es la caza, y cuya única ambición es recolectar un cierta cantidad de ganado para comprar una esposa y, luego, pasar su vida en la indolencia y la desnudez &amp;ldquo;.&lt;/p&gt;
-&lt;h4 id=&#34;kaffirs-no-trabajarían&#34;&gt;&lt;em&gt;Kaffirs&lt;/em&gt; no trabajarían&lt;/h4&gt;
-&lt;p&gt;&lt;strong&gt;26 de octubre de 1896&lt;/strong&gt;: “Hay una ordenanza en Durban que requiere el registro de los sirvientes de color. Esta regla puede ser, y quizás sea, necesaria para los &lt;em&gt;kaffirs&lt;/em&gt; que no trabajarían, pero absolutamente inútil con respecto a los indios. Pero la política es clasificar al indio con el &lt;em&gt;kaffir&lt;/em&gt; siempre que sea posible &amp;ldquo;.&lt;/p&gt;
-&lt;h4 id=&#34;indios-infinitamente-superiores-a-los-kaffirs&#34;&gt;Indios &amp;ldquo;infinitamente superiores&amp;rdquo; a los &lt;em&gt;kaffirs&lt;/em&gt;&lt;/h4&gt;
-&lt;p&gt;&lt;strong&gt;Antes del 27 de mayo de 1899&lt;/strong&gt;: “Su peticionario ha visto el lugar destinado a ser utilizado por los indios. Los colocaría, que sin duda son infinitamente superiores a los &lt;em&gt;kaffirs&lt;/em&gt;, muy cerca de estos últimos &amp;ldquo;.&lt;/p&gt;
-&lt;h4 id=&#34;los-indios-no-deberían-pagar-impuestos-como-los-kaffirs&#34;&gt;Los indios no deberían pagar impuestos como los &lt;em&gt;kaffirs&lt;/em&gt;&lt;/h4&gt;
-&lt;p&gt;&lt;strong&gt;24 de mayo de 1903&lt;/strong&gt;: “El impuesto de £ 3 es simplemente una multa por llevar la piel morena y parece que, mientras que los &lt;em&gt;kaffirs&lt;/em&gt; pagan impuestos porque no funcionan en absoluto o lo suficiente, evidentemente debemos pagar impuestos porque trabajamos demasiado, lo único en común entre los dos es la ausencia de la piel blanca &amp;ldquo;.&lt;/p&gt;
-&lt;h4 id=&#34;indios-obligados-a-vivir-con-demasiados-kaffirs&#34;&gt;Indios obligados a vivir con demasiados &lt;em&gt;kaffirs&lt;/em&gt;&lt;/h4&gt;
-&lt;p&gt;&lt;strong&gt;11 de febrero de 1904&lt;/strong&gt;: “Me atrevo a escribirles sobre el estado espantoso de la ubicación india. Las habitaciones parecen estar superpobladas más allá de toda descripción. El servicio sanitario es muy irregular y muchos de los residentes de la ubicación han estado en mi oficina para quejarse de que el estado sanitario es mucho peor que antes. También hay una población &lt;em&gt;kaffir&lt;/em&gt; muy grande en la ubicación para la que realmente no hay ninguna orden judicial &amp;ldquo;.&lt;/p&gt;
-&lt;h4 id=&#34;calamidad-llegando-a-johannesburgo&#34;&gt;Calamidad llegando a Johannesburgo&lt;/h4&gt;
-&lt;p&gt;&lt;strong&gt;15 de febrero de 1904&lt;/strong&gt;: “Estoy convencido de que cada minuto desperdiciado en el asunto simplemente acelera una calamidad para Johannesburgo y que sin ninguna culpa de los indios británicos. Por qué, de todos los lugares de Johannesburgo, debería elegirse la ubicación india para deshacerse de todos los &lt;em&gt;kaffir&lt;/em&gt; de la ciudad, sobrepasa mi comprensión &amp;ldquo;.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://atlantablackstar.com/wp-content/uploads/2015/03/south-africa-aparthied-sign-768x596.jpg&#34; alt=&#34;Ghandi01&#34; /&gt;&lt;/p&gt;
-&lt;h4 id=&#34;no-mezclar-kaffirs-con-indios&#34;&gt;No mezclar &lt;em&gt;kaffirs&lt;/em&gt; con indios&lt;/h4&gt;
-&lt;p&gt;&lt;strong&gt;15 de febrero de 1904&lt;/strong&gt;: “Por supuesto, bajo mi sugerencia, el Ayuntamiento debe retirar los &lt;em&gt;kaffirs&lt;/em&gt; del lugar. Sobre esta mezcla de &lt;em&gt;kaffirs&lt;/em&gt; con indios, debo confesar que lo siento más fuertemente. Creo que es muy injusto para la población india y es un impuesto indebido incluso para la proverbial paciencia de mis compatriotas &amp;ldquo;.&lt;/p&gt;
-&lt;h4 id=&#34;kaffirs-menos-avanzados&#34;&gt;&lt;em&gt;Kaffirs&lt;/em&gt; menos avanzados&lt;/h4&gt;
-&lt;p&gt;&lt;strong&gt;9 de septiembre de 1906&lt;/strong&gt;: “Incluso los mestizos y &lt;em&gt;kaffirs&lt;/em&gt;, menos avanzados que nosotros, se han resistido al gobierno. La ley de pases también se aplica a ellos, pero no sacan pases &amp;ldquo;.&lt;/p&gt;
-&lt;h4 id=&#34;incluso-un-policía-kaffir-puede-acercarse-a-los-indios&#34;&gt;¿Incluso un policía &lt;em&gt;kaffir&lt;/em&gt; puede acercarse a los indios?&lt;/h4&gt;
-&lt;p&gt;&lt;strong&gt;4 de junio de 1907&lt;/strong&gt;: &amp;ldquo;¿Se supone que somos ladrones o libertinos que incluso un policía &lt;em&gt;kaffir&lt;/em&gt; puede acercarse y detenernos donde sea que vayamos?&amp;rdquo;&lt;/p&gt;
-&lt;h4 id=&#34;los-kaffirs-se-pueden-complacer-con-juguetes-y-alfileres&#34;&gt;Los &lt;em&gt;kaffirs&lt;/em&gt; se pueden complacer con juguetes y alfileres&lt;/h4&gt;
-&lt;p&gt;&lt;strong&gt;2 de febrero de 1908&lt;/strong&gt;: &amp;ldquo;Los gobernantes británicos nos toman por tan humildes e ignorantes que asumen que, como los &lt;em&gt;kaffirs&lt;/em&gt; que pueden estar complacidos con juguetes y alfileres, también podemos ser engañados con baratijas&amp;rdquo;.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://atlantablackstar.com/wp-content/uploads/2015/03/Beware-of-Natives.jpg&#34; alt=&#34;Ghandi02&#34; /&gt;&lt;/p&gt;
-&lt;h4 id=&#34;los-kaffirs-son-animales-incivilizados&#34;&gt;Los &lt;em&gt;kaffirs&lt;/em&gt; son animales incivilizados&lt;/h4&gt;
-&lt;p&gt;&lt;strong&gt;3 de julio de 1907&lt;/strong&gt;: “Los &lt;em&gt;kaffirs&lt;/em&gt; son, por regla general, incivilizados, los convictos aún más. Son molestos, muy sucios y viven casi como animales. Cada barrio contiene entre 50 y 60 de ellos. A menudo iniciaban filas y peleaban entre ellos. ¡El lector puede imaginarse fácilmente la difícil situación del pobre indio arrojado a tal compañía! &amp;quot;&lt;/p&gt;
-&lt;h4 id=&#34;los-indios-deben-mantenerse-alejados-de-las-mujeres-kaffir&#34;&gt;Los indios deben mantenerse alejados de las mujeres &lt;em&gt;kaffir&lt;/em&gt;&lt;/h4&gt;
-&lt;p&gt;&lt;strong&gt;2 de diciembre de 1910&lt;/strong&gt;: “Algunos indios tienen contactos con mujeres &lt;em&gt;kaffir&lt;/em&gt;. Creo que esos contactos conllevan un grave peligro. Los indios harían bien en evitarlos por completo &amp;ldquo;.&lt;/p&gt;
-&lt;style&gt;
-body {
-text-align: left}
-&lt;/style&gt;
-&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
-&lt;hr /&gt;
-&lt;ol&gt;
-&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
-&lt;p&gt;&lt;a href=&#34;https://atlantablackstar.com/2015/03/31/not-all-peaceful-13-racist-quotes-gandhi-said-about-black-people/&#34;&gt;https://atlantablackstar.com/2015/03/31/not-all-peaceful-13-racist-quotes-gandhi-said-about-black-people/&lt;/a&gt; &lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li id=&#34;fn:2&#34; role=&#34;doc-endnote&#34;&gt;
-&lt;p&gt;&lt;a href=&#34;https://atlantablackstar.com/author/nick-chiles/&#34;&gt;https://atlantablackstar.com/author/nick-chiles/&lt;/a&gt; &lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/div&gt;
-</content:encoded>
-        <dc:creator>Helio</dc:creator>
-        <media:content url="/https://atlantablackstar.com/wp-content/uploads/2015/03/gandhi-smile-e1427747090891.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
-        
-        
-        
-          
-            
-              <category>Gandhi</category>
-            
-          
-        
-        
-          
-            
-              <category>Artículos</category>
-            
-          
-        
-        
-          
-            
-          
-        
-      </item>
-      
-      <item>
-        <title>1984 (Película)</title>
-        <link>/es/posts/2021-01-05-1984-pel%C3%ADcula/</link>
-        <pubDate>Tue, 05 Jan 2021 13:46:19 -0800</pubDate>
-        <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
-        <atom:modified>Tue, 05 Jan 2021 13:46:19 -0800</atom:modified>
-        <guid>/es/posts/2021-01-05-1984-pel%C3%ADcula/</guid>
-        <description>1984 (novela)
-1984 (en su versión original en inglés: Nineteen Eighty-Four) es una novela política de ficción distópica, escrita por George Orwell entre 1947 y 1948 y publicada el 8 de junio de 1949. La novela popularizó los conceptos del omnipresente y vigilante Gran Hermano o Hermano Mayor, de la notoria habitación 101, de la ubicua policía del Pensamiento y de la neolengua, adaptación del idioma inglés en la que se reduce y se transforma el léxico con fines represivos, basándose en el principio de que lo que no forma parte de la lengua, no puede ser pensado&amp;hellip;.</description>
-        <content:encoded>&lt;div class=&#34;box&#34;&gt;&lt;blockquote&gt;
-&lt;p&gt;&lt;i class=&#34;fa fa-wikipedia-w fa-2x&#34; aria-hidden=&#34;true&#34;&gt; &lt;/i&gt; 1984 (novela)&lt;br /&gt;
-&lt;i class=&#34;fa fa-quote-left&#34; aria-hidden=&#34;true&#34;&gt; &lt;/i&gt;1984 (en su versión original en inglés: Nineteen Eighty-Four) es una novela política de ficción distópica, escrita por George Orwell entre 1947 y 1948 y publicada el 8 de junio de 1949. La novela popularizó los conceptos del omnipresente y vigilante Gran Hermano o Hermano Mayor, de la notoria habitación 101, de la ubicua policía del Pensamiento y de la neolengua, adaptación del idioma inglés en la que se reduce y se transforma el léxico con fines represivos, basándose en el principio de que lo que no forma parte de la lengua, no puede ser pensado&amp;hellip;&lt;i class=&#34;fa fa-quote-right&#34; aria-hidden=&#34;true&#34;&gt; &lt;/i&gt;.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div class=&#34;box&#34;&gt;&lt;blockquote&gt;
-&lt;p&gt;&lt;i class=&#34;fa fa-wikipedia-w fa-2x&#34; aria-hidden=&#34;true&#34;&gt; &lt;/i&gt; 1984 (película de 1984)&lt;br /&gt;
-&lt;i class=&#34;fa fa-quote-left&#34; aria-hidden=&#34;true&#34;&gt; &lt;/i&gt;1984 (Nineteen Eighty-Four) es una película de ficción británica de utopía pesimista dirigida por Michael Radford y con actuación de John Hurt, Suzanna Hamilton y Richard Burton. Basada en la novela homónima, la película fue rodada y estrenada en 1984&amp;hellip;&lt;i class=&#34;fa fa-quote-right&#34; aria-hidden=&#34;true&#34;&gt; &lt;/i&gt;.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;/div&gt;
-
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://player.vimeo.com/video/278849717&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-</content:encoded>
-        <dc:creator>Helio</dc:creator>
-        <media:content url="/https://cdn.pixabay.com/photo/2016/04/10/22/44/author-1320965__340.png" medium="image"><media:title type="html">featured image</media:title></media:content>
-        
-        
-        
-          
-            
-          
-        
-        
-          
-            
-              <category>Videos</category>
-            
-          
-        
-        
-          
-            
-              <category>Películas</category>
-            
-          
-        
-      </item>
-      
-      <item>
-        <title>Manifiesto por la Guerrilla del Accesso Abierto (Sci-Hub)</title>
-        <link>/es/posts/2021-01-05-sci-hub/</link>
-        <pubDate>Mon, 04 Jan 2021 19:54:37 -0800</pubDate>
-        <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
-        <atom:modified>Mon, 04 Jan 2021 19:54:37 -0800</atom:modified>
-        <guid>/es/posts/2021-01-05-sci-hub/</guid>
-        <description>En julio de 2008, Aaron Swartz1 publicaba el Manifiesto por la Guerrilla del Accesso Abierto2.
-Manifiesto por la Guerrilla del Acceso Abierto por Aaron Swartz,
-julio de 2008, Eremo, Italia.
-La información es poder. Pero como con todo poder, hay quienes lo quieren mantener para sí mismos. La herencia científica y cultural del mundo completa, publicada durante siglos en libros y revistas científicas, está siendo digitalizada y apresada en forma creciente por un puñado de corporaciones privadas.</description>
-        <content:encoded>&lt;p&gt;En julio de 2008, &lt;strong&gt;Aaron Swartz&lt;/strong&gt;&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; publicaba el &lt;em&gt;Manifiesto por la Guerrilla del Accesso Abierto&lt;/em&gt;&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
-&lt;div class=&#34;box&#34;&gt;&lt;h3 id=&#34;manifiesto-por-la-guerrilla-del-acceso-abierto&#34;&gt;Manifiesto por la Guerrilla del Acceso Abierto&lt;/h3&gt;
-&lt;p&gt;&lt;em&gt;por Aaron Swartz,&lt;br /&gt;
-julio de 2008, Eremo, Italia.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;La información es poder. Pero como con todo poder, hay quienes lo quieren mantener para sí mismos. La herencia científica y cultural del mundo completa, publicada durante siglos en libros y revistas científicas, está siendo digitalizada y apresada en forma creciente por un puñado de corporaciones privadas. ¿Quieres leer los artículos que presentan los más famosos resultados de las ciencias? Vas a tener que mandarle un montón de dinero a editoriales como Reed Elsevier.&lt;/p&gt;
-&lt;p&gt;Existen aquellos que luchan por cambiar esto. El Movimiento por el Acceso Abierto ha luchado valientemente para asegurarse que los científicos no cedan su derecho de copia, sino que se aseguren que su trabajo sea publicado en Internet, bajo términos que permitan el acceso a cualquiera. Pero incluso en los mejores escenarios, su trabajo sólo será aplicado a las cosas que se publiquen en el futuro. Todo lo que existe hasta este momento se ha perdido.&lt;/p&gt;
-&lt;p&gt;Ese es un precio muy alto por el que pagar. ¿Forzar a los académicos a pagar dinero para poder leer el trabajo de sus colegas? ¿Escanear bibliotecas enteras para sólo permitir leerlas a la gente de Google? ¿Proveer artículos científicos a aquellos en las universidades de élite del Primer Mundo, pero no a los niños del Sur Global? Es indignante e inaceptable.&lt;/p&gt;
-&lt;p&gt;“Estoy de acuerdo,” dicen muchos, “¿pero qué podemos hacer? Las compañías poseen los derechos de copia, hacen enormes cantidades de dinero cobrando por el acceso, y es perfectamente legal —no hay nada que podamos hacer para detenerlos.” Pero sí hay algo que podemos hacer, algo que ya está siendo hecho: podemos contraatacar.&lt;/p&gt;
-&lt;p&gt;A ustedes, con acceso a estos recursos —estudiantes, bibliotecarios, científicos— se les ha otorgado un privilegio. Ustedes pueden alimentarse en este banquete del conocimiento mientras el resto del mundo queda fuera. Pero no es necesario —de hecho, moralmente, no es posible— que se queden este privilegio para ustedes. Tienen el deber de compartirlo con el mundo. Y lo han hecho: intercambiando contraseñas con colegas, haciendo solicitudes de descarga para amigos.&lt;/p&gt;
-&lt;p&gt;Mientras tanto, aquellos de ustedes que se han quedado fuera no están cruzados de brazos. Han estado atravesando agujeros sigilosamente y trepando vallas, liberando la información encerrada por las editoriales y compartiéndola con sus amigos.&lt;/p&gt;
-&lt;p&gt;Pero todas estas acciones suceden en la oscuridad, escondidas en la clandestinidad. Se les llama robo o piratería, como si compartir la riqueza del conocimiento fuera el equivalente moral de saquear un barco y asesinar a su tripulación. Pero compartir no es inmoral —es un imperativo moral. Sólo aquellos que están cegados por la codicia se negarían a hacerle una copia a un amigo.&lt;/p&gt;
-&lt;p&gt;Las grandes corporaciones, por supuesto, están cegadas por la codicia. Las leyes bajo las que operan lo requieren —sus accionistas se sublevarían por mucho menos. Y los políticos que se han comprado los apoyan, aprobando leyes que les dan el poder exclusivo de decidir quién puede hacer copias.&lt;/p&gt;
-&lt;p&gt;No hay justicia alguna en obedecer leyes injustas. Es tiempo de salir a la luz y en la gran tradición de la desobediencia civil, declarar nuestra oposición a este robo privado de la cultura pública.&lt;/p&gt;
-&lt;p&gt;Necesitamos tomar la información, donde sea que esté guardada, hacer nuestras copias y compartirlas con el mundo. Necesitamos tomar las cosas que están libres del derecho de copia y agregarlas a este archivo. Necesitamos comprar bases de datos secretas y ponerlas en la Web. Necesitamos descargar revistas científicas y subirlas a redes de compartición de archivos. Necesitamos pelear una Guerrilla por el Acceso Abierto.&lt;/p&gt;
-&lt;p&gt;Si somos los suficientes, alrededor del mundo, no sólo enviaremos un fuerte mensaje en oposición a la privatización del conocimiento —la haremos una cosa del pasado. ¿Vas a unírtenos?&lt;/p&gt;
-&lt;/div&gt;
-&lt;p&gt;Pocos años más tarde, el 5 de septiembre del 2011 —coincidiendo a unos cuantos dias de la entrada al Máster en Ciencias del autor de este blog, y llegando a salvar su vida— &lt;strong&gt;Alexandra Elbakyan&lt;/strong&gt;&lt;sup id=&#34;fnref:3&#34;&gt;&lt;a href=&#34;#fn:3&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;3&lt;/a&gt;&lt;/sup&gt; publica la herramienta Sci-Hub&lt;i class=&#34;ai ai-sci-hub ai-lg&#34; aria-hidden=&#34;true&#34;&gt; &lt;/i&gt;.&lt;/p&gt;
-&lt;div class=&#34;box&#34;&gt;&lt;blockquote&gt;
-&lt;p&gt;&lt;i class=&#34;fa fa-wikipedia-w fa-2x&#34; aria-hidden=&#34;true&#34;&gt; &lt;/i&gt;Sci-Hub&lt;i class=&#34;ai ai-sci-hub ai-lg&#34; aria-hidden=&#34;true&#34;&gt; &lt;/i&gt;&lt;br /&gt;
-&lt;i class=&#34;fa fa-quote-left&#34; aria-hidden=&#34;true&#34;&gt; &lt;/i&gt;Sci-Hub es un repositorio y página web &lt;del&gt;pirata&lt;/del&gt; de más de 84 millones de artículos académicos. Fue fundado por Alexandra Elbakyan, de Kazajistán, el 5 de septiembre del 2011, como reacción contra el alto coste de compra de los artículos académicos.&lt;br /&gt;
-El proyecto Sci-Hub comenzó a funcionar el 5 de septiembre de 2011. Fue fundado por Alexandra Elbakyan, desarrolladora de software e investigadora en neurotecnología de Kazajistán, luego de enfrentar dificultades económicas para acceder a los artículos científicos que requería el desarrollo de su tesis de grado. Sin ser el objetivo originario, este proyecto ha permitido aumentar la difusión del conocimiento científico y acceder a contenidos colocados detrás de una suscripción&amp;hellip;&lt;i class=&#34;fa fa-quote-right&#34; aria-hidden=&#34;true&#34;&gt; &lt;/i&gt;.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;p&gt;Aunque la dirección actual de su sitio web es sci-hub.do&lt;sup id=&#34;fnref:4&#34;&gt;&lt;a href=&#34;#fn:4&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;4&lt;/a&gt;&lt;/sup&gt;, la manera más confiable de accesar es visitando periodicamente su sitio en la red social &lt;i class=&#34;fa fa-vk&#34; aria-hidden=&#34;true&#34;&gt; &lt;/i&gt;&lt;sup id=&#34;fnref:5&#34;&gt;&lt;a href=&#34;#fn:5&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;5&lt;/a&gt;&lt;/sup&gt;, y verificar una posible actualización.&lt;/p&gt;
-&lt;div style=&#34;width:70%; height:width:70%&#34;&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;img src=&#34;https://lh3.googleusercontent.com/qffgbvg5o7CfGCCVsjSmVLPI0Fn5kJU_TMqc4Esiy32XI3COyBASSbLybBS_oJ6XM7CTCX24y8NyW9AiQRJf0CenBYw6Oy7-8V3SCgB__hzzk3VaGokhN4SJ3VvDbqBEBm7-dNJNkDGDwEWTQGKaBN06jT7Vhir6H7WOfyi0u40ndiS9l9Xq5GBlMLdpD854Vsm9QOgV8MhDU8I2R6JyX_97P5n9khC88JPNNBufVdcMQkvx52sNXuklH7AtlPhryhhgHWZSkJkNATPCwFKApW3l6gLzidkAVVxwVhZY8ydWnRt2tyZfun58P3oBUhoH5sF5pPsstxwg9bjPT8WR4uVWFwsSCPKvSrtGIFNptwWsqStfJJTTst-wfr4_kS9ih2pbkCAt9e9A7dVS2l158Mu3YXy8YKKZDSjH3PmYz8YCZEBl7Ql71WEo93KBEKX2l9mh-zuqu6GDu2GhPpbW_27qejtj-DT0wD__pjpmyTiZ6rZ860TqApvpZXHdiufN3SjfbQQpK52mEAjyRm4OfRBhCH5bQo6Ik0r_2VB8ZElKibjrnTfgmsB6Z_Vw3NOqLnmClLnXH49WtVqwzrrBK3oVNoYmkI4Qt-uneawxsr8oXd9_72f2n7hW4PA1cMexaSZlrgIR8e5hYx1wn-DEP2yXjtkxiJjzOP3dHevTwvPxoA0bbXTnlCdcP73f_g=w1324-h758-no?authuser=3&#34; alt=&#34;sci-hub&#34; /&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;p&gt;Para utilizarlo de manera mas eficiente, es conveniente colocar el identificador doi &lt;i class=&#34;ai ai-doi&#34; aria-hidden=&#34;true&#34;&gt; &lt;/i&gt; del artículo.&lt;/p&gt;
-&lt;div style=&#34;width:70%; height:width:70%&#34;&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;img src=&#34;https://lh3.googleusercontent.com/9xyQU-lmvbMQO3S6DVhQQzwQXujc975VZDNGDr69Mhraf-x_rDswo3GzW6QYCm_MML_AENkc84F-y6co3xRTeNu-FIhIrVPWpIx06veEkeCmYm_X3cqZ9MQZQIhKf3VqE5vSjRYALRPxy6k5XiaGmPZWICFYPPAyV7xJAfb_DwleWPoKvg8DgcA_PlDgfjWjEvwIQnHeupfJHGnU7ajrgfKvj42FTxtsqKQhll3js57qnGNkZvYAdphWr5cnGy-fCtyL8eB0GIXEFsUwsEgk1G7H8s8pPT-QJhrMaTK_eJKr2920qRJlwkWhk6k8D_CcKyv1357qjjXCO-wr15BfD6Vy5bbNrBI8KRYEbd6s6FUrwUot8tkeRZumVekMgrFZJa9GFE-K4fpVePKm_n0O6vgWWqHIXEDkIwgAIm2NXLR20KplfeVyuDttQPpjd62VqxwCmXNnXVCNNH1gvjt3S4PDiPdqGBRCo-pKbys0zcyEHcV2bbQFp6BLz1R9GwpNlZLSCq98SDXf-q6m_SuApKVZssyaQt25sRVkVJignTkXm3VjMcPSfO1WqjbEHDQBR3u7WsQNYj4wMkeYgxnCCnfd8DD3zXOvYlAYJVnfth8eOCpjn5HHF-ngkZHUCFm3jcXgN6b60HNJ-wQboT5Eaf-UHDTTbvgh10-yxcDmpQEizac28V8MyVCz8jVbJQ=w1219-h868-no?authuser=3&#34; alt=&#34;doi&#34; /&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;p&gt;Para el artículo de la imagen el identificador es 10.1016/j.cropro.2019.02.005, y podemos colocarlo tal cual en el siguiente cuadro de Sci-Hub&lt;i class=&#34;ai ai-sci-hub ai-lg&#34; aria-hidden=&#34;true&#34;&gt; &lt;/i&gt;, o utilizar el enlace completo (&lt;a href=&#34;https://doi.org/10.1016/j.cropro.2019.02.005)&#34;&gt;https://doi.org/10.1016/j.cropro.2019.02.005)&lt;/a&gt;.&lt;/p&gt;
-&lt;iframe src=&#34;https://sci-hub.do/&#34; width=&#34;940&#34; height=&#34;420&#34;&gt;&lt;/iframe&gt;
-&lt;p&gt;En futuras entradas describiré cómo buscar esta clase de información bibliográfica de manera eficiente, y cómo &lt;del&gt;mantenerla&lt;/del&gt;intentar mantenerla organizada.&lt;/p&gt;
-&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
-&lt;hr /&gt;
-&lt;ol&gt;
-&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
-&lt;p&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Aaron_Swartz&#34;&gt;https://en.wikipedia.org/wiki/Aaron_Swartz&lt;/a&gt; &lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li id=&#34;fn:2&#34; role=&#34;doc-endnote&#34;&gt;
-&lt;p&gt;&lt;a href=&#34;https://archive.org/stream/GuerillaOpenAccessManifesto/Goamjuly2008_djvu.txt&#34;&gt;https://archive.org/stream/GuerillaOpenAccessManifesto/Goamjuly2008_djvu.txt&lt;/a&gt; &lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li id=&#34;fn:3&#34; role=&#34;doc-endnote&#34;&gt;
-&lt;p&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Alexandra_Elbakyan&#34;&gt;https://en.wikipedia.org/wiki/Alexandra_Elbakyan&lt;/a&gt; &lt;a href=&#34;#fnref:3&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li id=&#34;fn:4&#34; role=&#34;doc-endnote&#34;&gt;
-&lt;p&gt;&lt;a href=&#34;https://sci-hub.do/&#34;&gt;https://sci-hub.do/&lt;/a&gt; &lt;a href=&#34;#fnref:4&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li id=&#34;fn:5&#34; role=&#34;doc-endnote&#34;&gt;
-&lt;p&gt;&lt;a href=&#34;https://vk.com/sci_hub&#34;&gt;https://vk.com/sci_hub&lt;/a&gt; &lt;a href=&#34;#fnref:5&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/div&gt;
-</content:encoded>
-        <dc:creator>Helio</dc:creator>
-        <media:content url="/https://upload.wikimedia.org/wikipedia/commons/9/9e/Lawrence_Lessig_and_Aaron_Swartz.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
-        
-        
-        
-          
-            
-              <category>Web</category>
-            
-          
-        
-        
-          
-            
-              <category>Herramientas</category>
-            
-          
-        
-        
-          
-            
-          
-        
-      </item>
-      
-      <item>
-        <title>Compare yourself to who you were yesterday, not to who someone else is today (Dr Jordan B Peterson)</title>
-        <link>/es/posts/2021-01-05-compare-yourself/</link>
-        <pubDate>Mon, 04 Jan 2021 17:00:25 -0800</pubDate>
-        <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
-        <atom:modified>Mon, 04 Jan 2021 17:00:25 -0800</atom:modified>
-        <guid>/es/posts/2021-01-05-compare-yourself/</guid>
-        <description></description>
-        <content:encoded>&lt;!-- blank line --&gt;
-&lt;figure class=&#34;video_container&#34;&gt;
-  &lt;video controls=&#34;true&#34; allowfullscreen=&#34;true&#34; poster=&#34;https://images-cdn.9gag.com/photo/aK6wdY3_700b.jpg&#34;&gt;
-    &lt;source src=&#34;https://img-9gag-fun.9cache.com/photo/aK6wdY3_460sv.mp4&#34; type=&#34;video/mp4&#34;&gt;
-  &lt;/video&gt;
-&lt;/figure&gt;
-&lt;!-- blank line --&gt;</content:encoded>
-        <dc:creator>Helio</dc:creator>
-        <media:content url="/https://images-cdn.9gag.com/photo/aK6wdY3_700b.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
-        
-        
-        
-          
-            
-          
-        
-        
-          
-            
-              <category>Memes</category>
-            
-          
-            
-              <category>Videos</category>
-            
-          
-        
-        
-          
-            
-          
-        
-      </item>
-      
-      <item>
-        <title>Australia</title>
-        <link>/es/posts/2021-01-05-australia/</link>
-        <pubDate>Mon, 04 Jan 2021 16:44:11 -0800</pubDate>
-        <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
-        <atom:modified>Mon, 04 Jan 2021 16:44:11 -0800</atom:modified>
-        <guid>/es/posts/2021-01-05-australia/</guid>
-        <description></description>
-        <content:encoded>&lt;!-- blank line --&gt;
-&lt;figure class=&#34;video_container&#34;&gt;
-  &lt;video controls=&#34;true&#34; allowfullscreen=&#34;true&#34; poster=&#34;https://images-cdn.9gag.com/photo/aRXwXw2_700b.jpg&#34;&gt;
-    &lt;source src=&#34;https://img-9gag-fun.9cache.com/photo/aRXwXw2_460sv.mp4&#34; type=&#34;video/mp4&#34;&gt;
-  &lt;/video&gt;
-&lt;/figure&gt;
-&lt;!-- blank line --&gt;
-</content:encoded>
-        <dc:creator>Helio</dc:creator>
-        <media:content url="/https://images-cdn.9gag.com/photo/aRXwXw2_700b.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
-        
-        
-        
-          
-            
-          
-        
-        
-          
-            
-              <category>Memes</category>
-            
-          
-            
-              <category>Videos</category>
-            
-          
-        
-        
-          
-            
-          
-        
-      </item>
       
       <item>
         <title>Capítulo 3: Empezando con R (2da parte)</title>
-        <link>/es/posts/2020-12-30-empezando_con_r_2da/</link>
+        <link>https://helio4gm.netlify.app/es/posts/2020-12-30-empezando_con_r_2da/</link>
         <pubDate>Wed, 30 Dec 2020 18:21:17 -0800</pubDate>
         <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
         <atom:modified>Wed, 30 Dec 2020 18:21:17 -0800</atom:modified>
-        <guid>/es/posts/2020-12-30-empezando_con_r_2da/</guid>
+        <guid>https://helio4gm.netlify.app/es/posts/2020-12-30-empezando_con_r_2da/</guid>
         <description>body {text-align: justify}
 &amp;hellip;continuación.
 Usar funciones para hacer cálculos Los símbolos +, -, * y así sucesivamente son ejemplos de operadores. Como hemos visto, puede hacer muchos cálculos con solo usar estos operadores. Sin embargo, para hacer cálculos más avanzados (y más adelante, para hacer estadísticas reales), necesitará comenzar a usar funciones. Hablaré con más detalle sobre las funciones y cómo funcionan en la Sección 8.</description>
@@ -487,7 +42,7 @@ Usar funciones para hacer cálculos Los símbolos +, -, * y así sucesivamente s
 
 
   &lt;div class=&#34;featured-image__wrapper&#34;&gt;
-    &lt;img src=&#34;/images/learning/cap_03.png&#34; alt=&#34;Featured Image&#34; class=&#34;featured-image&#34; style=&#34;width: ;height: ;&#34;&gt;
+    &lt;img src=&#34;https://helio4gm.netlify.app/images/learning/cap_03.png&#34; alt=&#34;Featured Image&#34; class=&#34;featured-image&#34; style=&#34;width: ;height: ;&#34;&gt;
   &lt;/div&gt;
 
 &lt;hr /&gt;
@@ -1439,7 +994,7 @@ La parte y / n / c aquí es la abreviatura de &amp;ldquo;sí / no / cancelar&amp
 Escrito por Navarro, Danielle; traducido por García-Mendívil, Helio A.
 &lt;/p&gt;</content:encoded>
         <dc:creator>Helio</dc:creator>
-        <media:content url="/images/learning/cap_03.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://helio4gm.netlify.app/images/learning/cap_03.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -1475,11 +1030,11 @@ Escrito por Navarro, Danielle; traducido por García-Mendívil, Helio A.
       
       <item>
         <title>Capítulo 3: Empezando con R (1ra parte)</title>
-        <link>/es/posts/2020-12-30-empezando_con_r/</link>
+        <link>https://helio4gm.netlify.app/es/posts/2020-12-30-empezando_con_r/</link>
         <pubDate>Wed, 30 Dec 2020 18:20:17 -0800</pubDate>
         <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
         <atom:modified>Wed, 30 Dec 2020 18:20:17 -0800</atom:modified>
-        <guid>/es/posts/2020-12-30-empezando_con_r/</guid>
+        <guid>https://helio4gm.netlify.app/es/posts/2020-12-30-empezando_con_r/</guid>
         <description>body {text-align: justify}
 En este capítulo discutiré cómo empezar a usar R. Hablaré brevemente sobre cómo descargar e instalar R, pero la mayor parte del capítulo se centrará en que empiece a escribir comandos R. Nuestro objetivo en este capítulo no es aprender ningún concepto estadístico: solo estamos tratando de aprender los conceptos básicos de cómo funciona R y sentirnos cómodos interactuando con el sistema.</description>
         <content:encoded>
@@ -1491,7 +1046,7 @@ En este capítulo discutiré cómo empezar a usar R. Hablaré brevemente sobre c
 
 
   &lt;div class=&#34;featured-image__wrapper&#34;&gt;
-    &lt;img src=&#34;/images/learning/cap_03.png&#34; alt=&#34;Featured Image&#34; class=&#34;featured-image&#34; style=&#34;width: ;height: ;&#34;&gt;
+    &lt;img src=&#34;https://helio4gm.netlify.app/images/learning/cap_03.png&#34; alt=&#34;Featured Image&#34; class=&#34;featured-image&#34; style=&#34;width: ;height: ;&#34;&gt;
   &lt;/div&gt;
 
 &lt;hr /&gt;
@@ -2040,7 +1595,7 @@ Escrito por Navarro, Danielle; traducido por García-Mendívil, Helio A.
 &lt;/p&gt;
 </content:encoded>
         <dc:creator>Helio</dc:creator>
-        <media:content url="/images/learning/cap_03.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://helio4gm.netlify.app/images/learning/cap_03.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -2076,11 +1631,11 @@ Escrito por Navarro, Danielle; traducido por García-Mendívil, Helio A.
       
       <item>
         <title>Capítulo 2: Una breve introducción al diseño de investigación (2da parte)</title>
-        <link>/es/posts/2020-12-30-una_breve_introduccion_al_dise%C3%B1o_2da/</link>
+        <link>https://helio4gm.netlify.app/es/posts/2020-12-30-una_breve_introduccion_al_dise%C3%B1o_2da/</link>
         <pubDate>Wed, 30 Dec 2020 18:19:17 -0800</pubDate>
         <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
         <atom:modified>Wed, 30 Dec 2020 18:19:17 -0800</atom:modified>
-        <guid>/es/posts/2020-12-30-una_breve_introduccion_al_dise%C3%B1o_2da/</guid>
+        <guid>https://helio4gm.netlify.app/es/posts/2020-12-30-una_breve_introduccion_al_dise%C3%B1o_2da/</guid>
         <description>body {text-align: justify}
 Evaluar la validez de un estudio Más que cualquier otra cosa, un científico quiere que su investigación sea &amp;ldquo;válida&amp;rdquo;. La idea conceptual detrás de la validez es muy simple: ¿puedes confiar en los resultados de tu estudio? De lo contrario, el estudio no es válido. Sin embargo, si bien es fácil de establecer, en la práctica es mucho más difícil verificar la validez que verificar la confiabilidad.</description>
         <content:encoded>
@@ -2092,7 +1647,7 @@ Evaluar la validez de un estudio Más que cualquier otra cosa, un científico qu
 
 
   &lt;div class=&#34;featured-image__wrapper&#34;&gt;
-    &lt;img src=&#34;/images/learning/cap_02.png&#34; alt=&#34;Featured Image&#34; class=&#34;featured-image&#34; style=&#34;width: ;height: ;&#34;&gt;
+    &lt;img src=&#34;https://helio4gm.netlify.app/images/learning/cap_02.png&#34; alt=&#34;Featured Image&#34; class=&#34;featured-image&#34; style=&#34;width: ;height: ;&#34;&gt;
   &lt;/div&gt;
 
 &lt;hr /&gt;
@@ -2268,11 +1823,11 @@ Como regla general, las confusiones son una preocupación mayor para los estudio
 &lt;h2 id=&#34;resumen&#34;&gt;Resumen&lt;/h2&gt;
 &lt;p&gt;En realidad, este capítulo no está destinado a proporcionar una discusión exhaustiva de los métodos de investigación psicológica: requeriría otro volumen tan largo como este para hacer justicia al tema. Sin embargo, en la vida real, las estadísticas y el diseño de estudios están estrechamente entrelazados, por lo que es muy útil discutir algunos de los temas clave. En este capítulo, he analizado brevemente los siguientes temas:&lt;/p&gt;
 &lt;div class=&#34;box&#34;&gt;&lt;ul&gt;
-&lt;li&gt;&lt;em&gt;Introducción a la medición psicológica&lt;/em&gt; (Sección &lt;a href=&#34;/es/programacion/2020-12-30-una_breve_introduccion_al_dise%25C3%25B1o/#introducción-a-la-medición-psicológica&#34;&gt;2.1&lt;/a&gt;). ¿Qué significa operacionalizar un constructo teórico? ¿Qué significa tener variables y tomar medidas?&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Escalas de medida y tipos de variables&lt;/em&gt; (Sección &lt;a href=&#34;/es/programacion/2020-12-30-una_breve_introduccion_al_dise%25C3%25B1o/#escalas-de-medida&#34;&gt;2.2&lt;/a&gt;). Recuerde que aquí hay dos distinciones diferentes: existe la diferencia entre datos discretos y continuos, y existe la diferencia entre los cuatro tipos de escala diferentes (nominal, ordinal, intervalo y relación).&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Fiabilidad de una medición&lt;/em&gt; (Sección &lt;a href=&#34;/es/programacion/2020-12-30-una_breve_introduccion_al_dise%25C3%25B1o/#evaluar-la-confiabilidad-de-una-medición&#34;&gt;2.3&lt;/a&gt;). Si mido lo &amp;ldquo;mismo&amp;rdquo; dos veces, ¿debería esperar ver el mismo resultado? Solo si mi medida es confiable. Pero, ¿qué significa hablar de hacer “lo mismo”? Bueno, por eso tenemos diferentes tipos de confiabilidad. Asegúrese de recordar cuáles son.&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Terminología&lt;/em&gt;: predictores y resultados (Sección &lt;a href=&#34;/es/programacion/2020-12-30-una_breve_introduccion_al_dise%25C3%25B1o/#el-papel-de-las-variables-predictores-y-resultados&#34;&gt;2.4&lt;/a&gt;). ¿Qué papel juegan las variables en un análisis? ¿Puede recordar la diferencia entre predictores y resultados? ¿Variables dependientes e independientes? Etc.&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Diseños de investigación experimentales y no experimentales&lt;/em&gt; (Sección &lt;a href=&#34;/es/programacion/2020-12-30-una_breve_introduccion_al_dise%25C3%25B1o/#investigación-experimental-y-no-experimental&#34;&gt;2.5&lt;/a&gt;). ¿Qué hace que un experimento sea un experimento? ¿Es una bonita bata blanca de laboratorio o tiene algo que ver con el control del investigador sobre las variables?&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Introducción a la medición psicológica&lt;/em&gt; (Sección &lt;a href=&#34;https://helio4gm.netlify.app/es/programacion/2020-12-30-una_breve_introduccion_al_dise%25C3%25B1o/#introducción-a-la-medición-psicológica&#34;&gt;2.1&lt;/a&gt;). ¿Qué significa operacionalizar un constructo teórico? ¿Qué significa tener variables y tomar medidas?&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Escalas de medida y tipos de variables&lt;/em&gt; (Sección &lt;a href=&#34;https://helio4gm.netlify.app/es/programacion/2020-12-30-una_breve_introduccion_al_dise%25C3%25B1o/#escalas-de-medida&#34;&gt;2.2&lt;/a&gt;). Recuerde que aquí hay dos distinciones diferentes: existe la diferencia entre datos discretos y continuos, y existe la diferencia entre los cuatro tipos de escala diferentes (nominal, ordinal, intervalo y relación).&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Fiabilidad de una medición&lt;/em&gt; (Sección &lt;a href=&#34;https://helio4gm.netlify.app/es/programacion/2020-12-30-una_breve_introduccion_al_dise%25C3%25B1o/#evaluar-la-confiabilidad-de-una-medición&#34;&gt;2.3&lt;/a&gt;). Si mido lo &amp;ldquo;mismo&amp;rdquo; dos veces, ¿debería esperar ver el mismo resultado? Solo si mi medida es confiable. Pero, ¿qué significa hablar de hacer “lo mismo”? Bueno, por eso tenemos diferentes tipos de confiabilidad. Asegúrese de recordar cuáles son.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Terminología&lt;/em&gt;: predictores y resultados (Sección &lt;a href=&#34;https://helio4gm.netlify.app/es/programacion/2020-12-30-una_breve_introduccion_al_dise%25C3%25B1o/#el-papel-de-las-variables-predictores-y-resultados&#34;&gt;2.4&lt;/a&gt;). ¿Qué papel juegan las variables en un análisis? ¿Puede recordar la diferencia entre predictores y resultados? ¿Variables dependientes e independientes? Etc.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Diseños de investigación experimentales y no experimentales&lt;/em&gt; (Sección &lt;a href=&#34;https://helio4gm.netlify.app/es/programacion/2020-12-30-una_breve_introduccion_al_dise%25C3%25B1o/#investigación-experimental-y-no-experimental&#34;&gt;2.5&lt;/a&gt;). ¿Qué hace que un experimento sea un experimento? ¿Es una bonita bata blanca de laboratorio o tiene algo que ver con el control del investigador sobre las variables?&lt;/li&gt;
 &lt;li&gt;&lt;em&gt;Validez y sus amenazas&lt;/em&gt; (Sección &lt;a href=&#34;#evaluar-la-validez-de-un-estudio&#34;&gt;2.6&lt;/a&gt;). ¿Tu estudio mide lo que quieres que mida? ¿Cómo pueden salir mal las cosas? ¿Y es mi imaginación, o es una lista muy larga de posibles formas en las que las cosas pueden salir mal?&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
@@ -2285,7 +1840,7 @@ Como regla general, las confusiones son una preocupación mayor para los estudio
 Escrito por Navarro, Danielle; traducido por García-Mendívil, Helio A.
 &lt;/p&gt;</content:encoded>
         <dc:creator>Helio</dc:creator>
-        <media:content url="/images/learning/cap_02.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://helio4gm.netlify.app/images/learning/cap_02.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -2321,11 +1876,11 @@ Escrito por Navarro, Danielle; traducido por García-Mendívil, Helio A.
       
       <item>
         <title>Capítulo 2: Una breve introducción al diseño de investigación (1ra parte)</title>
-        <link>/es/posts/2020-12-30-una_breve_introduccion_al_dise%C3%B1o/</link>
+        <link>https://helio4gm.netlify.app/es/posts/2020-12-30-una_breve_introduccion_al_dise%C3%B1o/</link>
         <pubDate>Wed, 30 Dec 2020 18:18:17 -0800</pubDate>
         <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
         <atom:modified>Wed, 30 Dec 2020 18:18:17 -0800</atom:modified>
-        <guid>/es/posts/2020-12-30-una_breve_introduccion_al_dise%C3%B1o/</guid>
+        <guid>https://helio4gm.netlify.app/es/posts/2020-12-30-una_breve_introduccion_al_dise%C3%B1o/</guid>
         <description>body {text-align: justify}
 En este capítulo, comenzaremos a pensar en las ideas básicas que se necesitan para diseñar un estudio, recopilar datos, verificar si la recopilación de datos funciona, etc. No le dará suficiente información para que pueda diseñar sus propios estudios, pero le dará muchas de las herramientas básicas que necesita para evaluar los estudios realizados por otras personas. Sin embargo, dado que el enfoque de este libro es mucho más el análisis de datos que la recopilación de datos, solo estoy dando una descripción muy breve.</description>
         <content:encoded>
@@ -2337,7 +1892,7 @@ En este capítulo, comenzaremos a pensar en las ideas básicas que se necesitan 
 
 
   &lt;div class=&#34;featured-image__wrapper&#34;&gt;
-    &lt;img src=&#34;/images/learning/cap_02.png&#34; alt=&#34;Featured Image&#34; class=&#34;featured-image&#34; style=&#34;width: ;height: ;&#34;&gt;
+    &lt;img src=&#34;https://helio4gm.netlify.app/images/learning/cap_02.png&#34; alt=&#34;Featured Image&#34; class=&#34;featured-image&#34; style=&#34;width: ;height: ;&#34;&gt;
   &lt;/div&gt;
 
 &lt;hr /&gt;
@@ -2636,7 +2191,7 @@ Continúa en la siguiente entrada...
 Escrito por Navarro, Danielle; traducido por García-Mendívil, Helio A.
 &lt;/p&gt;</content:encoded>
         <dc:creator>Helio</dc:creator>
-        <media:content url="/images/learning/cap_02.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://helio4gm.netlify.app/images/learning/cap_02.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -2672,11 +2227,11 @@ Escrito por Navarro, Danielle; traducido por García-Mendívil, Helio A.
       
       <item>
         <title>Capítulo 1: ¿Por qué aprendemos estadística?</title>
-        <link>/es/posts/2020-12-30-por_que_aprendemos_estadistica/</link>
+        <link>https://helio4gm.netlify.app/es/posts/2020-12-30-por_que_aprendemos_estadistica/</link>
         <pubDate>Wed, 30 Dec 2020 18:17:17 -0800</pubDate>
         <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
         <atom:modified>Wed, 30 Dec 2020 18:17:17 -0800</atom:modified>
-        <guid>/es/posts/2020-12-30-por_que_aprendemos_estadistica/</guid>
+        <guid>https://helio4gm.netlify.app/es/posts/2020-12-30-por_que_aprendemos_estadistica/</guid>
         <description>body {text-align: justify}
 Sobre la psicología de la estadística Para sorpresa de muchos estudiantes, la estadística es una parte bastante importante de la educación psicológica. Para sorpresa de nadie, la estadística rara vez es la parte favorita de la educación psicológica. Después de todo, si realmente te encantó la idea de hacer estadística, probablemente estarías inscrito en una clase de estadística ahora mismo, no en una clase de psicología.</description>
         <content:encoded>
@@ -2688,7 +2243,7 @@ Sobre la psicología de la estadística Para sorpresa de muchos estudiantes, la 
 
 
   &lt;div class=&#34;featured-image__wrapper&#34;&gt;
-    &lt;img src=&#34;/images/learning/cap_01.png&#34; alt=&#34;Featured Image&#34; class=&#34;featured-image&#34; style=&#34;width: ;height: ;&#34;&gt;
+    &lt;img src=&#34;https://helio4gm.netlify.app/images/learning/cap_01.png&#34; alt=&#34;Featured Image&#34; class=&#34;featured-image&#34; style=&#34;width: ;height: ;&#34;&gt;
   &lt;/div&gt;
 
 &lt;hr /&gt;
@@ -2895,7 +2450,7 @@ text-align: justify}
   
   
   
-    &lt;img data-src=&#34;/images/learning/graph01.png&#34; alt=&#34;image alt&#34; data-caption=&#34;Datos de admisiones universitarias de Berkeley 1973. Esta cifra traza la tasa de admisión de los 85 departamentos que tenían al menos una solicitante mujer, en función del porcentaje de solicitantes que eran mujeres. El gráfico es un nuevo dibujo de la Figura 1 de Bickel et al. (1975). Los círculos trazan departamentos con más de 40 solicitantes; el área del círculo es proporcional al número total de solicitantes. El departamento de parcelas cruza con menos de 40 solicitantes.&#34; src=&#34;data:image/svg+xml,%0A%3Csvg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;720px&#39; height=&#39;&#39; viewBox=&#39;0 0 24 24&#39;%3E%3Cpath fill=&#39;none&#39; d=&#39;M0 0h24v24H0V0z&#39;/%3E%3Cpath fill=&#39;%23aaa&#39; d=&#39;M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm-1 16H6c-.55 0-1-.45-1-1V6c0-.55.45-1 1-1h12c.55 0 1 .45 1 1v12c0 .55-.45 1-1 1zm-4.44-6.19l-2.35 3.02-1.56-1.88c-.2-.25-.58-.24-.78.01l-1.74 2.23c-.26.33-.02.81.39.81h8.98c.41 0 .65-.47.4-.8l-2.55-3.39c-.19-.26-.59-.26-.79 0z&#39;/%3E%3C/svg%3E&#34; class=&#34;lazyload&#34; style=&#34;width:720px;height:;&#34;/&gt;
+    &lt;img data-src=&#34;https://helio4gm.netlify.app/images/learning/graph01.png&#34; alt=&#34;image alt&#34; data-caption=&#34;Datos de admisiones universitarias de Berkeley 1973. Esta cifra traza la tasa de admisión de los 85 departamentos que tenían al menos una solicitante mujer, en función del porcentaje de solicitantes que eran mujeres. El gráfico es un nuevo dibujo de la Figura 1 de Bickel et al. (1975). Los círculos trazan departamentos con más de 40 solicitantes; el área del círculo es proporcional al número total de solicitantes. El departamento de parcelas cruza con menos de 40 solicitantes.&#34; src=&#34;data:image/svg+xml,%0A%3Csvg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;720px&#39; height=&#39;&#39; viewBox=&#39;0 0 24 24&#39;%3E%3Cpath fill=&#39;none&#39; d=&#39;M0 0h24v24H0V0z&#39;/%3E%3Cpath fill=&#39;%23aaa&#39; d=&#39;M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm-1 16H6c-.55 0-1-.45-1-1V6c0-.55.45-1 1-1h12c.55 0 1 .45 1 1v12c0 .55-.45 1-1 1zm-4.44-6.19l-2.35 3.02-1.56-1.88c-.2-.25-.58-.24-.78.01l-1.74 2.23c-.26.33-.02.81.39.81h8.98c.41 0 .65-.47.4-.8l-2.55-3.39c-.19-.26-.59-.26-.79 0z&#39;/%3E%3C/svg%3E&#34; class=&#34;lazyload&#34; style=&#34;width:720px;height:;&#34;/&gt;
   
 
   
@@ -2966,7 +2521,7 @@ text-align: justify}
 Escrito por Navarro, Danielle; traducido y editado por García-Mendívil, Helio A.
 &lt;/p&gt;</content:encoded>
         <dc:creator>Helio</dc:creator>
-        <media:content url="/images/learning/cap_01.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://helio4gm.netlify.app/images/learning/cap_01.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -3002,11 +2557,11 @@ Escrito por Navarro, Danielle; traducido y editado por García-Mendívil, Helio 
       
       <item>
         <title>Cocina (Dic., 2020)</title>
-        <link>/es/posts/2020-12-21-cocina-dic-2020/</link>
+        <link>https://helio4gm.netlify.app/es/posts/2020-12-21-cocina-dic-2020/</link>
         <pubDate>Mon, 21 Dec 2020 17:08:35 -0800</pubDate>
         <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
         <atom:modified>Mon, 21 Dec 2020 17:08:35 -0800</atom:modified>
-        <guid>/es/posts/2020-12-21-cocina-dic-2020/</guid>
+        <guid>https://helio4gm.netlify.app/es/posts/2020-12-21-cocina-dic-2020/</guid>
         <description>Versión 1 Imagenes Video Modelo  Imagenes Video Modelo Versión para celular   Celular  Haz clic sobre la imagen para cargar el modelo.
     Versión para PC   PC  Haz clic sobre la imagen para cargar el modelo.
    &#39;use strict&#39;; var containerId = JSON.</description>
@@ -3463,7 +3018,7 @@ Escrito por Navarro, Danielle; traducido y editado por García-Mendívil, Helio 
 &lt;/script&gt;
 </content:encoded>
         <dc:creator>García-Mendívil, Helio A.</dc:creator>
-        <media:content url="/https://lh3.googleusercontent.com/sX9oJ2stUM3b3IymDxlJ3kGHCP5EhJDU97lRy81L9PU0VjrDxHTItfCi9QwQITgL3AVqR5lAg5jg0ohG6KK3zQiWgE-Q89z7pQqxie5VuM_Q6oR-5wXygzjZAkeDBrgoQEKTct-lVw=w1920-h1080" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://helio4gm.netlify.app/https://lh3.googleusercontent.com/sX9oJ2stUM3b3IymDxlJ3kGHCP5EhJDU97lRy81L9PU0VjrDxHTItfCi9QwQITgL3AVqR5lAg5jg0ohG6KK3zQiWgE-Q89z7pQqxie5VuM_Q6oR-5wXygzjZAkeDBrgoQEKTct-lVw=w1920-h1080" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -3489,11 +3044,11 @@ Escrito por Navarro, Danielle; traducido y editado por García-Mendívil, Helio 
       
       <item>
         <title>Cocinas (2017 - 2020)</title>
-        <link>/es/posts/2020-12-20-cocinas-2017/</link>
+        <link>https://helio4gm.netlify.app/es/posts/2020-12-20-cocinas-2017/</link>
         <pubDate>Sun, 20 Dec 2020 12:19:35 -0800</pubDate>
         <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
         <atom:modified>Sun, 20 Dec 2020 12:19:35 -0800</atom:modified>
-        <guid>/es/posts/2020-12-20-cocinas-2017/</guid>
+        <guid>https://helio4gm.netlify.app/es/posts/2020-12-20-cocinas-2017/</guid>
         <description>Mayo, 2017 Agosto, 2017 Agosto, 2017(2)  Cocina entregada durante Mayo de 2017   Mostrar la imagen  Cocina y persiana fabricadas en madera de cedro, color nogal clasico, acabado en poliuretano semi mate, jaladeras de acero inoxidable.
    Mostrar la imagen  Cocina y persiana fabricadas en madera de cedro, color nogal clasico, acabado en poliuretano semi mate, jaladeras de acero inoxidable.
    Mostrar la imagen  Cocina y persiana fabricadas en madera de cedro, color nogal clasico, acabado en poliuretano semi mate, jaladeras de acero inoxidable.</description>
@@ -3653,7 +3208,7 @@ Escrito por Navarro, Danielle; traducido y editado por García-Mendívil, Helio 
 &lt;/script&gt;
 </content:encoded>
         <dc:creator>García-Mendívil, Helio A.</dc:creator>
-        <media:content url="/https://lh3.googleusercontent.com/QGnExOeLEiFINZzznih5eRh3PBN8N1xF8kO7bHF6ApUBB1Ne3u4sPt0ecEDbCPlqq-GWuE9Tk9YD7hFcsPpbkKvDARRqqpTEL5b8O_6Mu59MsnaLbPs1QWoUYFf7p4dPnBIee5Fapw=w1920-h1080" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://helio4gm.netlify.app/https://lh3.googleusercontent.com/QGnExOeLEiFINZzznih5eRh3PBN8N1xF8kO7bHF6ApUBB1Ne3u4sPt0ecEDbCPlqq-GWuE9Tk9YD7hFcsPpbkKvDARRqqpTEL5b8O_6Mu59MsnaLbPs1QWoUYFf7p4dPnBIee5Fapw=w1920-h1080" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -3679,17 +3234,17 @@ Escrito por Navarro, Danielle; traducido y editado por García-Mendívil, Helio 
       
       <item>
         <title>Galería de instagram</title>
-        <link>/es/posts/2020-12-20-google-sheets/</link>
+        <link>https://helio4gm.netlify.app/es/posts/2020-12-20-google-sheets/</link>
         <pubDate>Sat, 19 Dec 2020 19:12:10 -0800</pubDate>
         <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
         <atom:modified>Sat, 19 Dec 2020 19:12:10 -0800</atom:modified>
-        <guid>/es/posts/2020-12-20-google-sheets/</guid>
+        <guid>https://helio4gm.netlify.app/es/posts/2020-12-20-google-sheets/</guid>
         <description> Instagram window.PixleeAsyncInit = function() {Pixlee.init({apiKey:&#39;MbXtAwbCDeDdWjClM-Mw&#39;});Pixlee.addSimpleWidget({widgetId:&#39;31097&#39;});};</description>
         <content:encoded>&lt;h3 id=&#34;i-classfa-fa-instagram-aria-hiddentruei-instagram&#34;&gt;&lt;i class=&#34;fa fa-instagram&#34; aria-hidden=&#34;true&#34;&gt; &lt;/i&gt; Instagram&lt;/h3&gt;
 &lt;div id=&#34;pixlee_container&#34;&gt;&lt;/div&gt;&lt;script type=&#34;text/javascript&#34;&gt;window.PixleeAsyncInit = function() {Pixlee.init({apiKey:&#39;MbXtAwbCDeDdWjClM-Mw&#39;});Pixlee.addSimpleWidget({widgetId:&#39;31097&#39;});};&lt;/script&gt;&lt;script src=&#34;//instafeed.assets.pxlecdn.com/assets/pixlee_widget_1_0_0.js&#34;&gt;&lt;/script&gt;
 </content:encoded>
         <dc:creator>García-Mendívil, Helio A.</dc:creator>
-        <media:content url="/https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Instagram_logo.svg/392px-Instagram_logo.svg.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://helio4gm.netlify.app/https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Instagram_logo.svg/392px-Instagram_logo.svg.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -3711,11 +3266,11 @@ Escrito por Navarro, Danielle; traducido y editado por García-Mendívil, Helio 
       
       <item>
         <title>Libros (Molduras)</title>
-        <link>/es/posts/2020-12-14-carpinteria-libros01/</link>
+        <link>https://helio4gm.netlify.app/es/posts/2020-12-14-carpinteria-libros01/</link>
         <pubDate>Mon, 14 Dec 2020 19:15:48 -0800</pubDate>
         <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
         <atom:modified>Mon, 14 Dec 2020 19:15:48 -0800</atom:modified>
-        <guid>/es/posts/2020-12-14-carpinteria-libros01/</guid>
+        <guid>https://helio4gm.netlify.app/es/posts/2020-12-14-carpinteria-libros01/</guid>
         <description>Tague lumber moulding and millwork guide:  Woodmaster tools, inc. sample book:  Architectural Millwork Mfg. Co. Catalog:  </description>
         <content:encoded>&lt;h3 id=&#34;tague-lumber-moulding-and-millwork-guide&#34;&gt;Tague lumber moulding and millwork guide:&lt;/h3&gt;
 &lt;iframe src=&#34;https://drive.google.com/file/d/1xr-CFQ8aND55K3Q7DiDoHoaFnDKUOeDM/preview&#34; width=&#34;100%&#34; height=&#34;480&#34;&gt;&lt;/iframe&gt;  
@@ -3731,7 +3286,7 @@ Escrito por Navarro, Danielle; traducido y editado por García-Mendívil, Helio 
 &lt;hr /&gt;
 </content:encoded>
         <dc:creator>Helio</dc:creator>
-        <media:content url="/images/nuevas/Molduras_01.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://helio4gm.netlify.app/images/nuevas/Molduras_01.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -3761,11 +3316,11 @@ Escrito por Navarro, Danielle; traducido y editado por García-Mendívil, Helio 
       
       <item>
         <title>Otros trabajos</title>
-        <link>/es/posts/2020-12-13-carpinteria-otros/</link>
+        <link>https://helio4gm.netlify.app/es/posts/2020-12-13-carpinteria-otros/</link>
         <pubDate>Sun, 13 Dec 2020 23:12:00 -0800</pubDate>
         <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
         <atom:modified>Sun, 13 Dec 2020 23:12:00 -0800</atom:modified>
-        <guid>/es/posts/2020-12-13-carpinteria-otros/</guid>
+        <guid>https://helio4gm.netlify.app/es/posts/2020-12-13-carpinteria-otros/</guid>
         <description>Algunas fotos de otros trabajos entregados.
 Sample Image: Image with title, caption, alt, ...   Sample Image: Image with title, caption, alt, ...   Sample Image: Image with title, caption, alt, ...   Sample Image: Image with title, caption, alt, ...   Sample Image: Image with title, caption, alt, ...   Sample Image: Image with title, caption, alt, ...   Sample Image: Image with title, caption, alt, .</description>
         <content:encoded>&lt;p&gt;Algunas fotos de otros trabajos entregados.&lt;/p&gt;
@@ -3911,7 +3466,7 @@ Sample Image: Image with title, caption, alt, ...   Sample Image: Image with tit
 &lt;/figure&gt;
 </content:encoded>
         <dc:creator>Helio</dc:creator>
-        <media:content url="/https://lh3.googleusercontent.com/uzeyKWaC9bMwF90SR2A2sGNnKlRNWFRq4Eah38qA6uQkTyw69RhzhRfmuCnw2rwV2_nFO9gmh5NcVHns146aqTsrPK1jUdVSKP_rX7zR0P54kb5BEPn91JAW-ZmNJgjrFEP8wvFAOA=w1920-h1080" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://helio4gm.netlify.app/https://lh3.googleusercontent.com/uzeyKWaC9bMwF90SR2A2sGNnKlRNWFRq4Eah38qA6uQkTyw69RhzhRfmuCnw2rwV2_nFO9gmh5NcVHns146aqTsrPK1jUdVSKP_rX7zR0P54kb5BEPn91JAW-ZmNJgjrFEP8wvFAOA=w1920-h1080" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -3937,11 +3492,11 @@ Sample Image: Image with title, caption, alt, ...   Sample Image: Image with tit
       
       <item>
         <title>51 Wolves</title>
-        <link>/es/posts/2020-12-14-51wolves/</link>
+        <link>https://helio4gm.netlify.app/es/posts/2020-12-14-51wolves/</link>
         <pubDate>Sun, 13 Dec 2020 22:02:14 -0800</pubDate>
         <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
         <atom:modified>Sun, 13 Dec 2020 22:02:14 -0800</atom:modified>
-        <guid>/es/posts/2020-12-14-51wolves/</guid>
+        <guid>https://helio4gm.netlify.app/es/posts/2020-12-14-51wolves/</guid>
         <description>Drums: Beat Machine - Chillin&#39; Drums: Beat Machine - Chillin&#39; (Glitch) Bass: Bass Engine - DubStyle Guitar 1: Kontakt - Jazz Guitar Guitar 2: Kontakt - WarmJazz Melodica 1: Kontakt - MSLP Melodica 1 Melodica 1: Kontakt - MSLP Melodica 2 Kalimba: Kontakt - Kalimba Trombone: Kontakt - MSLP Trombone Samples Finished track </description>
         <content:encoded>&lt;h3 id=&#34;drums-beat-machine---chillin&#34;&gt;Drums: Beat Machine - Chillin&#39;&lt;/h3&gt;
 &lt;p&gt;&lt;img src=&#34;https://lh3.googleusercontent.com/AfrDbQLgLQ_u93mU-5blzBep53BFBFJgIbHkBksD6hk-an_PPZ-KeQvm8584cDKr6fKxjFZr7VQVC63SuZ6UeRqSe_PgOw0xGrc60Y_IP_Cmj9U6-8qtnfecgQ1kuJT6bsJrDp_KBgK4PG65PcNL4nOpit2A3X8UMAlIVbfGebBYw0ZBr_2Om-4aUjuxdgxVWT2g9-dh0151jl_717OtWwcJ6AMOsqqkvh5worxHisvjq1_vFQgWYwf9ipaOOaZa_WK8h1m_jxtZywSP5V8Al1ZngjdxAH4vNF8TuIDrLG3f3bSlfRZTFbYKsLaThNpgzRHta_cv2jl2cmTMwU2JoZYrRiAQVe9UApYLR89qFj55G7U0_xb-mDSK7QZEHXVz5Ns9fOaDgDKh0-CIAUhC_AKmp23KNG9c2je_HVfkG16-klN_IyY5DyHMulQ_WzYkCnwk3VCnlVPQw8xoHZRKFM47q--RoL3ERhpRsjDYPnbgT4wQnFq6SaiBE8azcIrsr0-REleQSrX75cm9siXYzz4V0gBxG_-w2Pb5wB1GyoODcHUbixRQ59PuM3Q9bAgpiDfqvQDq9gksl9FPuhN3ae0p1af2m6dTgmugclAXx6Z0Lk2BqqXGZ281zhS9Xln0eC95o2RrNgvAQL5kXCBBI_LaK7Ce4bF2QlN_aV44rnuLF40rsE871O-sDhzjnA=w662-h298-no?authuser=3&#34; alt=&#34;BeatMachine - Chilin&#39;&#34; /&gt;&lt;/p&gt;
@@ -3991,7 +3546,7 @@ Sample Image: Image with title, caption, alt, ...   Sample Image: Image with tit
 &lt;iframe src=&#34;https://www.facebook.com/plugins/video.php?height=314&amp;href=https%3A%2F%2Fwww.facebook.com%2Fhelio.irie%2Fvideos%2F1892357107480022%2F&amp;show_text=false&amp;width=560&#34; width=&#34;560&#34; height=&#34;314&#34; style=&#34;border:none;overflow:hidden&#34; scrolling=&#34;no&#34; frameborder=&#34;0&#34; allowfullscreen=&#34;true&#34; allow=&#34;autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share&#34; allowFullScreen=&#34;true&#34;&gt;&lt;/iframe&gt;
 </content:encoded>
         <dc:creator>Helio</dc:creator>
-        <media:content url="/https://lh3.googleusercontent.com/GX0Lj86Hf9PhjlhdpERmElp8W1ikiufXLDdstsi_2dt_uhG1W_zHj6VF37M2kyvYjJ60xVd-IY-p_LkRbSAbSvm4aiU5nWlwMGInZ6XtikXePKlkUze1weEgDoBT03f8TGvBVV2SEi3TJMlyuTB3cx7Gj4dcZtlVfaFhiXeqCDruY_G8BM8NTZHGu4iRQQpIZaqjArA5YtslRV9Bt_Kc7uLqyj6VXHBdlNvIsTAd1tIoyS5sMxHLWVjr3jB9wue8xylsS5QbPoAV8WXU3hekyb7T_LeRj7cbNbbkvyrl94mn-DURSLRHYawc5ZJXzpqTYHRhdHUcZaYdGoS2dEHobb0djYQLkSGbmjR9vUiJ7VxRQknSHk78eCjZo61AQeZRtQmISGhvOGFihpFHXplEQBDIpxslKs2SzqY2Xrn4a4SejDg_SA3dVwvj_D6-FXvOWhkQg1YqGKkmb0KFDTXA-r7YZNXrEtluu35uSN9iAl_OFHYFCEDK7riX9w3pQoLkOuH3dWtoIO257gpHRqKthaulJKaAtRyXq1L_zMEbknkFr3puuB01mxqAN7HXf4rF80bKLXR2cL8qAi9pF1p_3VQYa0vqYtv6eQ2YUdrxawNFHPWY6HYNAm8ANIzFykE8Jwa5xIxhpoGdk660x69n-4U5GZA7d3rOnAboqkUV-x_wiJEa7MvsFAaBxoeBdQ=w551-h533-no?authuser=3" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://helio4gm.netlify.app/https://lh3.googleusercontent.com/GX0Lj86Hf9PhjlhdpERmElp8W1ikiufXLDdstsi_2dt_uhG1W_zHj6VF37M2kyvYjJ60xVd-IY-p_LkRbSAbSvm4aiU5nWlwMGInZ6XtikXePKlkUze1weEgDoBT03f8TGvBVV2SEi3TJMlyuTB3cx7Gj4dcZtlVfaFhiXeqCDruY_G8BM8NTZHGu4iRQQpIZaqjArA5YtslRV9Bt_Kc7uLqyj6VXHBdlNvIsTAd1tIoyS5sMxHLWVjr3jB9wue8xylsS5QbPoAV8WXU3hekyb7T_LeRj7cbNbbkvyrl94mn-DURSLRHYawc5ZJXzpqTYHRhdHUcZaYdGoS2dEHobb0djYQLkSGbmjR9vUiJ7VxRQknSHk78eCjZo61AQeZRtQmISGhvOGFihpFHXplEQBDIpxslKs2SzqY2Xrn4a4SejDg_SA3dVwvj_D6-FXvOWhkQg1YqGKkmb0KFDTXA-r7YZNXrEtluu35uSN9iAl_OFHYFCEDK7riX9w3pQoLkOuH3dWtoIO257gpHRqKthaulJKaAtRyXq1L_zMEbknkFr3puuB01mxqAN7HXf4rF80bKLXR2cL8qAi9pF1p_3VQYa0vqYtv6eQ2YUdrxawNFHPWY6HYNAm8ANIzFykE8Jwa5xIxhpoGdk660x69n-4U5GZA7d3rOnAboqkUV-x_wiJEa7MvsFAaBxoeBdQ=w551-h533-no?authuser=3" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -4019,11 +3574,11 @@ Sample Image: Image with title, caption, alt, ...   Sample Image: Image with tit
       
       <item>
         <title>Armarios (2017 - 2020)</title>
-        <link>/es/posts/2020-12-13-carpinteria-armarios/</link>
+        <link>https://helio4gm.netlify.app/es/posts/2020-12-13-carpinteria-armarios/</link>
         <pubDate>Sun, 13 Dec 2020 20:12:00 -0800</pubDate>
         <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
         <atom:modified>Sun, 13 Dec 2020 20:12:00 -0800</atom:modified>
-        <guid>/es/posts/2020-12-13-carpinteria-armarios/</guid>
+        <guid>https://helio4gm.netlify.app/es/posts/2020-12-13-carpinteria-armarios/</guid>
         <description>Marzo, 2018 Enero, 2019 Marzo, 2019    Mostrar la imagen  Armario fabricado en&amp;hellip;
    Mostrar la imagen     Mostrar la imagen     Mostrar la imagen     Mostrar la imagen     Mostrar la imagen     Mostrar la imagen     Mostrar la imagen     Mostrar la imagen     Mostrar la imagen     Mostrar la imagen     &#39;use strict&#39;; var containerId = JSON.</description>
         <content:encoded>
@@ -4220,7 +3775,7 @@ Sample Image: Image with title, caption, alt, ...   Sample Image: Image with tit
 &lt;/script&gt;
 </content:encoded>
         <dc:creator>Helio</dc:creator>
-        <media:content url="/https://lh3.googleusercontent.com/bcI68xNxV54AaKkBmYUb5aBSAhX2w9ARpIDCNXAW3PJtCl0Y95sXC6ggwiam-QkLd1dk7fZtSdKp6P03NNRsdblWcD6RWjIKaTdQq5or30TeF8Z4KdJwn_a-ODle8Pt-BpllUUaXDA=w1920-h1080" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://helio4gm.netlify.app/https://lh3.googleusercontent.com/bcI68xNxV54AaKkBmYUb5aBSAhX2w9ARpIDCNXAW3PJtCl0Y95sXC6ggwiam-QkLd1dk7fZtSdKp6P03NNRsdblWcD6RWjIKaTdQq5or30TeF8Z4KdJwn_a-ODle8Pt-BpllUUaXDA=w1920-h1080" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -4246,11 +3801,11 @@ Sample Image: Image with title, caption, alt, ...   Sample Image: Image with tit
       
       <item>
         <title>Persianas</title>
-        <link>/es/posts/2020-12-13-carpinteria-persianas/</link>
+        <link>https://helio4gm.netlify.app/es/posts/2020-12-13-carpinteria-persianas/</link>
         <pubDate>Sun, 13 Dec 2020 20:12:00 -0800</pubDate>
         <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
         <atom:modified>Sun, 13 Dec 2020 20:12:00 -0800</atom:modified>
-        <guid>/es/posts/2020-12-13-carpinteria-persianas/</guid>
+        <guid>https://helio4gm.netlify.app/es/posts/2020-12-13-carpinteria-persianas/</guid>
         <description>Algunas fotos de persianas entregadas.
 Sample Image: Image with title, caption, alt, ...   Sample Image: Image with title, caption, alt, ...   Sample Image: Image with title, caption, alt, ...   Sample Image: Image with title, caption, alt, ...   </description>
         <content:encoded>&lt;p&gt;Algunas fotos de persianas entregadas.&lt;/p&gt;
@@ -4336,7 +3891,7 @@ Sample Image: Image with title, caption, alt, ...   Sample Image: Image with tit
 &lt;/figure&gt;
 </content:encoded>
         <dc:creator>Helio</dc:creator>
-        <media:content url="/https://lh3.googleusercontent.com/RY3gIFrDAqtVxAtcipTECW61gDTtJGYjUOPXzMrK1dh8AlC53qwEtiQrBoalyb5ikUXmi4oDXu_s3qm4puRcimxzQV9Q8TPrbEbTPdIzoE-e18Jq0AfgEJtNh-WcZqPlhPe9XfxoAA=w1920-h1080" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://helio4gm.netlify.app/https://lh3.googleusercontent.com/RY3gIFrDAqtVxAtcipTECW61gDTtJGYjUOPXzMrK1dh8AlC53qwEtiQrBoalyb5ikUXmi4oDXu_s3qm4puRcimxzQV9Q8TPrbEbTPdIzoE-e18Jq0AfgEJtNh-WcZqPlhPe9XfxoAA=w1920-h1080" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -4362,11 +3917,11 @@ Sample Image: Image with title, caption, alt, ...   Sample Image: Image with tit
       
       <item>
         <title>Puertas</title>
-        <link>/es/posts/2020-12-13-carpinteria-puertas/</link>
+        <link>https://helio4gm.netlify.app/es/posts/2020-12-13-carpinteria-puertas/</link>
         <pubDate>Sun, 13 Dec 2020 20:11:00 -0800</pubDate>
         <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
         <atom:modified>Sun, 13 Dec 2020 20:11:00 -0800</atom:modified>
-        <guid>/es/posts/2020-12-13-carpinteria-puertas/</guid>
+        <guid>https://helio4gm.netlify.app/es/posts/2020-12-13-carpinteria-puertas/</guid>
         <description>Algunas fotos de puertas entregadas.
 Sample Image: Image with title, caption, alt, ...   Sample Image: Image with title, caption, alt, ...   Sample Image: Image with title, caption, alt, ...   Sample Image: Image with title, caption, alt, ...   Sample Image: Image with title, caption, alt, ...   Sample Image: Image with title, caption, alt, ...   Sample Image: Image with title, caption, alt, .</description>
         <content:encoded>&lt;p&gt;Algunas fotos de puertas entregadas.&lt;/p&gt;
@@ -4512,7 +4067,7 @@ Sample Image: Image with title, caption, alt, ...   Sample Image: Image with tit
 &lt;/figure&gt;
 </content:encoded>
         <dc:creator>Helio</dc:creator>
-        <media:content url="/https://lh3.googleusercontent.com/yXznqL0gnHRHGhHXXQNt4pBvI5aEvey3ftlr1CA5csGsJK8kgaPedvC7EvUkBaJubWgY3jhBaqpIiRBx2bjbaSkQNXIw190QTjNKFJAKkh1tuPe5UoXjFWMnxwhWWvCkUEGhE16dCg=w1920-h1080" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://helio4gm.netlify.app/https://lh3.googleusercontent.com/yXznqL0gnHRHGhHXXQNt4pBvI5aEvey3ftlr1CA5csGsJK8kgaPedvC7EvUkBaJubWgY3jhBaqpIiRBx2bjbaSkQNXIw190QTjNKFJAKkh1tuPe5UoXjFWMnxwhWWvCkUEGhE16dCg=w1920-h1080" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -4538,11 +4093,11 @@ Sample Image: Image with title, caption, alt, ...   Sample Image: Image with tit
       
       <item>
         <title>Cocinas</title>
-        <link>/es/posts/carpinteria_01_cocinas/</link>
+        <link>https://helio4gm.netlify.app/es/posts/carpinteria_01_cocinas/</link>
         <pubDate>Sat, 12 Dec 2020 20:11:00 -0800</pubDate>
         <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
         <atom:modified>Sat, 12 Dec 2020 20:11:00 -0800</atom:modified>
-        <guid>/es/posts/carpinteria_01_cocinas/</guid>
+        <guid>https://helio4gm.netlify.app/es/posts/carpinteria_01_cocinas/</guid>
         <description>Algunas fotos de cocinas entregadas.
 Sample Image: Image with title, caption, alt, ...   Sample Image: Image with title, caption, alt, ...   Sample Image: Image with title, caption, alt, ...   Sample Image: Image with title, caption, alt, ...   Sample Image: Image with title, caption, alt, ...   Sample Image: Image with title, caption, alt, ...   Sample Image: Image with title, caption, alt, .</description>
         <content:encoded>&lt;p&gt;Algunas fotos de cocinas entregadas.&lt;/p&gt;
@@ -4550,7 +4105,7 @@ Sample Image: Image with title, caption, alt, ...   Sample Image: Image with tit
   
   
   
-    &lt;img data-src=&#34;/images/nuevas/cocina_01.jpg&#34; alt=&#34;image alt&#34; data-caption=&#34;Image with title, caption, alt, ...&#34; src=&#34;data:image/svg+xml,%0A%3Csvg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;700px&#39; height=&#39;&#39; viewBox=&#39;0 0 24 24&#39;%3E%3Cpath fill=&#39;none&#39; d=&#39;M0 0h24v24H0V0z&#39;/%3E%3Cpath fill=&#39;%23aaa&#39; d=&#39;M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm-1 16H6c-.55 0-1-.45-1-1V6c0-.55.45-1 1-1h12c.55 0 1 .45 1 1v12c0 .55-.45 1-1 1zm-4.44-6.19l-2.35 3.02-1.56-1.88c-.2-.25-.58-.24-.78.01l-1.74 2.23c-.26.33-.02.81.39.81h8.98c.41 0 .65-.47.4-.8l-2.55-3.39c-.19-.26-.59-.26-.79 0z&#39;/%3E%3C/svg%3E&#34; class=&#34;lazyload&#34; style=&#34;width:700px;height:;&#34;/&gt;
+    &lt;img data-src=&#34;https://helio4gm.netlify.app/images/nuevas/cocina_01.jpg&#34; alt=&#34;image alt&#34; data-caption=&#34;Image with title, caption, alt, ...&#34; src=&#34;data:image/svg+xml,%0A%3Csvg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;700px&#39; height=&#39;&#39; viewBox=&#39;0 0 24 24&#39;%3E%3Cpath fill=&#39;none&#39; d=&#39;M0 0h24v24H0V0z&#39;/%3E%3Cpath fill=&#39;%23aaa&#39; d=&#39;M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm-1 16H6c-.55 0-1-.45-1-1V6c0-.55.45-1 1-1h12c.55 0 1 .45 1 1v12c0 .55-.45 1-1 1zm-4.44-6.19l-2.35 3.02-1.56-1.88c-.2-.25-.58-.24-.78.01l-1.74 2.23c-.26.33-.02.81.39.81h8.98c.41 0 .65-.47.4-.8l-2.55-3.39c-.19-.26-.59-.26-.79 0z&#39;/%3E%3C/svg%3E&#34; class=&#34;lazyload&#34; style=&#34;width:700px;height:;&#34;/&gt;
   
 
   
@@ -4570,7 +4125,7 @@ Sample Image: Image with title, caption, alt, ...   Sample Image: Image with tit
   
   
   
-    &lt;img data-src=&#34;/images/nuevas/cocina_02.jpg&#34; alt=&#34;image alt&#34; data-caption=&#34;Image with title, caption, alt, ...&#34; src=&#34;data:image/svg+xml,%0A%3Csvg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;700px&#39; height=&#39;&#39; viewBox=&#39;0 0 24 24&#39;%3E%3Cpath fill=&#39;none&#39; d=&#39;M0 0h24v24H0V0z&#39;/%3E%3Cpath fill=&#39;%23aaa&#39; d=&#39;M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm-1 16H6c-.55 0-1-.45-1-1V6c0-.55.45-1 1-1h12c.55 0 1 .45 1 1v12c0 .55-.45 1-1 1zm-4.44-6.19l-2.35 3.02-1.56-1.88c-.2-.25-.58-.24-.78.01l-1.74 2.23c-.26.33-.02.81.39.81h8.98c.41 0 .65-.47.4-.8l-2.55-3.39c-.19-.26-.59-.26-.79 0z&#39;/%3E%3C/svg%3E&#34; class=&#34;lazyload&#34; style=&#34;width:700px;height:;&#34;/&gt;
+    &lt;img data-src=&#34;https://helio4gm.netlify.app/images/nuevas/cocina_02.jpg&#34; alt=&#34;image alt&#34; data-caption=&#34;Image with title, caption, alt, ...&#34; src=&#34;data:image/svg+xml,%0A%3Csvg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;700px&#39; height=&#39;&#39; viewBox=&#39;0 0 24 24&#39;%3E%3Cpath fill=&#39;none&#39; d=&#39;M0 0h24v24H0V0z&#39;/%3E%3Cpath fill=&#39;%23aaa&#39; d=&#39;M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm-1 16H6c-.55 0-1-.45-1-1V6c0-.55.45-1 1-1h12c.55 0 1 .45 1 1v12c0 .55-.45 1-1 1zm-4.44-6.19l-2.35 3.02-1.56-1.88c-.2-.25-.58-.24-.78.01l-1.74 2.23c-.26.33-.02.81.39.81h8.98c.41 0 .65-.47.4-.8l-2.55-3.39c-.19-.26-.59-.26-.79 0z&#39;/%3E%3C/svg%3E&#34; class=&#34;lazyload&#34; style=&#34;width:700px;height:;&#34;/&gt;
   
 
   
@@ -4590,7 +4145,7 @@ Sample Image: Image with title, caption, alt, ...   Sample Image: Image with tit
   
   
   
-    &lt;img data-src=&#34;/images/nuevas/cocina_03.jpg&#34; alt=&#34;image alt&#34; data-caption=&#34;Image with title, caption, alt, ...&#34; src=&#34;data:image/svg+xml,%0A%3Csvg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;700px&#39; height=&#39;&#39; viewBox=&#39;0 0 24 24&#39;%3E%3Cpath fill=&#39;none&#39; d=&#39;M0 0h24v24H0V0z&#39;/%3E%3Cpath fill=&#39;%23aaa&#39; d=&#39;M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm-1 16H6c-.55 0-1-.45-1-1V6c0-.55.45-1 1-1h12c.55 0 1 .45 1 1v12c0 .55-.45 1-1 1zm-4.44-6.19l-2.35 3.02-1.56-1.88c-.2-.25-.58-.24-.78.01l-1.74 2.23c-.26.33-.02.81.39.81h8.98c.41 0 .65-.47.4-.8l-2.55-3.39c-.19-.26-.59-.26-.79 0z&#39;/%3E%3C/svg%3E&#34; class=&#34;lazyload&#34; style=&#34;width:700px;height:;&#34;/&gt;
+    &lt;img data-src=&#34;https://helio4gm.netlify.app/images/nuevas/cocina_03.jpg&#34; alt=&#34;image alt&#34; data-caption=&#34;Image with title, caption, alt, ...&#34; src=&#34;data:image/svg+xml,%0A%3Csvg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;700px&#39; height=&#39;&#39; viewBox=&#39;0 0 24 24&#39;%3E%3Cpath fill=&#39;none&#39; d=&#39;M0 0h24v24H0V0z&#39;/%3E%3Cpath fill=&#39;%23aaa&#39; d=&#39;M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm-1 16H6c-.55 0-1-.45-1-1V6c0-.55.45-1 1-1h12c.55 0 1 .45 1 1v12c0 .55-.45 1-1 1zm-4.44-6.19l-2.35 3.02-1.56-1.88c-.2-.25-.58-.24-.78.01l-1.74 2.23c-.26.33-.02.81.39.81h8.98c.41 0 .65-.47.4-.8l-2.55-3.39c-.19-.26-.59-.26-.79 0z&#39;/%3E%3C/svg%3E&#34; class=&#34;lazyload&#34; style=&#34;width:700px;height:;&#34;/&gt;
   
 
   
@@ -4610,7 +4165,7 @@ Sample Image: Image with title, caption, alt, ...   Sample Image: Image with tit
   
   
   
-    &lt;img data-src=&#34;/images/nuevas/cocina_04.jpg&#34; alt=&#34;image alt&#34; data-caption=&#34;Image with title, caption, alt, ...&#34; src=&#34;data:image/svg+xml,%0A%3Csvg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;700px&#39; height=&#39;&#39; viewBox=&#39;0 0 24 24&#39;%3E%3Cpath fill=&#39;none&#39; d=&#39;M0 0h24v24H0V0z&#39;/%3E%3Cpath fill=&#39;%23aaa&#39; d=&#39;M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm-1 16H6c-.55 0-1-.45-1-1V6c0-.55.45-1 1-1h12c.55 0 1 .45 1 1v12c0 .55-.45 1-1 1zm-4.44-6.19l-2.35 3.02-1.56-1.88c-.2-.25-.58-.24-.78.01l-1.74 2.23c-.26.33-.02.81.39.81h8.98c.41 0 .65-.47.4-.8l-2.55-3.39c-.19-.26-.59-.26-.79 0z&#39;/%3E%3C/svg%3E&#34; class=&#34;lazyload&#34; style=&#34;width:700px;height:;&#34;/&gt;
+    &lt;img data-src=&#34;https://helio4gm.netlify.app/images/nuevas/cocina_04.jpg&#34; alt=&#34;image alt&#34; data-caption=&#34;Image with title, caption, alt, ...&#34; src=&#34;data:image/svg+xml,%0A%3Csvg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;700px&#39; height=&#39;&#39; viewBox=&#39;0 0 24 24&#39;%3E%3Cpath fill=&#39;none&#39; d=&#39;M0 0h24v24H0V0z&#39;/%3E%3Cpath fill=&#39;%23aaa&#39; d=&#39;M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm-1 16H6c-.55 0-1-.45-1-1V6c0-.55.45-1 1-1h12c.55 0 1 .45 1 1v12c0 .55-.45 1-1 1zm-4.44-6.19l-2.35 3.02-1.56-1.88c-.2-.25-.58-.24-.78.01l-1.74 2.23c-.26.33-.02.81.39.81h8.98c.41 0 .65-.47.4-.8l-2.55-3.39c-.19-.26-.59-.26-.79 0z&#39;/%3E%3C/svg%3E&#34; class=&#34;lazyload&#34; style=&#34;width:700px;height:;&#34;/&gt;
   
 
   
@@ -4630,7 +4185,7 @@ Sample Image: Image with title, caption, alt, ...   Sample Image: Image with tit
   
   
   
-    &lt;img data-src=&#34;/images/nuevas/cocina_05.jpg&#34; alt=&#34;image alt&#34; data-caption=&#34;Image with title, caption, alt, ...&#34; src=&#34;data:image/svg+xml,%0A%3Csvg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;700px&#39; height=&#39;&#39; viewBox=&#39;0 0 24 24&#39;%3E%3Cpath fill=&#39;none&#39; d=&#39;M0 0h24v24H0V0z&#39;/%3E%3Cpath fill=&#39;%23aaa&#39; d=&#39;M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm-1 16H6c-.55 0-1-.45-1-1V6c0-.55.45-1 1-1h12c.55 0 1 .45 1 1v12c0 .55-.45 1-1 1zm-4.44-6.19l-2.35 3.02-1.56-1.88c-.2-.25-.58-.24-.78.01l-1.74 2.23c-.26.33-.02.81.39.81h8.98c.41 0 .65-.47.4-.8l-2.55-3.39c-.19-.26-.59-.26-.79 0z&#39;/%3E%3C/svg%3E&#34; class=&#34;lazyload&#34; style=&#34;width:700px;height:;&#34;/&gt;
+    &lt;img data-src=&#34;https://helio4gm.netlify.app/images/nuevas/cocina_05.jpg&#34; alt=&#34;image alt&#34; data-caption=&#34;Image with title, caption, alt, ...&#34; src=&#34;data:image/svg+xml,%0A%3Csvg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;700px&#39; height=&#39;&#39; viewBox=&#39;0 0 24 24&#39;%3E%3Cpath fill=&#39;none&#39; d=&#39;M0 0h24v24H0V0z&#39;/%3E%3Cpath fill=&#39;%23aaa&#39; d=&#39;M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm-1 16H6c-.55 0-1-.45-1-1V6c0-.55.45-1 1-1h12c.55 0 1 .45 1 1v12c0 .55-.45 1-1 1zm-4.44-6.19l-2.35 3.02-1.56-1.88c-.2-.25-.58-.24-.78.01l-1.74 2.23c-.26.33-.02.81.39.81h8.98c.41 0 .65-.47.4-.8l-2.55-3.39c-.19-.26-.59-.26-.79 0z&#39;/%3E%3C/svg%3E&#34; class=&#34;lazyload&#34; style=&#34;width:700px;height:;&#34;/&gt;
   
 
   
@@ -4650,7 +4205,7 @@ Sample Image: Image with title, caption, alt, ...   Sample Image: Image with tit
   
   
   
-    &lt;img data-src=&#34;/images/nuevas/cocina_06.jpg&#34; alt=&#34;image alt&#34; data-caption=&#34;Image with title, caption, alt, ...&#34; src=&#34;data:image/svg+xml,%0A%3Csvg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;700px&#39; height=&#39;&#39; viewBox=&#39;0 0 24 24&#39;%3E%3Cpath fill=&#39;none&#39; d=&#39;M0 0h24v24H0V0z&#39;/%3E%3Cpath fill=&#39;%23aaa&#39; d=&#39;M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm-1 16H6c-.55 0-1-.45-1-1V6c0-.55.45-1 1-1h12c.55 0 1 .45 1 1v12c0 .55-.45 1-1 1zm-4.44-6.19l-2.35 3.02-1.56-1.88c-.2-.25-.58-.24-.78.01l-1.74 2.23c-.26.33-.02.81.39.81h8.98c.41 0 .65-.47.4-.8l-2.55-3.39c-.19-.26-.59-.26-.79 0z&#39;/%3E%3C/svg%3E&#34; class=&#34;lazyload&#34; style=&#34;width:700px;height:;&#34;/&gt;
+    &lt;img data-src=&#34;https://helio4gm.netlify.app/images/nuevas/cocina_06.jpg&#34; alt=&#34;image alt&#34; data-caption=&#34;Image with title, caption, alt, ...&#34; src=&#34;data:image/svg+xml,%0A%3Csvg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;700px&#39; height=&#39;&#39; viewBox=&#39;0 0 24 24&#39;%3E%3Cpath fill=&#39;none&#39; d=&#39;M0 0h24v24H0V0z&#39;/%3E%3Cpath fill=&#39;%23aaa&#39; d=&#39;M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm-1 16H6c-.55 0-1-.45-1-1V6c0-.55.45-1 1-1h12c.55 0 1 .45 1 1v12c0 .55-.45 1-1 1zm-4.44-6.19l-2.35 3.02-1.56-1.88c-.2-.25-.58-.24-.78.01l-1.74 2.23c-.26.33-.02.81.39.81h8.98c.41 0 .65-.47.4-.8l-2.55-3.39c-.19-.26-.59-.26-.79 0z&#39;/%3E%3C/svg%3E&#34; class=&#34;lazyload&#34; style=&#34;width:700px;height:;&#34;/&gt;
   
 
   
@@ -4670,7 +4225,7 @@ Sample Image: Image with title, caption, alt, ...   Sample Image: Image with tit
   
   
   
-    &lt;img data-src=&#34;/images/nuevas/cocina_07.jpg&#34; alt=&#34;image alt&#34; data-caption=&#34;Image with title, caption, alt, ...&#34; src=&#34;data:image/svg+xml,%0A%3Csvg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;700px&#39; height=&#39;&#39; viewBox=&#39;0 0 24 24&#39;%3E%3Cpath fill=&#39;none&#39; d=&#39;M0 0h24v24H0V0z&#39;/%3E%3Cpath fill=&#39;%23aaa&#39; d=&#39;M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm-1 16H6c-.55 0-1-.45-1-1V6c0-.55.45-1 1-1h12c.55 0 1 .45 1 1v12c0 .55-.45 1-1 1zm-4.44-6.19l-2.35 3.02-1.56-1.88c-.2-.25-.58-.24-.78.01l-1.74 2.23c-.26.33-.02.81.39.81h8.98c.41 0 .65-.47.4-.8l-2.55-3.39c-.19-.26-.59-.26-.79 0z&#39;/%3E%3C/svg%3E&#34; class=&#34;lazyload&#34; style=&#34;width:700px;height:;&#34;/&gt;
+    &lt;img data-src=&#34;https://helio4gm.netlify.app/images/nuevas/cocina_07.jpg&#34; alt=&#34;image alt&#34; data-caption=&#34;Image with title, caption, alt, ...&#34; src=&#34;data:image/svg+xml,%0A%3Csvg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;700px&#39; height=&#39;&#39; viewBox=&#39;0 0 24 24&#39;%3E%3Cpath fill=&#39;none&#39; d=&#39;M0 0h24v24H0V0z&#39;/%3E%3Cpath fill=&#39;%23aaa&#39; d=&#39;M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm-1 16H6c-.55 0-1-.45-1-1V6c0-.55.45-1 1-1h12c.55 0 1 .45 1 1v12c0 .55-.45 1-1 1zm-4.44-6.19l-2.35 3.02-1.56-1.88c-.2-.25-.58-.24-.78.01l-1.74 2.23c-.26.33-.02.81.39.81h8.98c.41 0 .65-.47.4-.8l-2.55-3.39c-.19-.26-.59-.26-.79 0z&#39;/%3E%3C/svg%3E&#34; class=&#34;lazyload&#34; style=&#34;width:700px;height:;&#34;/&gt;
   
 
   
@@ -4690,7 +4245,7 @@ Sample Image: Image with title, caption, alt, ...   Sample Image: Image with tit
   
   
   
-    &lt;img data-src=&#34;/images/nuevas/cocina_08.jpg&#34; alt=&#34;image alt&#34; data-caption=&#34;Image with title, caption, alt, ...&#34; src=&#34;data:image/svg+xml,%0A%3Csvg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;700px&#39; height=&#39;&#39; viewBox=&#39;0 0 24 24&#39;%3E%3Cpath fill=&#39;none&#39; d=&#39;M0 0h24v24H0V0z&#39;/%3E%3Cpath fill=&#39;%23aaa&#39; d=&#39;M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm-1 16H6c-.55 0-1-.45-1-1V6c0-.55.45-1 1-1h12c.55 0 1 .45 1 1v12c0 .55-.45 1-1 1zm-4.44-6.19l-2.35 3.02-1.56-1.88c-.2-.25-.58-.24-.78.01l-1.74 2.23c-.26.33-.02.81.39.81h8.98c.41 0 .65-.47.4-.8l-2.55-3.39c-.19-.26-.59-.26-.79 0z&#39;/%3E%3C/svg%3E&#34; class=&#34;lazyload&#34; style=&#34;width:700px;height:;&#34;/&gt;
+    &lt;img data-src=&#34;https://helio4gm.netlify.app/images/nuevas/cocina_08.jpg&#34; alt=&#34;image alt&#34; data-caption=&#34;Image with title, caption, alt, ...&#34; src=&#34;data:image/svg+xml,%0A%3Csvg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;700px&#39; height=&#39;&#39; viewBox=&#39;0 0 24 24&#39;%3E%3Cpath fill=&#39;none&#39; d=&#39;M0 0h24v24H0V0z&#39;/%3E%3Cpath fill=&#39;%23aaa&#39; d=&#39;M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm-1 16H6c-.55 0-1-.45-1-1V6c0-.55.45-1 1-1h12c.55 0 1 .45 1 1v12c0 .55-.45 1-1 1zm-4.44-6.19l-2.35 3.02-1.56-1.88c-.2-.25-.58-.24-.78.01l-1.74 2.23c-.26.33-.02.81.39.81h8.98c.41 0 .65-.47.4-.8l-2.55-3.39c-.19-.26-.59-.26-.79 0z&#39;/%3E%3C/svg%3E&#34; class=&#34;lazyload&#34; style=&#34;width:700px;height:;&#34;/&gt;
   
 
   
@@ -4710,7 +4265,7 @@ Sample Image: Image with title, caption, alt, ...   Sample Image: Image with tit
 &lt;iframe width=&#34;100%&#34; height=&#34;430&#34; src=&#34;https://www.youtube.com/embed/Gbo7EmdtjuU?autoplay=1&amp;loop=1&#34; frameborder=&#34;0&#34;  allowfullscreen&gt;&lt;/iframe&gt;
 &lt;div class=&#39;modelo-wrapper&#39;&gt; &lt;div style=&#34;width: 100%; padding-bottom: 56.25%; position: relative&#34;&gt; &lt;div style=&#34;position: absolute; top: 0; bottom: 0; left: 0; right: 0;&#34;&gt; &lt;iframe src=&#34;https://app.modelo.io/embedded/1Nmg3huZRm?viewport=false&amp;autoplay=true&amp;autoRotate=true&amp;hideTools=false&#34; style=&#34;width:100%;height:100%;&#34; frameborder=&#34;0&#34; mozallowfullscreen webkitallowfullscreen allowfullscreen &gt;&lt;/iframe&gt; &lt;/div&gt; &lt;/div&gt; &lt;/div&gt;</content:encoded>
         <dc:creator>Helio</dc:creator>
-        <media:content url="//images/nuevas/cocina_06.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://helio4gm.netlify.app//images/nuevas/cocina_06.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -4736,11 +4291,11 @@ Sample Image: Image with title, caption, alt, ...   Sample Image: Image with tit
       
       <item>
         <title>Resaltador de sintaxis</title>
-        <link>/es/posts/post_de_prueba_01/</link>
+        <link>https://helio4gm.netlify.app/es/posts/post_de_prueba_01/</link>
         <pubDate>Fri, 11 Dec 2020 23:45:00 -0800</pubDate>
         <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
         <atom:modified>Fri, 11 Dec 2020 23:45:00 -0800</atom:modified>
-        <guid>/es/posts/post_de_prueba_01/</guid>
+        <guid>https://helio4gm.netlify.app/es/posts/post_de_prueba_01/</guid>
         <description>Resaltador de sintaxis de codigo Markdown 1 2 3  **bold** *italics* [link](www.example.com)   R 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66  ## Load all the libraries needed and the data library(readr) library(mosaic) library(FSA) library(&amp;#34;ggplot2&amp;#34;) library(readxl) library(knitr) library(doBy) library(agricolae) options(scipen=999, digits = 0) mydata &amp;lt;- read_excel(&amp;#34;.</description>
         <content:encoded>&lt;h2 id=&#34;resaltador-de-sintaxis-de-codigo&#34;&gt;Resaltador de sintaxis de codigo&lt;/h2&gt;
 &lt;h3 id=&#34;markdown&#34;&gt;Markdown&lt;/h3&gt;
@@ -5370,7 +4925,7 @@ Sample Image: Image with title, caption, alt, ...   Sample Image: Image with tit
 &lt;/div&gt;
 &lt;/div&gt;</content:encoded>
         <dc:creator>Helio</dc:creator>
-        <media:content url="/https://images.unsplash.com/photo-1515879218367-8466d910aaa4?ixlib=rb-1.2.1&amp;q=80&amp;fm=jpg&amp;crop=entropy&amp;cs=tinysrgb&amp;w=2000&amp;fit=max&amp;ixid=eyJhcHBfaWQiOjExNzczfQ" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://helio4gm.netlify.app/https://images.unsplash.com/photo-1515879218367-8466d910aaa4?ixlib=rb-1.2.1&amp;q=80&amp;fm=jpg&amp;crop=entropy&amp;cs=tinysrgb&amp;w=2000&amp;fit=max&amp;ixid=eyJhcHBfaWQiOjExNzczfQ" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -5398,17 +4953,17 @@ Sample Image: Image with title, caption, alt, ...   Sample Image: Image with tit
       
       <item>
         <title>Formulario de Google Forms</title>
-        <link>/es/posts/post_de_prueba_07/</link>
+        <link>https://helio4gm.netlify.app/es/posts/post_de_prueba_07/</link>
         <pubDate>Fri, 11 Dec 2020 23:38:00 -0800</pubDate>
         <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
         <atom:modified>Fri, 11 Dec 2020 23:38:00 -0800</atom:modified>
-        <guid>/es/posts/post_de_prueba_07/</guid>
+        <guid>https://helio4gm.netlify.app/es/posts/post_de_prueba_07/</guid>
         <description>Formulario de google Cargando…</description>
         <content:encoded>&lt;h3 id=&#34;formulario-de-google&#34;&gt;Formulario de google&lt;/h3&gt;
 &lt;iframe src=&#34;https://docs.google.com/forms/d/e/1FAIpQLSefaYY_1_0tdWMdHUIqO0CAdnc_BtGUlsZWK5q0LLJ-UvWzJA/viewform?embedded=true&#34; width=&#34;100%&#34; height=&#34;380&#34; frameborder=&#34;0&#34; marginheight=&#34;0&#34; marginwidth=&#34;0&#34;&gt;Cargando…&lt;/iframe&gt;
 </content:encoded>
         <dc:creator>Helio</dc:creator>
-        <media:content url="/https://i.pinimg.com/originals/4e/14/9e/4e149e8d405fd2c9f00b7ba7d3687723.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://helio4gm.netlify.app/https://i.pinimg.com/originals/4e/14/9e/4e149e8d405fd2c9f00b7ba7d3687723.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -5432,11 +4987,11 @@ Sample Image: Image with title, caption, alt, ...   Sample Image: Image with tit
       
       <item>
         <title>Feed RSS</title>
-        <link>/es/posts/post_de_prueba_06/</link>
+        <link>https://helio4gm.netlify.app/es/posts/post_de_prueba_06/</link>
         <pubDate>Fri, 11 Dec 2020 23:37:00 -0800</pubDate>
         <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
         <atom:modified>Fri, 11 Dec 2020 23:37:00 -0800</atom:modified>
-        <guid>/es/posts/post_de_prueba_06/</guid>
+        <guid>https://helio4gm.netlify.app/es/posts/post_de_prueba_06/</guid>
         <description>Feed RSS de noticias   powered by Surfing Waves </description>
         <content:encoded>&lt;h3 id=&#34;feed-rss-de-noticias&#34;&gt;Feed RSS de noticias&lt;/h3&gt;
 &lt;!-- start sw-rss-feed code --&gt; 
@@ -5486,7 +5041,7 @@ rssfeed_cache = &#34;e19d6743d060133ccd3575c80069961f&#34;;
 &lt;!-- end sw-rss-feed code --&gt;
 </content:encoded>
         <dc:creator>Helio</dc:creator>
-        <media:content url="/https://modoturismo.com/wp-content/uploads/2020/05/rss-40674.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://helio4gm.netlify.app/https://modoturismo.com/wp-content/uploads/2020/05/rss-40674.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -5510,17 +5065,17 @@ rssfeed_cache = &#34;e19d6743d060133ccd3575c80069961f&#34;;
       
       <item>
         <title>Un mapa de Google Maps</title>
-        <link>/es/posts/post_de_prueba_05/</link>
+        <link>https://helio4gm.netlify.app/es/posts/post_de_prueba_05/</link>
         <pubDate>Fri, 11 Dec 2020 23:35:00 -0800</pubDate>
         <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
         <atom:modified>Fri, 11 Dec 2020 23:35:00 -0800</atom:modified>
-        <guid>/es/posts/post_de_prueba_05/</guid>
+        <guid>https://helio4gm.netlify.app/es/posts/post_de_prueba_05/</guid>
         <description>Un mapa del Agropolis </description>
         <content:encoded>&lt;h3 id=&#34;un-mapa-del-agropolis&#34;&gt;Un mapa del Agropolis&lt;/h3&gt;
 &lt;iframe src=&#34;https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d237.1939507650599!2d2.043860585591994!3d41.28830555566967!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNDHCsDE3JzE4LjAiTiAywrAwMiczOC44IkU!5e1!3m2!1sen!2smx!4v1607152965858!5m2!1sen!2smx&#34; width=&#34;100%&#34; height=&#34;450&#34; frameborder=&#34;0&#34; style=&#34;border:0;&#34; allowfullscreen=&#34;&#34; aria-hidden=&#34;false&#34; tabindex=&#34;0&#34;&gt;&lt;/iframe&gt;
 </content:encoded>
         <dc:creator>Helio</dc:creator>
-        <media:content url="/https://www.breko.co/blog/wp-content/uploads/2019/05/google-maps-1.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://helio4gm.netlify.app/https://www.breko.co/blog/wp-content/uploads/2019/05/google-maps-1.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -5544,11 +5099,11 @@ rssfeed_cache = &#34;e19d6743d060133ccd3575c80069961f&#34;;
       
       <item>
         <title>Publicaciones de Facebook</title>
-        <link>/es/posts/post_de_prueba_04/</link>
+        <link>https://helio4gm.netlify.app/es/posts/post_de_prueba_04/</link>
         <pubDate>Fri, 11 Dec 2020 23:34:00 -0800</pubDate>
         <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
         <atom:modified>Fri, 11 Dec 2020 23:34:00 -0800</atom:modified>
-        <guid>/es/posts/post_de_prueba_04/</guid>
+        <guid>https://helio4gm.netlify.app/es/posts/post_de_prueba_04/</guid>
         <description>Video de Facebook: Video de Facebook con funciones: Otro video Video de Facebook, porque gracioso: </description>
         <content:encoded>&lt;div id=&#34;fb-root&#34;&gt;&lt;/div&gt;
 &lt;script async defer crossorigin=&#34;anonymous&#34; src=&#34;https://connect.facebook.net/es_ES/sdk.js#xfbml=1&amp;version=v9.0&#34; nonce=&#34;hkmYU9qu&#34;&gt;&lt;/script&gt;
@@ -5560,7 +5115,7 @@ rssfeed_cache = &#34;e19d6743d060133ccd3575c80069961f&#34;;
 &lt;iframe src=&#34;https://www.facebook.com/plugins/video.php?height=314&amp;href=https%3A%2F%2Fwww.facebook.com%2Fhelio.irie%2Fvideos%2F3144207428961644%2F&amp;show_text=true&#34; width=&#34;100%&#34; height=&#34;480&#34; style=&#34;border:none;overflow:hidden&#34; scrolling=&#34;no&#34; frameborder=&#34;0&#34; allowfullscreen=&#34;true&#34; allow=&#34;autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share&#34; allowFullScreen=&#34;true&#34;&gt;&lt;/iframe&gt;
 </content:encoded>
         <dc:creator>Helio</dc:creator>
-        <media:content url="/https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Facebook_New_Logo_%282015%29.svg/1200px-Facebook_New_Logo_%282015%29.svg.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://helio4gm.netlify.app/https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Facebook_New_Logo_%282015%29.svg/1200px-Facebook_New_Logo_%282015%29.svg.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -5584,11 +5139,11 @@ rssfeed_cache = &#34;e19d6743d060133ccd3575c80069961f&#34;;
       
       <item>
         <title>Galeria Google Photos</title>
-        <link>/es/posts/post_de_prueba_03/</link>
+        <link>https://helio4gm.netlify.app/es/posts/post_de_prueba_03/</link>
         <pubDate>Fri, 11 Dec 2020 23:33:00 -0800</pubDate>
         <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
         <atom:modified>Fri, 11 Dec 2020 23:33:00 -0800</atom:modified>
-        <guid>/es/posts/post_de_prueba_03/</guid>
+        <guid>https://helio4gm.netlify.app/es/posts/post_de_prueba_03/</guid>
         <description>Album de fotografías de Google Photos: Fotografía de Google Photos: </description>
         <content:encoded>&lt;h3 id=&#34;album-de-fotografías-de-google-photos&#34;&gt;Album de fotografías de Google Photos:&lt;/h3&gt;
 &lt;script src=&#34;https://cdn.jsdelivr.net/npm/publicalbum@latest/embed-ui.min.js&#34; async&gt;&lt;/script&gt;
@@ -5613,7 +5168,7 @@ rssfeed_cache = &#34;e19d6743d060133ccd3575c80069961f&#34;;
 &lt;/div&gt;
 </content:encoded>
         <dc:creator>Helio</dc:creator>
-        <media:content url="/https://www.businessinsider.in/thumb/msid-73554652,width-1200,height-900/Google-Photos.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://helio4gm.netlify.app/https://www.businessinsider.in/thumb/msid-73554652,width-1200,height-900/Google-Photos.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -5637,18 +5192,18 @@ rssfeed_cache = &#34;e19d6743d060133ccd3575c80069961f&#34;;
       
       <item>
         <title>Objeto incrustado: PDF</title>
-        <link>/es/posts/post_de_prueba_02/</link>
+        <link>https://helio4gm.netlify.app/es/posts/post_de_prueba_02/</link>
         <pubDate>Fri, 11 Dec 2020 23:32:00 -0800</pubDate>
         <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
         <atom:modified>Fri, 11 Dec 2020 23:32:00 -0800</atom:modified>
-        <guid>/es/posts/post_de_prueba_02/</guid>
+        <guid>https://helio4gm.netlify.app/es/posts/post_de_prueba_02/</guid>
         <description>Documento PDF de Google Drive:  </description>
         <content:encoded>&lt;h3 id=&#34;documento-pdf-de-google-drive&#34;&gt;Documento PDF de Google Drive:&lt;/h3&gt;
 &lt;iframe src=&#34;https://drive.google.com/file/d/1FfZiVSoM-lGF8luHayFT4cbWj8JoafAA/preview&#34; width=&#34;100%&#34; height=&#34;480&#34;&gt;&lt;/iframe&gt;  
 &lt;hr /&gt;
 </content:encoded>
         <dc:creator>Helio</dc:creator>
-        <media:content url="/https://d33v4339jhl8k0.cloudfront.net/docs/assets/59dda47e2c7d3a40f0ed5ae7/images/5b70d1ac0428631d7a89e47e/file-7e4xmENjHr.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://helio4gm.netlify.app/https://d33v4339jhl8k0.cloudfront.net/docs/assets/59dda47e2c7d3a40f0ed5ae7/images/5b70d1ac0428631d7a89e47e/file-7e4xmENjHr.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -5672,11 +5227,11 @@ rssfeed_cache = &#34;e19d6743d060133ccd3575c80069961f&#34;;
       
       <item>
         <title>RMarkdown</title>
-        <link>/es/posts/post-en-archivo-rmd/</link>
+        <link>https://helio4gm.netlify.app/es/posts/post-en-archivo-rmd/</link>
         <pubDate>Fri, 11 Dec 2020 23:46:00 +0900</pubDate>
         <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
         <atom:modified>Fri, 11 Dec 2020 23:46:00 +0900</atom:modified>
-        <guid>/es/posts/post-en-archivo-rmd/</guid>
+        <guid>https://helio4gm.netlify.app/es/posts/post-en-archivo-rmd/</guid>
         <description>body {text-align: justify}R MarkdownEste es un documento en formato R Markdown. Markdown es un sintaxis de formato simple para crear documentos HTML, PDF, y MS Word. Para más detalles de como utilizar R Markdown visita http://rmarkdown.rstudio.com.
 Cuando presoinas el botón Knit, se genera un documento que incluye tanto el contenido como el como el resultado de cualquier trozo de codigo R incrustado dentro del documento.</description>
         <content:encoded>
@@ -6033,14 +5588,14 @@ dif&lt;/code&gt;&lt;/pre&gt;
 &lt;h3&gt;Graficos generados por R&lt;/h3&gt;
 &lt;p&gt;También se pueden incluir graficos. Por ejemplo, la función &lt;strong&gt;boxplot&lt;/strong&gt;.&lt;/p&gt;
 &lt;pre class=&#34;r&#34;&gt;&lt;code&gt;boxplot(Sub.Eggs.MIAd$EggsP ~ Sub.Eggs.MIAd$Nger, main = &amp;quot;MIAd&amp;quot;, xlab = &amp;quot;Germplasm&amp;quot;, ylab = &amp;quot;Eggs per plant&amp;quot;)&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;&lt;img src=&#34;/es/programacion/Post-en-archivo-RMD_files/figure-html/pressure-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://helio4gm.netlify.app/es/programacion/Post-en-archivo-RMD_files/figure-html/pressure-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div id=&#34;graficos-no-generados-por-r&#34; class=&#34;section level3&#34;&gt;
 &lt;h3&gt;Graficos no generados por R&lt;/h3&gt;
 &lt;p&gt;Si se desea incluir graficos que no son generados por codigo R, puedes usar la función &lt;strong&gt;knitr::include_graphics()&lt;/strong&gt;, la cual te da mas control sobre los atributos de la imagen que la sintaxis… (por ejemplo, puedes especificar el ancho de la figura mediante out.width). La figura &lt;a href=&#34;#fig:Figure01&#34;&gt;1&lt;/a&gt; provee un ejemplo de ello.&lt;/p&gt;
 &lt;pre class=&#34;r&#34;&gt;&lt;code&gt;knitr::include_graphics(rep(&amp;#39;/images/nuevas/20201205_Prueba_RMD01.png&amp;#39;, 1)) ## codigo para Hugo&lt;/code&gt;&lt;/pre&gt;
 &lt;div class=&#34;figure&#34; style=&#34;text-align: center&#34;&gt;&lt;span id=&#34;fig:Figure01&#34;&gt;&lt;/span&gt;
-&lt;img src=&#34;/images/nuevas/20201205_Prueba_RMD01.png&#34; alt=&#34;Figure caption&#34; width=&#34;90%&#34; /&gt;
+&lt;img src=&#34;https://helio4gm.netlify.app/images/nuevas/20201205_Prueba_RMD01.png&#34; alt=&#34;Figure caption&#34; width=&#34;90%&#34; /&gt;
 &lt;p class=&#34;caption&#34;&gt;
 Figure 1: Figure caption
 &lt;/p&gt;
@@ -6058,7 +5613,7 @@ Figure 2: Figure caption
 &lt;/div&gt;
 </content:encoded>
         <dc:creator>Helio</dc:creator>
-        <media:content url="/https://d33wubrfki0l68.cloudfront.net/3215c7166555d2ac02ef678fd025c171f90db23c/4e60a/images/bandone.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://helio4gm.netlify.app/https://d33wubrfki0l68.cloudfront.net/3215c7166555d2ac02ef678fd025c171f90db23c/4e60a/images/bandone.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         

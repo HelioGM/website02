@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Tags on Helio&#39;s Website</title>
-    <link>/en/tags/</link>
+    <link>https://helio4gm.netlify.app/en/tags/</link>
     <description>Recent content in Tags on Helio&#39;s Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -17,7 +17,7 @@
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>hourly</sy:updateFrequency>
     
-        <atom:link href="/en/tags/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://helio4gm.netlify.app/en/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -25,11 +25,11 @@
       
       <item>
         <title>Carpintería, Cocinas</title>
-        <link>/en/tags/carpinter%C3%ADa-cocinas/</link>
+        <link>https://helio4gm.netlify.app/en/tags/carpinter%C3%ADa-cocinas/</link>
         <pubDate>Mon, 07 Dec 2020 21:37:44 -0800</pubDate>
         <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
         
-        <guid>/en/tags/carpinter%C3%ADa-cocinas/</guid>
+        <guid>https://helio4gm.netlify.app/en/tags/carpinter%C3%ADa-cocinas/</guid>
         <description></description>
         <content:encoded></content:encoded>
         <dc:creator>García-Mendívil, Helio A.</dc:creator>
@@ -43,11 +43,11 @@
       
       <item>
         <title>hugo</title>
-        <link>/en/tags/hugo/</link>
+        <link>https://helio4gm.netlify.app/en/tags/hugo/</link>
         <pubDate>Mon, 07 Dec 2020 20:36:49 -0800</pubDate>
         <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
         
-        <guid>/en/tags/hugo/</guid>
+        <guid>https://helio4gm.netlify.app/en/tags/hugo/</guid>
         <description></description>
         <content:encoded></content:encoded>
         <dc:creator>García-Mendívil, Helio A.</dc:creator>
@@ -61,11 +61,11 @@
       
       <item>
         <title>shortcode</title>
-        <link>/en/tags/shortcode/</link>
+        <link>https://helio4gm.netlify.app/en/tags/shortcode/</link>
         <pubDate>Sat, 25 Jan 2020 06:40:51 +0900</pubDate>
         <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
         
-        <guid>/en/tags/shortcode/</guid>
+        <guid>https://helio4gm.netlify.app/en/tags/shortcode/</guid>
         <description></description>
         <content:encoded></content:encoded>
         <dc:creator>García-Mendívil, Helio A.</dc:creator>
@@ -79,11 +79,11 @@
       
       <item>
         <title>css</title>
-        <link>/en/tags/css/</link>
+        <link>https://helio4gm.netlify.app/en/tags/css/</link>
         <pubDate>Fri, 20 Dec 2019 12:00:06 +0900</pubDate>
         <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
         
-        <guid>/en/tags/css/</guid>
+        <guid>https://helio4gm.netlify.app/en/tags/css/</guid>
         <description></description>
         <content:encoded></content:encoded>
         <dc:creator>García-Mendívil, Helio A.</dc:creator>
@@ -97,11 +97,11 @@
       
       <item>
         <title>html</title>
-        <link>/en/tags/html/</link>
+        <link>https://helio4gm.netlify.app/en/tags/html/</link>
         <pubDate>Fri, 20 Dec 2019 12:00:06 +0900</pubDate>
         <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
         
-        <guid>/en/tags/html/</guid>
+        <guid>https://helio4gm.netlify.app/en/tags/html/</guid>
         <description></description>
         <content:encoded></content:encoded>
         <dc:creator>García-Mendívil, Helio A.</dc:creator>
@@ -115,11 +115,11 @@
       
       <item>
         <title>markdown</title>
-        <link>/en/tags/markdown/</link>
+        <link>https://helio4gm.netlify.app/en/tags/markdown/</link>
         <pubDate>Fri, 20 Dec 2019 12:00:06 +0900</pubDate>
         <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
         
-        <guid>/en/tags/markdown/</guid>
+        <guid>https://helio4gm.netlify.app/en/tags/markdown/</guid>
         <description></description>
         <content:encoded></content:encoded>
         <dc:creator>García-Mendívil, Helio A.</dc:creator>
@@ -133,11 +133,11 @@
       
       <item>
         <title>themes</title>
-        <link>/en/tags/themes/</link>
+        <link>https://helio4gm.netlify.app/en/tags/themes/</link>
         <pubDate>Fri, 20 Dec 2019 12:00:06 +0900</pubDate>
         <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
         
-        <guid>/en/tags/themes/</guid>
+        <guid>https://helio4gm.netlify.app/en/tags/themes/</guid>
         <description></description>
         <content:encoded></content:encoded>
         <dc:creator>García-Mendívil, Helio A.</dc:creator>
@@ -151,11 +151,11 @@
       
       <item>
         <title>privacy</title>
-        <link>/en/tags/privacy/</link>
+        <link>https://helio4gm.netlify.app/en/tags/privacy/</link>
         <pubDate>Thu, 19 Dec 2019 12:00:06 +0900</pubDate>
         <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
         
-        <guid>/en/tags/privacy/</guid>
+        <guid>https://helio4gm.netlify.app/en/tags/privacy/</guid>
         <description></description>
         <content:encoded></content:encoded>
         <dc:creator>García-Mendívil, Helio A.</dc:creator>
@@ -169,11 +169,11 @@
       
       <item>
         <title>shortcodes</title>
-        <link>/en/tags/shortcodes/</link>
+        <link>https://helio4gm.netlify.app/en/tags/shortcodes/</link>
         <pubDate>Thu, 19 Dec 2019 12:00:06 +0900</pubDate>
         <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
         
-        <guid>/en/tags/shortcodes/</guid>
+        <guid>https://helio4gm.netlify.app/en/tags/shortcodes/</guid>
         <description></description>
         <content:encoded></content:encoded>
         <dc:creator>García-Mendívil, Helio A.</dc:creator>
@@ -187,11 +187,11 @@
       
       <item>
         <title>amoji</title>
-        <link>/en/tags/amoji/</link>
+        <link>https://helio4gm.netlify.app/en/tags/amoji/</link>
         <pubDate>Mon, 16 Dec 2019 12:00:06 +0900</pubDate>
         <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
         
-        <guid>/en/tags/amoji/</guid>
+        <guid>https://helio4gm.netlify.app/en/tags/amoji/</guid>
         <description></description>
         <content:encoded></content:encoded>
         <dc:creator>García-Mendívil, Helio A.</dc:creator>
@@ -205,11 +205,11 @@
       
       <item>
         <title>bamoji</title>
-        <link>/en/tags/bamoji/</link>
+        <link>https://helio4gm.netlify.app/en/tags/bamoji/</link>
         <pubDate>Mon, 16 Dec 2019 12:00:06 +0900</pubDate>
         <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
         
-        <guid>/en/tags/bamoji/</guid>
+        <guid>https://helio4gm.netlify.app/en/tags/bamoji/</guid>
         <description></description>
         <content:encoded></content:encoded>
         <dc:creator>García-Mendívil, Helio A.</dc:creator>
@@ -223,11 +223,11 @@
       
       <item>
         <title>emoji</title>
-        <link>/en/tags/emoji/</link>
+        <link>https://helio4gm.netlify.app/en/tags/emoji/</link>
         <pubDate>Mon, 16 Dec 2019 12:00:06 +0900</pubDate>
         <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
         
-        <guid>/en/tags/emoji/</guid>
+        <guid>https://helio4gm.netlify.app/en/tags/emoji/</guid>
         <description></description>
         <content:encoded></content:encoded>
         <dc:creator>García-Mendívil, Helio A.</dc:creator>
@@ -241,11 +241,11 @@
       
       <item>
         <title>gamoji</title>
-        <link>/en/tags/gamoji/</link>
+        <link>https://helio4gm.netlify.app/en/tags/gamoji/</link>
         <pubDate>Mon, 16 Dec 2019 12:00:06 +0900</pubDate>
         <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
         
-        <guid>/en/tags/gamoji/</guid>
+        <guid>https://helio4gm.netlify.app/en/tags/gamoji/</guid>
         <description></description>
         <content:encoded></content:encoded>
         <dc:creator>García-Mendívil, Helio A.</dc:creator>
@@ -259,11 +259,11 @@
       
       <item>
         <title>namoji</title>
-        <link>/en/tags/namoji/</link>
+        <link>https://helio4gm.netlify.app/en/tags/namoji/</link>
         <pubDate>Mon, 16 Dec 2019 12:00:06 +0900</pubDate>
         <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
         
-        <guid>/en/tags/namoji/</guid>
+        <guid>https://helio4gm.netlify.app/en/tags/namoji/</guid>
         <description></description>
         <content:encoded></content:encoded>
         <dc:creator>García-Mendívil, Helio A.</dc:creator>
@@ -277,11 +277,11 @@
       
       <item>
         <title>diagram</title>
-        <link>/en/tags/diagram/</link>
+        <link>https://helio4gm.netlify.app/en/tags/diagram/</link>
         <pubDate>Sun, 17 Nov 2019 12:00:06 +0900</pubDate>
         <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
         
-        <guid>/en/tags/diagram/</guid>
+        <guid>https://helio4gm.netlify.app/en/tags/diagram/</guid>
         <description></description>
         <content:encoded></content:encoded>
         <dc:creator>García-Mendívil, Helio A.</dc:creator>
@@ -295,11 +295,11 @@
       
       <item>
         <title>index</title>
-        <link>/en/tags/index/</link>
+        <link>https://helio4gm.netlify.app/en/tags/index/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
         
-        <guid>/en/tags/index/</guid>
+        <guid>https://helio4gm.netlify.app/en/tags/index/</guid>
         <description></description>
         <content:encoded></content:encoded>
         <dc:creator>García-Mendívil, Helio A.</dc:creator>

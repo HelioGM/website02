@@ -7,65 +7,29 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Tags on Helio</title>
-    <link>/es/tags/</link>
+    <link>https://helio4gm.netlify.app/es/tags/</link>
     <description>Recent content in Tags on Helio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <managingEditor>helio4gm@gmail.com (García-Mendívil, Helio A.)</managingEditor>
     <webMaster>helio4gm@gmail.com (García-Mendívil, Helio A.)</webMaster>
-    <lastBuildDate>Thu, 07 Jan 2021 22:44:33 -0800</lastBuildDate>
+    <lastBuildDate>Tue, 27 Jul 2021 00:00:00 +0000</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>hourly</sy:updateFrequency>
     
-        <atom:link href="/es/tags/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://helio4gm.netlify.app/es/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     
 
       
       <item>
-        <title>Test</title>
-        <link>/es/tags/test/</link>
-        <pubDate>Thu, 07 Jan 2021 22:44:33 -0800</pubDate>
+        <title>R</title>
+        <link>https://helio4gm.netlify.app/es/tags/r/</link>
+        <pubDate>Tue, 27 Jul 2021 00:00:00 +0000</pubDate>
         <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
         
-        <guid>/es/tags/test/</guid>
-        <description></description>
-        <content:encoded></content:encoded>
-        <dc:creator>García-Mendívil, Helio A.</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>Gandhi</title>
-        <link>/es/tags/gandhi/</link>
-        <pubDate>Wed, 06 Jan 2021 10:01:38 -0800</pubDate>
-        <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
-        
-        <guid>/es/tags/gandhi/</guid>
-        <description></description>
-        <content:encoded></content:encoded>
-        <dc:creator>García-Mendívil, Helio A.</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>Web</title>
-        <link>/es/tags/web/</link>
-        <pubDate>Mon, 04 Jan 2021 19:54:37 -0800</pubDate>
-        <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
-        
-        <guid>/es/tags/web/</guid>
+        <guid>https://helio4gm.netlify.app/es/tags/r/</guid>
         <description></description>
         <content:encoded></content:encoded>
         <dc:creator>García-Mendívil, Helio A.</dc:creator>
@@ -79,29 +43,11 @@
       
       <item>
         <title>Estadística</title>
-        <link>/es/tags/estad%C3%ADstica/</link>
+        <link>https://helio4gm.netlify.app/es/tags/estad%C3%ADstica/</link>
         <pubDate>Wed, 30 Dec 2020 18:21:17 -0800</pubDate>
         <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
         
-        <guid>/es/tags/estad%C3%ADstica/</guid>
-        <description></description>
-        <content:encoded></content:encoded>
-        <dc:creator>García-Mendívil, Helio A.</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>R</title>
-        <link>/es/tags/r/</link>
-        <pubDate>Wed, 30 Dec 2020 18:21:17 -0800</pubDate>
-        <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
-        
-        <guid>/es/tags/r/</guid>
+        <guid>https://helio4gm.netlify.app/es/tags/estad%C3%ADstica/</guid>
         <description></description>
         <content:encoded></content:encoded>
         <dc:creator>García-Mendívil, Helio A.</dc:creator>
@@ -115,11 +61,11 @@
       
       <item>
         <title>Cocinas</title>
-        <link>/es/tags/cocinas/</link>
+        <link>https://helio4gm.netlify.app/es/tags/cocinas/</link>
         <pubDate>Mon, 21 Dec 2020 17:08:35 -0800</pubDate>
         <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
         
-        <guid>/es/tags/cocinas/</guid>
+        <guid>https://helio4gm.netlify.app/es/tags/cocinas/</guid>
         <description></description>
         <content:encoded></content:encoded>
         <dc:creator>García-Mendívil, Helio A.</dc:creator>
@@ -133,11 +79,11 @@
       
       <item>
         <title>Libros</title>
-        <link>/es/tags/libros/</link>
+        <link>https://helio4gm.netlify.app/es/tags/libros/</link>
         <pubDate>Mon, 14 Dec 2020 19:15:48 -0800</pubDate>
         <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
         
-        <guid>/es/tags/libros/</guid>
+        <guid>https://helio4gm.netlify.app/es/tags/libros/</guid>
         <description></description>
         <content:encoded></content:encoded>
         <dc:creator>García-Mendívil, Helio A.</dc:creator>
@@ -151,11 +97,11 @@
       
       <item>
         <title>Molduras</title>
-        <link>/es/tags/molduras/</link>
+        <link>https://helio4gm.netlify.app/es/tags/molduras/</link>
         <pubDate>Mon, 14 Dec 2020 19:15:48 -0800</pubDate>
         <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
         
-        <guid>/es/tags/molduras/</guid>
+        <guid>https://helio4gm.netlify.app/es/tags/molduras/</guid>
         <description></description>
         <content:encoded></content:encoded>
         <dc:creator>García-Mendívil, Helio A.</dc:creator>
@@ -169,11 +115,11 @@
       
       <item>
         <title>Otros trabajos</title>
-        <link>/es/tags/otros-trabajos/</link>
+        <link>https://helio4gm.netlify.app/es/tags/otros-trabajos/</link>
         <pubDate>Sun, 13 Dec 2020 23:12:00 -0800</pubDate>
         <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
         
-        <guid>/es/tags/otros-trabajos/</guid>
+        <guid>https://helio4gm.netlify.app/es/tags/otros-trabajos/</guid>
         <description></description>
         <content:encoded></content:encoded>
         <dc:creator>García-Mendívil, Helio A.</dc:creator>
@@ -187,11 +133,11 @@
       
       <item>
         <title>Samples</title>
-        <link>/es/tags/samples/</link>
+        <link>https://helio4gm.netlify.app/es/tags/samples/</link>
         <pubDate>Sun, 13 Dec 2020 22:02:14 -0800</pubDate>
         <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
         
-        <guid>/es/tags/samples/</guid>
+        <guid>https://helio4gm.netlify.app/es/tags/samples/</guid>
         <description></description>
         <content:encoded></content:encoded>
         <dc:creator>García-Mendívil, Helio A.</dc:creator>
@@ -205,11 +151,11 @@
       
       <item>
         <title>Armarios</title>
-        <link>/es/tags/armarios/</link>
+        <link>https://helio4gm.netlify.app/es/tags/armarios/</link>
         <pubDate>Sun, 13 Dec 2020 20:12:00 -0800</pubDate>
         <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
         
-        <guid>/es/tags/armarios/</guid>
+        <guid>https://helio4gm.netlify.app/es/tags/armarios/</guid>
         <description></description>
         <content:encoded></content:encoded>
         <dc:creator>García-Mendívil, Helio A.</dc:creator>
@@ -223,11 +169,11 @@
       
       <item>
         <title>Persianas</title>
-        <link>/es/tags/persianas/</link>
+        <link>https://helio4gm.netlify.app/es/tags/persianas/</link>
         <pubDate>Sun, 13 Dec 2020 20:12:00 -0800</pubDate>
         <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
         
-        <guid>/es/tags/persianas/</guid>
+        <guid>https://helio4gm.netlify.app/es/tags/persianas/</guid>
         <description></description>
         <content:encoded></content:encoded>
         <dc:creator>García-Mendívil, Helio A.</dc:creator>
@@ -241,11 +187,29 @@
       
       <item>
         <title>Puertas</title>
-        <link>/es/tags/puertas/</link>
+        <link>https://helio4gm.netlify.app/es/tags/puertas/</link>
         <pubDate>Sun, 13 Dec 2020 20:11:00 -0800</pubDate>
         <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
         
-        <guid>/es/tags/puertas/</guid>
+        <guid>https://helio4gm.netlify.app/es/tags/puertas/</guid>
+        <description></description>
+        <content:encoded></content:encoded>
+        <dc:creator>García-Mendívil, Helio A.</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Test</title>
+        <link>https://helio4gm.netlify.app/es/tags/test/</link>
+        <pubDate>Fri, 11 Dec 2020 23:45:00 -0800</pubDate>
+        <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
+        
+        <guid>https://helio4gm.netlify.app/es/tags/test/</guid>
         <description></description>
         <content:encoded></content:encoded>
         <dc:creator>García-Mendívil, Helio A.</dc:creator>

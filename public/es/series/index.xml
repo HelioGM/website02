@@ -7,47 +7,29 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Series on Helio</title>
-    <link>/es/series/</link>
+    <link>https://helio4gm.netlify.app/es/series/</link>
     <description>Recent content in Series on Helio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <managingEditor>helio4gm@gmail.com (García-Mendívil, Helio A.)</managingEditor>
     <webMaster>helio4gm@gmail.com (García-Mendívil, Helio A.)</webMaster>
-    <lastBuildDate>Tue, 05 Jan 2021 13:46:19 -0800</lastBuildDate>
+    <lastBuildDate>Wed, 30 Dec 2020 18:21:17 -0800</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>hourly</sy:updateFrequency>
     
-        <atom:link href="/es/series/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://helio4gm.netlify.app/es/series/index.xml" rel="self" type="application/rss+xml" />
     
     
     
 
       
       <item>
-        <title>Películas</title>
-        <link>/es/series/pel%C3%ADculas/</link>
-        <pubDate>Tue, 05 Jan 2021 13:46:19 -0800</pubDate>
-        <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
-        
-        <guid>/es/series/pel%C3%ADculas/</guid>
-        <description></description>
-        <content:encoded></content:encoded>
-        <dc:creator>García-Mendívil, Helio A.</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
         <title>Aprendiendo estadística con R</title>
-        <link>/es/series/aprendiendo-estad%C3%ADstica-con-r/</link>
+        <link>https://helio4gm.netlify.app/es/series/aprendiendo-estad%C3%ADstica-con-r/</link>
         <pubDate>Wed, 30 Dec 2020 18:21:17 -0800</pubDate>
         <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
         
-        <guid>/es/series/aprendiendo-estad%C3%ADstica-con-r/</guid>
+        <guid>https://helio4gm.netlify.app/es/series/aprendiendo-estad%C3%ADstica-con-r/</guid>
         <description></description>
         <content:encoded></content:encoded>
         <dc:creator>García-Mendívil, Helio A.</dc:creator>
@@ -61,11 +43,11 @@
       
       <item>
         <title>RMarkdown</title>
-        <link>/es/series/rmarkdown/</link>
+        <link>https://helio4gm.netlify.app/es/series/rmarkdown/</link>
         <pubDate>Wed, 30 Dec 2020 18:21:17 -0800</pubDate>
         <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
         
-        <guid>/es/series/rmarkdown/</guid>
+        <guid>https://helio4gm.netlify.app/es/series/rmarkdown/</guid>
         <description></description>
         <content:encoded></content:encoded>
         <dc:creator>García-Mendívil, Helio A.</dc:creator>
@@ -79,11 +61,11 @@
       
       <item>
         <title>Tracks</title>
-        <link>/es/series/tracks/</link>
+        <link>https://helio4gm.netlify.app/es/series/tracks/</link>
         <pubDate>Sun, 13 Dec 2020 22:02:14 -0800</pubDate>
         <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
         
-        <guid>/es/series/tracks/</guid>
+        <guid>https://helio4gm.netlify.app/es/series/tracks/</guid>
         <description></description>
         <content:encoded></content:encoded>
         <dc:creator>García-Mendívil, Helio A.</dc:creator>
@@ -97,11 +79,11 @@
       
       <item>
         <title>MD</title>
-        <link>/es/series/md/</link>
+        <link>https://helio4gm.netlify.app/es/series/md/</link>
         <pubDate>Fri, 11 Dec 2020 23:45:00 -0800</pubDate>
         <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
         
-        <guid>/es/series/md/</guid>
+        <guid>https://helio4gm.netlify.app/es/series/md/</guid>
         <description></description>
         <content:encoded></content:encoded>
         <dc:creator>García-Mendívil, Helio A.</dc:creator>
