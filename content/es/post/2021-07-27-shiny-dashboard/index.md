@@ -11,7 +11,7 @@ description: ~
 authorEmoji: "\U0001F4E1"
 draft: no
 hideToc: no
-enableToc: yes
+enableToc: no
 enableTocContent: no
 tocPosition: inner
 tocLevels:
