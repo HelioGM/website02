@@ -25,4 +25,5 @@ image: ~
 
 A ver que sale
 
-aaaa parece que funciona
+aaaa parece que funciona 
+se aliviano
