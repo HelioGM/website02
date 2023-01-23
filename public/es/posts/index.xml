@@ -62,6 +62,53 @@ aaaa parece que funciona</description>
       </item>
       
       <item>
+        <title>Twitch Video</title>
+        <link>https://helio4gm.netlify.app/es/posts/2021-01-08-twitch-video/</link>
+        <pubDate>Thu, 07 Jan 2021 22:44:33 -0800</pubDate>
+        <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
+        <atom:modified>Thu, 07 Jan 2021 22:44:33 -0800</atom:modified>
+        <guid>https://helio4gm.netlify.app/es/posts/2021-01-08-twitch-video/</guid>
+        <description>Transmisión de twitch </description>
+        <content:encoded>&lt;h3 id=&#34;transmisión-de-twitch&#34;&gt;Transmisión de twitch&lt;/h3&gt;
+&lt;script src= &#34;https://player.twitch.tv/js/embed/v1.js&#34;&gt;&lt;/script&gt;
+&lt;div id=&#34;SamplePlayerDivID&#34;&gt;&lt;/div&gt;
+&lt;script type=&#34;text/javascript&#34;&gt;
+  var options = {
+    width: 854,
+    height: 480,
+    video: &#34;857864723&#34;,
+    // only needed if your site is also embedded on embed.example.com and othersite.example.com
+    parent: [&#34;embed.example.com&#34;, &#34;othersite.example.com&#34;]
+  };
+  var player = new Twitch.Player(&#34;SamplePlayerDivID&#34;, options);
+  player.setVolume(0.5);
+&lt;/script&gt;</content:encoded>
+        <dc:creator>Helio</dc:creator>
+        <media:content url="https://helio4gm.netlify.app//images/nuevas/Logo.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>Test</category>
+            
+          
+        
+        
+          
+            
+              <category>Herramientas</category>
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+      <item>
         <title>Capítulo 3: Empezando con R (2da parte)</title>
         <link>https://helio4gm.netlify.app/es/posts/2020-12-30-empezando_con_r_2da/</link>
         <pubDate>Wed, 30 Dec 2020 18:21:17 -0800</pubDate>
