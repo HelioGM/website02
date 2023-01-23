@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Prueba on Helio</title>
+    <link>https://helio4gm.netlify.app/es/categories/prueba/</link>
+    <description>Recent content in Prueba on Helio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <managingEditor>helio4gm@gmail.com (García-Mendívil, Helio A.)</managingEditor>
+    <webMaster>helio4gm@gmail.com (García-Mendívil, Helio A.)</webMaster>
+    <lastBuildDate>Sun, 22 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <sy:updatePeriod>hourly</sy:updatePeriod>
+    <sy:updateFrequency>hourly</sy:updateFrequency>
+    
+        <atom:link href="https://helio4gm.netlify.app/es/categories/prueba/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>A ver si funciona de nuevo</title>
+        <link>https://helio4gm.netlify.app/es/posts/2023-01-22-a-ver-si-funciona-de-nuevo/</link>
+        <pubDate>Sun, 22 Jan 2023 00:00:00 +0000</pubDate>
+        <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
+        <atom:modified>Sun, 22 Jan 2023 00:00:00 +0000</atom:modified>
+        <guid>https://helio4gm.netlify.app/es/posts/2023-01-22-a-ver-si-funciona-de-nuevo/</guid>
+        <description>A ver que sale
+aaaa parece que funciona</description>
+        <content:encoded>
+
+
+&lt;p&gt;A ver que sale&lt;/p&gt;
+&lt;p&gt;aaaa parece que funciona&lt;/p&gt;
+</content:encoded>
+        <dc:creator>Helio</dc:creator>
+        
+        
+        
+        
+          
+            
+          
+        
+        
+          
+            
+              <category>Prueba</category>
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

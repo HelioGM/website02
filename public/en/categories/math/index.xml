@@ -80,9 +80,9 @@ Inline math: $ \varphi = \dfrac{1+\sqrt5}{2}= 1.</description>
 &lt;p&gt;Enable Katex in the config file by setting the &lt;code&gt;katex&lt;/code&gt; param to &lt;code&gt;true&lt;/code&gt;. This will import the necessary Katex CSS/JS.&lt;/p&gt;
 &lt;p&gt;See the online reference of &lt;a href=&#34;https://katex.org/docs/supported.html&#34;&gt;supported TeX functions&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; For inline math to render correctly, your content file extension must be &lt;code&gt;.mmark&lt;/code&gt;. See the &lt;a href=&#34;https://mmark.nl/&#34;&gt;official mmark site&lt;/a&gt;.&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;Inline math: $ \varphi = \dfrac{1+\sqrt5}{2}= 1.6180339887… $
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;Inline math: $ \varphi = \dfrac{1+\sqrt5}{2}= 1.6180339887… $
 &lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Inline math: $ \varphi = \dfrac{1+\sqrt5}{2}= 1.6180339887… $&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;Block math:
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;Block math:
 
 $$ \varphi = 1+\frac{1} {1+\frac{1} {1+\frac{1} {1+\cdots} } } $$
 &lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Block math:&lt;/p&gt;

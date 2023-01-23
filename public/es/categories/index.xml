@@ -13,7 +13,7 @@
     <language>es</language>
     <managingEditor>helio4gm@gmail.com (García-Mendívil, Helio A.)</managingEditor>
     <webMaster>helio4gm@gmail.com (García-Mendívil, Helio A.)</webMaster>
-    <lastBuildDate>Tue, 27 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Jan 2023 00:00:00 +0000</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>hourly</sy:updateFrequency>
     
@@ -22,6 +22,24 @@
     
     
 
+      
+      <item>
+        <title>Prueba</title>
+        <link>https://helio4gm.netlify.app/es/categories/prueba/</link>
+        <pubDate>Sun, 22 Jan 2023 00:00:00 +0000</pubDate>
+        <author>helio4gm@gmail.com (García-Mendívil, Helio A.)</author>
+        
+        <guid>https://helio4gm.netlify.app/es/categories/prueba/</guid>
+        <description></description>
+        <content:encoded></content:encoded>
+        <dc:creator>García-Mendívil, Helio A.</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
       
       <item>
         <title>R</title>

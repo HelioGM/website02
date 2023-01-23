@@ -18,9 +18,9 @@
 
 <script defer src="/js/lazysizes.min.fb649fcae62177dfe63e67081ddceb830b5ce1f05a4184e9bbb7d87ac4b8f4e5.js"></script>
 
-<script defer src="/js/helper/getParents.min.ccd45f158c1b17849307ba913a72beac239c410f2b6e648496a79842da84e55b.js"></script>
+<script defer src="/js/helper/getParents.min.086022fb02d7a1517e33c2670bffb976b3e80bcacd9caeee0c6a586064f20e42.js"></script>
 
-<script defer src="/js/helper/fadeinout.min.1d13d3e810c3940e80cbba6216a1c76fbf42b5431fc83537ea6997863802362b.js"></script>
+<script defer src="/js/helper/fadeinout.min.3ce954c8aea3b69cc5e6f734d8273ba4cd48d3a7987dbdca145849bc4b8fc296.js"></script>
 
 <script defer src="/js/helper/closest.min.js"></script>
   
@@ -1356,7 +1356,7 @@
     <meta property="twitter:description" content="En este capítulo discutiré cómo empezar a usar R. Hablaré brevemente sobre cómo descargar e instalar R, pero la mayor parte del capítulo se centrará en que empiece a escribir comandos R.">
   
 
-<meta name="generator" content="Hugo 0.81.0" />
+<meta name="generator" content="Hugo 0.110.0">
 <meta name="msapplication-TileColor" content="#fff">
 
 <meta name="theme-color" content="#fff">
@@ -1416,16 +1416,14 @@
 
     
   
-<script type="application/javascript">
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-Q5ZQPEP86T"></script>
+<script>
 var doNotTrack = false;
 if (!doNotTrack) {
-	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-	})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-	ga('create', 'G-Q5ZQPEP86T', 'auto');
-	
-	ga('send', 'pageview');
+	window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+	gtag('config', 'G-Q5ZQPEP86T', { 'anonymize_ip': false });
 }
 </script>
 
@@ -1901,7 +1899,7 @@ El único &ldquo;defecto&rdquo; que he encontrado con Rstudio es que, al momento
 <p>De una forma u otra, independientemente del sistema operativo que esté usando e independientemente de si está usando Rstudio , o la GUI predeterminada, o incluso la línea de comandos, es hora de abrir R y comenzar. Cuando hagas eso, lo primero que verás (suponiendo que estés mirando la consola R) es una gran cantidad de texto que no tiene mucho sentido. Debería verse algo como esto:</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt"> 1
+<pre tabindex="0" class="chroma"><code><span class="lnt"> 1
 </span><span class="lnt"> 2
 </span><span class="lnt"> 3
 </span><span class="lnt"> 4
@@ -1916,28 +1914,28 @@ El único &ldquo;defecto&rdquo; que he encontrado con Rstudio es que, al momento
 </span><span class="lnt">13
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-R" data-lang="R"><span class="n">R</span> <span class="n">version</span> <span class="m">3.0.2</span> <span class="p">(</span><span class="m">2013-09-25</span><span class="p">)</span> <span class="o">--</span> <span class="s">&#34;Frisbee Sailing&#34;</span>  
-<span class="nf">Copyright </span><span class="p">(</span><span class="n">C</span><span class="p">)</span> <span class="m">2013</span> <span class="n">The</span> <span class="n">R</span> <span class="n">Foundation</span> <span class="n">for</span> <span class="n">Statistical</span> <span class="n">Computing</span>  
-<span class="n">Platform</span><span class="o">:</span> <span class="n">x86_64</span><span class="o">-</span><span class="n">apple</span><span class="o">-</span><span class="nf">darwin10.8.0 </span><span class="p">(</span><span class="m">64</span><span class="o">-</span><span class="n">bit</span><span class="p">)</span>  
-<span class="n">R</span> <span class="n">is</span> <span class="n">free</span> <span class="n">software</span> <span class="n">and</span> <span class="n">comes</span> <span class="n">with</span> <span class="n">ABSOLUTELY</span> <span class="n">NO</span> <span class="n">WARRANTY.</span>  
-<span class="n">You</span> <span class="n">are</span> <span class="n">welcome</span> <span class="n">to</span> <span class="n">redistribute</span> <span class="n">it</span> <span class="n">under</span> <span class="n">certain</span> <span class="n">conditions.</span>  
-<span class="n">Type</span> ’<span class="nf">license</span><span class="p">()</span>’ <span class="n">or</span> ’<span class="nf">licence</span><span class="p">()</span>’ <span class="n">for</span> <span class="n">distribution</span> <span class="n">details.</span>  
-<span class="n">Natural</span> <span class="n">language</span> <span class="n">support</span> <span class="n">but</span> <span class="n">running</span> <span class="n">in</span> <span class="n">an</span> <span class="n">English</span> <span class="n">locale</span>  
-<span class="n">R</span> <span class="n">is</span> <span class="n">a</span> <span class="n">collaborative</span> <span class="n">project</span> <span class="n">with</span> <span class="n">many</span> <span class="n">contributors.</span>  
-<span class="n">Type</span> ’<span class="nf">contributors</span><span class="p">()</span>’ <span class="n">for</span> <span class="n">more</span> <span class="n">information</span> <span class="n">and</span>  
-’<span class="nf">citation</span><span class="p">()</span>’ <span class="n">on</span> <span class="n">how</span> <span class="n">to</span> <span class="n">cite</span> <span class="n">R</span> <span class="n">or</span> <span class="n">R</span> <span class="n">packages</span> <span class="n">in</span> <span class="n">publications.</span>  
-<span class="n">Type</span> ’<span class="nf">demo</span><span class="p">()</span>’ <span class="n">for</span> <span class="n">some</span> <span class="n">demos</span><span class="p">,</span> ’<span class="nf">help</span><span class="p">()</span>’ <span class="n">for</span> <span class="n">on</span><span class="o">-</span><span class="n">line</span> <span class="n">help</span><span class="p">,</span> <span class="n">or</span>  
-’<span class="nf">help.start</span><span class="p">()</span>’ <span class="n">for</span> <span class="n">an</span> <span class="n">HTML</span> <span class="n">browser</span> <span class="n">interface</span> <span class="n">to</span> <span class="n">help.</span>  
-<span class="n">Type</span> ’<span class="nf">q</span><span class="p">()</span>’ <span class="n">to</span> <span class="n">quit</span> <span class="n">R.</span></code></pre></td></tr></table>
+<pre tabindex="0" class="chroma"><code class="language-R" data-lang="R"><span class="line"><span class="cl"><span class="n">R</span> <span class="n">version</span> <span class="m">3.0.2</span> <span class="p">(</span><span class="m">2013-09-25</span><span class="p">)</span> <span class="o">--</span> <span class="s">&#34;Frisbee Sailing&#34;</span>  
+</span></span><span class="line"><span class="cl"><span class="nf">Copyright </span><span class="p">(</span><span class="n">C</span><span class="p">)</span> <span class="m">2013</span> <span class="n">The</span> <span class="n">R</span> <span class="n">Foundation</span> <span class="n">for</span> <span class="n">Statistical</span> <span class="n">Computing</span>  
+</span></span><span class="line"><span class="cl"><span class="n">Platform</span><span class="o">:</span> <span class="n">x86_64</span><span class="o">-</span><span class="n">apple</span><span class="o">-</span><span class="nf">darwin10.8.0 </span><span class="p">(</span><span class="m">64</span><span class="o">-</span><span class="n">bit</span><span class="p">)</span>  
+</span></span><span class="line"><span class="cl"><span class="n">R</span> <span class="n">is</span> <span class="n">free</span> <span class="n">software</span> <span class="n">and</span> <span class="n">comes</span> <span class="n">with</span> <span class="n">ABSOLUTELY</span> <span class="n">NO</span> <span class="n">WARRANTY.</span>  
+</span></span><span class="line"><span class="cl"><span class="n">You</span> <span class="n">are</span> <span class="n">welcome</span> <span class="n">to</span> <span class="n">redistribute</span> <span class="n">it</span> <span class="n">under</span> <span class="n">certain</span> <span class="n">conditions.</span>  
+</span></span><span class="line"><span class="cl"><span class="n">Type</span> ’<span class="nf">license</span><span class="p">()</span>’ <span class="n">or</span> ’<span class="nf">licence</span><span class="p">()</span>’ <span class="n">for</span> <span class="n">distribution</span> <span class="n">details.</span>  
+</span></span><span class="line"><span class="cl"><span class="n">Natural</span> <span class="n">language</span> <span class="n">support</span> <span class="n">but</span> <span class="n">running</span> <span class="n">in</span> <span class="n">an</span> <span class="n">English</span> <span class="n">locale</span>  
+</span></span><span class="line"><span class="cl"><span class="n">R</span> <span class="n">is</span> <span class="n">a</span> <span class="n">collaborative</span> <span class="n">project</span> <span class="n">with</span> <span class="n">many</span> <span class="n">contributors.</span>  
+</span></span><span class="line"><span class="cl"><span class="n">Type</span> ’<span class="nf">contributors</span><span class="p">()</span>’ <span class="n">for</span> <span class="n">more</span> <span class="n">information</span> <span class="n">and</span>  
+</span></span><span class="line"><span class="cl">’<span class="nf">citation</span><span class="p">()</span>’ <span class="n">on</span> <span class="n">how</span> <span class="n">to</span> <span class="n">cite</span> <span class="n">R</span> <span class="n">or</span> <span class="n">R</span> <span class="n">packages</span> <span class="n">in</span> <span class="n">publications.</span>  
+</span></span><span class="line"><span class="cl"><span class="n">Type</span> ’<span class="nf">demo</span><span class="p">()</span>’ <span class="n">for</span> <span class="n">some</span> <span class="n">demos</span><span class="p">,</span> ’<span class="nf">help</span><span class="p">()</span>’ <span class="n">for</span> <span class="n">on</span><span class="o">-</span><span class="n">line</span> <span class="n">help</span><span class="p">,</span> <span class="n">or</span>  
+</span></span><span class="line"><span class="cl">’<span class="nf">help.start</span><span class="p">()</span>’ <span class="n">for</span> <span class="n">an</span> <span class="n">HTML</span> <span class="n">browser</span> <span class="n">interface</span> <span class="n">to</span> <span class="n">help.</span>  
+</span></span><span class="line"><span class="cl"><span class="n">Type</span> ’<span class="nf">q</span><span class="p">()</span>’ <span class="n">to</span> <span class="n">quit</span> <span class="n">R.</span></span></span></code></pre></td></tr></table>
 </div>
 </div>
 <p>La mayor parte de este texto carece de interés y, al hacer análisis de datos reales , nunca le prestará mucha atención. La parte importante es esta &hellip;</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-R" data-lang="R"><span class="o">&gt;</span></code></pre></td></tr></table>
+<pre tabindex="0" class="chroma"><code class="language-R" data-lang="R"><span class="line"><span class="cl"><span class="o">&gt;</span></span></span></code></pre></td></tr></table>
 </div>
 </div>
 <p>&hellip; que tiene un cursor intermitente al lado. Ese es el símbolo del sistema. Cuando vea esto, significa que R está esperando pacientemente a que haga algo.</p>
@@ -1949,12 +1947,12 @@ El único &ldquo;defecto&rdquo; que he encontrado con Rstudio es que, al momento
 <p>Una de las cosas más fáciles que puede hacer con R es usarlo como una calculadora simple, por lo que es un buen lugar para comenzar. Por ejemplo, intente escribir 10 + 20 y presione enter. 6 Cuando hace esto, ha ingresado un comando y R &ldquo;ejecutará&rdquo; ese comando. Lo que ve en la pantalla ahora será esto:</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span><span class="lnt">2
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-R" data-lang="R"><span class="o">&gt;</span><span class="m">10</span> <span class="o">+</span> <span class="m">20</span>  
-<span class="n">[1]</span> <span class="m">30</span></code></pre></td></tr></table>
+<pre tabindex="0" class="chroma"><code class="language-R" data-lang="R"><span class="line"><span class="cl"><span class="o">&gt;</span><span class="m">10</span> <span class="o">+</span> <span class="m">20</span>  
+</span></span><span class="line"><span class="cl"><span class="n">[1]</span> <span class="m">30</span></span></span></code></pre></td></tr></table>
 </div>
 </div>
 <p>No hay muchas sorpresas en este extracto. Pero hay algunas cosas de las que vale la pena hablar, incluso con un ejemplo tan simple. En primer lugar, es importante que comprenda cómo leer el extracto. En este ejemplo, lo que escribí fue la parte 10 + 20. No escribí el símbolo &gt;: es solo el símbolo del sistema R y no es parte del comando real. Y tampoco escribí la parte [1] 30. Eso es lo que imprimió R en respuesta a mi comando. En segundo lugar, es importante comprender cómo se formatea la salida. Obviamente, la respuesta correcta a la suma 10 + 20 es 30, y no es sorprendente que R lo haya impreso como parte de su respuesta. Pero también está impresa esta parte [1], que probablemente no tenga mucho sentido para ti en este momento. Vas a ver eso mucho. Hablaré sobre lo que esto significa con un poco más de detalle más adelante, pero por ahora puedes pensar en [1] 30 como si R estuviera diciendo “la respuesta a la primera pregunta que hiciste es 30”. Eso no es del todo cierto, pero está lo suficientemente cerca por ahora. Y en cualquier caso, no es muy interesante en este momento: solo le pedimos a R que calcule una cosa, por lo que obviamente solo hay una respuesta impresa en la pantalla. Más adelante esto cambiará y la parte [1] comenzará a tener un poco más de sentido. Por ahora, simplemente no quiero que se confunda o se preocupe.</p>
@@ -1962,24 +1960,24 @@ El único &ldquo;defecto&rdquo; que he encontrado con Rstudio es que, al momento
 <p>Antes de pasar a hablar sobre otros tipos de cálculos que podemos hacer con R, hay algunas otras cosas que quiero señalar. Lo primero es que, aunque R es un buen software, sigue siendo software. Es bastante estúpido y, como es estúpido, no puede manejar errores tipográficos. Se da por sentado que tu intención era escribir exactamente lo que escribiste. Por ejemplo, suponga que olvidó presionar la tecla Mayús al intentar escribir + y, como resultado, su comando terminó siendo 10 = 20 en lugar de 10 + 20. Esto es lo que sucede:</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span><span class="lnt">2
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-R" data-lang="R"><span class="o">&gt;</span> <span class="m">10</span> <span class="o">=</span> <span class="m">20</span>  
-<span class="n">Error</span> <span class="n">in</span> <span class="m">10</span> <span class="o">=</span> <span class="m">20</span> <span class="o">:</span> <span class="nf">invalid </span><span class="p">(</span><span class="n">do_set</span><span class="p">)</span> <span class="n">left</span><span class="o">-</span><span class="n">hand</span> <span class="n">side</span> <span class="n">to</span> <span class="n">assignment</span></code></pre></td></tr></table>
+<pre tabindex="0" class="chroma"><code class="language-R" data-lang="R"><span class="line"><span class="cl"><span class="o">&gt;</span> <span class="m">10</span> <span class="o">=</span> <span class="m">20</span>  
+</span></span><span class="line"><span class="cl"><span class="n">Error</span> <span class="n">in</span> <span class="m">10</span> <span class="o">=</span> <span class="m">20</span> <span class="o">:</span> <span class="nf">invalid </span><span class="p">(</span><span class="n">do_set</span><span class="p">)</span> <span class="n">left</span><span class="o">-</span><span class="n">hand</span> <span class="n">side</span> <span class="n">to</span> <span class="n">assignment</span></span></span></code></pre></td></tr></table>
 </div>
 </div>
 <p>Lo que sucedió aquí es que R ha intentado interpretar 10 = 20 como un comando y escupe un mensaje de error porque el comando no tiene ningún sentido. Cuando un humano mira esto, y luego mira su teclado y ve que + y = están en la misma tecla, es bastante obvio que el comando fue un error tipográfico. Pero R no sabe esto, así que se enoja. Y, si lo miras desde su perspectiva, esto tiene sentido. Todo lo que R &ldquo;sabe&rdquo; es que 10 es un número legítimo, 20 es un número legítimo y = también es una parte legítima del lenguaje. En otras palabras, desde su perspectiva, esto realmente parece que el usuario quería escribir 10 = 20, ya que todas las partes individuales de esa declaración son legítimas y es demasiado estúpido para darse cuenta de que probablemente sea un error tipográfico. Por lo tanto, R confía en que esto es exactamente lo que quisiste decir&hellip; solo “descubre” que el comando es una tontería cuando intenta seguir tus instrucciones, con errores tipográficos y todo. Y luego lloriquea y escupe un error.<br />
 Aún más sutil es el hecho de que algunos errores tipográficos no producirán ningún error, porque resulta que corresponden a comandos R &ldquo;bien formados&rdquo;. Por ejemplo, suponga que no solo me olvidé de presionar la tecla de mayúsculas al intentar escribir 10 + 20, sino que también logré presionar la tecla junto a la que quería. El error tipográfico resultante produciría el comando 10 - 20. Claramente, R no tiene forma de saber que pretendías <strong>sumar</strong> 20 a 10, no <strong>restar</strong> 20 de 10, así que lo que sucede esta vez es esto:</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span><span class="lnt">2
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-R" data-lang="R"><span class="o">&gt;</span><span class="m">10</span> <span class="o">-</span> <span class="m">20</span>  
-<span class="n">[1]</span> <span class="m">-10</span></code></pre></td></tr></table>
+<pre tabindex="0" class="chroma"><code class="language-R" data-lang="R"><span class="line"><span class="cl"><span class="o">&gt;</span><span class="m">10</span> <span class="o">-</span> <span class="m">20</span>  
+</span></span><span class="line"><span class="cl"><span class="n">[1]</span> <span class="m">-10</span></span></span></code></pre></td></tr></table>
 </div>
 </div>
 <p>En este caso, R produce la respuesta correcta, pero a la pregunta equivocada.<br />
@@ -1988,29 +1986,29 @@ Hasta cierto punto, estoy diciendo lo obvio aquí, pero es importante. Las perso
 <p>Por supuesto, ahora que he sido tan tenso acerca de la importancia de ser siempre preciso, debo señalar que hay algunas excepciones. O, más exactamente, hay algunas situaciones en las que R muestra un poco más de flexibilidad de lo que sugiere mi descripción anterior. Lo primero que R es lo suficientemente inteligente como para hacer es ignorar el espaciado redundante. Lo que quiero decir con esto es que, cuando escribí 10 + 20 antes, igualmente podría haber hecho esto</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span><span class="lnt">2
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-R" data-lang="R"><span class="o">&gt;</span> <span class="m">10</span> <span class="o">+</span>    <span class="m">20</span>  
-<span class="n">[1]</span> <span class="m">30</span></code></pre></td></tr></table>
+<pre tabindex="0" class="chroma"><code class="language-R" data-lang="R"><span class="line"><span class="cl"><span class="o">&gt;</span> <span class="m">10</span> <span class="o">+</span>    <span class="m">20</span>  
+</span></span><span class="line"><span class="cl"><span class="n">[1]</span> <span class="m">30</span></span></span></code></pre></td></tr></table>
 </div>
 </div>
 <p>o esto</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span><span class="lnt">2
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-R" data-lang="R"><span class="o">&gt;</span> <span class="m">10</span> <span class="o">+</span> <span class="m">20</span>  
-<span class="n">[1]</span> <span class="m">30</span></code></pre></td></tr></table>
+<pre tabindex="0" class="chroma"><code class="language-R" data-lang="R"><span class="line"><span class="cl"><span class="o">&gt;</span> <span class="m">10</span> <span class="o">+</span> <span class="m">20</span>  
+</span></span><span class="line"><span class="cl"><span class="n">[1]</span> <span class="m">30</span></span></span></code></pre></td></tr></table>
 </div>
 </div>
 <p>y obtendría exactamente la misma respuesta. Sin embargo, eso no significa que pueda insertar espacios en cualquier lugar antiguo. Cuando miramos la documentación de inicio en la Sección 3.1.5, sugirió que podría escribir citation ( ) para obtener información sobre cómo citar R. Si lo hago &hellip;</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt"> 1
+<pre tabindex="0" class="chroma"><code><span class="lnt"> 1
 </span><span class="lnt"> 2
 </span><span class="lnt"> 3
 </span><span class="lnt"> 4
@@ -2022,38 +2020,38 @@ Hasta cierto punto, estoy diciendo lo obvio aquí, pero es importante. Las perso
 </span><span class="lnt">10
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-R" data-lang="R"><span class="o">&gt;</span> <span class="nf">citation </span><span class="p">(</span> <span class="p">)</span>  
-<span class="n">To</span> <span class="n">cite</span> <span class="n">R</span> <span class="n">in</span> <span class="n">publications</span> <span class="n">use</span><span class="o">:</span>  
-  <span class="n">R</span> <span class="n">Core</span> <span class="nf">Team </span><span class="p">(</span><span class="m">2013</span><span class="p">)</span><span class="n">. R</span><span class="o">:</span> <span class="n">A</span> <span class="n">language</span> <span class="n">and</span> <span class="n">environment</span>  
-  <span class="n">for</span> <span class="n">statistical</span> <span class="n">computing.</span> <span class="n">R</span> <span class="n">Foundation</span> <span class="n">for</span>  
-  <span class="n">Statistical</span> <span class="n">Computing</span><span class="p">,</span> <span class="n">Vienna</span><span class="p">,</span> <span class="n">Austria.</span> <span class="n">URL</span>  
-  <span class="n">http</span><span class="o">://</span><span class="n">www.R</span><span class="o">-</span><span class="n">project.org</span><span class="o">/</span><span class="n">. </span> 
-  <span class="n">BLAH</span> <span class="n">BLAH</span> <span class="n">BLAH</span>  
-<span class="n">We</span> <span class="n">have</span> <span class="n">invested</span> <span class="n">a</span> <span class="n">lot</span> <span class="n">of</span> <span class="n">time</span> <span class="n">and</span> <span class="n">effort</span> <span class="n">in</span> <span class="n">creating</span>  
-<span class="n">R</span><span class="p">,</span> <span class="n">please</span> <span class="n">cite</span> <span class="n">it</span> <span class="n">when</span> <span class="n">using</span> <span class="n">it</span> <span class="n">for</span> <span class="n">data</span> <span class="n">analysis.</span> <span class="n">See</span>  
-<span class="n">also</span> <span class="o">?</span><span class="nf">citation</span><span class="p">(</span><span class="s">&#34;pkgname&#34;</span><span class="p">)</span><span class="o">?</span> <span class="n">for</span> <span class="n">citing</span> <span class="n">R</span> <span class="n">packages</span></code></pre></td></tr></table>
+<pre tabindex="0" class="chroma"><code class="language-R" data-lang="R"><span class="line"><span class="cl"><span class="o">&gt;</span> <span class="nf">citation </span><span class="p">(</span> <span class="p">)</span>  
+</span></span><span class="line"><span class="cl"><span class="n">To</span> <span class="n">cite</span> <span class="n">R</span> <span class="n">in</span> <span class="n">publications</span> <span class="n">use</span><span class="o">:</span>  
+</span></span><span class="line"><span class="cl">  <span class="n">R</span> <span class="n">Core</span> <span class="nf">Team </span><span class="p">(</span><span class="m">2013</span><span class="p">)</span><span class="n">. R</span><span class="o">:</span> <span class="n">A</span> <span class="n">language</span> <span class="n">and</span> <span class="n">environment</span>  
+</span></span><span class="line"><span class="cl">  <span class="n">for</span> <span class="n">statistical</span> <span class="n">computing.</span> <span class="n">R</span> <span class="n">Foundation</span> <span class="n">for</span>  
+</span></span><span class="line"><span class="cl">  <span class="n">Statistical</span> <span class="n">Computing</span><span class="p">,</span> <span class="n">Vienna</span><span class="p">,</span> <span class="n">Austria.</span> <span class="n">URL</span>  
+</span></span><span class="line"><span class="cl">  <span class="n">http</span><span class="o">://</span><span class="n">www.R</span><span class="o">-</span><span class="n">project.org</span><span class="o">/</span><span class="n">. </span> 
+</span></span><span class="line"><span class="cl">  <span class="n">BLAH</span> <span class="n">BLAH</span> <span class="n">BLAH</span>  
+</span></span><span class="line"><span class="cl"><span class="n">We</span> <span class="n">have</span> <span class="n">invested</span> <span class="n">a</span> <span class="n">lot</span> <span class="n">of</span> <span class="n">time</span> <span class="n">and</span> <span class="n">effort</span> <span class="n">in</span> <span class="n">creating</span>  
+</span></span><span class="line"><span class="cl"><span class="n">R</span><span class="p">,</span> <span class="n">please</span> <span class="n">cite</span> <span class="n">it</span> <span class="n">when</span> <span class="n">using</span> <span class="n">it</span> <span class="n">for</span> <span class="n">data</span> <span class="n">analysis.</span> <span class="n">See</span>  
+</span></span><span class="line"><span class="cl"><span class="n">also</span> <span class="o">?</span><span class="nf">citation</span><span class="p">(</span><span class="s">&#34;pkgname&#34;</span><span class="p">)</span><span class="o">?</span> <span class="n">for</span> <span class="n">citing</span> <span class="n">R</span> <span class="n">packages</span></span></span></code></pre></td></tr></table>
 </div>
 </div>
 <p>&hellip; me dice que cite el manual de R (R Core Team, 2013). Obviamente, la parte BLAH BLAH BLAH no es en realidad parte de lo que imprime R: cuando ves eso significa que he eliminado algunas partes de la salida que no creo que sean muy interesantes o relevantes. Haré mucho eso. De todos modos, volviendo a mi punto original, veamos qué sucede cuando intento cambiar el espaciado. Si inserto espacios entre la palabra y el paréntesis, o dentro de los paréntesis, entonces todo está bien. Es decir, cualquiera de estos dos comandos</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span><span class="lnt">2
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-R" data-lang="R"><span class="o">&gt;</span> <span class="nf">citation </span><span class="p">()</span>  
-<span class="o">&gt;</span> <span class="nf">citation </span><span class="p">(</span>  <span class="p">)</span></code></pre></td></tr></table>
+<pre tabindex="0" class="chroma"><code class="language-R" data-lang="R"><span class="line"><span class="cl"><span class="o">&gt;</span> <span class="nf">citation </span><span class="p">()</span>  
+</span></span><span class="line"><span class="cl"><span class="o">&gt;</span> <span class="nf">citation </span><span class="p">(</span>  <span class="p">)</span></span></span></code></pre></td></tr></table>
 </div>
 </div>
 <p>producirá exactamente la misma respuesta. Sin embargo, lo que no puedo hacer es insertar espacios en el medio de la palabra. Si trato de hacer esto, R se enoja:</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span><span class="lnt">2
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-R" data-lang="R"><span class="o">&gt;</span> <span class="n">citat</span> <span class="nf">ion</span><span class="p">()</span>   
-<span class="n">Error</span><span class="o">:</span> <span class="n">unexpected</span> <span class="n">symbol</span> <span class="n">in</span> <span class="s">&#34;citat ion&#34;</span></code></pre></td></tr></table>
+<pre tabindex="0" class="chroma"><code class="language-R" data-lang="R"><span class="line"><span class="cl"><span class="o">&gt;</span> <span class="n">citat</span> <span class="nf">ion</span><span class="p">()</span>   
+</span></span><span class="line"><span class="cl"><span class="n">Error</span><span class="o">:</span> <span class="n">unexpected</span> <span class="n">symbol</span> <span class="n">in</span> <span class="s">&#34;citat ion&#34;</span></span></span></code></pre></td></tr></table>
 </div>
 </div>
 <p>A lo largo de este libro, variaré un poco la forma en que utilizo el espaciado, solo para darle una idea de las diferentes formas en que se puede usar el espaciado. Sin embargo, intentaré no hacerlo demasiado, ya que generalmente se considera una buena práctica ser consistente en la forma en que formatea los comandos.</p>
@@ -2061,71 +2059,71 @@ Hasta cierto punto, estoy diciendo lo obvio aquí, pero es importante. Las perso
 <p>Una cosa más que debo señalar. Si presiona enter en una situación en la que es &ldquo;obvio&rdquo; para R que no ha terminado de escribir el comando, R es lo suficientemente inteligente como para seguir esperando. Por ejemplo, si escribe 10 + y luego presiona Intro, incluso R es lo suficientemente inteligente como para darse cuenta de que probablemente quería ingresar otro número. Así que esto es lo que sucede:</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span><span class="lnt">2
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-R" data-lang="R"><span class="o">&gt;</span> <span class="m">10</span><span class="o">+</span>  
-<span class="o">+</span></code></pre></td></tr></table>
+<pre tabindex="0" class="chroma"><code class="language-R" data-lang="R"><span class="line"><span class="cl"><span class="o">&gt;</span> <span class="m">10</span><span class="o">+</span>  
+</span></span><span class="line"><span class="cl"><span class="o">+</span></span></span></code></pre></td></tr></table>
 </div>
 </div>
 <p>y hay un cursor parpadeante junto al signo más. Lo que esto significa es que R todavía está esperando que termines. “Piensa” que todavía estás escribiendo tu comando, por lo que aún no ha intentado ejecutarlo. En otras palabras, este signo más es en realidad otro símbolo del sistema. Es diferente del habitual (es decir, el símbolo &gt;) para recordarle que R va a &ldquo;agregar&rdquo; lo que escriba ahora a lo que escribió la última vez. Por ejemplo, si sigo escribiendo 3 y presiono enter, lo que obtengo es esto:</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span><span class="lnt">2
 </span><span class="lnt">3
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-R" data-lang="R"><span class="o">&gt;</span> <span class="m">10</span><span class="o">+</span>  
-<span class="o">+</span> <span class="m">20</span>  
-<span class="n">[1]</span> <span class="m">30</span></code></pre></td></tr></table>
+<pre tabindex="0" class="chroma"><code class="language-R" data-lang="R"><span class="line"><span class="cl"><span class="o">&gt;</span> <span class="m">10</span><span class="o">+</span>  
+</span></span><span class="line"><span class="cl"><span class="o">+</span> <span class="m">20</span>  
+</span></span><span class="line"><span class="cl"><span class="n">[1]</span> <span class="m">30</span></span></span></code></pre></td></tr></table>
 </div>
 </div>
 <p>Y en lo que respecta a R, esto es exactamente lo mismo que si hubiera escrito 10 + 20. De manera similar, considere el comando citation ( ) del que hablamos en la sección anterior. Suponga que presiona enter después de escribir la cita (. Una vez más, R es lo suficientemente inteligente como para darse cuenta de que debe haber más por venir, ya que debe agregar el carácter ), por lo que espera. Incluso puedo presionar enter varias veces y seguirá esperando:</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span><span class="lnt">2
 </span><span class="lnt">3
 </span><span class="lnt">4
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-R" data-lang="R"><span class="o">&gt;</span> <span class="nf">cita </span><span class="p">(</span>  
-<span class="o">+</span>  
-<span class="o">+</span>  
-<span class="o">+</span><span class="p">)</span></code></pre></td></tr></table>
+<pre tabindex="0" class="chroma"><code class="language-R" data-lang="R"><span class="line"><span class="cl"><span class="o">&gt;</span> <span class="nf">cita </span><span class="p">(</span>  
+</span></span><span class="line"><span class="cl"><span class="o">+</span>  
+</span></span><span class="line"><span class="cl"><span class="o">+</span>  
+</span></span><span class="line"><span class="cl"><span class="o">+</span><span class="p">)</span></span></span></code></pre></td></tr></table>
 </div>
 </div>
 <p>Haré mucho uso de esto en este libro. Muchos de los comandos que tendremos que escribir son bastante largos y visualmente son un poco más fáciles de leer si los divido en varias líneas. Si comienza a hacer esto usted mismo, eventualmente se meterá en problemas (nos pasa a todos). Tal vez empiece a escribir un comando y luego se dé cuenta de que ha cometido un error. Por ejemplo,</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span><span class="lnt">2
 </span><span class="lnt">3
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-R" data-lang="R"><span class="o">&gt;</span> <span class="nf">citblation </span><span class="p">(</span>  
-<span class="o">+</span>  
-<span class="o">+</span></code></pre></td></tr></table>
+<pre tabindex="0" class="chroma"><code class="language-R" data-lang="R"><span class="line"><span class="cl"><span class="o">&gt;</span> <span class="nf">citblation </span><span class="p">(</span>  
+</span></span><span class="line"><span class="cl"><span class="o">+</span>  
+</span></span><span class="line"><span class="cl"><span class="o">+</span></span></span></code></pre></td></tr></table>
 </div>
 </div>
 <p>Probablemente prefieras que R no intente ejecutar este comando, ¿verdad? Si desea salir de esta situación, simplemente presione la tecla &lsquo;Esc&rsquo;. R lo regresará al símbolo del sistema normal (es decir, &gt;) sin intentar ejecutar el comando fallido.<br />
 Dicho esto, no es frecuente que R sea lo suficientemente inteligente como para decir que vendrán más. Por ejemplo, de la misma manera que no puedo agregar un espacio en el medio de una palabra, tampoco puedo presionar Enter en el medio de una palabra. Si presiono enter después de escribir citat , aparece un error, porque R cree que estoy interesado en un &ldquo;objeto&rdquo; llamado citat y no puedo encontrarlo:</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span><span class="lnt">2
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-R" data-lang="R"><span class="o">&gt;</span> <span class="n">citat</span>  
-<span class="n">Error</span><span class="o">:</span> <span class="n">object</span> ’<span class="n">citat</span>’ <span class="n">not</span> <span class="n">found</span></code></pre></td></tr></table>
+<pre tabindex="0" class="chroma"><code class="language-R" data-lang="R"><span class="line"><span class="cl"><span class="o">&gt;</span> <span class="n">citat</span>  
+</span></span><span class="line"><span class="cl"><span class="n">Error</span><span class="o">:</span> <span class="n">object</span> ’<span class="n">citat</span>’ <span class="n">not</span> <span class="n">found</span></span></span></code></pre></td></tr></table>
 </div>
 </div>
 <p>¿Qué pasa si escribí una cita y presiono enter? En este caso obtenemos algo muy extraño, algo que definitivamente no queremos, al menos en esta etapa. Esto es lo que sucede:</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span><span class="lnt">2
 </span><span class="lnt">3
 </span><span class="lnt">4
@@ -2134,13 +2132,13 @@ Dicho esto, no es frecuente que R sea lo suficientemente inteligente como para d
 </span><span class="lnt">7
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-R" data-lang="R"><span class="o">&gt;</span> <span class="n">citation</span>  
-<span class="nf">function </span><span class="p">(</span><span class="n">package</span> <span class="o">=</span> <span class="s">&#34;base&#34;</span><span class="p">,</span> <span class="n">lib.loc</span> <span class="o">=</span> <span class="kc">NULL</span><span class="p">,</span> <span class="n">auto</span> <span class="o">=</span> <span class="kc">NULL</span><span class="p">)</span>
-<span class="p">{</span>
-<span class="n">dir</span> <span class="o">&lt;-</span> <span class="nf">system.file</span><span class="p">(</span><span class="n">package</span> <span class="o">=</span> <span class="n">package</span><span class="p">,</span> <span class="n">lib.loc</span> <span class="o">=</span> <span class="n">lib.loc</span><span class="p">)</span>
-<span class="nf">if </span><span class="p">(</span><span class="n">dir</span> <span class="o">==</span> <span class="s">&#34;&#34;</span><span class="p">)</span>
-<span class="nf">stop</span><span class="p">(</span><span class="nf">gettextf</span><span class="p">(</span><span class="s">&#34;package ’%s’ not found&#34;</span><span class="p">,</span> <span class="n">package</span><span class="p">),</span> <span class="n">domain</span> <span class="o">=</span> <span class="kc">NA</span><span class="p">)</span>
-<span class="n">BLAH</span> <span class="n">BLAH</span> <span class="n">BLAH</span></code></pre></td></tr></table>
+<pre tabindex="0" class="chroma"><code class="language-R" data-lang="R"><span class="line"><span class="cl"><span class="o">&gt;</span> <span class="n">citation</span>  
+</span></span><span class="line"><span class="cl"><span class="nf">function </span><span class="p">(</span><span class="n">package</span> <span class="o">=</span> <span class="s">&#34;base&#34;</span><span class="p">,</span> <span class="n">lib.loc</span> <span class="o">=</span> <span class="kc">NULL</span><span class="p">,</span> <span class="n">auto</span> <span class="o">=</span> <span class="kc">NULL</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl"><span class="p">{</span>
+</span></span><span class="line"><span class="cl"><span class="n">dir</span> <span class="o">&lt;-</span> <span class="nf">system.file</span><span class="p">(</span><span class="n">package</span> <span class="o">=</span> <span class="n">package</span><span class="p">,</span> <span class="n">lib.loc</span> <span class="o">=</span> <span class="n">lib.loc</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl"><span class="nf">if </span><span class="p">(</span><span class="n">dir</span> <span class="o">==</span> <span class="s">&#34;&#34;</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl"><span class="nf">stop</span><span class="p">(</span><span class="nf">gettextf</span><span class="p">(</span><span class="s">&#34;package ’%s’ not found&#34;</span><span class="p">,</span> <span class="n">package</span><span class="p">),</span> <span class="n">domain</span> <span class="o">=</span> <span class="kc">NA</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl"><span class="n">BLAH</span> <span class="n">BLAH</span> <span class="n">BLAH</span></span></span></code></pre></td></tr></table>
 </div>
 </div>
 <p>donde el BLAH BLAH BLAH continúa durante bastante tiempo, y aún no sabes lo suficiente R para entender lo que realmente significa todo este galimatías. Esta salida incomprensible puede resultar bastante intimidante para los usuarios novatos y, lamentablemente , es muy fácil olvidarse de escribir los paréntesis; por lo que es casi seguro que lo hará por accidente. No entre en pánico cuando esto suceda. Simplemente ignore el galimatías. A medida que adquiera más experiencia, este galimatías comenzará a tener sentido y le resultará muy útil imprimirlo. Pero por ahora, intente recordar agregar los paréntesis al escribir sus comandos.</p>
@@ -2197,12 +2195,12 @@ Dicho esto, no es frecuente que R sea lo suficientemente inteligente como para d
 <p>Entonces, ahora que tenemos la terminología, aprendamos a realizar algunas operaciones aritméticas en R. Para ello, la Tabla 3.1 enumera los operadores que corresponden a la aritmética básica que aprendimos en la escuela primaria: suma, resta, multiplicación y división. Como puede ver, R usa símbolos bastante estándar para denotar cada una de las diferentes operaciones que podría querer realizar: la suma se realiza usando el <strong>operador</strong> +, la resta se realiza mediante el operador -, y así sucesivamente. Entonces, si quisiera averiguar qué es 57 por 61 (¿y quién no?), puedo usar R en lugar de una calculadora, así:</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span><span class="lnt">2
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-R" data-lang="R"><span class="o">&gt;</span> <span class="m">57</span> <span class="o">*</span> <span class="m">61</span>  
-<span class="n">[1]</span> <span class="m">3477</span></code></pre></td></tr></table>
+<pre tabindex="0" class="chroma"><code class="language-R" data-lang="R"><span class="line"><span class="cl"><span class="o">&gt;</span> <span class="m">57</span> <span class="o">*</span> <span class="m">61</span>  
+</span></span><span class="line"><span class="cl"><span class="n">[1]</span> <span class="m">3477</span></span></span></code></pre></td></tr></table>
 </div>
 </div>
 <p>Eso es útil.</p>
@@ -2215,23 +2213,23 @@ Para aquellos de ustedes que todavía pueden recordar sus matemáticas de la esc
 <p>Una forma en la que podríamos calcular 5<sup>4</sup> en R sería escribir la multiplicación completa como se muestra en la ecuación anterior. Es decir, podríamos hacer esto</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span><span class="lnt">2
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-R" data-lang="R"><span class="o">&gt;</span> <span class="m">5</span> <span class="o">*</span> <span class="m">5</span> <span class="o">*</span> <span class="m">5</span> <span class="o">*</span> <span class="m">5</span>  
-<span class="n">[1]</span> <span class="m">625</span></code></pre></td></tr></table>
+<pre tabindex="0" class="chroma"><code class="language-R" data-lang="R"><span class="line"><span class="cl"><span class="o">&gt;</span> <span class="m">5</span> <span class="o">*</span> <span class="m">5</span> <span class="o">*</span> <span class="m">5</span> <span class="o">*</span> <span class="m">5</span>  
+</span></span><span class="line"><span class="cl"><span class="n">[1]</span> <span class="m">625</span></span></span></code></pre></td></tr></table>
 </div>
 </div>
 <p>pero parece un poco tedioso. De hecho, sería muy molesto si quisiera calcular 5<sup>15</sup>, ya que el comando terminaría siendo bastante largo. Por lo tanto, para hacernos la vida más fácil, utilizamos el operador de energía en su lugar. Cuando hacemos eso, nuestro comando para calcular 5<sup>4</sup> es así:</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span><span class="lnt">2
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-R" data-lang="R"><span class="o">&gt;</span> <span class="m">5</span> <span class="n">^</span> <span class="m">4</span>  
-<span class="n">[1]</span> <span class="m">625</span></code></pre></td></tr></table>
+<pre tabindex="0" class="chroma"><code class="language-R" data-lang="R"><span class="line"><span class="cl"><span class="o">&gt;</span> <span class="m">5</span> <span class="n">^</span> <span class="m">4</span>  
+</span></span><span class="line"><span class="cl"><span class="n">[1]</span> <span class="m">625</span></span></span></code></pre></td></tr></table>
 </div>
 </div>
 <p>Más fácil.</p>
@@ -2240,35 +2238,35 @@ Para aquellos de ustedes que todavía pueden recordar sus matemáticas de la esc
 En la mayoría de las situaciones en las que desee utilizar una calculadora, es posible que desee realizar varios cálculos. R le permite hacer esto, simplemente escribiendo comandos más largos. De hecho, ya hemos visto un ejemplo de esto antes, cuando escribí 5 * 5 * 5 * 5. Sin embargo, probemos un ejemplo ligeramente diferente:</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span><span class="lnt">2
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-R" data-lang="R"><span class="o">&gt;</span> <span class="m">1</span> <span class="o">+</span> <span class="m">2</span> <span class="o">*</span> <span class="m">4</span>  
-<span class="n">[1]</span> <span class="m">9</span></code></pre></td></tr></table>
+<pre tabindex="0" class="chroma"><code class="language-R" data-lang="R"><span class="line"><span class="cl"><span class="o">&gt;</span> <span class="m">1</span> <span class="o">+</span> <span class="m">2</span> <span class="o">*</span> <span class="m">4</span>  
+</span></span><span class="line"><span class="cl"><span class="n">[1]</span> <span class="m">9</span></span></span></code></pre></td></tr></table>
 </div>
 </div>
 <p>Claramente, esto tampoco es un problema para R. Sin embargo, vale la pena detenerse un segundo y pensar en lo que acaba de hacer R. Claramente, dado que nos dio una respuesta de 9, debe haber multiplicado 2 * 4 (para obtener una respuesta intermedia de 8) y luego sumar 1 a eso. Pero, supongamos que hubiera decidido ir de izquierda a derecha: si R hubiera decidido sumar 1 + 2 (para obtener una respuesta intermedia de 3) y luego multiplicado por 4, habría obtenido una respuesta de 12.<br />
 Para responder a esto, necesita conocer el orden de operaciones que usa R. Si recuerdas las clases de matemáticas de la secundaria , en realidad es el mismo orden que te enseñaron cuando estabas en la escuela: el orden &ldquo;BEDMAS&rdquo;. 9 Es decir, primero calcule las cosas dentro de corchetes () (Brackets), luego calcule los exponentes ^, luego la división / y la multiplicación *, luego la adición + y la sustracción -. Entonces, para continuar con el ejemplo anterior, si queremos forzar a R a calcular la parte 1 + 2 antes de la multiplicación, todo lo que tendríamos que hacer es encerrarlo entre corchetes:</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span><span class="lnt">2
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-R" data-lang="R"><span class="o">&gt;</span> <span class="p">(</span><span class="m">1</span> <span class="o">+</span> <span class="m">2</span><span class="p">)</span> <span class="o">*</span> <span class="m">4</span>  
-<span class="n">[1]</span> <span class="m">12</span></code></pre></td></tr></table>
+<pre tabindex="0" class="chroma"><code class="language-R" data-lang="R"><span class="line"><span class="cl"><span class="o">&gt;</span> <span class="p">(</span><span class="m">1</span> <span class="o">+</span> <span class="m">2</span><span class="p">)</span> <span class="o">*</span> <span class="m">4</span>  
+</span></span><span class="line"><span class="cl"><span class="n">[1]</span> <span class="m">12</span></span></span></code></pre></td></tr></table>
 </div>
 </div>
 <p>Esto es algo bastante útil de poder hacer. La única otra cosa que debo señalar sobre el orden de las operaciones es qué esperar cuando tienes dos operaciones que tienen la misma prioridad: es decir, ¿cómo resuelve R los lazos? Por ejemplo, la multiplicación y la división son en realidad la misma prioridad, pero ¿qué debemos esperar cuando le damos a R un problema como 4/2 * 3 para resolver? Si evalúa primero la multiplicación y luego la división, calcularía un valor de dos tercios. Pero si evalúa primero la división calcula un valor de 6. La respuesta, en este caso, es que R va de izquierda a derecha, por lo que en este caso el paso de división vendría primero:</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span><span class="lnt">2
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-R" data-lang="R"><span class="o">&gt;</span> <span class="m">4</span><span class="o">/</span><span class="m">2</span> <span class="o">*</span> <span class="m">3</span>  
-<span class="n">[1]</span> <span class="m">6</span></code></pre></td></tr></table>
+<pre tabindex="0" class="chroma"><code class="language-R" data-lang="R"><span class="line"><span class="cl"><span class="o">&gt;</span> <span class="m">4</span><span class="o">/</span><span class="m">2</span> <span class="o">*</span> <span class="m">3</span>  
+</span></span><span class="line"><span class="cl"><span class="n">[1]</span> <span class="m">6</span></span></span></code></pre></td></tr></table>
 </div>
 </div>
 <p>Dicho todo lo anterior, es útil recordar que los corchetes siempre son lo primero. Por lo tanto, si alguna vez no está seguro sobre el orden en el que R hará las cosas, una solución fácil es incluir primero entre paréntesis lo que desea que haga. No hay nada que le impida escribir (4/2) * 3. Al encerrar la división entre corchetes , aclaramos qué se supone que debe suceder primero. En este caso, no lo habría necesitado, ya que R habría hecho la división primero de todos modos, pero cuando recién comienza, ¡es mejor asegurarse de que R haga lo que quiere!</p>
@@ -2282,31 +2280,31 @@ Para responder a esto, necesita conocer el orden de operaciones que usa R. Si re
 <p>Como hemos estado trabajando con números hasta ahora, comencemos por crear variables para almacenar nuestros números. Y como a la mayoría de la gente le gustan los ejemplos concretos, inventemos uno. Suponga que estoy tratando de calcular cuánto dinero voy a ganar con este libro. Es posible que desee almacenar varios números diferentes. En primer lugar, necesito averiguar cuántas copias venderé. Esto no es exactamente Harry Potter, así que supongamos que solo venderé una copia por alumno de mi clase. Eso son 350 ventas, así que creemos una variable llamada <strong>ventas</strong>. Lo que quiero hacer es asignar un <strong>valor</strong> a mi variable <strong>ventas</strong>, y ese valor debería ser 350. Hacemos esto usando el operador de asignación, que es &lt; -. Así es como lo hacemos:</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-R" data-lang="R"><span class="o">&gt;</span> <span class="n">ventas</span> <span class="o">&lt;-</span> <span class="m">350</span></code></pre></td></tr></table>
+<pre tabindex="0" class="chroma"><code class="language-R" data-lang="R"><span class="line"><span class="cl"><span class="o">&gt;</span> <span class="n">ventas</span> <span class="o">&lt;-</span> <span class="m">350</span></span></span></code></pre></td></tr></table>
 </div>
 </div>
 <p>Cuando presiona enter, R no imprime ninguna salida. Simplemente le brinda otro símbolo del sistema. Sin embargo, detrás de escena, R ha creado una variable llamada <strong>ventas</strong> y le ha dado un valor de <strong>350</strong>. Puede comprobar que esto ha sucedido pidiendo a R que imprima la variable en la pantalla. Y la forma más sencilla de hacerlo es escribir el nombre de la variable y presionar enter</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span><span class="lnt">2
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-R" data-lang="R"><span class="o">&gt;</span> <span class="n">ventas</span>  
-<span class="n">[1]</span> <span class="m">350</span></code></pre></td></tr></table>
+<pre tabindex="0" class="chroma"><code class="language-R" data-lang="R"><span class="line"><span class="cl"><span class="o">&gt;</span> <span class="n">ventas</span>  
+</span></span><span class="line"><span class="cl"><span class="n">[1]</span> <span class="m">350</span></span></span></code></pre></td></tr></table>
 </div>
 </div>
 <p>Así que es bueno saberlo. Siempre que no recuerde lo que R tiene almacenado en una variable en particular, puede simplemente escribir el nombre de la variable y presionar enter.<br />
 Bien, ahora sabemos cómo asignar variables. De hecho, hay algo más que debería saber. En primer lugar, una de las características curiosas de R es que hay varias formas diferentes de realizar asignaciones. Además del operador <strong>&lt;-</strong>, también podemos usar <strong>-&gt;</strong> y <strong>=</strong>, y es muy importante comprender las diferencias entre ellos. Comencemos considerando <strong>-&gt;</strong>, ya que es el más fácil (discutiremos el uso de <strong>=</strong> en la Sección 3.5.1). Como es de esperar con solo mirar el símbolo, es casi idéntico a <strong>&lt;-</strong>. Es solo que la flecha (es decir, la asignación) va de izquierda a derecha. Entonces, si quisiera definir mi variable de <strong>ventas</strong> usando <strong>-&gt;</strong>, lo escribiría así:</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-R" data-lang="R"><span class="o">&gt;</span> <span class="m">350</span> <span class="o">-&gt;</span> <span class="n">ventas</span></code></pre></td></tr></table>
+<pre tabindex="0" class="chroma"><code class="language-R" data-lang="R"><span class="line"><span class="cl"><span class="o">&gt;</span> <span class="m">350</span> <span class="o">-&gt;</span> <span class="n">ventas</span></span></span></code></pre></td></tr></table>
 </div>
 </div>
 <p>Esto tiene el mismo efecto: y <strong>todavía</strong> significa que solo voy a vender <em>350</em> copias. Aparte de esta diferencia superficial, <strong>&lt;-</strong> y <strong>-&gt;</strong> son idénticos. De hecho, en lo que respecta a R, en realidad son el mismo operador, solo en una “forma izquierda” y una “forma derecha”.</p>
@@ -2314,60 +2312,60 @@ Bien, ahora sabemos cómo asignar variables. De hecho, hay algo más que deberí
 <p>Bien, volvamos a mi historia original. En mi búsqueda por hacerme rico, he escrito este libro de texto. Para averiguar qué tan buena es una estrategia, comencé a crear algunas variables en R. Además de definir una variable de ventas que cuente la cantidad de copias que voy a vender, también puedo crear una variable llamada <strong>regalias</strong>, que indica cómo Cuánto dinero obtengo por copia. Digamos que mis regalías son alrededor de $7 por libro:</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span><span class="lnt">2
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-R" data-lang="R"><span class="o">&gt;</span> <span class="n">ventas</span> <span class="o">&lt;-</span> <span class="m">350</span>  
-<span class="o">&gt;</span> <span class="n">regalias</span> <span class="o">&lt;-</span> <span class="m">7</span></code></pre></td></tr></table>
+<pre tabindex="0" class="chroma"><code class="language-R" data-lang="R"><span class="line"><span class="cl"><span class="o">&gt;</span> <span class="n">ventas</span> <span class="o">&lt;-</span> <span class="m">350</span>  
+</span></span><span class="line"><span class="cl"><span class="o">&gt;</span> <span class="n">regalias</span> <span class="o">&lt;-</span> <span class="m">7</span></span></span></code></pre></td></tr></table>
 </div>
 </div>
 <p>Lo bueno de las variables (de hecho, el objetivo de tener variables) es que podemos hacer cualquier cosa con una variable que deberíamos poder hacer con la información que almacena. Es decir, como R me permite multiplicar <strong>350</strong> por <strong>7</strong></p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span><span class="lnt">2
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-R" data-lang="R"><span class="o">&gt;</span> <span class="m">350</span> <span class="o">*</span> <span class="m">7</span>
-<span class="n">[1]</span> <span class="m">2450</span></code></pre></td></tr></table>
+<pre tabindex="0" class="chroma"><code class="language-R" data-lang="R"><span class="line"><span class="cl"><span class="o">&gt;</span> <span class="m">350</span> <span class="o">*</span> <span class="m">7</span>
+</span></span><span class="line"><span class="cl"><span class="n">[1]</span> <span class="m">2450</span></span></span></code></pre></td></tr></table>
 </div>
 </div>
 <p>también me permite multiplicar las <strong>ventas</strong> por <strong>regalias</strong></p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span><span class="lnt">2
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-R" data-lang="R"><span class="o">&gt;</span> <span class="n">ventas</span> <span class="o">*</span> <span class="n">regalias</span>  
-<span class="n">[1]</span> <span class="m">2450</span></code></pre></td></tr></table>
+<pre tabindex="0" class="chroma"><code class="language-R" data-lang="R"><span class="line"><span class="cl"><span class="o">&gt;</span> <span class="n">ventas</span> <span class="o">*</span> <span class="n">regalias</span>  
+</span></span><span class="line"><span class="cl"><span class="n">[1]</span> <span class="m">2450</span></span></span></code></pre></td></tr></table>
 </div>
 </div>
 <p>En lo que respecta a R, el comando <strong>ventas * regalias</strong> es el mismo que el comando <strong>350 * 7</strong>. No es sorprendente que pueda asignar el resultado de este cálculo a una nueva variable, a la que llamaré <strong>ingresos</strong>. Y cuando hacemos esto, el nuevo ingreso variable obtiene el valor <strong>2450</strong>. Así que hagamos eso, y luego hagamos que R imprima el valor de <strong>ingresos</strong> para que podamos verificar que se hizo lo que pedimos:</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span><span class="lnt">2
 </span><span class="lnt">3
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-R" data-lang="R"><span class="o">&gt;</span> <span class="n">ingresos</span> <span class="o">&lt;-</span> <span class="n">ventas</span> <span class="o">*</span> <span class="n">regalias</span>  
-<span class="o">&gt;</span> <span class="n">ingresos</span>  
-<span class="n">[1]</span> <span class="m">2450</span></code></pre></td></tr></table>
+<pre tabindex="0" class="chroma"><code class="language-R" data-lang="R"><span class="line"><span class="cl"><span class="o">&gt;</span> <span class="n">ingresos</span> <span class="o">&lt;-</span> <span class="n">ventas</span> <span class="o">*</span> <span class="n">regalias</span>  
+</span></span><span class="line"><span class="cl"><span class="o">&gt;</span> <span class="n">ingresos</span>  
+</span></span><span class="line"><span class="cl"><span class="n">[1]</span> <span class="m">2450</span></span></span></code></pre></td></tr></table>
 </div>
 </div>
 <p>Eso es bastante sencillo. Una cosa un poco más sutil que podemos hacer es reasignar el valor de mi variable, en función de su valor actual. Por ejemplo, supongamos que uno de mis estudiantes (sin duda bajo la influencia de psicofármacos) ama tanto el libro que me dona 550 dólares extra. La forma más sencilla de capturar esto es mediante un comando como este:</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span><span class="lnt">2
 </span><span class="lnt">3
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-R" data-lang="R"><span class="o">&gt;</span> <span class="n">ingresos</span> <span class="o">&lt;-</span> <span class="n">ingresos</span> <span class="o">+</span> <span class="m">550</span>  
-<span class="o">&gt;</span> <span class="n">ingresos</span>  
-<span class="n">[1]</span> <span class="m">3000</span>  </code></pre></td></tr></table>
+<pre tabindex="0" class="chroma"><code class="language-R" data-lang="R"><span class="line"><span class="cl"><span class="o">&gt;</span> <span class="n">ingresos</span> <span class="o">&lt;-</span> <span class="n">ingresos</span> <span class="o">+</span> <span class="m">550</span>  
+</span></span><span class="line"><span class="cl"><span class="o">&gt;</span> <span class="n">ingresos</span>  
+</span></span><span class="line"><span class="cl"><span class="n">[1]</span> <span class="m">3000</span>  </span></span></code></pre></td></tr></table>
 </div>
 </div>
 <p>En este cálculo, R ha tomado el valor anterior de <strong>ingresos</strong> (es decir, 2450) y agregó 550 a ese valor, produciendo un valor de 3000. Este nuevo valor se asigna a la variable de <strong>ingresos</strong>, sobrescribiendo su valor anterior. En cualquier caso, ahora sabemos que espero ganar $3000 con esto. Muy dulce, podría pensar. O al menos, hasta que hago algunos cálculos más y averiguo cuál es el salario por hora implícito que estoy ganando.</p>
@@ -2897,7 +2895,7 @@ Escrito por Navarro, Danielle; traducido por García-Mendívil, Helio A.
 </div>
 
 
-<script defer src="/js/swipe.min.989e074dfb92ce7f57a92c1df7027f88b53c50a54fd9ad450a673a64aa91bfa4.js"></script>
+<script defer src="/js/swipe.min.feb438efb7ca009ecd7fc2ac3ad2fced4840990b2798d81f87137f2dc6281f05.js"></script>
 
 <script defer src="/js/micromodal.min.de01b44b2f383056bbcaf6ee921fd385d79108ec1129afd0eb2f3f5a07e11f45.js"></script>
 

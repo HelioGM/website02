@@ -18,9 +18,9 @@
 
 <script defer src="/js/lazysizes.min.fb649fcae62177dfe63e67081ddceb830b5ce1f05a4184e9bbb7d87ac4b8f4e5.js"></script>
 
-<script defer src="/js/helper/getParents.min.ccd45f158c1b17849307ba913a72beac239c410f2b6e648496a79842da84e55b.js"></script>
+<script defer src="/js/helper/getParents.min.086022fb02d7a1517e33c2670bffb976b3e80bcacd9caeee0c6a586064f20e42.js"></script>
 
-<script defer src="/js/helper/fadeinout.min.1d13d3e810c3940e80cbba6216a1c76fbf42b5431fc83537ea6997863802362b.js"></script>
+<script defer src="/js/helper/fadeinout.min.3ce954c8aea3b69cc5e6f734d8273ba4cd48d3a7987dbdca145849bc4b8fc296.js"></script>
 
 <script defer src="/js/helper/closest.min.js"></script>
   
@@ -1356,7 +1356,7 @@
     <meta property="twitter:description" content="Prueba de resaltador de sintaxis con archivos en formato MD">
   
 
-<meta name="generator" content="Hugo 0.81.0" />
+<meta name="generator" content="Hugo 0.110.0">
 <meta name="msapplication-TileColor" content="#fff">
 
 <meta name="theme-color" content="#fff">
@@ -1416,16 +1416,14 @@
 
     
   
-<script type="application/javascript">
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-Q5ZQPEP86T"></script>
+<script>
 var doNotTrack = false;
 if (!doNotTrack) {
-	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-	})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-	ga('create', 'G-Q5ZQPEP86T', 'auto');
-	
-	ga('send', 'pageview');
+	window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+	gtag('config', 'G-Q5ZQPEP86T', { 'anonymize_ip': false });
 }
 </script>
 
@@ -1797,20 +1795,20 @@ if (!doNotTrack) {
 <h3 id="markdown">Markdown</h3>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span><span class="lnt">2
 </span><span class="lnt">3
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-markdown" data-lang="markdown">**bold** 
-<span class="ge">*italics*</span> 
-[<span class="nt">link</span>](<span class="na">www.example.com</span>)
-</code></pre></td></tr></table>
+<pre tabindex="0" class="chroma"><code class="language-markdown" data-lang="markdown"><span class="line"><span class="cl">**bold** 
+</span></span><span class="line"><span class="cl"><span class="ge">*italics*</span> 
+</span></span><span class="line"><span class="cl">[<span class="nt">link</span>](<span class="na">www.example.com</span>)
+</span></span></code></pre></td></tr></table>
 </div>
 </div><h3 id="r">R</h3>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt"> 1
+<pre tabindex="0" class="chroma"><code><span class="lnt"> 1
 </span><span class="lnt"> 2
 </span><span class="lnt"> 3
 </span><span class="lnt"> 4
@@ -1878,78 +1876,78 @@ if (!doNotTrack) {
 </span><span class="lnt">66
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-r" data-lang="r"><span class="c1">## Load all the libraries needed and the data</span>
-<span class="nf">library</span><span class="p">(</span><span class="n">readr</span><span class="p">)</span>
-<span class="nf">library</span><span class="p">(</span><span class="n">mosaic</span><span class="p">)</span>
-<span class="nf">library</span><span class="p">(</span><span class="n">FSA</span><span class="p">)</span>
-<span class="nf">library</span><span class="p">(</span><span class="s">&#34;ggplot2&#34;</span><span class="p">)</span>
-<span class="nf">library</span><span class="p">(</span><span class="n">readxl</span><span class="p">)</span>
-<span class="nf">library</span><span class="p">(</span><span class="n">knitr</span><span class="p">)</span>
-<span class="nf">library</span><span class="p">(</span><span class="n">doBy</span><span class="p">)</span>
-<span class="nf">library</span><span class="p">(</span><span class="n">agricolae</span><span class="p">)</span>
-<span class="nf">options</span><span class="p">(</span><span class="n">scipen</span><span class="o">=</span><span class="m">999</span><span class="p">,</span> <span class="n">digits</span> <span class="o">=</span> <span class="m">0</span><span class="p">)</span>
-<span class="n">mydata</span> <span class="o">&lt;-</span> <span class="nf">read_excel</span><span class="p">(</span><span class="s">&#34;./data/2016-Solanum-01-11_Isolates(Germplasms).xlsx&#34;</span><span class="p">)</span>
-<span class="c1">## getwd()</span>
-<span class="c1">####Eggs PER PLANT ####</span>
-<span class="c1">##Create a subset of the desire variable</span>
-<span class="n">Sub.Eggs</span> <span class="o">&lt;-</span> <span class="nf">subset</span><span class="p">(</span><span class="n">mydata</span><span class="p">,</span>
-                   <span class="n">select</span><span class="o">=</span><span class="nf">c</span><span class="p">(</span><span class="n">Nger</span><span class="p">,</span> 
-                            <span class="n">Isolate</span><span class="p">,</span> 
-                            <span class="n">EggsP</span><span class="p">)</span> <span class="p">)</span> 
-<span class="c1">####Isolate: MIAd####</span>
-<span class="n">Sub.Eggs.MIAd</span> <span class="o">&lt;-</span> <span class="nf">subset</span><span class="p">(</span><span class="n">Sub.Eggs</span><span class="p">,</span> <span class="n">Isolate</span> <span class="o">==</span> <span class="s">&#34;MIAd&#34;</span><span class="p">,</span> <span class="n">select</span><span class="o">=</span><span class="nf">c</span><span class="p">(</span><span class="n">Nger</span><span class="p">,</span> <span class="n">EggsP</span><span class="p">))</span> 
-<span class="n">Sub.Eggs.MIAd</span><span class="o">$</span><span class="n">Nger</span> <span class="o">=</span> <span class="nf">factor </span><span class="p">(</span><span class="n">Sub.Eggs.MIAd</span><span class="o">$</span><span class="n">Nger</span><span class="p">,</span> <span class="n">labels</span><span class="o">=</span><span class="nf">c</span><span class="p">(</span><span class="s">&#34;EC&#34;</span><span class="p">,</span> <span class="s">&#34;TB&#34;</span><span class="p">,</span> <span class="s">&#34;TE&#34;</span><span class="p">,</span> <span class="s">&#34;TS&#34;</span><span class="p">,</span> <span class="s">&#34;TT&#34;</span><span class="p">))</span> 
-<span class="c1">###Descriptive statistics calculation###</span>
-<span class="n">Sub.Eggs.MIAd.EC</span> <span class="o">&lt;-</span> <span class="nf">subset</span><span class="p">(</span><span class="n">Sub.Eggs.MIAd</span><span class="p">,</span> <span class="n">Nger</span> <span class="o">==</span> <span class="s">&#34;EC&#34;</span><span class="p">,</span> <span class="n">select</span><span class="o">=</span><span class="nf">c</span><span class="p">(</span><span class="n">Nger</span><span class="p">,</span><span class="n">EggsP</span><span class="p">))</span>
-<span class="n">Me.EP.MIAd.EC</span> <span class="o">&lt;-</span> <span class="nf">mean</span><span class="p">(</span><span class="n">Sub.Eggs.MIAd.EC</span><span class="o">$</span><span class="n">EggsP</span><span class="p">,</span> <span class="n">na.mr</span><span class="o">=</span><span class="kc">FALSE</span><span class="p">)</span>
-<span class="n">Me.EP.MIAd.EC</span> <span class="o">&lt;-</span> <span class="nf">round</span><span class="p">(</span><span class="n">Me.EP.MIAd.EC</span><span class="p">,</span> <span class="n">digits</span><span class="o">=</span><span class="m">2</span><span class="p">)</span>
-<span class="n">Se.EP.MIAd.EC</span> <span class="o">&lt;-</span> <span class="nf">se</span><span class="p">(</span><span class="n">Sub.Eggs.MIAd.EC</span><span class="o">$</span><span class="n">EggsP</span><span class="p">)</span>
-<span class="n">Se.EP.MIAd.EC</span> <span class="o">&lt;-</span> <span class="nf">round</span><span class="p">(</span><span class="n">Se.EP.MIAd.EC</span><span class="p">,</span> <span class="n">digits</span><span class="o">=</span><span class="m">2</span><span class="p">)</span>
-<span class="n">Sub.Eggs.MIAd.SB</span> <span class="o">&lt;-</span> <span class="nf">subset</span><span class="p">(</span><span class="n">Sub.Eggs.MIAd</span><span class="p">,</span> <span class="n">Nger</span> <span class="o">==</span> <span class="s">&#34;TB&#34;</span><span class="p">,</span> <span class="n">select</span><span class="o">=</span><span class="nf">c</span><span class="p">(</span><span class="n">Nger</span><span class="p">,</span><span class="n">EggsP</span><span class="p">))</span>
-<span class="n">Me.EP.MIAd.TB</span> <span class="o">&lt;-</span> <span class="nf">mean</span><span class="p">(</span><span class="n">Sub.Eggs.MIAd.SB</span><span class="o">$</span><span class="n">EggsP</span><span class="p">,</span> <span class="n">na.mr</span><span class="o">=</span><span class="kc">FALSE</span><span class="p">)</span>
-<span class="n">Me.EP.MIAd.TB</span> <span class="o">&lt;-</span> <span class="nf">round</span><span class="p">(</span><span class="n">Me.EP.MIAd.TB</span><span class="p">,</span> <span class="n">digits</span><span class="o">=</span><span class="m">2</span><span class="p">)</span>
-<span class="n">Se.EP.MIAd.TB</span> <span class="o">&lt;-</span> <span class="nf">se</span><span class="p">(</span><span class="n">Sub.Eggs.MIAd.SB</span><span class="o">$</span><span class="n">EggsP</span><span class="p">)</span>
-<span class="n">Se.EP.MIAd.TB</span> <span class="o">&lt;-</span> <span class="nf">round</span><span class="p">(</span><span class="n">Se.EP.MIAd.TB</span><span class="p">,</span> <span class="n">digits</span><span class="o">=</span><span class="m">2</span><span class="p">)</span>
-<span class="n">Sub.Eggs.MIAd.SB</span> <span class="o">&lt;-</span> <span class="nf">subset</span><span class="p">(</span><span class="n">Sub.Eggs.MIAd</span><span class="p">,</span> <span class="n">Nger</span> <span class="o">==</span> <span class="s">&#34;TE&#34;</span><span class="p">,</span> <span class="n">select</span><span class="o">=</span><span class="nf">c</span><span class="p">(</span><span class="n">Nger</span><span class="p">,</span><span class="n">EggsP</span><span class="p">))</span>
-<span class="n">Me.EP.MIAd.TE</span> <span class="o">&lt;-</span> <span class="nf">mean</span><span class="p">(</span><span class="n">Sub.Eggs.MIAd.SB</span><span class="o">$</span><span class="n">EggsP</span><span class="p">,</span> <span class="n">na.mr</span><span class="o">=</span><span class="kc">FALSE</span><span class="p">)</span>
-<span class="n">Me.EP.MIAd.TE</span> <span class="o">&lt;-</span> <span class="nf">round</span><span class="p">(</span><span class="n">Me.EP.MIAd.TE</span><span class="p">,</span> <span class="n">digits</span><span class="o">=</span><span class="m">2</span><span class="p">)</span>
-<span class="n">Se.EP.MIAd.TE</span> <span class="o">&lt;-</span> <span class="nf">se</span><span class="p">(</span><span class="n">Sub.Eggs.MIAd.SB</span><span class="o">$</span><span class="n">EggsP</span><span class="p">)</span>
-<span class="n">Se.EP.MIAd.TE</span> <span class="o">&lt;-</span> <span class="nf">round</span><span class="p">(</span><span class="n">Se.EP.MIAd.TE</span><span class="p">,</span> <span class="n">digits</span><span class="o">=</span><span class="m">2</span><span class="p">)</span>
-<span class="n">Sub.Eggs.MIAd.SB</span> <span class="o">&lt;-</span> <span class="nf">subset</span><span class="p">(</span><span class="n">Sub.Eggs.MIAd</span><span class="p">,</span> <span class="n">Nger</span> <span class="o">==</span> <span class="s">&#34;TS&#34;</span><span class="p">,</span> <span class="n">select</span><span class="o">=</span><span class="nf">c</span><span class="p">(</span><span class="n">Nger</span><span class="p">,</span><span class="n">EggsP</span><span class="p">))</span>
-<span class="n">Me.EP.MIAd.TS</span> <span class="o">&lt;-</span> <span class="nf">mean</span><span class="p">(</span><span class="n">Sub.Eggs.MIAd.SB</span><span class="o">$</span><span class="n">EggsP</span><span class="p">,</span> <span class="n">na.mr</span><span class="o">=</span><span class="kc">FALSE</span><span class="p">)</span>
-<span class="n">Me.EP.MIAd.TS</span> <span class="o">&lt;-</span> <span class="nf">round</span><span class="p">(</span><span class="n">Me.EP.MIAd.TS</span><span class="p">,</span> <span class="n">digits</span><span class="o">=</span><span class="m">2</span><span class="p">)</span>
-<span class="n">Se.EP.MIAd.TS</span> <span class="o">&lt;-</span> <span class="nf">se</span><span class="p">(</span><span class="n">Sub.Eggs.MIAd.SB</span><span class="o">$</span><span class="n">EggsP</span><span class="p">)</span>
-<span class="n">Se.EP.MIAd.TS</span> <span class="o">&lt;-</span> <span class="nf">round</span><span class="p">(</span><span class="n">Se.EP.MIAd.TS</span><span class="p">,</span> <span class="n">digits</span><span class="o">=</span><span class="m">2</span><span class="p">)</span>
-<span class="n">Sub.Eggs.MIAd.SB</span> <span class="o">&lt;-</span> <span class="nf">subset</span><span class="p">(</span><span class="n">Sub.Eggs.MIAd</span><span class="p">,</span> <span class="n">Nger</span> <span class="o">==</span> <span class="s">&#34;TT&#34;</span><span class="p">,</span> <span class="n">select</span><span class="o">=</span><span class="nf">c</span><span class="p">(</span><span class="n">Nger</span><span class="p">,</span><span class="n">EggsP</span><span class="p">))</span>
-<span class="n">Me.EP.MIAd.TT</span> <span class="o">&lt;-</span> <span class="nf">mean</span><span class="p">(</span><span class="n">Sub.Eggs.MIAd.SB</span><span class="o">$</span><span class="n">EggsP</span><span class="p">,</span> <span class="n">na.mr</span><span class="o">=</span><span class="kc">FALSE</span><span class="p">)</span>
-<span class="n">Me.EP.MIAd.TT</span> <span class="o">&lt;-</span> <span class="nf">round</span><span class="p">(</span><span class="n">Me.EP.MIAd.TT</span><span class="p">,</span> <span class="n">digits</span><span class="o">=</span><span class="m">2</span><span class="p">)</span>
-<span class="n">Se.EP.MIAd.TT</span> <span class="o">&lt;-</span> <span class="nf">se</span><span class="p">(</span><span class="n">Sub.Eggs.MIAd.SB</span><span class="o">$</span><span class="n">EggsP</span><span class="p">)</span>
-<span class="n">Se.EP.MIAd.TT</span> <span class="o">&lt;-</span> <span class="nf">round</span><span class="p">(</span><span class="n">Se.EP.MIAd.TT</span><span class="p">,</span> <span class="n">digits</span><span class="o">=</span><span class="m">2</span><span class="p">)</span>
-<span class="c1">####Kruskall-Wallis test calculation####</span>
-<span class="n">KTMIAd</span> <span class="o">=</span> <span class="nf">kruskal.test</span><span class="p">(</span><span class="n">Sub.Eggs.MIAd</span><span class="o">$</span><span class="n">EggsP</span> <span class="o">~</span> <span class="n">Sub.Eggs.MIAd</span><span class="o">$</span><span class="n">Nger</span><span class="p">)</span>
-<span class="c1">####Dunn test calculation####</span>
-<span class="n">DTMIAd</span> <span class="o">=</span> <span class="nf">dunnTest</span><span class="p">(</span><span class="n">Sub.Eggs.MIAd</span><span class="o">$</span><span class="n">EggsP</span> <span class="o">~</span> <span class="n">Sub.Eggs.MIAd</span><span class="o">$</span><span class="n">Nger</span><span class="p">,</span> <span class="n">method</span><span class="o">=</span><span class="s">&#34;bonferroni&#34;</span><span class="p">)</span>
-<span class="n">DTMIAd.Comparison</span> <span class="o">&lt;-</span> <span class="n">DTMIAd</span><span class="o">$</span><span class="n">res</span><span class="o">$</span><span class="n">Comparison</span>
-<span class="n">DTMIAd.Padj</span> <span class="o">&lt;-</span> <span class="nf">round </span><span class="p">(</span><span class="n">DTMIAd</span><span class="o">$</span><span class="n">res</span><span class="o">$</span><span class="n">P.adj</span><span class="p">,</span> <span class="n">digits</span><span class="o">=</span><span class="m">5</span><span class="p">)</span>
-<span class="n">KrusData</span> <span class="o">=</span> <span class="nf">data.frame</span><span class="p">(</span><span class="n">DTMIAd.Comparison</span><span class="p">,</span> <span class="n">DTMIAd.Padj</span><span class="p">)</span>
-<span class="n">RND</span> <span class="o">=</span> <span class="nf">nrow</span><span class="p">(</span><span class="n">DTMIAd</span><span class="o">$</span><span class="n">res</span><span class="p">)</span>
-<span class="n">krustable</span><span class="o">=</span><span class="nf">kable</span><span class="p">(</span><span class="n">KrusData[1</span><span class="o">:</span><span class="n">RND</span><span class="p">,</span><span class="n">]</span><span class="p">)</span>
-<span class="nf">if </span><span class="p">(</span><span class="n">KTMIAd</span><span class="o">$</span><span class="n">p.value</span><span class="o">&gt;</span><span class="m">0.05</span><span class="p">)</span> <span class="p">{</span>
-<span class="n">dif</span><span class="o">=</span><span class="s">&#34;There is no significative differences (P&lt;0.05) between treatments (P&lt;0.05)&#34;</span>
-<span class="n">krustable</span><span class="o">=</span><span class="s">&#34;0&#34;</span>
-<span class="p">}</span> <span class="n">else</span> <span class="p">{</span>
-<span class="n">dif</span><span class="o">=</span><span class="s">&#34;There is significative differences between treatments (P&lt;0.05).&#34;</span>
-<span class="n">krustable</span><span class="o">=</span><span class="nf">kable</span><span class="p">(</span><span class="n">KrusData[1</span><span class="o">:</span><span class="n">RND</span><span class="p">,</span><span class="n">]</span><span class="p">)</span>
-<span class="nf">boxplot</span><span class="p">(</span><span class="n">Sub.Eggs.MIAd</span><span class="o">$</span><span class="n">EggsP</span> <span class="o">~</span> <span class="n">Sub.Eggs.MIAd</span><span class="o">$</span><span class="n">Nger</span><span class="p">,</span> <span class="n">main</span> <span class="o">=</span> <span class="s">&#34;MIAd&#34;</span><span class="p">,</span> <span class="n">xlab</span> <span class="o">=</span> <span class="s">&#34;Germplasm&#34;</span><span class="p">,</span> <span class="n">ylab</span> <span class="o">=</span> <span class="s">&#34;Eggs per plant&#34;</span><span class="p">)</span>
-<span class="n">DTMIAd</span><span class="o">$</span><span class="n">dtres</span>
-
-<span class="p">}</span>
-</code></pre></td></tr></table>
+<pre tabindex="0" class="chroma"><code class="language-r" data-lang="r"><span class="line"><span class="cl"><span class="c1">## Load all the libraries needed and the data</span>
+</span></span><span class="line"><span class="cl"><span class="nf">library</span><span class="p">(</span><span class="n">readr</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl"><span class="nf">library</span><span class="p">(</span><span class="n">mosaic</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl"><span class="nf">library</span><span class="p">(</span><span class="n">FSA</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl"><span class="nf">library</span><span class="p">(</span><span class="s">&#34;ggplot2&#34;</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl"><span class="nf">library</span><span class="p">(</span><span class="n">readxl</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl"><span class="nf">library</span><span class="p">(</span><span class="n">knitr</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl"><span class="nf">library</span><span class="p">(</span><span class="n">doBy</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl"><span class="nf">library</span><span class="p">(</span><span class="n">agricolae</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl"><span class="nf">options</span><span class="p">(</span><span class="n">scipen</span><span class="o">=</span><span class="m">999</span><span class="p">,</span> <span class="n">digits</span> <span class="o">=</span> <span class="m">0</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl"><span class="n">mydata</span> <span class="o">&lt;-</span> <span class="nf">read_excel</span><span class="p">(</span><span class="s">&#34;./data/2016-Solanum-01-11_Isolates(Germplasms).xlsx&#34;</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl"><span class="c1">## getwd()</span>
+</span></span><span class="line"><span class="cl"><span class="c1">####Eggs PER PLANT ####</span>
+</span></span><span class="line"><span class="cl"><span class="c1">##Create a subset of the desire variable</span>
+</span></span><span class="line"><span class="cl"><span class="n">Sub.Eggs</span> <span class="o">&lt;-</span> <span class="nf">subset</span><span class="p">(</span><span class="n">mydata</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">                   <span class="n">select</span><span class="o">=</span><span class="nf">c</span><span class="p">(</span><span class="n">Nger</span><span class="p">,</span> 
+</span></span><span class="line"><span class="cl">                            <span class="n">Isolate</span><span class="p">,</span> 
+</span></span><span class="line"><span class="cl">                            <span class="n">EggsP</span><span class="p">)</span> <span class="p">)</span> 
+</span></span><span class="line"><span class="cl"><span class="c1">####Isolate: MIAd####</span>
+</span></span><span class="line"><span class="cl"><span class="n">Sub.Eggs.MIAd</span> <span class="o">&lt;-</span> <span class="nf">subset</span><span class="p">(</span><span class="n">Sub.Eggs</span><span class="p">,</span> <span class="n">Isolate</span> <span class="o">==</span> <span class="s">&#34;MIAd&#34;</span><span class="p">,</span> <span class="n">select</span><span class="o">=</span><span class="nf">c</span><span class="p">(</span><span class="n">Nger</span><span class="p">,</span> <span class="n">EggsP</span><span class="p">))</span> 
+</span></span><span class="line"><span class="cl"><span class="n">Sub.Eggs.MIAd</span><span class="o">$</span><span class="n">Nger</span> <span class="o">=</span> <span class="nf">factor </span><span class="p">(</span><span class="n">Sub.Eggs.MIAd</span><span class="o">$</span><span class="n">Nger</span><span class="p">,</span> <span class="n">labels</span><span class="o">=</span><span class="nf">c</span><span class="p">(</span><span class="s">&#34;EC&#34;</span><span class="p">,</span> <span class="s">&#34;TB&#34;</span><span class="p">,</span> <span class="s">&#34;TE&#34;</span><span class="p">,</span> <span class="s">&#34;TS&#34;</span><span class="p">,</span> <span class="s">&#34;TT&#34;</span><span class="p">))</span> 
+</span></span><span class="line"><span class="cl"><span class="c1">###Descriptive statistics calculation###</span>
+</span></span><span class="line"><span class="cl"><span class="n">Sub.Eggs.MIAd.EC</span> <span class="o">&lt;-</span> <span class="nf">subset</span><span class="p">(</span><span class="n">Sub.Eggs.MIAd</span><span class="p">,</span> <span class="n">Nger</span> <span class="o">==</span> <span class="s">&#34;EC&#34;</span><span class="p">,</span> <span class="n">select</span><span class="o">=</span><span class="nf">c</span><span class="p">(</span><span class="n">Nger</span><span class="p">,</span><span class="n">EggsP</span><span class="p">))</span>
+</span></span><span class="line"><span class="cl"><span class="n">Me.EP.MIAd.EC</span> <span class="o">&lt;-</span> <span class="nf">mean</span><span class="p">(</span><span class="n">Sub.Eggs.MIAd.EC</span><span class="o">$</span><span class="n">EggsP</span><span class="p">,</span> <span class="n">na.mr</span><span class="o">=</span><span class="kc">FALSE</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl"><span class="n">Me.EP.MIAd.EC</span> <span class="o">&lt;-</span> <span class="nf">round</span><span class="p">(</span><span class="n">Me.EP.MIAd.EC</span><span class="p">,</span> <span class="n">digits</span><span class="o">=</span><span class="m">2</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl"><span class="n">Se.EP.MIAd.EC</span> <span class="o">&lt;-</span> <span class="nf">se</span><span class="p">(</span><span class="n">Sub.Eggs.MIAd.EC</span><span class="o">$</span><span class="n">EggsP</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl"><span class="n">Se.EP.MIAd.EC</span> <span class="o">&lt;-</span> <span class="nf">round</span><span class="p">(</span><span class="n">Se.EP.MIAd.EC</span><span class="p">,</span> <span class="n">digits</span><span class="o">=</span><span class="m">2</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl"><span class="n">Sub.Eggs.MIAd.SB</span> <span class="o">&lt;-</span> <span class="nf">subset</span><span class="p">(</span><span class="n">Sub.Eggs.MIAd</span><span class="p">,</span> <span class="n">Nger</span> <span class="o">==</span> <span class="s">&#34;TB&#34;</span><span class="p">,</span> <span class="n">select</span><span class="o">=</span><span class="nf">c</span><span class="p">(</span><span class="n">Nger</span><span class="p">,</span><span class="n">EggsP</span><span class="p">))</span>
+</span></span><span class="line"><span class="cl"><span class="n">Me.EP.MIAd.TB</span> <span class="o">&lt;-</span> <span class="nf">mean</span><span class="p">(</span><span class="n">Sub.Eggs.MIAd.SB</span><span class="o">$</span><span class="n">EggsP</span><span class="p">,</span> <span class="n">na.mr</span><span class="o">=</span><span class="kc">FALSE</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl"><span class="n">Me.EP.MIAd.TB</span> <span class="o">&lt;-</span> <span class="nf">round</span><span class="p">(</span><span class="n">Me.EP.MIAd.TB</span><span class="p">,</span> <span class="n">digits</span><span class="o">=</span><span class="m">2</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl"><span class="n">Se.EP.MIAd.TB</span> <span class="o">&lt;-</span> <span class="nf">se</span><span class="p">(</span><span class="n">Sub.Eggs.MIAd.SB</span><span class="o">$</span><span class="n">EggsP</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl"><span class="n">Se.EP.MIAd.TB</span> <span class="o">&lt;-</span> <span class="nf">round</span><span class="p">(</span><span class="n">Se.EP.MIAd.TB</span><span class="p">,</span> <span class="n">digits</span><span class="o">=</span><span class="m">2</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl"><span class="n">Sub.Eggs.MIAd.SB</span> <span class="o">&lt;-</span> <span class="nf">subset</span><span class="p">(</span><span class="n">Sub.Eggs.MIAd</span><span class="p">,</span> <span class="n">Nger</span> <span class="o">==</span> <span class="s">&#34;TE&#34;</span><span class="p">,</span> <span class="n">select</span><span class="o">=</span><span class="nf">c</span><span class="p">(</span><span class="n">Nger</span><span class="p">,</span><span class="n">EggsP</span><span class="p">))</span>
+</span></span><span class="line"><span class="cl"><span class="n">Me.EP.MIAd.TE</span> <span class="o">&lt;-</span> <span class="nf">mean</span><span class="p">(</span><span class="n">Sub.Eggs.MIAd.SB</span><span class="o">$</span><span class="n">EggsP</span><span class="p">,</span> <span class="n">na.mr</span><span class="o">=</span><span class="kc">FALSE</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl"><span class="n">Me.EP.MIAd.TE</span> <span class="o">&lt;-</span> <span class="nf">round</span><span class="p">(</span><span class="n">Me.EP.MIAd.TE</span><span class="p">,</span> <span class="n">digits</span><span class="o">=</span><span class="m">2</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl"><span class="n">Se.EP.MIAd.TE</span> <span class="o">&lt;-</span> <span class="nf">se</span><span class="p">(</span><span class="n">Sub.Eggs.MIAd.SB</span><span class="o">$</span><span class="n">EggsP</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl"><span class="n">Se.EP.MIAd.TE</span> <span class="o">&lt;-</span> <span class="nf">round</span><span class="p">(</span><span class="n">Se.EP.MIAd.TE</span><span class="p">,</span> <span class="n">digits</span><span class="o">=</span><span class="m">2</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl"><span class="n">Sub.Eggs.MIAd.SB</span> <span class="o">&lt;-</span> <span class="nf">subset</span><span class="p">(</span><span class="n">Sub.Eggs.MIAd</span><span class="p">,</span> <span class="n">Nger</span> <span class="o">==</span> <span class="s">&#34;TS&#34;</span><span class="p">,</span> <span class="n">select</span><span class="o">=</span><span class="nf">c</span><span class="p">(</span><span class="n">Nger</span><span class="p">,</span><span class="n">EggsP</span><span class="p">))</span>
+</span></span><span class="line"><span class="cl"><span class="n">Me.EP.MIAd.TS</span> <span class="o">&lt;-</span> <span class="nf">mean</span><span class="p">(</span><span class="n">Sub.Eggs.MIAd.SB</span><span class="o">$</span><span class="n">EggsP</span><span class="p">,</span> <span class="n">na.mr</span><span class="o">=</span><span class="kc">FALSE</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl"><span class="n">Me.EP.MIAd.TS</span> <span class="o">&lt;-</span> <span class="nf">round</span><span class="p">(</span><span class="n">Me.EP.MIAd.TS</span><span class="p">,</span> <span class="n">digits</span><span class="o">=</span><span class="m">2</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl"><span class="n">Se.EP.MIAd.TS</span> <span class="o">&lt;-</span> <span class="nf">se</span><span class="p">(</span><span class="n">Sub.Eggs.MIAd.SB</span><span class="o">$</span><span class="n">EggsP</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl"><span class="n">Se.EP.MIAd.TS</span> <span class="o">&lt;-</span> <span class="nf">round</span><span class="p">(</span><span class="n">Se.EP.MIAd.TS</span><span class="p">,</span> <span class="n">digits</span><span class="o">=</span><span class="m">2</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl"><span class="n">Sub.Eggs.MIAd.SB</span> <span class="o">&lt;-</span> <span class="nf">subset</span><span class="p">(</span><span class="n">Sub.Eggs.MIAd</span><span class="p">,</span> <span class="n">Nger</span> <span class="o">==</span> <span class="s">&#34;TT&#34;</span><span class="p">,</span> <span class="n">select</span><span class="o">=</span><span class="nf">c</span><span class="p">(</span><span class="n">Nger</span><span class="p">,</span><span class="n">EggsP</span><span class="p">))</span>
+</span></span><span class="line"><span class="cl"><span class="n">Me.EP.MIAd.TT</span> <span class="o">&lt;-</span> <span class="nf">mean</span><span class="p">(</span><span class="n">Sub.Eggs.MIAd.SB</span><span class="o">$</span><span class="n">EggsP</span><span class="p">,</span> <span class="n">na.mr</span><span class="o">=</span><span class="kc">FALSE</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl"><span class="n">Me.EP.MIAd.TT</span> <span class="o">&lt;-</span> <span class="nf">round</span><span class="p">(</span><span class="n">Me.EP.MIAd.TT</span><span class="p">,</span> <span class="n">digits</span><span class="o">=</span><span class="m">2</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl"><span class="n">Se.EP.MIAd.TT</span> <span class="o">&lt;-</span> <span class="nf">se</span><span class="p">(</span><span class="n">Sub.Eggs.MIAd.SB</span><span class="o">$</span><span class="n">EggsP</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl"><span class="n">Se.EP.MIAd.TT</span> <span class="o">&lt;-</span> <span class="nf">round</span><span class="p">(</span><span class="n">Se.EP.MIAd.TT</span><span class="p">,</span> <span class="n">digits</span><span class="o">=</span><span class="m">2</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl"><span class="c1">####Kruskall-Wallis test calculation####</span>
+</span></span><span class="line"><span class="cl"><span class="n">KTMIAd</span> <span class="o">=</span> <span class="nf">kruskal.test</span><span class="p">(</span><span class="n">Sub.Eggs.MIAd</span><span class="o">$</span><span class="n">EggsP</span> <span class="o">~</span> <span class="n">Sub.Eggs.MIAd</span><span class="o">$</span><span class="n">Nger</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl"><span class="c1">####Dunn test calculation####</span>
+</span></span><span class="line"><span class="cl"><span class="n">DTMIAd</span> <span class="o">=</span> <span class="nf">dunnTest</span><span class="p">(</span><span class="n">Sub.Eggs.MIAd</span><span class="o">$</span><span class="n">EggsP</span> <span class="o">~</span> <span class="n">Sub.Eggs.MIAd</span><span class="o">$</span><span class="n">Nger</span><span class="p">,</span> <span class="n">method</span><span class="o">=</span><span class="s">&#34;bonferroni&#34;</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl"><span class="n">DTMIAd.Comparison</span> <span class="o">&lt;-</span> <span class="n">DTMIAd</span><span class="o">$</span><span class="n">res</span><span class="o">$</span><span class="n">Comparison</span>
+</span></span><span class="line"><span class="cl"><span class="n">DTMIAd.Padj</span> <span class="o">&lt;-</span> <span class="nf">round </span><span class="p">(</span><span class="n">DTMIAd</span><span class="o">$</span><span class="n">res</span><span class="o">$</span><span class="n">P.adj</span><span class="p">,</span> <span class="n">digits</span><span class="o">=</span><span class="m">5</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl"><span class="n">KrusData</span> <span class="o">=</span> <span class="nf">data.frame</span><span class="p">(</span><span class="n">DTMIAd.Comparison</span><span class="p">,</span> <span class="n">DTMIAd.Padj</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl"><span class="n">RND</span> <span class="o">=</span> <span class="nf">nrow</span><span class="p">(</span><span class="n">DTMIAd</span><span class="o">$</span><span class="n">res</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl"><span class="n">krustable</span><span class="o">=</span><span class="nf">kable</span><span class="p">(</span><span class="n">KrusData[1</span><span class="o">:</span><span class="n">RND</span><span class="p">,</span><span class="n">]</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl"><span class="nf">if </span><span class="p">(</span><span class="n">KTMIAd</span><span class="o">$</span><span class="n">p.value</span><span class="o">&gt;</span><span class="m">0.05</span><span class="p">)</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl"><span class="n">dif</span><span class="o">=</span><span class="s">&#34;There is no significative differences (P&lt;0.05) between treatments (P&lt;0.05)&#34;</span>
+</span></span><span class="line"><span class="cl"><span class="n">krustable</span><span class="o">=</span><span class="s">&#34;0&#34;</span>
+</span></span><span class="line"><span class="cl"><span class="p">}</span> <span class="n">else</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl"><span class="n">dif</span><span class="o">=</span><span class="s">&#34;There is significative differences between treatments (P&lt;0.05).&#34;</span>
+</span></span><span class="line"><span class="cl"><span class="n">krustable</span><span class="o">=</span><span class="nf">kable</span><span class="p">(</span><span class="n">KrusData[1</span><span class="o">:</span><span class="n">RND</span><span class="p">,</span><span class="n">]</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl"><span class="nf">boxplot</span><span class="p">(</span><span class="n">Sub.Eggs.MIAd</span><span class="o">$</span><span class="n">EggsP</span> <span class="o">~</span> <span class="n">Sub.Eggs.MIAd</span><span class="o">$</span><span class="n">Nger</span><span class="p">,</span> <span class="n">main</span> <span class="o">=</span> <span class="s">&#34;MIAd&#34;</span><span class="p">,</span> <span class="n">xlab</span> <span class="o">=</span> <span class="s">&#34;Germplasm&#34;</span><span class="p">,</span> <span class="n">ylab</span> <span class="o">=</span> <span class="s">&#34;Eggs per plant&#34;</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl"><span class="n">DTMIAd</span><span class="o">$</span><span class="n">dtres</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="p">}</span>
+</span></span></code></pre></td></tr></table>
 </div>
 </div><h3 id="latex">Latex</h3>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">  1
+<pre tabindex="0" class="chroma"><code><span class="lnt">  1
 </span><span class="lnt">  2
 </span><span class="lnt">  3
 </span><span class="lnt">  4
@@ -2181,243 +2179,241 @@ if (!doNotTrack) {
 </span><span class="lnt">230
 </span><span class="lnt">231
 </span><span class="lnt">232
-</span><span class="lnt">233
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-latex" data-lang="latex"><span class="k">\documentclass</span><span class="na">[11pt,twoside,a4paper,openright]</span><span class="nb">{</span>report<span class="nb">}</span>
-
-
-<span class="c">%%%%% packages %%%%%
-</span><span class="c"></span>
-<span class="k">\usepackage</span><span class="nb">{</span>adjustbox<span class="nb">}</span>
-<span class="k">\usepackage</span><span class="nb">{</span>amsmath<span class="nb">}</span>
-<span class="k">\usepackage</span><span class="nb">{</span>array<span class="nb">}</span>
-
-<span class="k">\usepackage</span><span class="na">[backend=biber, style=chicago-authordate, natbib=true, maxcitenames=2, maxbibnames=6, minbibnames=6,sorting=nyt, firstinits=true]</span><span class="nb">{</span>biblatex<span class="nb">}</span>
-<span class="k">\usepackage</span><span class="nb">{</span>caption<span class="nb">}</span>
-<span class="k">\usepackage</span><span class="na">[english]</span><span class="nb">{</span>babel<span class="nb">}</span>
-<span class="k">\usepackage</span><span class="nb">{</span>fancyhdr<span class="nb">}</span>
-<span class="k">\usepackage</span><span class="nb">{</span>float<span class="nb">}</span>
-<span class="k">\usepackage</span><span class="nb">{</span>gensymb<span class="nb">}</span>
-<span class="k">\usepackage</span><span class="na">[a4paper,width=150mm,top=25mm,bottom=25mm,bindingoffset=6mm]</span><span class="nb">{</span>geometry<span class="nb">}</span>
-<span class="k">\usepackage</span><span class="nb">{</span>graphicx<span class="nb">}</span>
-<span class="k">\usepackage</span><span class="na">[utf8]</span><span class="nb">{</span>inputenc<span class="nb">}</span>
-<span class="k">\usepackage</span><span class="nb">{</span>makecell<span class="nb">}</span>
-<span class="k">\usepackage</span><span class="nb">{</span>multicol<span class="nb">}</span>
-<span class="k">\usepackage</span><span class="nb">{</span>pgfplots, pgfplotstable<span class="nb">}</span>
-<span class="k">\usepackage</span><span class="nb">{</span>rotating<span class="nb">}</span>
-<span class="k">\usepackage</span><span class="nb">{</span>subcaption<span class="nb">}</span>
-<span class="k">\usepackage</span><span class="nb">{</span>tikz<span class="nb">}</span>
-<span class="k">\usepackage</span><span class="nb">{</span>wrapfig<span class="nb">}</span>
-<span class="k">\usepackage</span><span class="nb">{</span>wallpaper<span class="nb">}</span>
-
-<span class="c">%\usepackage[scaled=0.92]{helvet}
-</span><span class="c"></span>
-<span class="c">%%%%% Config %%%%%
-</span><span class="c"></span>
-<span class="k">\graphicspath</span><span class="nb">{</span> <span class="nb">{</span>images/<span class="nb">}</span> <span class="nb">}</span>
-
-<span class="k">\pagestyle</span><span class="nb">{</span>fancy<span class="nb">}</span>
-<span class="c">%\fancyhead[LE,RO]{\scriptsize \slshape PhD dissertation}
-</span><span class="c">%\fancyhead[LO,RE]{\tiny \slshape \leftmark}
-</span><span class="c"></span><span class="k">\fancyhead</span><span class="na">[LE,RO]</span><span class="nb">{}</span>
-<span class="k">\fancyhead</span><span class="na">[LO,RE]</span><span class="nb">{}</span>
-<span class="k">\fancyhead</span><span class="na">[C]</span><span class="nb">{</span><span class="k">\small</span> <span class="k">\slshape</span> Chapter <span class="k">\thechapter</span>: <span class="k">\leftmark</span><span class="nb">}</span>
-<span class="k">\fancyfoot</span><span class="na">[C]</span><span class="nb">{</span><span class="k">\thepage</span><span class="nb">}</span>
-<span class="k">\fancyfoot</span><span class="na">[RO,LE]</span><span class="nb">{</span><span class="k">\footnotesize</span> <span class="k">\slshape</span> Garc<span class="k">\&#39;</span>ia-Mend<span class="k">\&#39;</span>ivil et al., 2019<span class="nb">}</span>
-<span class="k">\fancyfoot</span><span class="na">[LO,RE]</span><span class="nb">{</span><span class="k">\footnotesize</span> <span class="k">\slshape</span> <span class="k">\rightmark</span><span class="nb">}</span>
-<span class="k">\renewcommand</span><span class="nb">{</span><span class="k">\chaptermark</span><span class="nb">}</span>[1]<span class="nb">{</span> <span class="k">\markboth</span><span class="nb">{</span>#1<span class="nb">}{}</span> <span class="nb">}</span>
-<span class="k">\renewcommand</span><span class="nb">{</span><span class="k">\sectionmark</span><span class="nb">}</span>[1]<span class="nb">{</span> <span class="k">\markright</span><span class="nb">{</span>#1<span class="nb">}{}</span> <span class="nb">}</span>
-
-<span class="k">\renewcommand</span><span class="nb">{</span><span class="k">\headrulewidth</span><span class="nb">}{</span>0.7pt<span class="nb">}</span>
-<span class="k">\renewcommand</span><span class="nb">{</span><span class="k">\footrulewidth</span><span class="nb">}{</span>0.7pt<span class="nb">}</span>
-
-<span class="k">\fancypagestyle</span><span class="nb">{</span>plain2<span class="nb">}{</span>
-	<span class="k">\fancyhf</span><span class="nb">{}</span> <span class="c">% clear all header and footer fields
-</span><span class="c"></span>	<span class="k">\fancyfoot</span><span class="na">[C]</span><span class="nb">{</span><span class="k">\thepage</span><span class="nb">}</span> <span class="c">% except the center
-</span><span class="c"></span>	<span class="k">\renewcommand</span><span class="nb">{</span><span class="k">\headrulewidth</span><span class="nb">}{</span>0.7pt<span class="nb">}</span><span class="k">\renewcommand</span><span class="nb">{</span><span class="k">\footrulewidth</span><span class="nb">}{</span>0.7pt<span class="nb">}}</span>
-
-
-
-<span class="k">\usetikzlibrary</span><span class="nb">{</span>calc<span class="nb">}</span>
-<span class="k">\usetikzlibrary</span><span class="nb">{</span>arrows<span class="nb">}</span>
-<span class="k">\usetikzlibrary</span><span class="nb">{</span>shapes,snakes<span class="nb">}</span>
-
-<span class="k">\pgfplotsset</span><span class="nb">{</span>compat=1.10<span class="nb">}</span>
-
-<span class="k">\addbibresource</span><span class="nb">{</span>MyCollection.bib<span class="nb">}</span>
-
-<span class="k">\DeclareFieldFormat</span>
-[article,inbook,incollection,inproceedings,patent,thesis,unpublished,online,misc]
-<span class="nb">{</span>title<span class="nb">}{</span>#1<span class="k">\isdot</span><span class="nb">}</span>
-
-
-
-<span class="k">\title</span><span class="nb">{</span>Durability of resistance to <span class="k">\textit</span><span class="nb">{</span>Meloidogyne<span class="nb">}</span> mediated by R-genes in Solanaceae and Cucurbitaceae crops<span class="nb">}</span>
-<span class="k">\author</span><span class="nb">{</span>Helio A. Garc<span class="k">\&#39;</span>ia Mend<span class="k">\&#39;</span>ivil<span class="nb">}</span>
-<span class="k">\date</span><span class="nb">{</span>Day Month Year<span class="nb">}</span>
-
-
-<span class="c">%%%%% Data tables %%%%%
-</span><span class="c"></span>
-<span class="k">\pgfplotstableread</span><span class="nb">{</span>
-	x y label
-	1	4.739572344 a
-	1.618048097	4.415021645 a
-	2.190331698	4.201026904 a
-	2.229169703	3.469661305 a
-	2.340444115	3.611902669 a
-	2.36361198	3.533531071 a
-	2.386498966	3.336134957 a
-	2.519171464	3.385089538 a
-	2.574609941	3.117778657 a
-	2.737590166	2.889857625 a
-<span class="nb">}</span><span class="k">\datatable</span>
-
-<span class="k">\pgfplotstableread</span><span class="nb">{</span>
-	x y label
-	1	4.739572344	a
-	1.618048097	4.415021645	a
-	2.209750701	3.835344105	a
-	2.363518354	3.493856232	a
-	2.519171464	3.385089538	a
-	2.574609941	3.117778657	a
-	2.737590166	2.889857625	a
-<span class="nb">}</span><span class="k">\dataEC</span>
-
-<span class="k">\pgfplotstableread</span><span class="nb">{</span>
-	x y label
-	1	1.991226076	a
-	1.618048097	1.997375856	a
-	2.209750701	1.455829278	a
-	2.363518354	1.426557085	a
-	2.519171464	1.472054612	a
-	2.574609941	0.310751279	a
-	2.737590166	0.392743602	a
-<span class="nb">}</span><span class="k">\dataTB</span>
-
-<span class="k">\pgfplotstableread</span><span class="nb">{</span>
-	x y label
-	1	2.704836606	a
-	1.618048097	2.279798835	a
-	2.209750701	1.513852201	a
-	2.363518354	1.775448939	a
-	2.519171464	1.512317792	a
-	2.574609941	0.408113446	a
-	2.737590166	1.081953769	a
-<span class="nb">}</span><span class="k">\dataTE</span>
-
-<span class="k">\pgfplotstableread</span><span class="nb">{</span>
-	x y label
-	1	2.324693914	a
-	1.618048097	2.046593879	a
-	2.190331698	1.662635993	a
-	2.284806909	1.527292047	a
-	2.375055473	1.536458041	a
-	2.519171464	1.486866491	a
-	2.574609941	0.945480387	a
-	2.737590166	1.019805863	a
-<span class="nb">}</span><span class="k">\dataTS</span>
-
-<span class="k">\pgfplotstableread</span><span class="nb">{</span>
-	x y label
-	1	2.239049093	a
-	1.618048097	1.859073158	a
-	2.209750701	1.690613336	a
-	2.363518354	1.435091922	a
-	2.519171464	0.346524596	a
-	2.574609941	0.428850591	a
-	2.737590166	0.945096312	a
-<span class="nb">}</span><span class="k">\dataTT</span>
-
-<span class="k">\pgfplotstableread</span><span class="nb">{</span>
-	x y label
-	1.62065648	3.043458759	a
-	1.707570176	2.173243416	a
-	1.838849091	1.633907359	a
-	2.012981416	2.29939005	a
-	2.16879202	1.98058107	a
-	2.205475037	1.721895326	a
-	2.386948459	1.770517672	a
-	2.574031268	0.781611782	a
-	2.717254313	1.424884767	a
-	2.92505412	0.413003755	a
-<span class="nb">}</span><span class="k">\dataECa</span>
-
-<span class="k">\pgfplotstableread</span><span class="nb">{</span>
-	x y label
-	1.62065648	1.827740624	a
-	1.707570176	0.790740378	a
-	1.838849091	.	a
-	2.012981416	0.726846827	a
-	2.16879202	1.140838147	a
-	2.205475037	0.367396565	a
-	2.386948459	0.983959489	a
-	2.574031268	0.526339277	a
-	2.717254313	0.63163441	a
-	2.92505412	0.454795058	a
-<span class="nb">}</span><span class="k">\dataTBa</span>
-
-<span class="k">\pgfplotstableread</span><span class="nb">{</span>
-	x y label
-	1.62065648	1.856464775	a
-	1.707570176	0.770996319	a
-	1.838849091	0.893544669	a
-	2.012981416	0.910972831	a
-	2.16879202	0.709729775	a
-	2.205475037	0.744402667	a
-	2.386948459	0.526763706	a
-	2.574031268	0.319175485	a
-	2.717254313	0.626154281	a
-	2.92505412	.	a
-<span class="nb">}</span><span class="k">\dataTEa</span>
-
-<span class="k">\pgfplotstableread</span><span class="nb">{</span>
-	x y label
-	1.62065648	1.400532819	a
-	1.707570176	0.927913571	a
-	1.838849091	1.171874775	a
-	2.012981416	0.698248879	a
-	2.16879202	0.927422565	a
-	2.205475037	0.550399819	a
-	2.386948459	0.197167596	a
-	2.574031268	.	a
-	2.717254313	0.592375855	a
-	2.92505412	0.353699481	a
-<span class="nb">}</span><span class="k">\dataTSa</span>
-
-<span class="k">\pgfplotstableread</span><span class="nb">{</span>
-	x y label
-	1.62065648	2.271438123	a
-	1.707570176	1.566587673	a
-	1.838849091	1.129633858	a
-	2.012981416	1.464300922	a
-	2.16879202	1.274470967	a
-	2.205475037	1.529484725	a
-	2.386948459	0.636176779	a
-	2.574031268	-0.045114567	a
-	2.717254313	0.593226579	a
-	2.92505412	.	a
-<span class="nb">}</span><span class="k">\dataTTa</span>
-
-
-<span class="k">\AtBeginBibliography</span><span class="nb">{</span><span class="k">\footnotesize</span><span class="nb">}</span>
-
-<span class="c">%%%% Document %%%%%
-</span><span class="c"></span>
-<span class="k">\begin</span><span class="nb">{</span>document<span class="nb">}</span>
-
-
-.
-.
-.
-
-.
-.
-.
-<span class="k">\end</span><span class="nb">{</span>document<span class="nb">}</span>
-
-</code></pre></td></tr></table>
+<pre tabindex="0" class="chroma"><code class="language-latex" data-lang="latex"><span class="line"><span class="cl"><span class="k">\documentclass</span><span class="na">[11pt,twoside,a4paper,openright]</span><span class="nb">{</span>report<span class="nb">}</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="c">%%%%% packages %%%%%
+</span></span></span><span class="line"><span class="cl"><span class="c"></span>
+</span></span><span class="line"><span class="cl"><span class="k">\usepackage</span><span class="nb">{</span>adjustbox<span class="nb">}</span>
+</span></span><span class="line"><span class="cl"><span class="k">\usepackage</span><span class="nb">{</span>amsmath<span class="nb">}</span>
+</span></span><span class="line"><span class="cl"><span class="k">\usepackage</span><span class="nb">{</span>array<span class="nb">}</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="k">\usepackage</span><span class="na">[backend=biber, style=chicago-authordate, natbib=true, maxcitenames=2, maxbibnames=6, minbibnames=6,sorting=nyt, firstinits=true]</span><span class="nb">{</span>biblatex<span class="nb">}</span>
+</span></span><span class="line"><span class="cl"><span class="k">\usepackage</span><span class="nb">{</span>caption<span class="nb">}</span>
+</span></span><span class="line"><span class="cl"><span class="k">\usepackage</span><span class="na">[english]</span><span class="nb">{</span>babel<span class="nb">}</span>
+</span></span><span class="line"><span class="cl"><span class="k">\usepackage</span><span class="nb">{</span>fancyhdr<span class="nb">}</span>
+</span></span><span class="line"><span class="cl"><span class="k">\usepackage</span><span class="nb">{</span>float<span class="nb">}</span>
+</span></span><span class="line"><span class="cl"><span class="k">\usepackage</span><span class="nb">{</span>gensymb<span class="nb">}</span>
+</span></span><span class="line"><span class="cl"><span class="k">\usepackage</span><span class="na">[a4paper,width=150mm,top=25mm,bottom=25mm,bindingoffset=6mm]</span><span class="nb">{</span>geometry<span class="nb">}</span>
+</span></span><span class="line"><span class="cl"><span class="k">\usepackage</span><span class="nb">{</span>graphicx<span class="nb">}</span>
+</span></span><span class="line"><span class="cl"><span class="k">\usepackage</span><span class="na">[utf8]</span><span class="nb">{</span>inputenc<span class="nb">}</span>
+</span></span><span class="line"><span class="cl"><span class="k">\usepackage</span><span class="nb">{</span>makecell<span class="nb">}</span>
+</span></span><span class="line"><span class="cl"><span class="k">\usepackage</span><span class="nb">{</span>multicol<span class="nb">}</span>
+</span></span><span class="line"><span class="cl"><span class="k">\usepackage</span><span class="nb">{</span>pgfplots, pgfplotstable<span class="nb">}</span>
+</span></span><span class="line"><span class="cl"><span class="k">\usepackage</span><span class="nb">{</span>rotating<span class="nb">}</span>
+</span></span><span class="line"><span class="cl"><span class="k">\usepackage</span><span class="nb">{</span>subcaption<span class="nb">}</span>
+</span></span><span class="line"><span class="cl"><span class="k">\usepackage</span><span class="nb">{</span>tikz<span class="nb">}</span>
+</span></span><span class="line"><span class="cl"><span class="k">\usepackage</span><span class="nb">{</span>wrapfig<span class="nb">}</span>
+</span></span><span class="line"><span class="cl"><span class="k">\usepackage</span><span class="nb">{</span>wallpaper<span class="nb">}</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="c">%\usepackage[scaled=0.92]{helvet}
+</span></span></span><span class="line"><span class="cl"><span class="c"></span>
+</span></span><span class="line"><span class="cl"><span class="c">%%%%% Config %%%%%
+</span></span></span><span class="line"><span class="cl"><span class="c"></span>
+</span></span><span class="line"><span class="cl"><span class="k">\graphicspath</span><span class="nb">{</span> <span class="nb">{</span>images/<span class="nb">}</span> <span class="nb">}</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="k">\pagestyle</span><span class="nb">{</span>fancy<span class="nb">}</span>
+</span></span><span class="line"><span class="cl"><span class="c">%\fancyhead[LE,RO]{\scriptsize \slshape PhD dissertation}
+</span></span></span><span class="line"><span class="cl"><span class="c">%\fancyhead[LO,RE]{\tiny \slshape \leftmark}
+</span></span></span><span class="line"><span class="cl"><span class="c"></span><span class="k">\fancyhead</span><span class="na">[LE,RO]</span><span class="nb">{}</span>
+</span></span><span class="line"><span class="cl"><span class="k">\fancyhead</span><span class="na">[LO,RE]</span><span class="nb">{}</span>
+</span></span><span class="line"><span class="cl"><span class="k">\fancyhead</span><span class="na">[C]</span><span class="nb">{</span><span class="k">\small</span> <span class="k">\slshape</span> Chapter <span class="k">\thechapter</span>: <span class="k">\leftmark</span><span class="nb">}</span>
+</span></span><span class="line"><span class="cl"><span class="k">\fancyfoot</span><span class="na">[C]</span><span class="nb">{</span><span class="k">\thepage</span><span class="nb">}</span>
+</span></span><span class="line"><span class="cl"><span class="k">\fancyfoot</span><span class="na">[RO,LE]</span><span class="nb">{</span><span class="k">\footnotesize</span> <span class="k">\slshape</span> Garc<span class="k">\&#39;</span>ia-Mend<span class="k">\&#39;</span>ivil et al., 2019<span class="nb">}</span>
+</span></span><span class="line"><span class="cl"><span class="k">\fancyfoot</span><span class="na">[LO,RE]</span><span class="nb">{</span><span class="k">\footnotesize</span> <span class="k">\slshape</span> <span class="k">\rightmark</span><span class="nb">}</span>
+</span></span><span class="line"><span class="cl"><span class="k">\renewcommand</span><span class="nb">{</span><span class="k">\chaptermark</span><span class="nb">}</span>[1]<span class="nb">{</span> <span class="k">\markboth</span><span class="nb">{</span>#1<span class="nb">}{}</span> <span class="nb">}</span>
+</span></span><span class="line"><span class="cl"><span class="k">\renewcommand</span><span class="nb">{</span><span class="k">\sectionmark</span><span class="nb">}</span>[1]<span class="nb">{</span> <span class="k">\markright</span><span class="nb">{</span>#1<span class="nb">}{}</span> <span class="nb">}</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="k">\renewcommand</span><span class="nb">{</span><span class="k">\headrulewidth</span><span class="nb">}{</span>0.7pt<span class="nb">}</span>
+</span></span><span class="line"><span class="cl"><span class="k">\renewcommand</span><span class="nb">{</span><span class="k">\footrulewidth</span><span class="nb">}{</span>0.7pt<span class="nb">}</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="k">\fancypagestyle</span><span class="nb">{</span>plain2<span class="nb">}{</span>
+</span></span><span class="line"><span class="cl">	<span class="k">\fancyhf</span><span class="nb">{}</span> <span class="c">% clear all header and footer fields
+</span></span></span><span class="line"><span class="cl"><span class="c"></span>	<span class="k">\fancyfoot</span><span class="na">[C]</span><span class="nb">{</span><span class="k">\thepage</span><span class="nb">}</span> <span class="c">% except the center
+</span></span></span><span class="line"><span class="cl"><span class="c"></span>	<span class="k">\renewcommand</span><span class="nb">{</span><span class="k">\headrulewidth</span><span class="nb">}{</span>0.7pt<span class="nb">}</span><span class="k">\renewcommand</span><span class="nb">{</span><span class="k">\footrulewidth</span><span class="nb">}{</span>0.7pt<span class="nb">}}</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="k">\usetikzlibrary</span><span class="nb">{</span>calc<span class="nb">}</span>
+</span></span><span class="line"><span class="cl"><span class="k">\usetikzlibrary</span><span class="nb">{</span>arrows<span class="nb">}</span>
+</span></span><span class="line"><span class="cl"><span class="k">\usetikzlibrary</span><span class="nb">{</span>shapes,snakes<span class="nb">}</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="k">\pgfplotsset</span><span class="nb">{</span>compat=1.10<span class="nb">}</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="k">\addbibresource</span><span class="nb">{</span>MyCollection.bib<span class="nb">}</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="k">\DeclareFieldFormat</span>
+</span></span><span class="line"><span class="cl">[article,inbook,incollection,inproceedings,patent,thesis,unpublished,online,misc]
+</span></span><span class="line"><span class="cl"><span class="nb">{</span>title<span class="nb">}{</span>#1<span class="k">\isdot</span><span class="nb">}</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="k">\title</span><span class="nb">{</span>Durability of resistance to <span class="k">\textit</span><span class="nb">{</span>Meloidogyne<span class="nb">}</span> mediated by R-genes in Solanaceae and Cucurbitaceae crops<span class="nb">}</span>
+</span></span><span class="line"><span class="cl"><span class="k">\author</span><span class="nb">{</span>Helio A. Garc<span class="k">\&#39;</span>ia Mend<span class="k">\&#39;</span>ivil<span class="nb">}</span>
+</span></span><span class="line"><span class="cl"><span class="k">\date</span><span class="nb">{</span>Day Month Year<span class="nb">}</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="c">%%%%% Data tables %%%%%
+</span></span></span><span class="line"><span class="cl"><span class="c"></span>
+</span></span><span class="line"><span class="cl"><span class="k">\pgfplotstableread</span><span class="nb">{</span>
+</span></span><span class="line"><span class="cl">	x y label
+</span></span><span class="line"><span class="cl">	1	4.739572344 a
+</span></span><span class="line"><span class="cl">	1.618048097	4.415021645 a
+</span></span><span class="line"><span class="cl">	2.190331698	4.201026904 a
+</span></span><span class="line"><span class="cl">	2.229169703	3.469661305 a
+</span></span><span class="line"><span class="cl">	2.340444115	3.611902669 a
+</span></span><span class="line"><span class="cl">	2.36361198	3.533531071 a
+</span></span><span class="line"><span class="cl">	2.386498966	3.336134957 a
+</span></span><span class="line"><span class="cl">	2.519171464	3.385089538 a
+</span></span><span class="line"><span class="cl">	2.574609941	3.117778657 a
+</span></span><span class="line"><span class="cl">	2.737590166	2.889857625 a
+</span></span><span class="line"><span class="cl"><span class="nb">}</span><span class="k">\datatable</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="k">\pgfplotstableread</span><span class="nb">{</span>
+</span></span><span class="line"><span class="cl">	x y label
+</span></span><span class="line"><span class="cl">	1	4.739572344	a
+</span></span><span class="line"><span class="cl">	1.618048097	4.415021645	a
+</span></span><span class="line"><span class="cl">	2.209750701	3.835344105	a
+</span></span><span class="line"><span class="cl">	2.363518354	3.493856232	a
+</span></span><span class="line"><span class="cl">	2.519171464	3.385089538	a
+</span></span><span class="line"><span class="cl">	2.574609941	3.117778657	a
+</span></span><span class="line"><span class="cl">	2.737590166	2.889857625	a
+</span></span><span class="line"><span class="cl"><span class="nb">}</span><span class="k">\dataEC</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="k">\pgfplotstableread</span><span class="nb">{</span>
+</span></span><span class="line"><span class="cl">	x y label
+</span></span><span class="line"><span class="cl">	1	1.991226076	a
+</span></span><span class="line"><span class="cl">	1.618048097	1.997375856	a
+</span></span><span class="line"><span class="cl">	2.209750701	1.455829278	a
+</span></span><span class="line"><span class="cl">	2.363518354	1.426557085	a
+</span></span><span class="line"><span class="cl">	2.519171464	1.472054612	a
+</span></span><span class="line"><span class="cl">	2.574609941	0.310751279	a
+</span></span><span class="line"><span class="cl">	2.737590166	0.392743602	a
+</span></span><span class="line"><span class="cl"><span class="nb">}</span><span class="k">\dataTB</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="k">\pgfplotstableread</span><span class="nb">{</span>
+</span></span><span class="line"><span class="cl">	x y label
+</span></span><span class="line"><span class="cl">	1	2.704836606	a
+</span></span><span class="line"><span class="cl">	1.618048097	2.279798835	a
+</span></span><span class="line"><span class="cl">	2.209750701	1.513852201	a
+</span></span><span class="line"><span class="cl">	2.363518354	1.775448939	a
+</span></span><span class="line"><span class="cl">	2.519171464	1.512317792	a
+</span></span><span class="line"><span class="cl">	2.574609941	0.408113446	a
+</span></span><span class="line"><span class="cl">	2.737590166	1.081953769	a
+</span></span><span class="line"><span class="cl"><span class="nb">}</span><span class="k">\dataTE</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="k">\pgfplotstableread</span><span class="nb">{</span>
+</span></span><span class="line"><span class="cl">	x y label
+</span></span><span class="line"><span class="cl">	1	2.324693914	a
+</span></span><span class="line"><span class="cl">	1.618048097	2.046593879	a
+</span></span><span class="line"><span class="cl">	2.190331698	1.662635993	a
+</span></span><span class="line"><span class="cl">	2.284806909	1.527292047	a
+</span></span><span class="line"><span class="cl">	2.375055473	1.536458041	a
+</span></span><span class="line"><span class="cl">	2.519171464	1.486866491	a
+</span></span><span class="line"><span class="cl">	2.574609941	0.945480387	a
+</span></span><span class="line"><span class="cl">	2.737590166	1.019805863	a
+</span></span><span class="line"><span class="cl"><span class="nb">}</span><span class="k">\dataTS</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="k">\pgfplotstableread</span><span class="nb">{</span>
+</span></span><span class="line"><span class="cl">	x y label
+</span></span><span class="line"><span class="cl">	1	2.239049093	a
+</span></span><span class="line"><span class="cl">	1.618048097	1.859073158	a
+</span></span><span class="line"><span class="cl">	2.209750701	1.690613336	a
+</span></span><span class="line"><span class="cl">	2.363518354	1.435091922	a
+</span></span><span class="line"><span class="cl">	2.519171464	0.346524596	a
+</span></span><span class="line"><span class="cl">	2.574609941	0.428850591	a
+</span></span><span class="line"><span class="cl">	2.737590166	0.945096312	a
+</span></span><span class="line"><span class="cl"><span class="nb">}</span><span class="k">\dataTT</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="k">\pgfplotstableread</span><span class="nb">{</span>
+</span></span><span class="line"><span class="cl">	x y label
+</span></span><span class="line"><span class="cl">	1.62065648	3.043458759	a
+</span></span><span class="line"><span class="cl">	1.707570176	2.173243416	a
+</span></span><span class="line"><span class="cl">	1.838849091	1.633907359	a
+</span></span><span class="line"><span class="cl">	2.012981416	2.29939005	a
+</span></span><span class="line"><span class="cl">	2.16879202	1.98058107	a
+</span></span><span class="line"><span class="cl">	2.205475037	1.721895326	a
+</span></span><span class="line"><span class="cl">	2.386948459	1.770517672	a
+</span></span><span class="line"><span class="cl">	2.574031268	0.781611782	a
+</span></span><span class="line"><span class="cl">	2.717254313	1.424884767	a
+</span></span><span class="line"><span class="cl">	2.92505412	0.413003755	a
+</span></span><span class="line"><span class="cl"><span class="nb">}</span><span class="k">\dataECa</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="k">\pgfplotstableread</span><span class="nb">{</span>
+</span></span><span class="line"><span class="cl">	x y label
+</span></span><span class="line"><span class="cl">	1.62065648	1.827740624	a
+</span></span><span class="line"><span class="cl">	1.707570176	0.790740378	a
+</span></span><span class="line"><span class="cl">	1.838849091	.	a
+</span></span><span class="line"><span class="cl">	2.012981416	0.726846827	a
+</span></span><span class="line"><span class="cl">	2.16879202	1.140838147	a
+</span></span><span class="line"><span class="cl">	2.205475037	0.367396565	a
+</span></span><span class="line"><span class="cl">	2.386948459	0.983959489	a
+</span></span><span class="line"><span class="cl">	2.574031268	0.526339277	a
+</span></span><span class="line"><span class="cl">	2.717254313	0.63163441	a
+</span></span><span class="line"><span class="cl">	2.92505412	0.454795058	a
+</span></span><span class="line"><span class="cl"><span class="nb">}</span><span class="k">\dataTBa</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="k">\pgfplotstableread</span><span class="nb">{</span>
+</span></span><span class="line"><span class="cl">	x y label
+</span></span><span class="line"><span class="cl">	1.62065648	1.856464775	a
+</span></span><span class="line"><span class="cl">	1.707570176	0.770996319	a
+</span></span><span class="line"><span class="cl">	1.838849091	0.893544669	a
+</span></span><span class="line"><span class="cl">	2.012981416	0.910972831	a
+</span></span><span class="line"><span class="cl">	2.16879202	0.709729775	a
+</span></span><span class="line"><span class="cl">	2.205475037	0.744402667	a
+</span></span><span class="line"><span class="cl">	2.386948459	0.526763706	a
+</span></span><span class="line"><span class="cl">	2.574031268	0.319175485	a
+</span></span><span class="line"><span class="cl">	2.717254313	0.626154281	a
+</span></span><span class="line"><span class="cl">	2.92505412	.	a
+</span></span><span class="line"><span class="cl"><span class="nb">}</span><span class="k">\dataTEa</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="k">\pgfplotstableread</span><span class="nb">{</span>
+</span></span><span class="line"><span class="cl">	x y label
+</span></span><span class="line"><span class="cl">	1.62065648	1.400532819	a
+</span></span><span class="line"><span class="cl">	1.707570176	0.927913571	a
+</span></span><span class="line"><span class="cl">	1.838849091	1.171874775	a
+</span></span><span class="line"><span class="cl">	2.012981416	0.698248879	a
+</span></span><span class="line"><span class="cl">	2.16879202	0.927422565	a
+</span></span><span class="line"><span class="cl">	2.205475037	0.550399819	a
+</span></span><span class="line"><span class="cl">	2.386948459	0.197167596	a
+</span></span><span class="line"><span class="cl">	2.574031268	.	a
+</span></span><span class="line"><span class="cl">	2.717254313	0.592375855	a
+</span></span><span class="line"><span class="cl">	2.92505412	0.353699481	a
+</span></span><span class="line"><span class="cl"><span class="nb">}</span><span class="k">\dataTSa</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="k">\pgfplotstableread</span><span class="nb">{</span>
+</span></span><span class="line"><span class="cl">	x y label
+</span></span><span class="line"><span class="cl">	1.62065648	2.271438123	a
+</span></span><span class="line"><span class="cl">	1.707570176	1.566587673	a
+</span></span><span class="line"><span class="cl">	1.838849091	1.129633858	a
+</span></span><span class="line"><span class="cl">	2.012981416	1.464300922	a
+</span></span><span class="line"><span class="cl">	2.16879202	1.274470967	a
+</span></span><span class="line"><span class="cl">	2.205475037	1.529484725	a
+</span></span><span class="line"><span class="cl">	2.386948459	0.636176779	a
+</span></span><span class="line"><span class="cl">	2.574031268	-0.045114567	a
+</span></span><span class="line"><span class="cl">	2.717254313	0.593226579	a
+</span></span><span class="line"><span class="cl">	2.92505412	.	a
+</span></span><span class="line"><span class="cl"><span class="nb">}</span><span class="k">\dataTTa</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="k">\AtBeginBibliography</span><span class="nb">{</span><span class="k">\footnotesize</span><span class="nb">}</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="c">%%%% Document %%%%%
+</span></span></span><span class="line"><span class="cl"><span class="c"></span>
+</span></span><span class="line"><span class="cl"><span class="k">\begin</span><span class="nb">{</span>document<span class="nb">}</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">.
+</span></span><span class="line"><span class="cl">.
+</span></span><span class="line"><span class="cl">.
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">.
+</span></span><span class="line"><span class="cl">.
+</span></span><span class="line"><span class="cl">.
+</span></span><span class="line"><span class="cl"><span class="k">\end</span><span class="nb">{</span>document<span class="nb">}</span>
+</span></span></code></pre></td></tr></table>
 </div>
 </div>
     </article>
@@ -2924,7 +2920,7 @@ if (!doNotTrack) {
 </div>
 
 
-<script defer src="/js/swipe.min.989e074dfb92ce7f57a92c1df7027f88b53c50a54fd9ad450a673a64aa91bfa4.js"></script>
+<script defer src="/js/swipe.min.feb438efb7ca009ecd7fc2ac3ad2fced4840990b2798d81f87137f2dc6281f05.js"></script>
 
 <script defer src="/js/micromodal.min.de01b44b2f383056bbcaf6ee921fd385d79108ec1129afd0eb2f3f5a07e11f45.js"></script>
 

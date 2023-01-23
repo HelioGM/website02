@@ -18,9 +18,9 @@
 
 <script defer src="/js/lazysizes.min.fb649fcae62177dfe63e67081ddceb830b5ce1f05a4184e9bbb7d87ac4b8f4e5.js"></script>
 
-<script defer src="/js/helper/getParents.min.ccd45f158c1b17849307ba913a72beac239c410f2b6e648496a79842da84e55b.js"></script>
+<script defer src="/js/helper/getParents.min.086022fb02d7a1517e33c2670bffb976b3e80bcacd9caeee0c6a586064f20e42.js"></script>
 
-<script defer src="/js/helper/fadeinout.min.1d13d3e810c3940e80cbba6216a1c76fbf42b5431fc83537ea6997863802362b.js"></script>
+<script defer src="/js/helper/fadeinout.min.3ce954c8aea3b69cc5e6f734d8273ba4cd48d3a7987dbdca145849bc4b8fc296.js"></script>
 
 <script defer src="/js/helper/closest.min.js"></script>
   
@@ -1356,7 +1356,7 @@
     <meta property="twitter:description" content="(...continuación) En este capítulo discutiré cómo empezar a usar R. Hablaré brevemente sobre cómo descargar e instalar R, pero la mayor parte del capítulo se centrará en que empiece a escribir comandos R.">
   
 
-<meta name="generator" content="Hugo 0.81.0" />
+<meta name="generator" content="Hugo 0.110.0">
 <meta name="msapplication-TileColor" content="#fff">
 
 <meta name="theme-color" content="#fff">
@@ -1416,16 +1416,14 @@
 
     
   
-<script type="application/javascript">
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-Q5ZQPEP86T"></script>
+<script>
 var doNotTrack = false;
 if (!doNotTrack) {
-	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-	})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-	ga('create', 'G-Q5ZQPEP86T', 'auto');
-	
-	ga('send', 'pageview');
+	window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+	gtag('config', 'G-Q5ZQPEP86T', { 'anonymize_ip': false });
 }
 </script>
 
@@ -1878,58 +1876,58 @@ text-align: justify}
 <p>Para calcular la raíz cuadrada de 25, puedo hacerlo en mi cabeza con bastante facilidad, ya que memoricé mis tablas de multiplicar cuando era niño. Se vuelve más difícil cuando los números se hacen más grandes y prácticamente imposible si no son números enteros. Aquí es donde algo como R resulta muy útil. Digamos que quería calcular $ \sqrt[]{225} $, la raíz cuadrada de 225. Hay dos formas de hacerlo usando R. En primer lugar, dado que la raíz cuadrada de 255 es lo mismo que elevar 225 a la potencia de 0.5, podría usar la potencia operador ^, como hicimos antes:</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span><span class="lnt">2
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-R" data-lang="R"><span class="o">&gt;</span> <span class="m">225</span> <span class="n">^</span> <span class="m">0.5</span>  
-<span class="n">[1]</span> <span class="m">15</span></code></pre></td></tr></table>
+<pre tabindex="0" class="chroma"><code class="language-R" data-lang="R"><span class="line"><span class="cl"><span class="o">&gt;</span> <span class="m">225</span> <span class="n">^</span> <span class="m">0.5</span>  
+</span></span><span class="line"><span class="cl"><span class="n">[1]</span> <span class="m">15</span></span></span></code></pre></td></tr></table>
 </div>
 </div>
 <p>Sin embargo, hay una segunda forma de hacerlo, ya que R también proporciona una <strong>función de raíz cuadrada</strong>, <strong>sqrt ( )</strong>. Para calcular la raíz cuadrada de 255 usando esta función, lo que hago es insertar el número 225 entre paréntesis. Es decir, el comando que escribo es este:</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span><span class="lnt">2
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-R" data-lang="R"><span class="o">&gt;</span> <span class="nf">sqrt</span><span class="p">(</span><span class="m">225</span> <span class="p">)</span>  
-<span class="n">[1]</span> <span class="m">15</span></code></pre></td></tr></table>
+<pre tabindex="0" class="chroma"><code class="language-R" data-lang="R"><span class="line"><span class="cl"><span class="o">&gt;</span> <span class="nf">sqrt</span><span class="p">(</span><span class="m">225</span> <span class="p">)</span>  
+</span></span><span class="line"><span class="cl"><span class="n">[1]</span> <span class="m">15</span></span></span></code></pre></td></tr></table>
 </div>
 </div>
-<p>y como es de esperar de nuestra discusión anterior, los espacios entre paréntesis son puramente cosméticos. Podría haber escrito <strong>sqrt( 225)</strong> o <strong>sqrt( 225 )</strong> y obtener el mismo resultado. Cuando usamos una función para hacer algo, generalmente nos referimos a esto como <strong>llamar</strong> a la función, y los valores que escribimos en la función (puede haber más de uno) se conocen como los <strong>argumentos</strong> de esa función. <br />
+<p>y como es de esperar de nuestra discusión anterior, los espacios entre paréntesis son puramente cosméticos. Podría haber escrito <strong>sqrt( 225)</strong> o <strong>sqrt( 225 )</strong> y obtener el mismo resultado. Cuando usamos una función para hacer algo, generalmente nos referimos a esto como <strong>llamar</strong> a la función, y los valores que escribimos en la función (puede haber más de uno) se conocen como los <strong>argumentos</strong> de esa función.<br />
 Obviamente, la función <strong>sqrt()</strong> realmente no nos brinda ninguna funcionalidad nueva, ya que ya sabíamos cómo hacer cálculos de raíz cuadrada usando el operador de potencia ^, aunque creo que se ve mejor cuando usamos <strong>sqrt()</strong>. Sin embargo, hay muchas otras funciones en R: de hecho, casi todo lo de interés de lo que hablaré en este libro es una función R de algún tipo. Por ejemplo, una función que necesitaremos usar en este libro es la <strong>función de valor absoluto</strong>. Comparada con la función de raíz cuadrada, es extremadamente simple: simplemente convierte números negativos en números positivos y deja los números positivos en paz. Matemáticamente, el valor absoluto de x se escribe | x | o a veces abs(x) . Calcular valores absolutos en R es bastante fácil, ya que R proporciona la función abs ( ) que puede usar para este propósito. Cuando lo alimentas con un número positivo &hellip;</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span><span class="lnt">2
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-R" data-lang="R"><span class="o">&gt;</span> <span class="nf">abs</span><span class="p">(</span> <span class="m">21</span> <span class="p">)</span>  
-<span class="n">[1]</span> <span class="m">21</span></code></pre></td></tr></table>
+<pre tabindex="0" class="chroma"><code class="language-R" data-lang="R"><span class="line"><span class="cl"><span class="o">&gt;</span> <span class="nf">abs</span><span class="p">(</span> <span class="m">21</span> <span class="p">)</span>  
+</span></span><span class="line"><span class="cl"><span class="n">[1]</span> <span class="m">21</span></span></span></code></pre></td></tr></table>
 </div>
 </div>
 <p>la función de valor absoluto no le afecta en absoluto. Pero cuando lo alimentas con un número negativo, escupe la versión positiva del mismo número, así:</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span><span class="lnt">2
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-R" data-lang="R"><span class="o">&gt;</span> <span class="nf">abs</span><span class="p">(</span> <span class="m">-13</span> <span class="p">)</span>  
-<span class="n">[1]</span> <span class="m">13</span></code></pre></td></tr></table>
+<pre tabindex="0" class="chroma"><code class="language-R" data-lang="R"><span class="line"><span class="cl"><span class="o">&gt;</span> <span class="nf">abs</span><span class="p">(</span> <span class="m">-13</span> <span class="p">)</span>  
+</span></span><span class="line"><span class="cl"><span class="n">[1]</span> <span class="m">13</span></span></span></code></pre></td></tr></table>
 </div>
 </div>
 <p>Honestamente, no hay nada que haga la función de valor absoluto que no puedas hacer con solo mirar el número y borrar el signo menos si lo hay. Sin embargo, hay algunos lugares más adelante en el libro donde tenemos que usar valores absolutos, así que pensé que sería una buena idea explicar el significado del término desde el principio.</p>
 <p>Antes de continuar, vale la pena señalar que, de la misma manera que R nos permite unir varias operaciones en un comando más largo, como <strong>1 + 2 * 4</strong>, por ejemplo, también nos permite unir funciones e incluso combinar funciones con operadores si lo deseamos. Por ejemplo, el siguiente es un comando perfectamente legítimo:</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span><span class="lnt">2
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-R" data-lang="R"><span class="o">&gt;</span> <span class="nf">sqrt </span><span class="p">(</span><span class="m">1</span> <span class="o">+</span> <span class="nf">abs </span><span class="p">(</span><span class="m">-8</span><span class="p">))</span>  
-<span class="n">[1]</span> <span class="m">3</span></code></pre></td></tr></table>
+<pre tabindex="0" class="chroma"><code class="language-R" data-lang="R"><span class="line"><span class="cl"><span class="o">&gt;</span> <span class="nf">sqrt </span><span class="p">(</span><span class="m">1</span> <span class="o">+</span> <span class="nf">abs </span><span class="p">(</span><span class="m">-8</span><span class="p">))</span>  
+</span></span><span class="line"><span class="cl"><span class="n">[1]</span> <span class="m">3</span></span></span></code></pre></td></tr></table>
 </div>
 </div>
 <p>Cuando R ejecuta este comando, comienza calculando el valor de <strong>abs( -8)</strong>, lo que produce un valor intermedio de <strong>8</strong>. Una vez hecho esto, el comando se simplifica a <strong>sqrt(1 + 8)</strong>. Para resolver la raíz cuadrada, primero debe sumar <strong>1 + 8</strong> para obtener <strong>9</strong>, momento en el que evalúa <strong>sqrt(9)</strong>, por lo que finalmente genera un valor de <strong>3</strong>.</p>
@@ -1937,60 +1935,60 @@ Obviamente, la función <strong>sqrt()</strong> realmente no nos brinda ninguna 
 <p>Hay dos cosas más bastante importantes que necesita comprender sobre cómo funcionan las funciones en R, y ese es el uso de argumentos &ldquo;con nombre&rdquo; y &ldquo;valores&rdquo;&quot; predeterminados para los argumentos. No es de sorprender que esto no quiere decir que sea la última vez que escucharemos sobre cómo funcionan las funciones, pero son las últimas cosas que necesitamos discutir desesperadamente para comenzar. Para entender de qué se tratan estos dos conceptos , presentaré otra función. La función <strong>round( )</strong> se puede usar para redondear algún valor al número entero más cercano. Por ejemplo, podría escribir esto:</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span><span class="lnt">2
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-R" data-lang="R"><span class="o">&gt;</span> <span class="nf">round</span><span class="p">(</span><span class="m">3.1415</span> <span class="p">)</span>  
-<span class="n">[1]</span> <span class="m">3</span></code></pre></td></tr></table>
+<pre tabindex="0" class="chroma"><code class="language-R" data-lang="R"><span class="line"><span class="cl"><span class="o">&gt;</span> <span class="nf">round</span><span class="p">(</span><span class="m">3.1415</span> <span class="p">)</span>  
+</span></span><span class="line"><span class="cl"><span class="n">[1]</span> <span class="m">3</span></span></span></code></pre></td></tr></table>
 </div>
 </div>
 <p>Realmente bastante sencillo. Sin embargo, supongamos que solo quisiera redondearlo a dos lugares decimales: es decir, quiero obtener 3,14 como resultado. La función <strong>round()</strong> admite esto, permitiéndole ingresar un segundo argumento a la función que especifica el número de lugares decimales al que desea redondear el número . En otras palabras, podría hacer esto:</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span><span class="lnt">2
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-R" data-lang="R"><span class="o">&gt;</span> <span class="nf">round</span><span class="p">(</span><span class="m">3</span><span class="p">,</span><span class="m">14165</span> <span class="p">,</span> <span class="m">2</span><span class="p">)</span>  
-<span class="n">[1]</span> <span class="m">3</span><span class="p">,</span><span class="m">14</span></code></pre></td></tr></table>
+<pre tabindex="0" class="chroma"><code class="language-R" data-lang="R"><span class="line"><span class="cl"><span class="o">&gt;</span> <span class="nf">round</span><span class="p">(</span><span class="m">3</span><span class="p">,</span><span class="m">14165</span> <span class="p">,</span> <span class="m">2</span><span class="p">)</span>  
+</span></span><span class="line"><span class="cl"><span class="n">[1]</span> <span class="m">3</span><span class="p">,</span><span class="m">14</span></span></span></code></pre></td></tr></table>
 </div>
 </div>
 <p>Lo que está sucediendo aquí es que he especificado dos argumentos: el primer argumento es el número que debe redondearse (es decir, <strong>3.1415</strong>), el segundo argumento es el número de lugares decimales a los que debe redondearse (es decir, <strong>2</strong>), y los dos argumentos están separados por una coma. En este ejemplo simple, es bastante fácil recordar qué argumento viene primero y cuál viene segundo, pero para funciones más complicadas esto no es fácil. Afortunadamente, la mayoría de las funciones R utilizan <strong>nombres de argumentos</strong>. Para la función <strong>round( )</strong>, por ejemplo, el número que debe redondearse se especifica mediante el argumento <strong>x</strong>, y el número de puntos decimales a los que desea redondear se especifica mediante el argumento <strong>dígitos</strong>. Como tenemos estos nombres disponibles, podemos especificar los argumentos de la función por nombre. Lo hacemos así:</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span><span class="lnt">2
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-R" data-lang="R"><span class="o">&gt;</span> <span class="nf">round</span><span class="p">(</span><span class="n">x</span> <span class="o">=</span> <span class="m">3.1415</span><span class="p">,</span> <span class="n">digits</span> <span class="o">=</span> <span class="m">2</span><span class="p">)</span>  
-<span class="n">[1]</span> <span class="m">3</span><span class="p">,</span><span class="m">14</span></code></pre></td></tr></table>
+<pre tabindex="0" class="chroma"><code class="language-R" data-lang="R"><span class="line"><span class="cl"><span class="o">&gt;</span> <span class="nf">round</span><span class="p">(</span><span class="n">x</span> <span class="o">=</span> <span class="m">3.1415</span><span class="p">,</span> <span class="n">digits</span> <span class="o">=</span> <span class="m">2</span><span class="p">)</span>  
+</span></span><span class="line"><span class="cl"><span class="n">[1]</span> <span class="m">3</span><span class="p">,</span><span class="m">14</span></span></span></code></pre></td></tr></table>
 </div>
 </div>
 <p>Note que esto es similar en espíritu a la asignación de variables (Sección <strong>3.4</strong>), excepto que usé <strong>=</strong> aquí, en lugar de <strong>&lt;-</strong>. En ambos casos, estamos especificando valores específicos para asociarlos con una etiqueta. Sin embargo, existen algunas diferencias entre lo que estaba haciendo antes al crear variables y lo que estoy haciendo aquí al especificar argumentos, por lo que, como consecuencia, es importante que use <strong>=</strong> en este contexto.<br />
 Como puede ver, especificar los argumentos por nombre implica escribir mucho más, pero también es mucho más fácil de leer. Debido a esto, los comandos de este libro generalmente especificarán los argumentos por nombre, ya que eso le aclara lo que estoy haciendo. Sin embargo, una cosa importante a tener en cuenta es que al especificar los argumentos usando sus nombres, no importa en qué orden los escriba. Pero si no usa los nombres de los argumentos, entonces debe ingresar los argumentos en la forma correcta. orden. En otras palabras, estos tres comandos producen la misma salida&hellip;</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span><span class="lnt">2
 </span><span class="lnt">3
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-R" data-lang="R"><span class="o">&gt;</span> <span class="nf">round</span><span class="p">(</span><span class="m">3.14165</span> <span class="p">,</span> <span class="m">2</span><span class="p">)</span>  
-<span class="o">&gt;</span> <span class="nf">round</span><span class="p">(</span><span class="n">x</span> <span class="o">=</span> <span class="m">3.1415</span><span class="p">,</span> <span class="n">dígitos</span> <span class="o">=</span> <span class="m">2</span><span class="p">)</span>  
-<span class="o">&gt;</span> <span class="nf">round</span><span class="p">(</span><span class="n">dígitos</span> <span class="o">=</span> <span class="m">2</span><span class="p">,</span> <span class="n">x</span> <span class="o">=</span> <span class="m">3.1415</span><span class="p">)</span></code></pre></td></tr></table>
+<pre tabindex="0" class="chroma"><code class="language-R" data-lang="R"><span class="line"><span class="cl"><span class="o">&gt;</span> <span class="nf">round</span><span class="p">(</span><span class="m">3.14165</span> <span class="p">,</span> <span class="m">2</span><span class="p">)</span>  
+</span></span><span class="line"><span class="cl"><span class="o">&gt;</span> <span class="nf">round</span><span class="p">(</span><span class="n">x</span> <span class="o">=</span> <span class="m">3.1415</span><span class="p">,</span> <span class="n">d</span>í<span class="n">gitos</span> <span class="o">=</span> <span class="m">2</span><span class="p">)</span>  
+</span></span><span class="line"><span class="cl"><span class="o">&gt;</span> <span class="nf">round</span><span class="p">(</span><span class="n">d</span>í<span class="n">gitos</span> <span class="o">=</span> <span class="m">2</span><span class="p">,</span> <span class="n">x</span> <span class="o">=</span> <span class="m">3.1415</span><span class="p">)</span></span></span></code></pre></td></tr></table>
 </div>
 </div>
 <p>pero este no &hellip;</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-R" data-lang="R"><span class="o">&gt;</span> <span class="nf">round</span><span class="p">(</span><span class="m">2</span> <span class="p">,</span> <span class="m">3.14165</span><span class="p">)</span></code></pre></td></tr></table>
+<pre tabindex="0" class="chroma"><code class="language-R" data-lang="R"><span class="line"><span class="cl"><span class="o">&gt;</span> <span class="nf">round</span><span class="p">(</span><span class="m">2</span> <span class="p">,</span> <span class="m">3.14165</span><span class="p">)</span></span></span></code></pre></td></tr></table>
 </div>
 </div>
-<p>¿Cómo averigua cuál es el orden correcto? Hay algunas formas diferentes, pero la más sencilla es consultar la documentación de ayuda de la función (consulte la Sección <strong>4.12</strong>). Sin embargo, si alguna vez no está seguro, probablemente sea mejor escribir el nombre del argumento. <br />
+<p>¿Cómo averigua cuál es el orden correcto? Hay algunas formas diferentes, pero la más sencilla es consultar la documentación de ayuda de la función (consulte la Sección <strong>4.12</strong>). Sin embargo, si alguna vez no está seguro, probablemente sea mejor escribir el nombre del argumento.<br />
 Bien, eso es lo primero que dije que necesitarías saber: los nombres de los argumentos. La segunda cosa que debe conocer son los valores predeterminados. Observe que la primera vez que llamé a la función <strong>round()</strong> en realidad no especifiqué el argumento <strong>digits</strong> y, sin embargo, R sabía de alguna manera que esto significaba que debería redondearse al número entero más cercano. ¿Cómo pasó eso? La respuesta es que el argumento <strong>digits</strong> tiene un <strong>valor predeterminado</strong> de <strong>0</strong>, lo que significa que si decide no especificar un valor para <strong>digits</strong>, R actuará como si hubiera escrito <strong>digits = 0</strong>. Esto es bastante útil: la gran mayoría de las veces, cuando desea redondear un número, desea redondearlo al número entero más cercano, y sería bastante molesto tener que especificar el argumento <strong>digits</strong> cada vez. Por otro lado, a veces realmente desea redondear a algo que no sea el número entero más cercano, ¡y sería aún más molesto si R no lo permitiera! Por lo tanto, al tener <strong>digits = 0</strong> como valor predeterminado, obtenemos lo mejor de ambos mundos.</p>
 <p style="text-align:right;">
 <a href="#id-01">Volver</a>
@@ -2001,7 +1999,7 @@ Bien, eso es lo primero que dije que necesitarías saber: los nombres de los arg
 <h3 id="autocompletar-usando-tabulación">Autocompletar usando &ldquo;tabulación&rdquo;</h3>
 <p>Lo primero que quiero llamar su atención es la capacidad de autocompletar en Rstudio.<br />
 Sigamos nuestro ejemplo anterior y supongamos que lo que quiere hacer es redondear un número. Esta vez, comience a escribir el nombre de la función que desee y luego presione la tecla &ldquo;tab&rdquo;. Rstudio mostrará una pequeña ventana como la que se muestra en la Figura <strong>3.2</strong>. En esta figura, escribí las letras <strong>ro</strong> en la línea de comando y luego presioné el tabulador. La ventana tiene dos paneles. A la izquierda, hay una lista de variables y funciones que comienzan con las letras que escribí que se muestran en texto negro, y un texto gris que le dice dónde está almacenada esa variable/función. Ignore el texto gris por ahora: no tendrá mucho sentido para usted hasta que hablemos de los paquetes en la Sección <strong>4.2</strong>. En la Figura <strong>3.2</strong> puede ver que hay bastantes cosas que comienzan con las letras <strong>ro:</strong> hay algo llamado <strong>rock</strong>, algo llamado <strong>round</strong>, algo llamado redondo, fecha, etc. El que queremos es redondo, pero si lo escribe usted mismo, notará que cuando presiona la tecla de tabulación, aparece la ventana con la entrada superior (es decir, <strong>rock</strong>) resaltada. Puede utilizar las teclas de flecha hacia arriba y hacia abajo para seleccionar el que desee. O, si ninguna de las opciones le parece correcta , puede presionar la tecla de escape (&ldquo;esc&rdquo;) o la tecla de flecha izquierda para que la ventana desaparezca.</p>
-<p>En nuestro caso, lo que queremos es la opción redonda, así que la seleccionaremos. Cuando haga esto, verá que el panel de la derecha cambia. Anteriormente, nos había estado diciendo algo sobre el conjunto de datos de rocas (es decir, &ldquo;Mediciones en 48 muestras de rocas &hellip;&quot;) que se distribuye como parte de R. Pero cuando seleccionamos <strong>round</strong>, muestra información sobre la función <strong>round()</strong>, exactamente como se muestra en la Figura <strong>3.2</strong>. Esta pantalla es realmente útil. Lo primero que dice es <strong>round( x, digits = 0)</strong>: lo que esto le dice es que la función <strong>round()</strong> tiene dos argumentos. El primer argumento se llama <strong>x</strong> y no tiene un valor predeterminado. El segundo argumento es <strong>digits</strong> y tiene un valor predeterminado de <strong>0</strong>. En muchas situaciones, esa es toda la información que necesita. Pero Rstudio va un poco más allá y proporciona información adicional sobre la función que se encuentra debajo. A veces, esa información adicional es muy útil, a veces no: Rstudio extrae ese texto de la documentación de ayuda de R, y mi experiencia es que la utilidad de esa documentación varía enormemente. De todos modos, si ha decidido que <strong>round()</strong> es la función que desea usar, puede presionar la flecha derecha o la tecla Intro, y Rstudio terminará de escribir el resto del nombre de la función por usted.</p>
+<p>En nuestro caso, lo que queremos es la opción redonda, así que la seleccionaremos. Cuando haga esto, verá que el panel de la derecha cambia. Anteriormente, nos había estado diciendo algo sobre el conjunto de datos de rocas (es decir, &ldquo;Mediciones en 48 muestras de rocas &hellip;&rdquo;) que se distribuye como parte de R. Pero cuando seleccionamos <strong>round</strong>, muestra información sobre la función <strong>round()</strong>, exactamente como se muestra en la Figura <strong>3.2</strong>. Esta pantalla es realmente útil. Lo primero que dice es <strong>round( x, digits = 0)</strong>: lo que esto le dice es que la función <strong>round()</strong> tiene dos argumentos. El primer argumento se llama <strong>x</strong> y no tiene un valor predeterminado. El segundo argumento es <strong>digits</strong> y tiene un valor predeterminado de <strong>0</strong>. En muchas situaciones, esa es toda la información que necesita. Pero Rstudio va un poco más allá y proporciona información adicional sobre la función que se encuentra debajo. A veces, esa información adicional es muy útil, a veces no: Rstudio extrae ese texto de la documentación de ayuda de R, y mi experiencia es que la utilidad de esa documentación varía enormemente. De todos modos, si ha decidido que <strong>round()</strong> es la función que desea usar, puede presionar la flecha derecha o la tecla Intro, y Rstudio terminará de escribir el resto del nombre de la función por usted.</p>
 <p>La herramienta de autocompletar de Rstudio funciona de manera ligeramente diferente si ya ha escrito el nombre de la función y ahora está intentando escribir los argumentos. Por ejemplo, supongamos que escribí <strong>round(</strong> en la consola y luego presioné la tecla tab. Rstudio es lo suficientemente inteligente como para reconocer que ya sé el nombre de la función que quiero, ¡porque ya lo escribí! calcula que lo que me interesa son los argumentos de esa función. Eso es lo que aparece en la ventana pequeña. Puede ver esto en la Figura <strong>3.3</strong>. De nuevo, la ventana tiene dos paneles y puede interactuar con esta ventana exactamente de la misma manera que lo hizo con la ventana que se muestra en la Figura <strong>3.2</strong>. En el panel de la izquierda , puede ver una lista de los nombres de los argumentos.En el lado derecho , muestra información sobre lo que hace el argumento seleccionado.</p>
 <h3 id="examinando-tu-historial-de-comandos">Examinando tu historial de comandos</h3>
 <p>Una cosa que R hace automáticamente es realizar un seguimiento de su &ldquo;historial de comandos&rdquo;. Es decir, recuerda todos los comandos que ha escrito anteriormente. Puede acceder a este historial de diferentes formas. La forma más sencilla es utilizar las teclas de flecha hacia arriba y hacia abajo. Si presiona la tecla arriba, la consola R le mostrará el comando más reciente que ha escrito. Vuelva a presionarlo y le mostrará el comando anterior. Si desea que desaparezca el texto de la pantalla, presione escape. El uso de las teclas arriba y abajo puede ser muy útil si ha escrito un comando largo que tenía un error tipográfico. En lugar de tener que volver a escribirlo todo desde cero, puede usar la tecla de arriba para abrir el comando y arreglarlo.</p>
@@ -2017,14 +2015,14 @@ Sigamos nuestro ejemplo anterior y supongamos que lo que quiere hacer es redonde
 <p>Sigamos con mi tonto ejemplo de “hacerse rico rápidamente escribiendo un libro de texto”. Supongamos que la compañía de libros de texto (si realmente tuviera una) me envía datos de ventas mensualmente. Dado que mi clase comenzó a fines de febrero, podríamos esperar que la mayoría de las ventas ocurran hacia el comienzo del año. Supongamos que tengo 100 ventas en febrero, 200 ventas en marzo y 50 ventas en abril, y ninguna otra venta durante el resto del año. Lo que me gustaría hacer es tener una variable, llamémosla <strong>ventas.por.mes</strong>, que almacene todos estos datos de ventas. El primer número almacenado debería ser <strong>0</strong> ya que no tuve ventas en enero, el segundo debería ser <strong>100</strong> y así sucesivamente . La forma más sencilla de hacer esto en R es usar la función <strong>combine</strong>, c( ). Para hacerlo, todo lo que tenemos que hacer es escribir todos los números que desea almacenar en una lista separada por comas, como esta:</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span><span class="lnt">2
 </span><span class="lnt">3
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-R" data-lang="R"><span class="o">&gt;</span> <span class="n">ventas.por.mes</span> <span class="o">&lt;-</span> <span class="nf">c </span><span class="p">(</span><span class="m">0</span><span class="p">,</span> <span class="m">100</span><span class="p">,</span> <span class="m">200</span><span class="p">,</span> <span class="m">50</span><span class="p">,</span> <span class="m">0</span><span class="p">,</span> <span class="m">0</span><span class="p">,</span> <span class="m">0</span><span class="p">,</span> <span class="m">0</span><span class="p">,</span> <span class="m">0</span><span class="p">,</span> <span class="m">0</span><span class="p">,</span> <span class="m">0</span><span class="p">,</span> <span class="m">0</span><span class="p">)</span>  
-<span class="o">&gt;</span> <span class="n">ventas.por.mes</span>  
-<span class="n">[1]</span> <span class="m">0</span> <span class="m">100</span> <span class="m">200</span> <span class="m">50</span> <span class="m">0</span> <span class="m">0</span> <span class="m">0</span> <span class="m">0</span> <span class="m">0</span> <span class="m">0</span> <span class="m">0</span> <span class="m">0</span></code></pre></td></tr></table>
+<pre tabindex="0" class="chroma"><code class="language-R" data-lang="R"><span class="line"><span class="cl"><span class="o">&gt;</span> <span class="n">ventas.por.mes</span> <span class="o">&lt;-</span> <span class="nf">c </span><span class="p">(</span><span class="m">0</span><span class="p">,</span> <span class="m">100</span><span class="p">,</span> <span class="m">200</span><span class="p">,</span> <span class="m">50</span><span class="p">,</span> <span class="m">0</span><span class="p">,</span> <span class="m">0</span><span class="p">,</span> <span class="m">0</span><span class="p">,</span> <span class="m">0</span><span class="p">,</span> <span class="m">0</span><span class="p">,</span> <span class="m">0</span><span class="p">,</span> <span class="m">0</span><span class="p">,</span> <span class="m">0</span><span class="p">)</span>  
+</span></span><span class="line"><span class="cl"><span class="o">&gt;</span> <span class="n">ventas.por.mes</span>  
+</span></span><span class="line"><span class="cl"><span class="n">[1]</span> <span class="m">0</span> <span class="m">100</span> <span class="m">200</span> <span class="m">50</span> <span class="m">0</span> <span class="m">0</span> <span class="m">0</span> <span class="m">0</span> <span class="m">0</span> <span class="m">0</span> <span class="m">0</span> <span class="m">0</span></span></span></code></pre></td></tr></table>
 </div>
 </div>
 <p>Para usar la terminología correcta aquí, tenemos una sola variable llamada <strong>ventas.por.mes</strong>: esta variable es un vector que consta de 12 <strong>elementos</strong>.</p>
@@ -2032,14 +2030,14 @@ Sigamos nuestro ejemplo anterior y supongamos que lo que quiere hacer es redonde
 <p>Ahora que hemos aprendido a poner información en un vector, lo siguiente que debemos entender es cómo extraer esa información nuevamente. Sin embargo, antes de hacerlo, vale la pena dar un pequeño desvío. Si ha estado siguiendo, escribiendo todos los comandos en R usted mismo, es posible que el resultado que vio cuando imprimimos el vector <strong>ventas.por.mes</strong> fuera ligeramente diferente a lo que mostré anteriormente. Esto habría sucedido si la ventana (o el panel de Rstudio ) que contiene la consola R es muy, muy estrecha. Si ese fuera el caso, es posible que haya visto un resultado parecido a esto:</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span><span class="lnt">2
 </span><span class="lnt">3
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-R" data-lang="R"><span class="o">&gt;</span> <span class="n">ventas.por.mes</span>  
-<span class="n">[1]</span> <span class="m">0</span> <span class="m">100</span> <span class="m">200</span> <span class="m">50</span> <span class="m">0</span> <span class="m">0</span> <span class="m">0</span> <span class="m">0</span>  
-<span class="n">[9]</span> <span class="m">0</span> <span class="m">0</span> <span class="m">0</span> <span class="m">0</span></code></pre></td></tr></table>
+<pre tabindex="0" class="chroma"><code class="language-R" data-lang="R"><span class="line"><span class="cl"><span class="o">&gt;</span> <span class="n">ventas.por.mes</span>  
+</span></span><span class="line"><span class="cl"><span class="n">[1]</span> <span class="m">0</span> <span class="m">100</span> <span class="m">200</span> <span class="m">50</span> <span class="m">0</span> <span class="m">0</span> <span class="m">0</span> <span class="m">0</span>  
+</span></span><span class="line"><span class="cl"><span class="n">[9]</span> <span class="m">0</span> <span class="m">0</span> <span class="m">0</span> <span class="m">0</span></span></span></code></pre></td></tr></table>
 </div>
 </div>
 <p>Como no había mucho espacio en la pantalla, R imprimió los resultados en dos líneas. Pero eso no es lo importante a notar. El punto importante es que la primera línea tiene un <strong>[1]</strong> delante, mientras que la segunda línea comienza con <strong>[9]</strong>. Está bastante claro lo que está sucediendo aquí. Para la primera fila, R ha impreso desde el primer elemento hasta el octavo elemento, por lo que comienza esa fila con un <strong>[1]</strong>. Para la segunda fila, R imprimió el noveno elemento del vector hasta el duodécimo, por lo que comienza esa fila con un <strong>[9]</strong> para que pueda saber dónde está de un vistazo. Puede parecerle un poco extraño que R haga esto, pero de alguna manera es una bondad, ¡especialmente cuando se trata de conjuntos de datos más grandes!</p>
@@ -2047,25 +2045,25 @@ Sigamos nuestro ejemplo anterior y supongamos que lo que quiere hacer es redonde
 <p>Para volver a la historia principal, consideremos el problema de cómo obtener información de un vector. En este punto, es posible que tenga la sospecha de que la respuesta tiene algo que ver con las cosas <strong>[1]</strong> y <strong>[9]</strong> que R ha estado imprimiendo. Y por supuesto que tienes razón. Supongamos que solo quiero extraer los datos de ventas de febrero. Febrero es el segundo mes del año, así que intentemos esto:</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span><span class="lnt">2
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-R" data-lang="R"><span class="o">&gt;</span> <span class="n">ventas.por.mes[2]</span>  
-<span class="n">[1]</span> <span class="m">100</span></code></pre></td></tr></table>
+<pre tabindex="0" class="chroma"><code class="language-R" data-lang="R"><span class="line"><span class="cl"><span class="o">&gt;</span> <span class="n">ventas.por.mes[2]</span>  
+</span></span><span class="line"><span class="cl"><span class="n">[1]</span> <span class="m">100</span></span></span></code></pre></td></tr></table>
 </div>
 </div>
 <p>Sí, esas son las rebajas de febrero. Pero hay un detalle sutil a tener en cuenta aquí: observe que R produce <strong>[1] 100</strong>, <em>no</em> <strong>[2] 100</strong>. Esto se debe a que R está siendo extremadamente literal. Cuando escribimos <strong>ventas.por.mes[2]</strong>, le pedimos a R que encontrara exactamente una cosa, y esa cosa resulta ser el segundo elemento de nuestro vector <strong>ventas.por.mes</strong>. Entonces, cuando genera <strong>[1] 100</strong>, lo que R está diciendo es que <em>el número que acabamos de pedir</em> es <strong>100</strong>. Este comportamiento tiene más sentido cuando se da cuenta de que podemos usar este truco para crear nuevas variables. Por ejemplo, podría crear una variable <strong>ventas.de.febrero</strong> como esta:</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span><span class="lnt">2
 </span><span class="lnt">3
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-R" data-lang="R"><span class="o">&gt;</span> <span class="n">ventas.de.febrero</span> <span class="o">&lt;-</span> <span class="n">ventas.por.mes[2]</span>  
-<span class="o">&gt;</span> <span class="n">ventas.de.febrero</span>  
-<span class="n">[1]</span> <span class="m">100</span></code></pre></td></tr></table>
+<pre tabindex="0" class="chroma"><code class="language-R" data-lang="R"><span class="line"><span class="cl"><span class="o">&gt;</span> <span class="n">ventas.de.febrero</span> <span class="o">&lt;-</span> <span class="n">ventas.por.mes[2]</span>  
+</span></span><span class="line"><span class="cl"><span class="o">&gt;</span> <span class="n">ventas.de.febrero</span>  
+</span></span><span class="line"><span class="cl"><span class="n">[1]</span> <span class="m">100</span></span></span></code></pre></td></tr></table>
 </div>
 </div>
 <p>Obviamente, la nueva variable february.sales solo debe tener un elemento, por lo que cuando imprimo esta nueva variable, la salida R comienza con un [1] porque 100 es el valor del primer (y único) elemento de <strong>ventas.de.febrero</strong>. El hecho de que este también sea el valor del segundo elemento de ventas por mes es irrelevante. Volveremos a retomar este tema en breve (<strong>Sección 3.10</strong>).</p>
@@ -2073,14 +2071,14 @@ Sigamos nuestro ejemplo anterior y supongamos que lo que quiere hacer es redonde
 <p>A veces querrá cambiar los valores almacenados en un vector. Imagínese mi sorpresa cuando el editor me llama para decirme que los datos de ventas de mayo son incorrectos. En realidad, se vendieron 25 libros adicionales en mayo, pero hubo un error o algo así, por lo que no me lo habían dicho. ¿Cómo puedo corregir mi variable <strong>ventas.por.mes</strong>? Una posibilidad sería volver a asignar todo el vector desde el principio, utilizando <strong>c()</strong>. Pero eso es mucho escribir. Además, es un poco derrochador: ¿por qué debería R tener que redefinir las cifras de ventas para los 12 meses, cuando solo el quinto es incorrecto? Afortunadamente, podemos decirle a R que cambie solo el quinto elemento, usando este truco:</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span><span class="lnt">2
 </span><span class="lnt">3
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-R" data-lang="R"><span class="o">&gt;</span> <span class="n">ventas.por.mes[5]</span> <span class="o">&lt;-</span> <span class="m">25</span>  
-<span class="o">&gt;</span> <span class="n">ventas.por.mes</span>  
-<span class="n">[1]</span> <span class="m">0</span> <span class="m">100</span> <span class="m">200</span> <span class="m">50</span> <span class="m">25</span> <span class="m">0</span> <span class="m">0</span> <span class="m">0</span> <span class="m">0</span> <span class="m">0</span> <span class="m">0</span> <span class="m">0</span></code></pre></td></tr></table>
+<pre tabindex="0" class="chroma"><code class="language-R" data-lang="R"><span class="line"><span class="cl"><span class="o">&gt;</span> <span class="n">ventas.por.mes[5]</span> <span class="o">&lt;-</span> <span class="m">25</span>  
+</span></span><span class="line"><span class="cl"><span class="o">&gt;</span> <span class="n">ventas.por.mes</span>  
+</span></span><span class="line"><span class="cl"><span class="n">[1]</span> <span class="m">0</span> <span class="m">100</span> <span class="m">200</span> <span class="m">50</span> <span class="m">25</span> <span class="m">0</span> <span class="m">0</span> <span class="m">0</span> <span class="m">0</span> <span class="m">0</span> <span class="m">0</span> <span class="m">0</span></span></span></code></pre></td></tr></table>
 </div>
 </div>
 <p>Otra forma de editar variables es usar las funciones <strong>edit()</strong> o <strong>fix()</strong>. No los discutiré en detalle en este momento, pero puede verlos por su cuenta.</p>
@@ -2088,47 +2086,47 @@ Sigamos nuestro ejemplo anterior y supongamos que lo que quiere hacer es redonde
 <p>Antes de continuar, quiero mencionar un par de cosas más sobre los vectores. En primer lugar, a menudo se encuentra deseando saber cuántos elementos hay en un vector (generalmente porque lo ha olvidado). Puede usar la función <strong>length()</strong> para hacer esto. Es bastante sencillo:</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span><span class="lnt">2
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-R" data-lang="R"><span class="o">&gt;</span> <span class="nf">length</span><span class="p">(</span><span class="n">x</span> <span class="o">=</span> <span class="n">ventas.por.mes</span><span class="p">)</span>  
-<span class="n">[1]</span> <span class="m">12</span></code></pre></td></tr></table>
+<pre tabindex="0" class="chroma"><code class="language-R" data-lang="R"><span class="line"><span class="cl"><span class="o">&gt;</span> <span class="nf">length</span><span class="p">(</span><span class="n">x</span> <span class="o">=</span> <span class="n">ventas.por.mes</span><span class="p">)</span>  
+</span></span><span class="line"><span class="cl"><span class="n">[1]</span> <span class="m">12</span></span></span></code></pre></td></tr></table>
 </div>
 </div>
 <p>En segundo lugar, a menudo desea alterar todos los elementos de un vector a la vez. Por ejemplo, supongamos que quisiera calcular cuánto dinero ganaba cada mes. Como estoy ganando $7 por libro (no en serio, eso es bastante parecido a lo que obtienen los autores con los libros de texto muy caros que se espera que compre), lo que quiero hacer es multiplicar cada elemento de <strong>ventas.por.mes</strong> por 7. R hace que esto sea bastante fácil, como muestra el siguiente ejemplo:</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span><span class="lnt">2
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-R" data-lang="R"><span class="o">&gt;</span> <span class="n">ventas.por.mes</span> <span class="o">*</span> <span class="m">7</span>  
-<span class="n">[1]</span> <span class="m">0</span> <span class="m">700</span> <span class="m">1400</span> <span class="m">350</span> <span class="m">0</span> <span class="m">0</span> <span class="m">0</span> <span class="m">0</span> <span class="m">0</span> <span class="m">0</span> <span class="m">0</span> <span class="m">0</span></code></pre></td></tr></table>
+<pre tabindex="0" class="chroma"><code class="language-R" data-lang="R"><span class="line"><span class="cl"><span class="o">&gt;</span> <span class="n">ventas.por.mes</span> <span class="o">*</span> <span class="m">7</span>  
+</span></span><span class="line"><span class="cl"><span class="n">[1]</span> <span class="m">0</span> <span class="m">700</span> <span class="m">1400</span> <span class="m">350</span> <span class="m">0</span> <span class="m">0</span> <span class="m">0</span> <span class="m">0</span> <span class="m">0</span> <span class="m">0</span> <span class="m">0</span> <span class="m">0</span></span></span></code></pre></td></tr></table>
 </div>
 </div>
 <p>En otras palabras, cuando multiplica un vector por un solo número, todos los elementos del vector se multiplican. Lo mismo es cierto para la suma, resta, división y toma de poderes. Entonces eso es genial. Por otro lado, suponga que quisiera saber cuánto dinero estaba ganando por día, en lugar de por mes. Como no todos los meses tienen la misma cantidad de días, necesito hacer algo ligeramente diferente. En primer lugar, crearé dos nuevos vectores:</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span><span class="lnt">2
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-R" data-lang="R"><span class="o">&gt;</span> <span class="n">dias.por.mes</span> <span class="o">&lt;-</span> <span class="nf">c </span><span class="p">(</span><span class="m">31</span><span class="p">,</span> <span class="m">28</span><span class="p">,</span> <span class="m">31</span><span class="p">,</span> <span class="m">30</span><span class="p">,</span> <span class="m">31</span><span class="p">,</span> <span class="m">30</span><span class="p">,</span> <span class="m">31</span><span class="p">,</span> <span class="m">31</span><span class="p">,</span> <span class="m">30</span><span class="p">,</span> <span class="m">31</span><span class="p">,</span> <span class="m">30</span><span class="p">,</span> <span class="m">31</span><span class="p">)</span>  
-<span class="o">&gt;</span> <span class="n">beneficio</span> <span class="o">&lt;-</span> <span class="n">ventas.por.mes</span> <span class="o">*</span> <span class="m">7</span></code></pre></td></tr></table>
+<pre tabindex="0" class="chroma"><code class="language-R" data-lang="R"><span class="line"><span class="cl"><span class="o">&gt;</span> <span class="n">dias.por.mes</span> <span class="o">&lt;-</span> <span class="nf">c </span><span class="p">(</span><span class="m">31</span><span class="p">,</span> <span class="m">28</span><span class="p">,</span> <span class="m">31</span><span class="p">,</span> <span class="m">30</span><span class="p">,</span> <span class="m">31</span><span class="p">,</span> <span class="m">30</span><span class="p">,</span> <span class="m">31</span><span class="p">,</span> <span class="m">31</span><span class="p">,</span> <span class="m">30</span><span class="p">,</span> <span class="m">31</span><span class="p">,</span> <span class="m">30</span><span class="p">,</span> <span class="m">31</span><span class="p">)</span>  
+</span></span><span class="line"><span class="cl"><span class="o">&gt;</span> <span class="n">beneficio</span> <span class="o">&lt;-</span> <span class="n">ventas.por.mes</span> <span class="o">*</span> <span class="m">7</span></span></span></code></pre></td></tr></table>
 </div>
 </div>
 <p>Obviamente, la variable de <strong>beneficio</strong> es la misma que creamos anteriormente, y la variable <strong>dias.por.mes</strong> es bastante sencilla. Lo que quiero hacer es dividir cada elemento de <strong>beneficio</strong> por el elemento <em>correspondiente</em> de <strong>dias.por.mes</strong>. Nuevamente, R hace que esto sea bastante fácil:</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span><span class="lnt">2
 </span><span class="lnt">3
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-R" data-lang="R"><span class="o">&gt;</span> <span class="n">beneficio</span> <span class="o">/</span> <span class="n">dias.por.mes</span>  
-<span class="n">[1]</span> <span class="m">0</span><span class="p">,</span><span class="m">00000</span> <span class="m">25</span><span class="p">,</span><span class="m">00000</span> <span class="m">45</span><span class="p">,</span><span class="m">16129</span> <span class="m">11</span><span class="p">,</span><span class="m">66667</span> <span class="m">0</span><span class="p">,</span><span class="m">00000</span> <span class="m">0</span><span class="p">,</span><span class="m">00000</span> <span class="m">0</span><span class="p">,</span><span class="m">00000</span> <span class="m">0</span><span class="p">,</span><span class="m">00000</span> <span class="m">0</span><span class="p">,</span><span class="m">00000</span>  
-<span class="n">[10]</span> <span class="m">0</span><span class="p">,</span><span class="m">00000</span> <span class="m">0</span><span class="p">,</span><span class="m">00000</span> <span class="m">0</span><span class="p">,</span><span class="m">00000</span></code></pre></td></tr></table>
+<pre tabindex="0" class="chroma"><code class="language-R" data-lang="R"><span class="line"><span class="cl"><span class="o">&gt;</span> <span class="n">beneficio</span> <span class="o">/</span> <span class="n">dias.por.mes</span>  
+</span></span><span class="line"><span class="cl"><span class="n">[1]</span> <span class="m">0</span><span class="p">,</span><span class="m">00000</span> <span class="m">25</span><span class="p">,</span><span class="m">00000</span> <span class="m">45</span><span class="p">,</span><span class="m">16129</span> <span class="m">11</span><span class="p">,</span><span class="m">66667</span> <span class="m">0</span><span class="p">,</span><span class="m">00000</span> <span class="m">0</span><span class="p">,</span><span class="m">00000</span> <span class="m">0</span><span class="p">,</span><span class="m">00000</span> <span class="m">0</span><span class="p">,</span><span class="m">00000</span> <span class="m">0</span><span class="p">,</span><span class="m">00000</span>  
+</span></span><span class="line"><span class="cl"><span class="n">[10]</span> <span class="m">0</span><span class="p">,</span><span class="m">00000</span> <span class="m">0</span><span class="p">,</span><span class="m">00000</span> <span class="m">0</span><span class="p">,</span><span class="m">00000</span></span></span></code></pre></td></tr></table>
 </div>
 </div>
 <p>Todavía no me gustan todos esos ceros, pero eso no es lo que importa aquí. Observe que el segundo elemento de la producción es 25, porque R ha dividido el segundo elemento de <strong>beneficio</strong> (es decir, 700) por el segundo elemento de <strong>dias.por.mes</strong> (es decir, 28). De manera similar, el tercer elemento de la salida es igual a 1400 dividido por 31, y así sucesivamente. Hablaremos más sobre cálculos que involucran vectores más adelante (y en particular una cosa llamada &ldquo;regla de reciclaje&rdquo;; Sección <strong>7.12.2</strong>), pero eso es suficiente detalle por ahora.</p>
@@ -2140,78 +2138,78 @@ Sigamos nuestro ejemplo anterior y supongamos que lo que quiere hacer es redonde
 <p>La mayoría de las veces, sus datos serán de naturaleza numérica, pero no siempre. A veces, sus datos realmente necesitan describirse usando texto, no usando números. Para abordar esto, debemos considerar la situación en la que nuestras variables almacenan texto. Para crear una variable que almacene la palabra &ldquo;hola&rdquo;, podemos escribir esto:</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span><span class="lnt">2
 </span><span class="lnt">3
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-R" data-lang="R"><span class="o">&gt;</span> <span class="n">saludo</span> <span class="o">&lt;-</span> <span class="s">&#34;hola&#34;</span>  
-<span class="o">&gt;</span> <span class="n">saludo</span>  
-<span class="n">[1]</span> <span class="s">&#34;hola&#34;</span></code></pre></td></tr></table>
+<pre tabindex="0" class="chroma"><code class="language-R" data-lang="R"><span class="line"><span class="cl"><span class="o">&gt;</span> <span class="n">saludo</span> <span class="o">&lt;-</span> <span class="s">&#34;hola&#34;</span>  
+</span></span><span class="line"><span class="cl"><span class="o">&gt;</span> <span class="n">saludo</span>  
+</span></span><span class="line"><span class="cl"><span class="n">[1]</span> <span class="s">&#34;hola&#34;</span></span></span></code></pre></td></tr></table>
 </div>
 </div>
-<p>Al interpretar esto, es importante reconocer que las comillas aquí no son parte de la cadena en sí. Son solo algo que usamos para asegurarnos de que R sepa tratar los caracteres que encierran como un fragmento de datos de texto, conocido como una <strong>cadena de caracteres</strong>. En otras palabras, R trata <strong>&ldquo;hola&rdquo;</strong> como una cadena que contiene la palabra &ldquo;hola&rdquo;; pero si hubiera escrito <strong>hola</strong> en su lugar, ¡R buscaría una variable con ese nombre! También puede usar <strong>&lsquo;hola&rsquo;</strong> para especificar una cadena de caracteres. <br />
+<p>Al interpretar esto, es importante reconocer que las comillas aquí no son parte de la cadena en sí. Son solo algo que usamos para asegurarnos de que R sepa tratar los caracteres que encierran como un fragmento de datos de texto, conocido como una <strong>cadena de caracteres</strong>. En otras palabras, R trata <strong>&ldquo;hola&rdquo;</strong> como una cadena que contiene la palabra &ldquo;hola&rdquo;; pero si hubiera escrito <strong>hola</strong> en su lugar, ¡R buscaría una variable con ese nombre! También puede usar <strong>&lsquo;hola&rsquo;</strong> para especificar una cadena de caracteres.<br />
 Bien, así es como almacenamos el texto. A continuación, es importante reconocer que cuando hacemos esto, R almacena la palabra completa <strong>&ldquo;hola&rdquo;</strong> como un solo elemento: nuestra variable de <strong>saludo</strong> <em><strong>no</strong></em> es un vector de cinco letras diferentes. Más bien, tiene solo un elemento, y ese elemento corresponde a la cadena de caracteres completa <strong>&ldquo;hola&rdquo;</strong>. Para ilustrar esto, si realmente le pido a R que encuentre el primer elemento de <strong>saludo</strong>, imprime la cadena completa:</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span><span class="lnt">2
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-R" data-lang="R"><span class="o">&gt;</span> <span class="n">saludo</span> <span class="n">[</span> <span class="m">1</span><span class="n">]</span>  
-<span class="n">[1]</span> <span class="s">&#34;hola&#34;</span></code></pre></td></tr></table>
+<pre tabindex="0" class="chroma"><code class="language-R" data-lang="R"><span class="line"><span class="cl"><span class="o">&gt;</span> <span class="n">saludo</span> <span class="n">[</span> <span class="m">1</span><span class="n">]</span>  
+</span></span><span class="line"><span class="cl"><span class="n">[1]</span> <span class="s">&#34;hola&#34;</span></span></span></code></pre></td></tr></table>
 </div>
 </div>
 <p>Por supuesto, no hay ninguna razón por la que no pueda crear un vector de cadenas de caracteres. Por ejemplo, si tuviéramos que continuar con el ejemplo de mis intentos de ver los datos de ventas mensuales de mi libro, una variable que podría querer incluiría los nombres de los 12 <strong>meses</strong>. Para hacerlo, podría escribir un comando como este</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span><span class="lnt">2
 </span><span class="lnt">3
 </span><span class="lnt">4
 </span><span class="lnt">5
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-R" data-lang="R"><span class="o">&gt;</span> <span class="n">meses</span> <span class="o">&lt;-</span> <span class="nf">c </span><span class="p">(</span> <span class="s">&#34;enero&#34;</span><span class="p">,</span> <span class="s">&#34;febrero&#34;</span><span class="p">,</span> <span class="s">&#34;marzo&#34;</span><span class="p">,</span> <span class="s">&#34;abril&#34;</span><span class="p">,</span> <span class="s">&#34;mayo&#34;</span><span class="p">,</span> <span class="s">&#34;junio&#34;</span><span class="p">,</span>  
-<span class="o">+</span> <span class="s">&#34;Julio&#34;</span><span class="p">,</span> <span class="s">&#34;agosto&#34;</span><span class="p">,</span> <span class="s">&#34;septiembre&#34;</span><span class="p">,</span> <span class="s">&#34;octubre&#34;</span><span class="p">,</span> <span class="s">&#34;noviembre&#34;</span><span class="p">,</span> <span class="s">&#34;diciembre&#34;</span><span class="p">)</span>  
-<span class="o">&gt;</span> <span class="n">meses</span>  
-<span class="n">[1]</span> <span class="s">&#34;enero&#34;</span> <span class="s">&#34;febrero&#34;</span> <span class="s">&#34;marzo&#34;</span> <span class="s">&#34;abril&#34;</span> <span class="s">&#34;mayo&#34;</span> <span class="s">&#34;junio&#34;</span>  
-<span class="n">[7]</span> <span class="s">&#34;julio&#34;</span> <span class="s">&#34;agosto&#34;</span> <span class="s">&#34;septiembre&#34;</span> <span class="s">&#34;octubre&#34;</span> <span class="s">&#34;noviembre&#34;</span> <span class="s">&#34;diciembre&#34;</span></code></pre></td></tr></table>
+<pre tabindex="0" class="chroma"><code class="language-R" data-lang="R"><span class="line"><span class="cl"><span class="o">&gt;</span> <span class="n">meses</span> <span class="o">&lt;-</span> <span class="nf">c </span><span class="p">(</span> <span class="s">&#34;enero&#34;</span><span class="p">,</span> <span class="s">&#34;febrero&#34;</span><span class="p">,</span> <span class="s">&#34;marzo&#34;</span><span class="p">,</span> <span class="s">&#34;abril&#34;</span><span class="p">,</span> <span class="s">&#34;mayo&#34;</span><span class="p">,</span> <span class="s">&#34;junio&#34;</span><span class="p">,</span>  
+</span></span><span class="line"><span class="cl"><span class="o">+</span> <span class="s">&#34;Julio&#34;</span><span class="p">,</span> <span class="s">&#34;agosto&#34;</span><span class="p">,</span> <span class="s">&#34;septiembre&#34;</span><span class="p">,</span> <span class="s">&#34;octubre&#34;</span><span class="p">,</span> <span class="s">&#34;noviembre&#34;</span><span class="p">,</span> <span class="s">&#34;diciembre&#34;</span><span class="p">)</span>  
+</span></span><span class="line"><span class="cl"><span class="o">&gt;</span> <span class="n">meses</span>  
+</span></span><span class="line"><span class="cl"><span class="n">[1]</span> <span class="s">&#34;enero&#34;</span> <span class="s">&#34;febrero&#34;</span> <span class="s">&#34;marzo&#34;</span> <span class="s">&#34;abril&#34;</span> <span class="s">&#34;mayo&#34;</span> <span class="s">&#34;junio&#34;</span>  
+</span></span><span class="line"><span class="cl"><span class="n">[7]</span> <span class="s">&#34;julio&#34;</span> <span class="s">&#34;agosto&#34;</span> <span class="s">&#34;septiembre&#34;</span> <span class="s">&#34;octubre&#34;</span> <span class="s">&#34;noviembre&#34;</span> <span class="s">&#34;diciembre&#34;</span></span></span></code></pre></td></tr></table>
 </div>
 </div>
 <p>Este es un <strong>vector de caracteres</strong> que contiene 12 elementos, cada uno de los cuales es el nombre de un mes. Entonces, si quisiera que R me dijera el nombre del cuarto mes, todo lo que haría es esto:</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span><span class="lnt">2
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-R" data-lang="R"><span class="o">&gt;</span> <span class="n">meses[4]</span>  
-<span class="n">[1]</span> <span class="s">&#34;abril&#34;</span></code></pre></td></tr></table>
+<pre tabindex="0" class="chroma"><code class="language-R" data-lang="R"><span class="line"><span class="cl"><span class="o">&gt;</span> <span class="n">meses[4]</span>  
+</span></span><span class="line"><span class="cl"><span class="n">[1]</span> <span class="s">&#34;abril&#34;</span></span></span></code></pre></td></tr></table>
 </div>
 </div>
 <h3 id="trabajando-con-texto">Trabajando con texto</h3>
-<p>Trabajar con datos de texto es algo más complicado que trabajar con datos numéricos, y discutir algunas de las ideas básicas en la Sección <strong>7.8</strong>, pero para los propósitos del capítulo actual sólo necesitamos este bosquejo de croquis. La única otra cosa que quiero hacer antes de continuar es mostrarte un ejemplo de una función que se puede aplicar a datos de texto. Hasta ahora, la mayoría de las funciones que hemos visto (es decir, <strong>sqrt()</strong>, <strong>abs()</strong> y <strong>round()</strong>) solo tienen sentido cuando se aplican a datos numéricos (p. Ej., no se puede calcular la raíz cuadrada de <strong>&ldquo;hola&rdquo;</strong>), y hemos visto una función que se puede aplicar a prácticamente cualquier variable o vector (es decir, <strong>length()</strong>). Por lo tanto , sería bueno ver un ejemplo de una función que se puede aplicar al texto. <br />
+<p>Trabajar con datos de texto es algo más complicado que trabajar con datos numéricos, y discutir algunas de las ideas básicas en la Sección <strong>7.8</strong>, pero para los propósitos del capítulo actual sólo necesitamos este bosquejo de croquis. La única otra cosa que quiero hacer antes de continuar es mostrarte un ejemplo de una función que se puede aplicar a datos de texto. Hasta ahora, la mayoría de las funciones que hemos visto (es decir, <strong>sqrt()</strong>, <strong>abs()</strong> y <strong>round()</strong>) solo tienen sentido cuando se aplican a datos numéricos (p. Ej., no se puede calcular la raíz cuadrada de <strong>&ldquo;hola&rdquo;</strong>), y hemos visto una función que se puede aplicar a prácticamente cualquier variable o vector (es decir, <strong>length()</strong>). Por lo tanto , sería bueno ver un ejemplo de una función que se puede aplicar al texto.<br />
 La función que les voy a presentar se llama <strong>nchar()</strong>, y lo que hace es contar el número de caracteres individuales que componen una cadena. Recuerde antes que cuando intentamos calcular la <strong>length( )</strong> de nuestra variable de <strong>saludo</strong>, devolvió un valor de <strong>1</strong>: la variable de <strong>saludo</strong> contiene solo una cadena, que resulta ser <strong>&ldquo;hola&rdquo;</strong>. Pero, ¿y si quiero saber cuántas letras hay en la palabra? Claro, podría <em>contarlos</em>, pero eso es aburrido, y más aún, es una estrategia terrible si lo que quería saber era la cantidad de letras en <em>Guerra y paz</em>. Ahí es donde la función <strong>nchar()</strong> es útil:</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span><span class="lnt">2
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-R" data-lang="R"><span class="o">&gt;</span> <span class="nf">nchar</span><span class="p">(</span><span class="n">x</span> <span class="o">=</span> <span class="n">saludo</span><span class="p">)</span>  
-<span class="n">[1]</span> <span class="m">5</span></code></pre></td></tr></table>
+<pre tabindex="0" class="chroma"><code class="language-R" data-lang="R"><span class="line"><span class="cl"><span class="o">&gt;</span> <span class="nf">nchar</span><span class="p">(</span><span class="n">x</span> <span class="o">=</span> <span class="n">saludo</span><span class="p">)</span>  
+</span></span><span class="line"><span class="cl"><span class="n">[1]</span> <span class="m">5</span></span></span></code></pre></td></tr></table>
 </div>
 </div>
 <p>Eso tiene sentido, ya que de hecho hay 5 letras en la cadena <strong>&ldquo;hola&rdquo;</strong>. Mejor aún, puede aplicar <strong>nchar()</strong> a vectores completos. Entonces, por ejemplo, si quiero que R me diga cuántas letras hay en los nombres de cada uno de los 12 meses, puedo hacer esto:</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span><span class="lnt">2
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-R" data-lang="R"><span class="o">&gt;</span> <span class="nf">nchar</span><span class="p">(</span><span class="n">x</span> <span class="o">=</span> <span class="n">meses</span><span class="p">)</span>  
-<span class="n">[1]</span> <span class="m">7</span> <span class="m">8</span> <span class="m">5</span> <span class="m">5</span> <span class="m">3</span> <span class="m">4</span> <span class="m">4</span> <span class="m">6</span> <span class="m">9</span> <span class="m">7</span> <span class="m">8</span> <span class="m">8</span></code></pre></td></tr></table>
+<pre tabindex="0" class="chroma"><code class="language-R" data-lang="R"><span class="line"><span class="cl"><span class="o">&gt;</span> <span class="nf">nchar</span><span class="p">(</span><span class="n">x</span> <span class="o">=</span> <span class="n">meses</span><span class="p">)</span>  
+</span></span><span class="line"><span class="cl"><span class="n">[1]</span> <span class="m">7</span> <span class="m">8</span> <span class="m">5</span> <span class="m">5</span> <span class="m">3</span> <span class="m">4</span> <span class="m">4</span> <span class="m">6</span> <span class="m">9</span> <span class="m">7</span> <span class="m">8</span> <span class="m">8</span></span></span></code></pre></td></tr></table>
 </div>
 </div>
 <p>Así que es bueno saberlo. La función <strong>nchar()</strong> puede hacer un poco más que esto, y hay muchas otras funciones que puede hacer para extraer más información del texto o hacer todo tipo de cosas sofisticadas. Sin embargo, ¡ el objetivo aquí no es enseñar nada de eso! El objetivo en este momento es solo ver un ejemplo de una función que realmente funciona cuando se aplica al texto.</p>
@@ -2225,70 +2223,70 @@ La función que les voy a presentar se llama <strong>nchar()</strong>, y lo que 
 <p>En el clásico libro <em>1984</em> de George Orwell, una de las consignas utilizadas por el Partido totalitario era “dos más dos es cinco”, con la idea de que el dominio político de la libertad humana se completa cuando es posible subvertir incluso la más básica de las verdades. Es un pensamiento aterrador, especialmente cuando el protagonista Winston Smith finalmente se derrumba bajo tortura y acepta la proposición. “El hombre es infinitamente maleable”, dice el libro. Estoy bastante seguro de que esto no es cierto para los humanos pero definitivamente no es cierto para R. R no es infinitamente maleable. Tiene opiniones bastante firmes sobre el tema de lo que es y no es cierto, al menos en lo que respecta a las matemáticas básicas. Si le pido que calcule <strong>2 + 2</strong>, siempre da la misma respuesta, y no es un maldito 5:</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span><span class="lnt">2
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-R" data-lang="R"><span class="o">&gt;</span> <span class="m">2</span> <span class="o">+</span> <span class="m">2</span>  
-<span class="n">[1]</span> <span class="m">4</span></code></pre></td></tr></table>
+<pre tabindex="0" class="chroma"><code class="language-R" data-lang="R"><span class="line"><span class="cl"><span class="o">&gt;</span> <span class="m">2</span> <span class="o">+</span> <span class="m">2</span>  
+</span></span><span class="line"><span class="cl"><span class="n">[1]</span> <span class="m">4</span></span></span></code></pre></td></tr></table>
 </div>
 </div>
 <p>Por supuesto, hasta ahora R solo está haciendo los cálculos. No le he pedido que afirme explícitamente que 2 + 2 = 4 es una declaración verdadera. Si quiero que R haga un juicio explícito, puedo usar un comando como este:</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span><span class="lnt">2
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-R" data-lang="R"><span class="o">&gt;</span> <span class="m">2</span> <span class="o">+</span> <span class="m">2</span> <span class="o">==</span> <span class="m">4</span>  
-<span class="n">[1]</span> <span class="kc">TRUE</span></code></pre></td></tr></table>
+<pre tabindex="0" class="chroma"><code class="language-R" data-lang="R"><span class="line"><span class="cl"><span class="o">&gt;</span> <span class="m">2</span> <span class="o">+</span> <span class="m">2</span> <span class="o">==</span> <span class="m">4</span>  
+</span></span><span class="line"><span class="cl"><span class="n">[1]</span> <span class="kc">TRUE</span></span></span></code></pre></td></tr></table>
 </div>
 </div>
 <p>Lo que he hecho aquí es usar el <strong>operador de igualdad</strong>, <strong>==</strong>, para forzar a R a hacer un juicio de &ldquo;verdadero o falso&rdquo;. Bien, veamos qué piensa R del eslogan del Partido:</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span><span class="lnt">2
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-R" data-lang="R"><span class="o">&gt;</span> <span class="m">2</span> <span class="o">+</span> <span class="m">2</span> <span class="o">==</span> <span class="m">5</span>  
-<span class="n">[1]</span> <span class="kc">FALSE</span></code></pre></td></tr></table>
+<pre tabindex="0" class="chroma"><code class="language-R" data-lang="R"><span class="line"><span class="cl"><span class="o">&gt;</span> <span class="m">2</span> <span class="o">+</span> <span class="m">2</span> <span class="o">==</span> <span class="m">5</span>  
+</span></span><span class="line"><span class="cl"><span class="n">[1]</span> <span class="kc">FALSE</span></span></span></code></pre></td></tr></table>
 </div>
 </div>
 <p>¡Booyah! ¡Libertad y ponis para todos! O algo así. De todos modos, vale la pena echar un vistazo a lo que sucede si trato de obligar a R a creer que dos más dos son cinco haciendo una declaración de asignación como <strong>2 + 2 = 5</strong> o <strong>2 + 2 &lt;- 5</strong>. Cuando hago esto, esto es lo que sucede:</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span><span class="lnt">2
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-R" data-lang="R"><span class="o">&gt;</span> <span class="m">2</span> <span class="o">+</span> <span class="m">2</span> <span class="o">=</span> <span class="m">5</span>  
-<span class="n">Error</span> <span class="n">in</span> <span class="m">2</span> <span class="o">+</span> <span class="m">2</span> <span class="o">=</span> <span class="m">5</span> <span class="o">:</span> <span class="n">target</span> <span class="n">of</span> <span class="n">assignment</span> <span class="n">expands</span> <span class="n">to</span> <span class="n">non</span><span class="o">-</span><span class="n">language</span> <span class="n">object</span></code></pre></td></tr></table>
+<pre tabindex="0" class="chroma"><code class="language-R" data-lang="R"><span class="line"><span class="cl"><span class="o">&gt;</span> <span class="m">2</span> <span class="o">+</span> <span class="m">2</span> <span class="o">=</span> <span class="m">5</span>  
+</span></span><span class="line"><span class="cl"><span class="n">Error</span> <span class="n">in</span> <span class="m">2</span> <span class="o">+</span> <span class="m">2</span> <span class="o">=</span> <span class="m">5</span> <span class="o">:</span> <span class="n">target</span> <span class="n">of</span> <span class="n">assignment</span> <span class="n">expands</span> <span class="n">to</span> <span class="n">non</span><span class="o">-</span><span class="n">language</span> <span class="n">object</span></span></span></code></pre></td></tr></table>
 </div>
 </div>
-<p>A R no le gusta mucho esto. Se reconoce que <strong>2 + 2</strong> <em>no</em> es una variable (que es lo que la “parte no lingüística del objeto” está diciendo), y que no va a dejarte intentar “Reasignar” la misma. Si bien R es bastante flexible y, de hecho, le permite hacer cosas bastante notables para redefinir partes de R en sí, hay algunas verdades básicas y primitivas a las que se niega a renunciar. No cambiará las leyes de la suma y no cambiará la definición del número <strong>2</strong>. <br />
+<p>A R no le gusta mucho esto. Se reconoce que <strong>2 + 2</strong> <em>no</em> es una variable (que es lo que la “parte no lingüística del objeto” está diciendo), y que no va a dejarte intentar “Reasignar” la misma. Si bien R es bastante flexible y, de hecho, le permite hacer cosas bastante notables para redefinir partes de R en sí, hay algunas verdades básicas y primitivas a las que se niega a renunciar. No cambiará las leyes de la suma y no cambiará la definición del número <strong>2</strong>.<br />
 Probablemente sea lo mejor.</p>
 <h3 id="operaciones-lógicas">Operaciones lógicas</h3>
 <p>Así que ahora hemos visto operaciones lógicas en funcionamiento, pero hasta ahora solo hemos visto el ejemplo más simple posible. Probablemente no se sorprenda al descubrir que podemos combinar operaciones lógicas con otras operaciones y funciones de una manera más complicada, como esta:</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span><span class="lnt">2
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-R" data-lang="R"><span class="o">&gt;</span> <span class="m">3</span> <span class="o">*</span> <span class="m">3</span> <span class="o">+</span> <span class="m">4</span> <span class="o">*</span> <span class="m">4</span> <span class="o">==</span> <span class="m">5</span> <span class="o">*</span> <span class="m">5</span>  
-<span class="n">[1]</span> <span class="kc">TRUE</span></code></pre></td></tr></table>
+<pre tabindex="0" class="chroma"><code class="language-R" data-lang="R"><span class="line"><span class="cl"><span class="o">&gt;</span> <span class="m">3</span> <span class="o">*</span> <span class="m">3</span> <span class="o">+</span> <span class="m">4</span> <span class="o">*</span> <span class="m">4</span> <span class="o">==</span> <span class="m">5</span> <span class="o">*</span> <span class="m">5</span>  
+</span></span><span class="line"><span class="cl"><span class="n">[1]</span> <span class="kc">TRUE</span></span></span></code></pre></td></tr></table>
 </div>
 </div>
 <p>o esto</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span><span class="lnt">2
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-R" data-lang="R"><span class="o">&gt;</span> <span class="nf">sqrt</span><span class="p">(</span><span class="m">25</span> <span class="p">)</span> <span class="o">==</span> <span class="m">5</span>  
-<span class="n">[1]</span> <span class="kc">TRUE</span></code></pre></td></tr></table>
+<pre tabindex="0" class="chroma"><code class="language-R" data-lang="R"><span class="line"><span class="cl"><span class="o">&gt;</span> <span class="nf">sqrt</span><span class="p">(</span><span class="m">25</span> <span class="p">)</span> <span class="o">==</span> <span class="m">5</span>  
+</span></span><span class="line"><span class="cl"><span class="n">[1]</span> <span class="kc">TRUE</span></span></span></code></pre></td></tr></table>
 </div>
 </div>
 <caption>Tabla 3.2: Algunos operadores lógicos. Técnicamente debería llamar a estos “operadores relacionales binarios”, pero francamente no quiero. Es mi libro para que nadie pueda obligarme.</caption>
@@ -2343,53 +2341,53 @@ Probablemente sea lo mejor.</p>
 <p>No solo eso, sino que, como lo ilustra la Tabla <strong>3.2</strong>, hay varios otros operadores lógicos que puede usar, correspondientes a algunos conceptos matemáticos básicos. Con suerte, todos estos se explican por sí mismos: por ejemplo, el operador <strong>menor que</strong> <strong>&lt;</strong> comprueba si el número de la izquierda es menor que el número de la derecha. Si es menor, entonces R devuelve una respuesta verdadera (<strong>TRUE</strong>):</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span><span class="lnt">2
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-R" data-lang="R"><span class="o">&gt;</span> <span class="m">99</span> <span class="o">&lt;</span><span class="m">100</span>  
-<span class="n">[1]</span> <span class="kc">TRUE</span></code></pre></td></tr></table>
+<pre tabindex="0" class="chroma"><code class="language-R" data-lang="R"><span class="line"><span class="cl"><span class="o">&gt;</span> <span class="m">99</span> <span class="o">&lt;</span><span class="m">100</span>  
+</span></span><span class="line"><span class="cl"><span class="n">[1]</span> <span class="kc">TRUE</span></span></span></code></pre></td></tr></table>
 </div>
 </div>
 <p>pero si los dos números son iguales, o si el de la derecha es mayor, entonces R devuelve una respuesta falsa (<strong>FALSE</strong>), como lo ilustran los siguientes dos ejemplos:</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span><span class="lnt">2
 </span><span class="lnt">3
 </span><span class="lnt">4
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-R" data-lang="R"><span class="o">&gt;</span> <span class="m">100</span> <span class="o">&lt;</span><span class="m">100</span>  
-<span class="n">[1]</span> <span class="kc">FALSE</span>  
-<span class="o">&gt;</span> <span class="m">100</span> <span class="o">&lt;</span><span class="m">99</span>  
-<span class="n">[1]</span> <span class="kc">FALSE</span>  </code></pre></td></tr></table>
+<pre tabindex="0" class="chroma"><code class="language-R" data-lang="R"><span class="line"><span class="cl"><span class="o">&gt;</span> <span class="m">100</span> <span class="o">&lt;</span><span class="m">100</span>  
+</span></span><span class="line"><span class="cl"><span class="n">[1]</span> <span class="kc">FALSE</span>  
+</span></span><span class="line"><span class="cl"><span class="o">&gt;</span> <span class="m">100</span> <span class="o">&lt;</span><span class="m">99</span>  
+</span></span><span class="line"><span class="cl"><span class="n">[1]</span> <span class="kc">FALSE</span>  </span></span></code></pre></td></tr></table>
 </div>
 </div>
 <p>Por el contrario, el operador <strong>menor o igual que</strong> <strong>&lt;=</strong> hará exactamente lo que dice. Devuelve un valor de <strong>TRUE</strong> si el número del lado izquierdo es menor o igual que el número del lado derecho. Entonces, si repetimos los dos ejemplos anteriores usando <strong>&lt;=</strong>, esto es lo que obtenemos:</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span><span class="lnt">2
 </span><span class="lnt">3
 </span><span class="lnt">4
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-R" data-lang="R"><span class="o">&gt;</span> <span class="m">100</span> <span class="o">&lt;=</span> <span class="m">100</span>  
-<span class="n">[1]</span> <span class="kc">TRUE</span>  
-<span class="o">&gt;</span> <span class="m">100</span> <span class="o">&lt;=</span> <span class="m">99</span>  
-<span class="n">[1]</span> <span class="kc">FALSE</span></code></pre></td></tr></table>
+<pre tabindex="0" class="chroma"><code class="language-R" data-lang="R"><span class="line"><span class="cl"><span class="o">&gt;</span> <span class="m">100</span> <span class="o">&lt;=</span> <span class="m">100</span>  
+</span></span><span class="line"><span class="cl"><span class="n">[1]</span> <span class="kc">TRUE</span>  
+</span></span><span class="line"><span class="cl"><span class="o">&gt;</span> <span class="m">100</span> <span class="o">&lt;=</span> <span class="m">99</span>  
+</span></span><span class="line"><span class="cl"><span class="n">[1]</span> <span class="kc">FALSE</span></span></span></code></pre></td></tr></table>
 </div>
 </div>
 <p>¡Y en este punto espero que sea bastante obvio qué hacen el operador <strong>mayor que</strong> <strong>&gt;</strong> y el operador <strong>mayor o igual que</strong> <strong>&gt;=</strong>! ¡El siguiente en la lista de operadores lógicos es el operador <strong>no igual a</strong> <strong>!=</strong> que , como todos los demás, hace lo que dice que hace. Devuelve un valor de TRUE cuando las cosas de ambos lados no son idénticas entre sí. Por lo tanto, dado que 2 + 2 no es igual a 5, obtenemos:</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span><span class="lnt">2
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-R" data-lang="R"><span class="o">&gt;</span> <span class="m">2</span> <span class="o">+</span> <span class="m">2</span><span class="o">!=</span> <span class="m">5</span>  
-<span class="n">[1]</span> <span class="kc">TRUE</span></code></pre></td></tr></table>
+<pre tabindex="0" class="chroma"><code class="language-R" data-lang="R"><span class="line"><span class="cl"><span class="o">&gt;</span> <span class="m">2</span> <span class="o">+</span> <span class="m">2</span><span class="o">!=</span> <span class="m">5</span>  
+</span></span><span class="line"><span class="cl"><span class="n">[1]</span> <span class="kc">TRUE</span></span></span></code></pre></td></tr></table>
 </div>
 </div>
 <p>Aún no hemos terminado. Hay tres operaciones lógicas más que vale la pena conocer, enumeradas en la Tabla <strong>3.3</strong>. Estos son los  operadores <strong>no</strong> <strong>!</strong>, el operador <strong>and</strong> <strong>&amp;</strong>, y el operador <strong>or</strong> <strong>|</strong> . Al igual que los otros operadores lógicos, su comportamiento es más o menos exactamente lo que cabría esperar dados sus nombres. Por ejemplo, si le pido que evalúe la afirmación de que “2 + 2 = 4 o 2 + 2 = 5”, diría que es verdad. Dado que es una declaración de &ldquo;una o la otra&rdquo;, todo lo que necesitamos es que una de las dos partes sea verdadera. Eso es lo que | el operador hace:</p>
@@ -2426,56 +2424,56 @@ Probablemente sea lo mejor.</p>
 </table>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span><span class="lnt">2
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-R" data-lang="R"><span class="o">&gt;</span> <span class="p">(</span><span class="m">2</span> <span class="o">+</span> <span class="m">2</span> <span class="o">==</span> <span class="m">4</span><span class="p">)</span> <span class="o">|</span> <span class="p">(</span><span class="m">2</span> <span class="o">+</span> <span class="m">2</span> <span class="o">==</span> <span class="m">5</span><span class="p">)</span>  
-<span class="n">[1]</span> <span class="n">VERDADERO</span></code></pre></td></tr></table>
+<pre tabindex="0" class="chroma"><code class="language-R" data-lang="R"><span class="line"><span class="cl"><span class="o">&gt;</span> <span class="p">(</span><span class="m">2</span> <span class="o">+</span> <span class="m">2</span> <span class="o">==</span> <span class="m">4</span><span class="p">)</span> <span class="o">|</span> <span class="p">(</span><span class="m">2</span> <span class="o">+</span> <span class="m">2</span> <span class="o">==</span> <span class="m">5</span><span class="p">)</span>  
+</span></span><span class="line"><span class="cl"><span class="n">[1]</span> <span class="n">VERDADERO</span></span></span></code></pre></td></tr></table>
 </div>
 </div>
 <p>Por otro lado, si le pido que evalúe la afirmación de que &ldquo;2 + 2 = 4 y 2 + 2 = 5&rdquo;, diría que es falsa. Dado que esta es una declaración y , necesitamos que ambas partes sean verdaderas. Y eso es lo que hace el operador &amp; :</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span><span class="lnt">2
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-R" data-lang="R"><span class="o">&gt;</span> <span class="p">(</span><span class="m">2</span> <span class="o">+</span> <span class="m">2</span> <span class="o">==</span> <span class="m">4</span><span class="p">)</span> <span class="nf">y </span><span class="p">(</span><span class="m">2</span> <span class="o">+</span> <span class="m">2</span> <span class="o">==</span> <span class="m">5</span><span class="p">)</span>  
-<span class="n">[1]</span> <span class="n">FALSO</span></code></pre></td></tr></table>
+<pre tabindex="0" class="chroma"><code class="language-R" data-lang="R"><span class="line"><span class="cl"><span class="o">&gt;</span> <span class="p">(</span><span class="m">2</span> <span class="o">+</span> <span class="m">2</span> <span class="o">==</span> <span class="m">4</span><span class="p">)</span> <span class="nf">y </span><span class="p">(</span><span class="m">2</span> <span class="o">+</span> <span class="m">2</span> <span class="o">==</span> <span class="m">5</span><span class="p">)</span>  
+</span></span><span class="line"><span class="cl"><span class="n">[1]</span> <span class="n">FALSO</span></span></span></code></pre></td></tr></table>
 </div>
 </div>
 <p>Finalmente, está el operador not, que es simple pero molesto de describir en inglés. Si le pido que evalúe mi afirmación de que “no es cierto que 2 + 2 = 5”, entonces diría que mi afirmación es verdadera; porque mi afirmación es que &ldquo;2 + 2 = 5 es falso&rdquo;. Y tengo razón. Si escribimos esto como un comando R , obtenemos esto:</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span><span class="lnt">2
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-R" data-lang="R"><span class="o">&gt;!</span> <span class="p">(</span><span class="m">2</span> <span class="o">+</span> <span class="m">2</span> <span class="o">==</span> <span class="m">5</span><span class="p">)</span>  
-<span class="n">[1]</span> <span class="n">VERDADERO</span></code></pre></td></tr></table>
+<pre tabindex="0" class="chroma"><code class="language-R" data-lang="R"><span class="line"><span class="cl"><span class="o">&gt;!</span> <span class="p">(</span><span class="m">2</span> <span class="o">+</span> <span class="m">2</span> <span class="o">==</span> <span class="m">5</span><span class="p">)</span>  
+</span></span><span class="line"><span class="cl"><span class="n">[1]</span> <span class="n">VERDADERO</span></span></span></code></pre></td></tr></table>
 </div>
 </div>
 <p>En otras palabras, dado que 2 + 2 == 5 es una declaración FALSA, ¡debe ser el caso que! (2 + 2 == 5) es VERDADERO. Esencialmente, lo que realmente hemos hecho es afirmar que &ldquo;no falso&rdquo; es lo mismo que &ldquo;verdadero&rdquo;. Obviamente, esto no es del todo correcto en la vida real. Pero R vive en un mundo mucho más blanco o negro: para R todo es verdadero o falso. No se permiten tonos de gris. De hecho, podemos ver esto mucho más explícitamente, así:</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span><span class="lnt">2
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-R" data-lang="R"><span class="o">&gt;!</span> <span class="n">FALSO</span>  
-<span class="n">[1]</span> <span class="n">VERDADERO</span></code></pre></td></tr></table>
+<pre tabindex="0" class="chroma"><code class="language-R" data-lang="R"><span class="line"><span class="cl"><span class="o">&gt;!</span> <span class="n">FALSO</span>  
+</span></span><span class="line"><span class="cl"><span class="n">[1]</span> <span class="n">VERDADERO</span></span></span></code></pre></td></tr></table>
 </div>
 </div>
 <p>Por supuesto, en nuestro ejemplo 2 + 2 = 5, ¡realmente no necesitábamos usar &ldquo;no &ldquo;! y &ldquo;igual a&rdquo; == como dos operadores separados. ¡Podríamos haber usado el operador &ldquo;no es igual a&rdquo; ! = así:</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span><span class="lnt">2
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-R" data-lang="R"><span class="o">&gt;</span> <span class="m">2</span><span class="o">+</span> <span class="m">2</span><span class="o">!</span> <span class="o">=</span> <span class="m">5</span>  
-<span class="n">[1]</span> <span class="n">VERDADERO</span></code></pre></td></tr></table>
+<pre tabindex="0" class="chroma"><code class="language-R" data-lang="R"><span class="line"><span class="cl"><span class="o">&gt;</span> <span class="m">2</span><span class="o">+</span> <span class="m">2</span><span class="o">!</span> <span class="o">=</span> <span class="m">5</span>  
+</span></span><span class="line"><span class="cl"><span class="n">[1]</span> <span class="n">VERDADERO</span></span></span></code></pre></td></tr></table>
 </div>
 </div>
 <p>¡Pero hay muchas situaciones en las que realmente necesitas usar ! operador. Veremos algunos más adelante.</p>
@@ -2484,122 +2482,122 @@ Probablemente sea lo mejor.</p>
 Sección 3.8). Por lo tanto, es posible que no se sorprenda al descubrir que estos valores VERDADERO y FALSO que ha estado produciendo R son en realidad un tercer tipo de datos, llamados datos lógicos. Es decir, cuando le pregunté a R si 2 + 2 == 5 y dijo [1] FALSO en respuesta, en realidad estaba produciendo información que podemos almacenar en variables. Por ejemplo, podría crear una variable llamada is.the.Party.correct , que almacenaría la opinión de R:</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span><span class="lnt">2
 </span><span class="lnt">3
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-R" data-lang="R"><span class="o">&gt;</span> <span class="n">es.la.parte.correcta</span> <span class="o">&lt;-</span> <span class="m">2</span> <span class="o">+</span> <span class="m">2</span> <span class="o">==</span> <span class="m">5</span>  
-<span class="o">&gt;</span> <span class="n">es.la.parte.correcta</span>
-<span class="n">[1]</span> <span class="n">FALSO</span></code></pre></td></tr></table>
+<pre tabindex="0" class="chroma"><code class="language-R" data-lang="R"><span class="line"><span class="cl"><span class="o">&gt;</span> <span class="n">es.la.parte.correcta</span> <span class="o">&lt;-</span> <span class="m">2</span> <span class="o">+</span> <span class="m">2</span> <span class="o">==</span> <span class="m">5</span>  
+</span></span><span class="line"><span class="cl"><span class="o">&gt;</span> <span class="n">es.la.parte.correcta</span>
+</span></span><span class="line"><span class="cl"><span class="n">[1]</span> <span class="n">FALSO</span></span></span></code></pre></td></tr></table>
 </div>
 </div>
 <p>Alternativamente, puede asignar el valor directamente, escribiendo VERDADERO o FALSO en su comando. Me gusta esto:</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span><span class="lnt">2
 </span><span class="lnt">3
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-R" data-lang="R"><span class="o">&gt;</span> <span class="n">es.la.parte.correcta</span> <span class="o">&lt;-</span> <span class="n">FALSO</span>  
-<span class="o">&gt;</span> <span class="n">es.la.parte.correcta</span>  
-<span class="n">[1]</span> <span class="n">FALSO</span></code></pre></td></tr></table>
+<pre tabindex="0" class="chroma"><code class="language-R" data-lang="R"><span class="line"><span class="cl"><span class="o">&gt;</span> <span class="n">es.la.parte.correcta</span> <span class="o">&lt;-</span> <span class="n">FALSO</span>  
+</span></span><span class="line"><span class="cl"><span class="o">&gt;</span> <span class="n">es.la.parte.correcta</span>  
+</span></span><span class="line"><span class="cl"><span class="n">[1]</span> <span class="n">FALSO</span></span></span></code></pre></td></tr></table>
 </div>
 </div>
 <p>Mejor aún, debido a que es un poco tedioso escribir VERDADERO o FALSO una y otra vez, R le proporciona un atajo: puede usar T y F en su lugar (pero distingue entre mayúsculas y minúsculas: t y f no funcionarán). 27 Entonces esto funciona:</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span><span class="lnt">2
 </span><span class="lnt">3
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-R" data-lang="R"><span class="o">&gt;</span> <span class="n">es.la.parte.correcta</span> <span class="o">&lt;-</span> <span class="bp">F</span>  
-<span class="o">&gt;</span> <span class="n">es.la.parte.correcta</span>  
-<span class="n">[1]</span> <span class="n">FALSO</span></code></pre></td></tr></table>
+<pre tabindex="0" class="chroma"><code class="language-R" data-lang="R"><span class="line"><span class="cl"><span class="o">&gt;</span> <span class="n">es.la.parte.correcta</span> <span class="o">&lt;-</span> <span class="bp">F</span>  
+</span></span><span class="line"><span class="cl"><span class="o">&gt;</span> <span class="n">es.la.parte.correcta</span>  
+</span></span><span class="line"><span class="cl"><span class="n">[1]</span> <span class="n">FALSO</span></span></span></code></pre></td></tr></table>
 </div>
 </div>
 <p>pero esto no:</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span><span class="lnt">2
 </span><span class="lnt">3
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-R" data-lang="R"><span class="o">&gt;</span> <span class="n">es.la.parte.correcta</span> <span class="o">&lt;-</span> <span class="n">f</span>  
-<span class="n">Error</span><span class="o">:</span> <span class="n">objeto</span> <span class="s">&#39;f&#39;</span> <span class="n">no</span> <span class="n">encontrado</span>
- </code></pre></td></tr></table>
+<pre tabindex="0" class="chroma"><code class="language-R" data-lang="R"><span class="line"><span class="cl"><span class="o">&gt;</span> <span class="n">es.la.parte.correcta</span> <span class="o">&lt;-</span> <span class="n">f</span>  
+</span></span><span class="line"><span class="cl"><span class="n">Error</span><span class="o">:</span> <span class="n">objeto</span> <span class="s">&#39;f&#39;</span> <span class="n">no</span> <span class="n">encontrado</span>
+</span></span><span class="line"><span class="cl"> </span></span></code></pre></td></tr></table>
 </div>
 </div>
 <h3 id="vectores-de-lógicas">Vectores de lógicas</h3>
 <p>Lo siguiente que se debe mencionar es que puede almacenar vectores de valores lógicos exactamente de la misma manera que puede almacenar vectores de números (Sección 3.7) y vectores de datos de texto (Sección 3.8). Nuevamente, podemos definirlos directamente a través de la función c ( ), así:</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span><span class="lnt">2
 </span><span class="lnt">3
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-R" data-lang="R"><span class="o">&gt;</span> <span class="n">x</span> <span class="o">&lt;-</span> <span class="nf">c </span><span class="p">(</span> <span class="n">VERDADERO</span><span class="p">,</span> <span class="n">VERDADERO</span><span class="p">,</span> <span class="n">FALSO</span><span class="p">)</span>  
-<span class="o">&gt;</span> <span class="n">x</span>  
-<span class="n">[1]</span> <span class="n">VERDADERO</span> <span class="n">VERDADERO</span> <span class="n">FALSO</span></code></pre></td></tr></table>
+<pre tabindex="0" class="chroma"><code class="language-R" data-lang="R"><span class="line"><span class="cl"><span class="o">&gt;</span> <span class="n">x</span> <span class="o">&lt;-</span> <span class="nf">c </span><span class="p">(</span> <span class="n">VERDADERO</span><span class="p">,</span> <span class="n">VERDADERO</span><span class="p">,</span> <span class="n">FALSO</span><span class="p">)</span>  
+</span></span><span class="line"><span class="cl"><span class="o">&gt;</span> <span class="n">x</span>  
+</span></span><span class="line"><span class="cl"><span class="n">[1]</span> <span class="n">VERDADERO</span> <span class="n">VERDADERO</span> <span class="n">FALSO</span></span></span></code></pre></td></tr></table>
 </div>
 </div>
 <p>o puede producir un vector de lógicas aplicando un operador lógico a un vector. Es posible que esto no tenga mucho sentido para ti, así que vamos a descomprimirlo lentamente. Primero, supongamos que tenemos un vector de números (es decir, un &ldquo;vector no lógico&rdquo;). Por ejemplo, podríamos usar el vector ventas por mes que usamos en la sección 3.7. Suponga que quisiera que R me dijera, para cada mes del año, si realmente vendí un libro en ese mes. Puedo hacerlo escribiendo esto:</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span><span class="lnt">2
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-R" data-lang="R"><span class="o">&gt;</span> <span class="n">ventas</span> <span class="n">por</span> <span class="n">mes</span> <span class="o">&gt;</span> <span class="m">0</span>  
-<span class="n">[1]</span> <span class="n">FALSO</span> <span class="kc">TRUE</span> <span class="kc">TRUE</span> <span class="kc">TRUE</span> <span class="kc">TRUE</span> <span class="n">FALSO</span> <span class="n">FALSO</span> <span class="n">FALSO</span> <span class="n">FALSO</span> <span class="n">FALSO</span> <span class="n">FALSO</span> <span class="n">FALSO</span>  </code></pre></td></tr></table>
+<pre tabindex="0" class="chroma"><code class="language-R" data-lang="R"><span class="line"><span class="cl"><span class="o">&gt;</span> <span class="n">ventas</span> <span class="n">por</span> <span class="n">mes</span> <span class="o">&gt;</span> <span class="m">0</span>  
+</span></span><span class="line"><span class="cl"><span class="n">[1]</span> <span class="n">FALSO</span> <span class="kc">TRUE</span> <span class="kc">TRUE</span> <span class="kc">TRUE</span> <span class="kc">TRUE</span> <span class="n">FALSO</span> <span class="n">FALSO</span> <span class="n">FALSO</span> <span class="n">FALSO</span> <span class="n">FALSO</span> <span class="n">FALSO</span> <span class="n">FALSO</span>  </span></span></code></pre></td></tr></table>
 </div>
 </div>
 <p>y nuevamente, puedo almacenar esto en un vector si quiero, como ilustra el siguiente ejemplo:</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span><span class="lnt">2
 </span><span class="lnt">3
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-R" data-lang="R"><span class="o">&gt;</span> <span class="n">cualquier.ventas</span> <span class="n">.este.meso</span> <span class="o">&lt;-</span> <span class="n">ventas.por.meses</span> <span class="o">&gt;</span> <span class="m">0</span>  
-<span class="o">&gt;</span> <span class="n">cualquier.ventas</span> <span class="n">.este</span> <span class="n">. mes</span>  
-<span class="n">[1]</span> <span class="n">FALSO</span> <span class="kc">TRUE</span> <span class="kc">TRUE</span> <span class="kc">TRUE</span> <span class="kc">TRUE</span> <span class="n">FALSO</span> <span class="n">FALSO</span> <span class="n">FALSO</span> <span class="n">FALSO</span> <span class="n">FALSO</span> <span class="n">FALSO</span> <span class="n">FALSO</span>   </code></pre></td></tr></table>
+<pre tabindex="0" class="chroma"><code class="language-R" data-lang="R"><span class="line"><span class="cl"><span class="o">&gt;</span> <span class="n">cualquier.ventas</span> <span class="n">.este.meso</span> <span class="o">&lt;-</span> <span class="n">ventas.por.meses</span> <span class="o">&gt;</span> <span class="m">0</span>  
+</span></span><span class="line"><span class="cl"><span class="o">&gt;</span> <span class="n">cualquier.ventas</span> <span class="n">.este</span> <span class="n">. mes</span>  
+</span></span><span class="line"><span class="cl"><span class="n">[1]</span> <span class="n">FALSO</span> <span class="kc">TRUE</span> <span class="kc">TRUE</span> <span class="kc">TRUE</span> <span class="kc">TRUE</span> <span class="n">FALSO</span> <span class="n">FALSO</span> <span class="n">FALSO</span> <span class="n">FALSO</span> <span class="n">FALSO</span> <span class="n">FALSO</span> <span class="n">FALSO</span>   </span></span></code></pre></td></tr></table>
 </div>
 </div>
 <p>En otras palabras, any.sales .this.month es un vector lógico cuyos elementos son VERDADEROS solo si el elemento correspondiente de sales.by.month es mayor que cero. Por ejemplo, dado que no vendí libros en enero, el primer elemento es FALSO.</p>
 <h3 id="aplicar-una-operación-lógica-al-texto">Aplicar una operación lógica al texto</h3>
-<p>En un momento (Sección 3.10) le mostraré por qué estas operaciones lógicas y vectores lógicos son tan útiles, pero antes de hacerlo, quiero señalar brevemente que puede aplicarlos tanto al texto como a los datos lógicos . Es solo que debemos ser un poco más cuidadosos al comprender cómo R interpreta las diferentes operaciones. En esta sección hablaré sobre cómo se aplica el operador igual a == al texto, ya que este es el más importante. Obviamente, el operador no es igual a ! = da las respuestas exactamente opuestas a ==, así que implícitamente también estoy hablando de ese, pero no daré comandos específicos que muestren el uso de! =. En cuanto a los otros operadores, aplazaré una discusión más detallada de este tema hasta la Sección 7.8.5. <br />
+<p>En un momento (Sección 3.10) le mostraré por qué estas operaciones lógicas y vectores lógicos son tan útiles, pero antes de hacerlo, quiero señalar brevemente que puede aplicarlos tanto al texto como a los datos lógicos . Es solo que debemos ser un poco más cuidadosos al comprender cómo R interpreta las diferentes operaciones. En esta sección hablaré sobre cómo se aplica el operador igual a == al texto, ya que este es el más importante. Obviamente, el operador no es igual a ! = da las respuestas exactamente opuestas a ==, así que implícitamente también estoy hablando de ese, pero no daré comandos específicos que muestren el uso de! =. En cuanto a los otros operadores, aplazaré una discusión más detallada de este tema hasta la Sección 7.8.5.<br />
 Bien, veamos cómo funciona. En cierto sentido, es muy simple. Por ejemplo, puedo preguntarle a R si la palabra &ldquo;gato&rdquo; es lo mismo que la palabra &ldquo;perro &ldquo;, así:</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span><span class="lnt">2
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-R" data-lang="R"><span class="o">&gt;</span> <span class="s">&#34;gato&#34;</span> <span class="o">==</span> <span class="s">&#34;perro&#34;</span>  
-<span class="n">[1]</span> <span class="n">FALSO</span></code></pre></td></tr></table>
+<pre tabindex="0" class="chroma"><code class="language-R" data-lang="R"><span class="line"><span class="cl"><span class="o">&gt;</span> <span class="s">&#34;gato&#34;</span> <span class="o">==</span> <span class="s">&#34;perro&#34;</span>  
+</span></span><span class="line"><span class="cl"><span class="n">[1]</span> <span class="n">FALSO</span></span></span></code></pre></td></tr></table>
 </div>
 </div>
 <p>Eso es bastante obvio, y es bueno saber que incluso R puede darse cuenta de eso. De manera similar, R reconoce que un &ldquo;gato&rdquo; es un &ldquo;gato &ldquo;:</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span><span class="lnt">2
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-R" data-lang="R"><span class="o">&gt;</span> <span class="s">&#34;gato&#34;</span> <span class="o">==</span> <span class="s">&#34;gato&#34;</span>  
-<span class="n">[1]</span> <span class="n">VERDADERO</span></code></pre></td></tr></table>
+<pre tabindex="0" class="chroma"><code class="language-R" data-lang="R"><span class="line"><span class="cl"><span class="o">&gt;</span> <span class="s">&#34;gato&#34;</span> <span class="o">==</span> <span class="s">&#34;gato&#34;</span>  
+</span></span><span class="line"><span class="cl"><span class="n">[1]</span> <span class="n">VERDADERO</span></span></span></code></pre></td></tr></table>
 </div>
 </div>
 <p>Una vez más, eso es exactamente lo que esperaríamos. Sin embargo, lo que debe tener en cuenta es que R no es para nada tolerante cuando se trata de gramática y espaciado. Si dos cadenas difieren de alguna manera, R dirá que no son iguales entre sí, como indican los siguientes ejemplos:</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span><span class="lnt">2
 </span><span class="lnt">3
 </span><span class="lnt">4
@@ -2607,12 +2605,12 @@ Bien, veamos cómo funciona. En cierto sentido, es muy simple. Por ejemplo, pued
 </span><span class="lnt">6
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-R" data-lang="R"><span class="o">&gt;</span> <span class="s">&#34;gato&#34;</span> <span class="o">==</span> <span class="s">&#34;gato&#34;</span>  
-<span class="n">[1]</span> <span class="n">FALSO</span>  
-<span class="o">&gt;</span> <span class="s">&#34;gato&#34;</span> <span class="o">==</span> <span class="s">&#34;GATO&#34;</span>  
-<span class="n">[1]</span> <span class="n">FALSO</span>  
-<span class="o">&gt;</span> <span class="s">&#34;gato&#34;</span> <span class="o">==</span> <span class="s">&#34;ca t&#34;</span>  
-<span class="n">[1]</span> <span class="n">FALSO</span></code></pre></td></tr></table>
+<pre tabindex="0" class="chroma"><code class="language-R" data-lang="R"><span class="line"><span class="cl"><span class="o">&gt;</span> <span class="s">&#34;gato&#34;</span> <span class="o">==</span> <span class="s">&#34;gato&#34;</span>  
+</span></span><span class="line"><span class="cl"><span class="n">[1]</span> <span class="n">FALSO</span>  
+</span></span><span class="line"><span class="cl"><span class="o">&gt;</span> <span class="s">&#34;gato&#34;</span> <span class="o">==</span> <span class="s">&#34;GATO&#34;</span>  
+</span></span><span class="line"><span class="cl"><span class="n">[1]</span> <span class="n">FALSO</span>  
+</span></span><span class="line"><span class="cl"><span class="o">&gt;</span> <span class="s">&#34;gato&#34;</span> <span class="o">==</span> <span class="s">&#34;ca t&#34;</span>  
+</span></span><span class="line"><span class="cl"><span class="n">[1]</span> <span class="n">FALSO</span></span></span></code></pre></td></tr></table>
 </div>
 </div>
 <p style="text-align:right;">
@@ -2625,23 +2623,23 @@ Bien, veamos cómo funciona. En cierto sentido, es muy simple. Por ejemplo, pued
 <p>Una cosa muy útil que podemos hacer es extraer más de un elemento a la vez. En el ejemplo anterior, solo usamos un solo número (es decir, 2) para indicar qué elemento queríamos. Alternativamente, podemos usar un vector. Entonces, supongamos que quisiera los datos de febrero, marzo y abril. Lo que podría hacer es usar el vector c ( 2,3,4) para indicar qué elementos quiero que R extraiga. Es decir, escribiría esto:</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span><span class="lnt">2
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-R" data-lang="R"><span class="o">&gt;</span> <span class="n">ventas.por.mes</span> <span class="nf">[c </span><span class="p">(</span><span class="m">2</span><span class="p">,</span><span class="m">3</span><span class="p">,</span><span class="m">4</span><span class="p">)</span><span class="n">]</span>  
-<span class="n">[1]</span> <span class="m">100</span> <span class="m">200</span> <span class="m">50</span></code></pre></td></tr></table>
+<pre tabindex="0" class="chroma"><code class="language-R" data-lang="R"><span class="line"><span class="cl"><span class="o">&gt;</span> <span class="n">ventas.por.mes</span> <span class="nf">[c </span><span class="p">(</span><span class="m">2</span><span class="p">,</span><span class="m">3</span><span class="p">,</span><span class="m">4</span><span class="p">)</span><span class="n">]</span>  
+</span></span><span class="line"><span class="cl"><span class="n">[1]</span> <span class="m">100</span> <span class="m">200</span> <span class="m">50</span></span></span></code></pre></td></tr></table>
 </div>
 </div>
 <p>Tenga en cuenta que el orden importa aquí. Si solicité los datos en el orden inverso (es decir, primero de abril, luego de marzo, luego de febrero) usando el vector c ( 4,3,2), entonces R genera los datos en el orden inverso:</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span><span class="lnt">2
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-R" data-lang="R"><span class="o">&gt;</span> <span class="n">ventas.por.mes</span> <span class="nf">[c </span><span class="p">(</span><span class="m">4</span><span class="p">,</span><span class="m">3</span><span class="p">,</span><span class="m">2</span><span class="p">)</span><span class="n">]</span>  
-<span class="n">[1]</span> <span class="m">50</span> <span class="m">200</span> <span class="m">100</span></code></pre></td></tr></table>
+<pre tabindex="0" class="chroma"><code class="language-R" data-lang="R"><span class="line"><span class="cl"><span class="o">&gt;</span> <span class="n">ventas.por.mes</span> <span class="nf">[c </span><span class="p">(</span><span class="m">4</span><span class="p">,</span><span class="m">3</span><span class="p">,</span><span class="m">2</span><span class="p">)</span><span class="n">]</span>  
+</span></span><span class="line"><span class="cl"><span class="n">[1]</span> <span class="m">50</span> <span class="m">200</span> <span class="m">100</span></span></span></code></pre></td></tr></table>
 </div>
 </div>
 <p>Una segunda cosa a tener en cuenta es que R le proporciona atajos útiles para situaciones muy comunes.<br />
@@ -2649,34 +2647,34 @@ Por ejemplo, supongamos que quisiera extraer todo desde el segundo mes hasta el 
 Una forma de hacer esto es hacer lo mismo que hice anteriormente y usar el vector c ( 2,3,4,5,6,7,8) para indicar los elementos que quiero. Eso funciona bien</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span><span class="lnt">2
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-R" data-lang="R"><span class="o">&gt;</span> <span class="n">ventas.por.mes</span> <span class="nf">[c </span><span class="p">(</span><span class="m">2</span><span class="p">,</span><span class="m">3</span><span class="p">,</span><span class="m">4</span><span class="p">,</span><span class="m">5</span><span class="p">,</span><span class="m">6</span><span class="p">,</span><span class="m">7</span><span class="p">,</span><span class="m">8</span><span class="p">)</span><span class="n">]</span>  
-<span class="n">[1]</span> <span class="m">100</span> <span class="m">200</span> <span class="m">50</span> <span class="m">0</span> <span class="m">0</span> <span class="m">0</span> <span class="m">0</span></code></pre></td></tr></table>
+<pre tabindex="0" class="chroma"><code class="language-R" data-lang="R"><span class="line"><span class="cl"><span class="o">&gt;</span> <span class="n">ventas.por.mes</span> <span class="nf">[c </span><span class="p">(</span><span class="m">2</span><span class="p">,</span><span class="m">3</span><span class="p">,</span><span class="m">4</span><span class="p">,</span><span class="m">5</span><span class="p">,</span><span class="m">6</span><span class="p">,</span><span class="m">7</span><span class="p">,</span><span class="m">8</span><span class="p">)</span><span class="n">]</span>  
+</span></span><span class="line"><span class="cl"><span class="n">[1]</span> <span class="m">100</span> <span class="m">200</span> <span class="m">50</span> <span class="m">0</span> <span class="m">0</span> <span class="m">0</span> <span class="m">0</span></span></span></code></pre></td></tr></table>
 </div>
 </div>
 <p>pero es como escribir mucho. Para ayudar a que esto sea más fácil, R le permite usar 2: 8 como abreviatura de c ( 2,3,4,5,6,7,8), lo que simplifica mucho las cosas. Primero, verifiquemos que esto sea cierto:</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span><span class="lnt">2
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-R" data-lang="R"><span class="o">&gt;</span> <span class="m">2</span><span class="o">:</span> <span class="m">8</span>  
-<span class="n">[1]</span> <span class="m">2</span> <span class="m">3</span> <span class="m">4</span> <span class="m">5</span> <span class="m">6</span> <span class="m">7</span> <span class="m">8</span></code></pre></td></tr></table>
+<pre tabindex="0" class="chroma"><code class="language-R" data-lang="R"><span class="line"><span class="cl"><span class="o">&gt;</span> <span class="m">2</span><span class="o">:</span> <span class="m">8</span>  
+</span></span><span class="line"><span class="cl"><span class="n">[1]</span> <span class="m">2</span> <span class="m">3</span> <span class="m">4</span> <span class="m">5</span> <span class="m">6</span> <span class="m">7</span> <span class="m">8</span></span></span></code></pre></td></tr></table>
 </div>
 </div>
 <p>A continuación, verifiquemos que podemos usar la abreviatura 2: 8 como una forma de extraer los elementos del segundo al octavo de sales.by.months:</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span><span class="lnt">2
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-R" data-lang="R"><span class="o">&gt;</span> <span class="n">ventas</span> <span class="n">por</span> <span class="n">mes</span> <span class="n">[2</span><span class="o">:</span> <span class="m">8</span><span class="n">]</span>  
-<span class="n">[1]</span> <span class="m">100</span> <span class="m">200</span> <span class="m">50</span> <span class="m">0</span> <span class="m">0</span> <span class="m">0</span> <span class="m">0</span></code></pre></td></tr></table>
+<pre tabindex="0" class="chroma"><code class="language-R" data-lang="R"><span class="line"><span class="cl"><span class="o">&gt;</span> <span class="n">ventas</span> <span class="n">por</span> <span class="n">mes</span> <span class="n">[2</span><span class="o">:</span> <span class="m">8</span><span class="n">]</span>  
+</span></span><span class="line"><span class="cl"><span class="n">[1]</span> <span class="m">100</span> <span class="m">200</span> <span class="m">50</span> <span class="m">0</span> <span class="m">0</span> <span class="m">0</span> <span class="m">0</span></span></span></code></pre></td></tr></table>
 </div>
 </div>
 <p>Así que eso es genial.</p>
@@ -2684,80 +2682,80 @@ Una forma de hacer esto es hacer lo mismo que hice anteriormente y usar el vecto
 <p>En este punto, puedo presentar una herramienta extremadamente útil llamada indexación lógica. En la última sección, creé un vector lógico any.sales .this.month , cuyos elementos son VERDADEROS para cualquier mes en el que vendí al menos un libro, y FALSO para todos los demás. Sin embargo, esa gran lista de VERDADEROS y FALSOS es un poco difícil de leer, así que lo que me gustaría hacer es que R seleccione los nombres de los meses por los que vendí libros. Anteriormente, creé un vector de meses que contiene los nombres de cada uno de los meses. Aquí es donde la indexación lógica es útil. Lo que necesito hacer es esto:</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span><span class="lnt">2
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-R" data-lang="R"><span class="o">&gt;</span> <span class="n">meses</span> <span class="n">[</span> <span class="n">ventas.por.mes</span> <span class="o">&gt;</span> <span class="m">0</span><span class="n">]</span>  
-<span class="n">[1]</span> <span class="s">&#34;febrero&#34;</span> <span class="s">&#34;marzo&#34;</span> <span class="s">&#34;abril&#34;</span> <span class="s">&#34;mayo&#34;</span></code></pre></td></tr></table>
+<pre tabindex="0" class="chroma"><code class="language-R" data-lang="R"><span class="line"><span class="cl"><span class="o">&gt;</span> <span class="n">meses</span> <span class="n">[</span> <span class="n">ventas.por.mes</span> <span class="o">&gt;</span> <span class="m">0</span><span class="n">]</span>  
+</span></span><span class="line"><span class="cl"><span class="n">[1]</span> <span class="s">&#34;febrero&#34;</span> <span class="s">&#34;marzo&#34;</span> <span class="s">&#34;abril&#34;</span> <span class="s">&#34;mayo&#34;</span></span></span></code></pre></td></tr></table>
 </div>
 </div>
 <p>Para comprender lo que está sucediendo aquí, es útil notar que sales.by.month &gt; 0 es la misma expresión lógica que usamos para crear el vector any.sales.this.month en la última sección. De hecho, podría haber hecho esto:</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span><span class="lnt">2
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-R" data-lang="R"><span class="o">&gt;</span> <span class="n">meses</span> <span class="n">[</span> <span class="n">cualquier.ventas.este</span> <span class="n">. mes</span> <span class="n">]</span>  
-<span class="n">[1]</span> <span class="s">&#34;febrero&#34;</span> <span class="s">&#34;marzo&#34;</span> <span class="s">&#34;abril&#34;</span> <span class="s">&#34;mayo&#34;</span></code></pre></td></tr></table>
+<pre tabindex="0" class="chroma"><code class="language-R" data-lang="R"><span class="line"><span class="cl"><span class="o">&gt;</span> <span class="n">meses</span> <span class="n">[</span> <span class="n">cualquier.ventas.este</span> <span class="n">. mes</span> <span class="n">]</span>  
+</span></span><span class="line"><span class="cl"><span class="n">[1]</span> <span class="s">&#34;febrero&#34;</span> <span class="s">&#34;marzo&#34;</span> <span class="s">&#34;abril&#34;</span> <span class="s">&#34;mayo&#34;</span></span></span></code></pre></td></tr></table>
 </div>
 </div>
 <p>y obtuve exactamente el mismo resultado. Para averiguar qué elementos de meses incluir en la salida, lo que hace R es ver si el elemento correspondiente en any.sales .this.month es VERDADERO. Por lo tanto, dado que el elemento 1 de cualquier.ventas .este . mes es FALSO, R no incluye &ldquo;enero&rdquo; como parte de la salida; pero como el elemento 2 de any.sales.this.month es TRUE, R incluye &ldquo;febrero&rdquo; en la salida. Tenga en cuenta que no hay ninguna razón por la que no pueda utilizar el mismo truco para encontrar las cifras de ventas reales de esos meses. El comando para hacer eso sería simplemente este:</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span><span class="lnt">2
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-R" data-lang="R"><span class="o">&gt;</span> <span class="n">ventas</span> <span class="n">por</span> <span class="n">mes</span> <span class="n">[</span> <span class="n">ventas</span> <span class="n">por</span> <span class="n">mes</span> <span class="o">&gt;</span> <span class="m">0</span><span class="n">]</span>  
-<span class="n">[1]</span> <span class="m">100</span> <span class="m">200</span> <span class="m">50</span> <span class="m">25</span></code></pre></td></tr></table>
+<pre tabindex="0" class="chroma"><code class="language-R" data-lang="R"><span class="line"><span class="cl"><span class="o">&gt;</span> <span class="n">ventas</span> <span class="n">por</span> <span class="n">mes</span> <span class="n">[</span> <span class="n">ventas</span> <span class="n">por</span> <span class="n">mes</span> <span class="o">&gt;</span> <span class="m">0</span><span class="n">]</span>  
+</span></span><span class="line"><span class="cl"><span class="n">[1]</span> <span class="m">100</span> <span class="m">200</span> <span class="m">50</span> <span class="m">25</span></span></span></code></pre></td></tr></table>
 </div>
 </div>
 <p>De hecho, podemos hacer lo mismo con el texto. He aquí un ejemplo. Supongamos que, para continuar con la saga de las ventas de libros de texto, luego descubro que la librería solo tenía existencias suficientes para algunos meses del año. Me dicen que a principios del año que tenían las poblaciones de &ldquo;alto&rdquo;, que luego se redujo a niveles &ldquo;bajos&rdquo;, y de hecho durante un mes que estaban &ldquo;fuera&rdquo; de copias del libro durante un tiempo antes de que fueran capaces de reponer ellas . Por lo tanto, podría tener una variable llamada stock.levels que se ve así:</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span><span class="lnt">2
 </span><span class="lnt">3
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-R" data-lang="R"><span class="o">&gt;</span> <span class="n">niveles</span> <span class="n">de</span> <span class="n">existencias</span>  
-<span class="n">[1]</span> <span class="s">&#34;alto&#34;</span> <span class="s">&#34;alto&#34;</span> <span class="s">&#34;bajo&#34;</span> <span class="s">&#34;fuera&#34;</span> <span class="s">&#34;fuera&#34;</span> <span class="s">&#34;alto&#34;</span> <span class="s">&#34;alto&#34;</span> <span class="s">&#34;alto&#34;</span> <span class="s">&#34;alto&#34;</span> <span class="s">&#34;alto&#34;</span> <span class="s">&#34;alto&#34;</span>  
-<span class="n">[12]</span> <span class="s">&#34;alto&#34;</span></code></pre></td></tr></table>
+<pre tabindex="0" class="chroma"><code class="language-R" data-lang="R"><span class="line"><span class="cl"><span class="o">&gt;</span> <span class="n">niveles</span> <span class="n">de</span> <span class="n">existencias</span>  
+</span></span><span class="line"><span class="cl"><span class="n">[1]</span> <span class="s">&#34;alto&#34;</span> <span class="s">&#34;alto&#34;</span> <span class="s">&#34;bajo&#34;</span> <span class="s">&#34;fuera&#34;</span> <span class="s">&#34;fuera&#34;</span> <span class="s">&#34;alto&#34;</span> <span class="s">&#34;alto&#34;</span> <span class="s">&#34;alto&#34;</span> <span class="s">&#34;alto&#34;</span> <span class="s">&#34;alto&#34;</span> <span class="s">&#34;alto&#34;</span>  
+</span></span><span class="line"><span class="cl"><span class="n">[12]</span> <span class="s">&#34;alto&#34;</span></span></span></code></pre></td></tr></table>
 </div>
 </div>
 <p>Por lo tanto, si quiero saber los meses en los que la librería estuvo fuera de mi libro, podría aplicar el truco de indexación lógica , pero con el vector de caracteres stock.levels , así:</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span><span class="lnt">2
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-R" data-lang="R"><span class="o">&gt;</span> <span class="n">meses</span> <span class="n">[</span> <span class="n">stock.levels</span> <span class="o">==</span> <span class="s">&#34;out&#34;</span><span class="n">]</span>  
-<span class="n">[1]</span> <span class="s">&#34;abril&#34;</span> <span class="s">&#34;mayo&#34;</span></code></pre></td></tr></table>
+<pre tabindex="0" class="chroma"><code class="language-R" data-lang="R"><span class="line"><span class="cl"><span class="o">&gt;</span> <span class="n">meses</span> <span class="n">[</span> <span class="n">stock.levels</span> <span class="o">==</span> <span class="s">&#34;out&#34;</span><span class="n">]</span>  
+</span></span><span class="line"><span class="cl"><span class="n">[1]</span> <span class="s">&#34;abril&#34;</span> <span class="s">&#34;mayo&#34;</span></span></span></code></pre></td></tr></table>
 </div>
 </div>
 <p>Alternativamente, si quiero saber cuándo la librería tenía pocas copias o no tenía copias, podría hacer esto:</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span><span class="lnt">2
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-R" data-lang="R"><span class="o">&gt;</span> <span class="n">meses</span> <span class="n">[</span> <span class="n">stock.levels</span> <span class="o">==</span> <span class="s">&#34;out&#34;</span> <span class="o">|</span> <span class="n">stock.levels</span> <span class="o">==</span> <span class="s">&#34;bajo&#34;</span><span class="n">]</span>  
-<span class="n">[1]</span> <span class="s">&#34;marzo&#34;</span> <span class="s">&#34;abril&#34;</span> <span class="s">&#34;mayo&#34;</span></code></pre></td></tr></table>
+<pre tabindex="0" class="chroma"><code class="language-R" data-lang="R"><span class="line"><span class="cl"><span class="o">&gt;</span> <span class="n">meses</span> <span class="n">[</span> <span class="n">stock.levels</span> <span class="o">==</span> <span class="s">&#34;out&#34;</span> <span class="o">|</span> <span class="n">stock.levels</span> <span class="o">==</span> <span class="s">&#34;bajo&#34;</span><span class="n">]</span>  
+</span></span><span class="line"><span class="cl"><span class="n">[1]</span> <span class="s">&#34;marzo&#34;</span> <span class="s">&#34;abril&#34;</span> <span class="s">&#34;mayo&#34;</span></span></span></code></pre></td></tr></table>
 </div>
 </div>
 <p>o esto</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span><span class="lnt">2
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-R" data-lang="R"><span class="o">&gt;</span> <span class="n">meses</span> <span class="n">[</span> <span class="n">stock.levels</span> <span class="o">!</span> <span class="o">=</span> <span class="s">&#34;high&#34;</span><span class="n">]</span>  
-<span class="n">[1]</span> <span class="s">&#34;marzo&#34;</span> <span class="s">&#34;abril&#34;</span> <span class="s">&#34;mayo&#34;</span></code></pre></td></tr></table>
+<pre tabindex="0" class="chroma"><code class="language-R" data-lang="R"><span class="line"><span class="cl"><span class="o">&gt;</span> <span class="n">meses</span> <span class="n">[</span> <span class="n">stock.levels</span> <span class="o">!</span> <span class="o">=</span> <span class="s">&#34;high&#34;</span><span class="n">]</span>  
+</span></span><span class="line"><span class="cl"><span class="n">[1]</span> <span class="s">&#34;marzo&#34;</span> <span class="s">&#34;abril&#34;</span> <span class="s">&#34;mayo&#34;</span></span></span></code></pre></td></tr></table>
 </div>
 </div>
 <p>De cualquier manera, obtengo la respuesta que quiero.<br />
@@ -2771,10 +2769,10 @@ En este punto, espero que pueda ver por qué la indexación lógica es tan útil
 Independientemente del método que utilice para salir de R, cuando lo haga por primera vez, probablemente R le preguntará si desea guardar la “imagen del espacio de trabajo”. Hablaremos mucho más sobre cargar y guardar datos en la Sección 4.5, pero pensé que sería mejor que cubrimos esto rápidamente, de lo contrario, se molestará cuando cierre R al final del capítulo. Si está utilizando Rstudio , verá un cuadro de diálogo que se parece al que se muestra en la Figura 3.5. Si está utilizando una interfaz basada en texto , verá esto:</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-R" data-lang="R"><span class="o">&gt;</span> <span class="nf">q </span><span class="p">(</span> <span class="p">)</span></code></pre></td></tr></table>
+<pre tabindex="0" class="chroma"><code class="language-R" data-lang="R"><span class="line"><span class="cl"><span class="o">&gt;</span> <span class="nf">q </span><span class="p">(</span> <span class="p">)</span></span></span></code></pre></td></tr></table>
 </div>
 </div>
 <p>¿Guardar imagen del espacio de trabajo? [s / n / c]:<br />
@@ -3238,6 +3236,13 @@ Escrito por Navarro, Danielle; traducido por García-Mendívil, Helio A.
     
     <div class="grow"></div>
     
+      <a href="https://helio4gm.netlify.app/es/posts/2023-01-22-a-ver-si-funciona-de-nuevo/" class="pagination-single__right">      
+        <div class="pagination-single__right-title">A ver si funciona de nuevo</div>
+        <div class="pagination-single__icon">
+          <svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" viewBox="0 0 24 24"><path fill="none" d="M0 0h24v24H0V0z"/><path fill="currentColor" d="M5 13h11.17l-4.88 4.88c-.39.39-.39 1.03 0 1.42.39.39 1.02.39 1.41 0l6.59-6.59c.39-.39.39-1.02 0-1.41l-6.58-6.6c-.39-.39-1.02-.39-1.41 0-.39.39-.39 1.02 0 1.41L16.17 11H5c-.55 0-1 .45-1 1s.45 1 1 1z"/></svg>
+        </div>
+      </a>
+    
   
 </nav>
     
@@ -3309,7 +3314,7 @@ Escrito por Navarro, Danielle; traducido por García-Mendívil, Helio A.
 </div>
 
 
-<script defer src="/js/swipe.min.989e074dfb92ce7f57a92c1df7027f88b53c50a54fd9ad450a673a64aa91bfa4.js"></script>
+<script defer src="/js/swipe.min.feb438efb7ca009ecd7fc2ac3ad2fced4840990b2798d81f87137f2dc6281f05.js"></script>
 
 <script defer src="/js/micromodal.min.de01b44b2f383056bbcaf6ee921fd385d79108ec1129afd0eb2f3f5a07e11f45.js"></script>
 

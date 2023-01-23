@@ -18,9 +18,9 @@
 
 <script defer src="/js/lazysizes.min.fb649fcae62177dfe63e67081ddceb830b5ce1f05a4184e9bbb7d87ac4b8f4e5.js"></script>
 
-<script defer src="/js/helper/getParents.min.ccd45f158c1b17849307ba913a72beac239c410f2b6e648496a79842da84e55b.js"></script>
+<script defer src="/js/helper/getParents.min.086022fb02d7a1517e33c2670bffb976b3e80bcacd9caeee0c6a586064f20e42.js"></script>
 
-<script defer src="/js/helper/fadeinout.min.1d13d3e810c3940e80cbba6216a1c76fbf42b5431fc83537ea6997863802362b.js"></script>
+<script defer src="/js/helper/fadeinout.min.3ce954c8aea3b69cc5e6f734d8273ba4cd48d3a7987dbdca145849bc4b8fc296.js"></script>
 
 <script defer src="/js/helper/closest.min.js"></script>
   
@@ -1356,7 +1356,7 @@
     <meta property="twitter:description" content="En este capítulo, comenzaremos a pensar en las ideas básicas que se necesitan para diseñar un estudio, recopilar datos, verificar si la recopilación de datos funciona, etc.">
   
 
-<meta name="generator" content="Hugo 0.81.0" />
+<meta name="generator" content="Hugo 0.110.0">
 <meta name="msapplication-TileColor" content="#fff">
 
 <meta name="theme-color" content="#fff">
@@ -1416,16 +1416,14 @@
 
     
   
-<script type="application/javascript">
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-Q5ZQPEP86T"></script>
+<script>
 var doNotTrack = false;
 if (!doNotTrack) {
-	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-	})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-	ga('create', 'G-Q5ZQPEP86T', 'auto');
-	
-	ga('send', 'pageview');
+	window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+	gtag('config', 'G-Q5ZQPEP86T', { 'anonymize_ip': false });
 }
 </script>
 
@@ -1805,13 +1803,13 @@ if (!doNotTrack) {
   <div class="expand__content expand__content--toc">
     <nav id="TableOfContents">
   <ul>
-    <li><a href="#Cap2">Introducción a la medición psicológica</a>
+    <li><a href="#Cap2.1">Introducción a la medición psicológica</a>
       <ul>
         <li><a href="#algunas-reflexiones-sobre-la-medición-psicológica">Algunas reflexiones sobre la medición psicológica</a></li>
         <li><a href="#operacionalización-definiendo-su-medida">Operacionalización: definiendo su medida</a></li>
       </ul>
     </li>
-    <li><a href="#Cap2">Escalas de medida</a>
+    <li><a href="#Cap2.2">Escalas de medida</a>
       <ul>
         <li><a href="#escala-nominal">Escala nominal</a></li>
         <li><a href="#escala-de-intervalo">Escala de intervalo</a></li>
@@ -1820,9 +1818,9 @@ if (!doNotTrack) {
         <li><a href="#algunas-complejidades">Algunas complejidades</a></li>
       </ul>
     </li>
-    <li><a href="#Cap2">Evaluar la confiabilidad de una medición</a></li>
-    <li><a href="#Cap2">El &ldquo;papel&rdquo; de las variables: predictores y resultados</a></li>
-    <li><a href="#Cap2">Investigación experimental y no experimental</a>
+    <li><a href="#Cap2.3">Evaluar la confiabilidad de una medición</a></li>
+    <li><a href="#Cap2.4">El &ldquo;papel&rdquo; de las variables: predictores y resultados</a></li>
+    <li><a href="#Cap2.5">Investigación experimental y no experimental</a>
       <ul>
         <li><a href="#investigación-experimental">Investigación experimental</a></li>
         <li><a href="#investigación-no-experimental">Investigación no experimental</a></li>
@@ -1852,7 +1850,7 @@ text-align: justify}
 </style>
 <p><a id="id-01"> </a></p>
 <p>En este capítulo, comenzaremos a pensar en las ideas básicas que se necesitan para diseñar un estudio, recopilar datos, verificar si la recopilación de datos funciona, etc. No le dará suficiente información para que pueda diseñar sus propios estudios, pero le dará muchas de las herramientas básicas que necesita para evaluar los estudios realizados por otras personas. Sin embargo, dado que el enfoque de este libro es mucho más el análisis de datos que la recopilación de datos, solo estoy dando una descripción muy breve. Tenga en cuenta que este capítulo es &ldquo;especial&rdquo; de dos formas. En primer lugar, es mucho más específico de la psicología que los capítulos posteriores. En segundo lugar, se centra mucho más en el problema científico de la metodología de la investigación y mucho menos en el problema estadístico del análisis de datos. Sin embargo, los dos problemas están relacionados entre sí, por lo que es tradicional que los libros de texto de estadísticas discutan el problema con un pequeño detalle. Este capítulo se basa en gran medida en Campbell y Stanley (1963) para la discusión del diseño del estudio, y Stevens (1946) para la discusión de las escalas de medición. Las versiones posteriores intentarán ser más precisas en las citas.</p>
-<h2 id="Cap2" class="1">Introducción a la medición psicológica</h2>
+<h2 id="Cap2.1">Introducción a la medición psicológica</h2>
 <p>Lo primero que hay que entender es que la recopilación de datos se puede considerar como una especie de <span style="color: BlueViolet;">medida</span>. Es decir, lo que estamos tratando de hacer aquí es medir algo sobre el comportamiento humano o la mente humana. ¿Qué quiero decir con &ldquo;medición&rdquo;?</p>
 <h3 id="algunas-reflexiones-sobre-la-medición-psicológica">Algunas reflexiones sobre la medición psicológica</h3>
 <p>La medición en sí es un concepto sutil, pero básicamente se trata de encontrar alguna forma de asignar números, etiquetas o algún otro tipo de descripciones bien definidas a las &ldquo;cosas&rdquo;. Por lo tanto, cualquiera de los siguientes contaría como medida psicológica:</p>
@@ -1902,7 +1900,7 @@ text-align: justify}
 <a href="#id-01">Volver</a>
 </p>
 <hr />
-<h2 id="Cap2" class="2">Escalas de medida</h2>
+<h2 id="Cap2.2">Escalas de medida</h2>
 <p>Como indica la sección anterior, el resultado de una medición psicológica se llama variable. Pero no todas las variables son del mismo tipo cualitativo y es muy útil comprender qué tipos existen. Un concepto muy útil para distinguir entre diferentes tipos de variables es lo que se conoce como <span style="color: BlueViolet;">escalas de medida</span>.</p>
 <h3 id="escala-nominal">Escala nominal</h3>
 <p>Una variable de <span style="color: BlueViolet;">escala nominal</span> (también denominada variable <span style="color: BlueViolet;">categórica</span>) es aquella en la que no existe una relación particular entre las diferentes posibilidades: para este tipo de variables no tiene ningún sentido decir que una de ellas es &ldquo;mayor&rdquo; o “Mejor” que cualquier otro, y no tiene ningún sentido promediarlos. El ejemplo clásico de esto es el &ldquo;color de ojos&rdquo;. Los ojos pueden ser azules, verdes y marrones, entre otras posibilidades, pero ninguno de ellos es “mejor” que otro. Como resultado, sería realmente extraño hablar de un &ldquo;color de ojos medio&rdquo;. Del mismo modo, el género también es nominal: el hombre no es mejor ni peor que la mujer, ni tiene sentido tratar de hablar de un &ldquo;género medio&rdquo;. En definitiva, las variables de escala nominal son aquellas de las que lo único que se puede decir de las distintas posibilidades es que son distintas. Eso es.</p>
@@ -1963,14 +1961,14 @@ text-align: justify}
 <p>y nada cambia realmente.</p>
 <p><span style="color: BlueViolet;">Escala ordinal</span> Las variables de escala ordinal tienen un poco más de estructura que las variables de escala nominal, pero no mucho. Una variable de escala ordinal es aquella en la que existe una forma natural y significativa de ordenar las diferentes posibilidades, pero no se puede hacer nada más. El ejemplo habitual de una variable ordinal es &ldquo;posición final en una carrera&rdquo;. Puede decir que la persona que terminó primero fue más rápida que la persona que terminó segundo, pero <em>no</em> sabe cuánto más rápido. Como consecuencia, sabemos que 1ro &gt; 2do, y sabemos que 2do &gt; 3ro, pero la diferencia entre 1ro y 2do puede ser mucho mayor que la diferencia entre 2do y 3ro.</p>
 <p>Aquí hay un ejemplo psicológicamente más interesante. Supongamos que estoy interesado en las actitudes de las personas hacia el cambio climático y les pido que elijan una de estas cuatro afirmaciones que más se acerque a sus creencias:</p>
-<div class="box">(1) Las temperaturas están aumentando, debido a la actividad humana <br />
-(2) Las temperaturas están aumentando, pero nosotros no sé por qué <br />
-(3) Las temperaturas están subiendo, pero no debido a los humanos <br />
+<div class="box">(1) Las temperaturas están aumentando, debido a la actividad humana<br />
+(2) Las temperaturas están aumentando, pero nosotros no sé por qué<br />
+(3) Las temperaturas están subiendo, pero no debido a los humanos<br />
 (4) Las temperaturas no están subiendo</div>
 <p>Observe que estas cuatro afirmaciones tienen un orden natural, en términos de &ldquo;la medida en que concuerdan con la ciencia actual&rdquo;. La afirmación 1 es una coincidencia cercana, la afirmación 2 es una coincidencia razonable, la afirmación 3 no es una coincidencia muy buena y la afirmación 4 está en fuerte oposición a la ciencia. Entonces, en términos de lo que me interesa (la medida en que la gente respalda la ciencia), puedo ordenar los elementos como 1 &gt; 2 &gt; 3 &gt; 4. Dado que existe este orden, sería muy extraño enumerar los opciones como esta&hellip;</p>
-<div class="box">(3) Las temperaturas están aumentando, pero no debido a los humanos <br />
-(1) Las temperaturas están aumentando, debido a la actividad humana <br />
-(4) Las temperaturas no están aumentando <br />
+<div class="box">(3) Las temperaturas están aumentando, pero no debido a los humanos<br />
+(1) Las temperaturas están aumentando, debido a la actividad humana<br />
+(4) Las temperaturas no están aumentando<br />
 (2) Las temperaturas están aumentando, pero no sabemos por qué&hellip; porque parece violar la “estructura” natural de la pregunta.</div>
 <p>Entonces, supongamos que le hice estas preguntas a 100 personas y obtuve las siguientes respuestas: Número de respuesta</p>
 <div class="box"><table>
@@ -2074,7 +2072,7 @@ Tabla 2.1 Relación entre escalas de medida y la distinción discreta/continua. 
 <a href="#id-01">Volver</a>
 </p>
 <hr />
-<h2 id="Cap2" class="3">Evaluar la confiabilidad de una medición</h2>
+<h2 id="Cap2.3">Evaluar la confiabilidad de una medición</h2>
 <p>En este punto hemos pensado un poco sobre cómo operacionalizar un constructo teórico y así crear una medida psicológica; y hemos visto que al aplicar medidas psicológicas terminamos con variables, que pueden ser de muchos tipos diferentes. En este punto, deberíamos comenzar a discutir la pregunta obvia: ¿la medición es buena? Haremos esto en términos de dos ideas relacionadas: <em>confiabilidad</em> y <em>validez</em>. En pocas palabras, la <span style="color: BlueViolet;">confiabilidad</span> de una medida le dice con qué <em>precisión</em> está midiendo algo, mientras que la <em>validez</em> de una medida le dice qué tan <em>precisa</em> es la medida. En esta sección hablaré sobre confiabilidad; hablaremos de validez en el próximo capítulo.</p>
 <p>La confiabilidad es en realidad un concepto muy simple: se refiere a la repetibilidad o consistencia de su medición. La medición de mi peso mediante una “báscula de baño” es muy confiable: si subo y me bajo de la báscula una y otra vez, me seguirá dando la misma respuesta. Medir mi inteligencia por medio de “preguntarle a mi mamá” es muy poco confiable: unos días me dice que soy un poco tonta, y otros días me dice que soy un completo idiota. Observe que este concepto de confiabilidad es diferente a la cuestión de si las mediciones son correctas (la exactitud de una medición se relaciona con su validez). Si sostengo un saco de patatas cuando subo y me bajo de la báscula del baño, la medida seguirá siendo fiable: siempre me dará la misma respuesta. Sin embargo, esta respuesta altamente confiable no coincide en absoluto con mi peso real, por lo tanto, es incorrecta. En términos técnicos, esta es una medida <em>confiable pero no válida</em>. Del mismo modo, aunque la estimación de mi madre sobre mi inteligencia es un poco poco fiable, podría tener razón. Tal vez no soy demasiado brillante, y si bien su estimación de mi inteligencia fluctúa bastante de un día a otro, básicamente es correcta. Así que esa sería una medida <em>válida pero poco confiable</em>. Por supuesto, hasta cierto punto, observe que si las estimaciones de mi madre son demasiado poco confiables, será muy difícil averiguar cuál de sus muchas afirmaciones sobre mi inteligencia es realmente la correcta. Entonces, hasta cierto punto, una medida muy poco confiable tiende a terminar siendo inválida a efectos prácticos; Tanto es así que mucha gente diría que la fiabilidad es necesaria (pero no suficiente) para asegurar la validez.</p>
 <p>Bien, ahora que tenemos clara la distinción entre confiabilidad y validez, pensemos en las diferentes formas en que podríamos medir la confiabilidad:</p>
@@ -2090,7 +2088,7 @@ Tabla 2.1 Relación entre escalas de medida y la distinción discreta/continua. 
 <a href="#id-01">Volver</a>
 </p>
 <hr />
-<h2 id="Cap2" class="4">El &ldquo;papel&rdquo; de las variables: predictores y resultados</h2>
+<h2 id="Cap2.4">El &ldquo;papel&rdquo; de las variables: predictores y resultados</h2>
 <p>De acuerdo, tengo una última pieza de terminología que necesito explicarte antes de alejarme de las variables. Normalmente, cuando investigamos un poco, terminamos con muchas variables diferentes. Luego, cuando analizamos nuestros datos, generalmente tratamos de explicar algunas de las variables en términos de algunas de las otras variables. Es importante mantener distintos los dos roles &ldquo;lo que explica&rdquo; y &ldquo;lo que se explica&rdquo;. Así que seamos claros sobre esto ahora. En primer lugar, también podríamos acostumbrarnos a la idea de usar símbolos matemáticos para describir variables, ya que va a suceder una y otra vez. Denotemos la variable &ldquo;por explicar&rdquo; Y, y denotemos las variables &ldquo;que hacen la explicación&rdquo; como <em>X</em><sub>1</sub>, <em>X</em><sub>2</sub>, etc.</p>
 <p>Ahora, cuando hacemos un análisis, tenemos diferentes nombres para <em>X</em> e <em>Y</em>, ya que juegan diferentes roles en el análisis. Los nombres clásicos para estos roles son <span style="color: BlueViolet;">variable independiente</span> (VI) y <span style="color: BlueViolet;">variable dependiente</span> (VD). La VI es la variable que se utiliza para explicar (es decir, X) y la VD es la variable que se explica (es decir, Y). La lógica detrás de estos nombres es la siguiente: si realmente existe una relación entre X e Y, entonces podemos decir que Y depende de X, y si hemos diseñado nuestro estudio &ldquo;correctamente&rdquo;, entonces X no depende de nada más. Sin embargo, personalmente encuentro esos nombres horribles: son difíciles de recordar y son muy engañosos, porque (a) el VI nunca es realmente &ldquo;independiente de todo lo demás&rdquo; y (b) si no hay relación, entonces el VD no en realidad no depende de VI. Y de hecho, como no soy la única persona que piensa que VI y VD son nombres horribles, hay una serie de alternativas que encuentro más atractivas. Los términos que usaré en estas notas son <span style="color: BlueViolet;">predictores</span> y <span style="color: BlueViolet;">resultados</span>. La idea aquí es que lo que está tratando de hacer es usar X (los predictores) para hacer conjeturas sobre Y (los resultados). 4 Esto se resume en la Tabla <a href="#tabla22">2.2</a>.</p>
 <p><a id="tabla22"> </a><br />
@@ -2120,7 +2118,7 @@ Tabla 2. La terminología usada para distinguir entre diferentes roles que una v
 <a href="#id-01">Volver</a>
 </p>
 <hr />
-<h2 id="Cap2" class="5">Investigación experimental y no experimental</h2>
+<h2 id="Cap2.5">Investigación experimental y no experimental</h2>
 <p>Una de las grandes distinciones que debe tener en cuenta es la distinción entre &ldquo;investigación experimental&rdquo; e &ldquo;investigación no experimental&rdquo;. Cuando hacemos esta distinción, de lo que realmente estamos hablando es del grado de control que el investigador ejerce sobre las personas y los eventos en el estudio.</p>
 <h3 id="investigación-experimental">Investigación experimental</h3>
 <p>Las características clave de la <span style="color: BlueViolet;">investigación experimental</span> es que el investigador controla todos los aspectos del estudio, especialmente lo que los participantes experimentan durante el estudio. En particular, el investigador manipula o varía las variables predictoras (VI) y luego permite que la variable de resultado (VD) varíe naturalmente. La idea aquí es variar deliberadamente los predictores (VI) para ver si tienen algún efecto causal en los resultados. Además, para garantizar que no exista la posibilidad de que algo más que las variables predictoras esté causando los resultados, todo lo demás se mantiene constante o de alguna otra manera está &ldquo;equilibrado&rdquo; para garantizar que no tengan ningún efecto sobre los resultados. En la práctica, es casi imposible <em>pensar</em> en todo lo demás que pueda influir en el resultado de un experimento, y mucho menos mantenerlo constante. La solución estándar para esto es la <span style="color: BlueViolet;">aleatorización</span>: es decir, asignamos personas al azar a diferentes grupos y luego le damos a cada grupo un tratamiento diferente (es decir, les asignamos diferentes valores de las variables predictoras). Hablaremos más sobre la aleatorización más adelante en este curso, pero por ahora, es suficiente decir que lo que hace la aleatorización es minimizar (pero no eliminar) las posibilidades de que haya alguna diferencia sistemática entre los grupos.</p>
@@ -2632,7 +2630,7 @@ Escrito por Navarro, Danielle; traducido por García-Mendívil, Helio A.
 </div>
 
 
-<script defer src="/js/swipe.min.989e074dfb92ce7f57a92c1df7027f88b53c50a54fd9ad450a673a64aa91bfa4.js"></script>
+<script defer src="/js/swipe.min.feb438efb7ca009ecd7fc2ac3ad2fced4840990b2798d81f87137f2dc6281f05.js"></script>
 
 <script defer src="/js/micromodal.min.de01b44b2f383056bbcaf6ee921fd385d79108ec1129afd0eb2f3f5a07e11f45.js"></script>
 
@@ -3677,13 +3675,13 @@ document.addEventListener('DOMContentLoaded', function () {
         <div class="toc toc__outer " data-dir="ltr" data-folding="true" data-ani="true">
           <nav id="TableOfContents">
   <ul>
-    <li><a href="#Cap2">Introducción a la medición psicológica</a>
+    <li><a href="#Cap2.1">Introducción a la medición psicológica</a>
       <ul>
         <li><a href="#algunas-reflexiones-sobre-la-medición-psicológica">Algunas reflexiones sobre la medición psicológica</a></li>
         <li><a href="#operacionalización-definiendo-su-medida">Operacionalización: definiendo su medida</a></li>
       </ul>
     </li>
-    <li><a href="#Cap2">Escalas de medida</a>
+    <li><a href="#Cap2.2">Escalas de medida</a>
       <ul>
         <li><a href="#escala-nominal">Escala nominal</a></li>
         <li><a href="#escala-de-intervalo">Escala de intervalo</a></li>
@@ -3692,9 +3690,9 @@ document.addEventListener('DOMContentLoaded', function () {
         <li><a href="#algunas-complejidades">Algunas complejidades</a></li>
       </ul>
     </li>
-    <li><a href="#Cap2">Evaluar la confiabilidad de una medición</a></li>
-    <li><a href="#Cap2">El &ldquo;papel&rdquo; de las variables: predictores y resultados</a></li>
-    <li><a href="#Cap2">Investigación experimental y no experimental</a>
+    <li><a href="#Cap2.3">Evaluar la confiabilidad de una medición</a></li>
+    <li><a href="#Cap2.4">El &ldquo;papel&rdquo; de las variables: predictores y resultados</a></li>
+    <li><a href="#Cap2.5">Investigación experimental y no experimental</a>
       <ul>
         <li><a href="#investigación-experimental">Investigación experimental</a></li>
         <li><a href="#investigación-no-experimental">Investigación no experimental</a></li>
